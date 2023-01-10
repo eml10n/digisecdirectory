@@ -16,7 +16,9 @@ main:
       - name: Productivity and Browser
         ref: "#Productivity"
         external: true
+
   - name: 
+
   - name: 
       en: Contribute
       id: Kontribusi
@@ -31,9 +33,11 @@ main:
           id: Terjemahkan direktori
         ref: "#translate"
         external: true
+        
   - name: 
+
   - name:
-      en: Localziation Resources
+      en: Localization Resources
       id: Sumber Daya Pelokalan
     sub:
       - name: L10N.SPACE
