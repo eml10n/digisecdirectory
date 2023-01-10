@@ -1,0 +1,10 @@
+---
+en:
+  languageName: "English"
+  contentDir: "content/en"
+  weight: 10
+id:
+  languageName: "Bahasa Indonesia (Indonesian)"
+  contentDir: "content/id"
+  weight: 10
+---

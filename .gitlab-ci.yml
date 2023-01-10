@@ -1,2 +1,0 @@
-# The Docker image that will be used to build your app
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest

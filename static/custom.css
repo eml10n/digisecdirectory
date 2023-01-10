@@ -1,0 +1,184 @@
+/* Global customization */
+
+:root {
+    --code-max-height: 60rem;
+  }
+  
+  /* Light mode theming */
+  :root,
+  :root[color-theme="light"] {
+    --header-background: #fefefe;
+    --header-font-color: #454545;
+  
+    --body-background: #fefefe;
+    --body-font-color: #454545;
+  
+    --mark-color: #eb1c23;
+  
+    --button-background: #eb1c23;
+    --button-border-color: #eb1c23;
+  
+    --link-color: #eb1c23;
+    --link-color-visited: #eb1c23;
+  
+    --code-background: #ededed;
+    --code-accent-color: #454545;
+    --code-accent-color-lite: #454545;
+    --code-font-color: #454545;
+  
+    --code-copy-background: #ededed;
+    --code-copy-font-color: #454545;
+    --code-copy-border-color: #454545;
+    --code-copy-success-color: #454545;
+  
+    --accent-color: #dcdcdc;
+    --accent-color-lite: #fefefe;
+  
+    --control-icons: #787878;
+  
+    --footer-background: #ededed;
+    --footer-font-color: #787878;
+    --footer-link-color: #454545;
+    --footer-link-color-visited: #454545;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --header-background: #fefefe;
+      --header-font-color: #454545;
+    
+      --body-background: #fefefe;
+      --body-font-color: #454545;
+    
+      --mark-color: #eb1c23;
+    
+      --button-background: #eb1c23;
+      --button-border-color: #eb1c23;
+    
+      --link-color: #eb1c23;
+      --link-color-visited: #eb1c23;
+    
+      --code-background: #ededed;
+      --code-accent-color: #454545;
+      --code-accent-color-lite: #454545;
+      --code-font-color: #454545;
+    
+      --code-copy-background: #ededed;
+      --code-copy-font-color: #454545;
+      --code-copy-border-color: #454545;
+      --code-copy-success-color: #454545;
+    
+      --accent-color: #dcdcdc;
+      --accent-color-lite: #fefefe;
+    
+      --control-icons: #787878;
+    
+      --footer-background: #ededed;
+      --footer-font-color: #787878;
+      --footer-link-color: #454545;
+      --footer-link-color-visited: #454545;
+    }
+  }
+  
+  /* Dark mode theming */
+  :root[color-theme="dark"] {
+    --header-background: #010101;
+    --header-font-color: #bababa;
+  
+    --body-background: #010101;
+    --body-font-color: #bababa;
+  
+    --mark-color: #eb1c23;
+  
+    --button-background: #eb1c23;
+    --button-border-color: #eb1c23;
+  
+    --link-color: #eb1c23;
+    --link-color-visited: #eb1c23;
+  
+    --code-background: #121212;
+    --code-accent-color: #bababa;
+    --code-accent-color-lite: #bababa;
+    --code-font-color: #bababa;
+  
+    --code-copy-background: #121212;
+    --code-copy-font-color: #bababa;
+    --code-copy-border-color: #bababa;
+    --code-copy-success-color: #bababa;
+  
+    --accent-color: #232323;
+    --accent-color-lite: #010101;
+  
+    --control-icons: #878787;
+  
+    --footer-background: #121212;
+    --footer-font-color: #878787;
+    --footer-link-color: #bababa;
+    --footer-link-color-visited: #bababa;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --header-background: #010101;
+      --header-font-color: #bababa;
+    
+      --body-background: #010101;
+      --body-font-color: #bababa;
+    
+      --mark-color: #eb1c23;
+    
+      --button-background: #eb1c23;
+      --button-border-color: #eb1c23;
+    
+      --link-color: #eb1c23;
+      --link-color-visited: #eb1c23;
+    
+      --code-background: #121212;
+      --code-accent-color: #bababa;
+      --code-accent-color-lite: #bababa;
+      --code-font-color: #bababa;
+    
+      --code-copy-background: #121212;
+      --code-copy-font-color: #bababa;
+      --code-copy-border-color: #bababa;
+      --code-copy-success-color: #bababa;
+    
+      --accent-color: #232323;
+      --accent-color-lite: #010101;
+    
+      --control-icons: #878787;
+    
+      --footer-background: #121212;
+      --footer-font-color: #878787;
+      --footer-link-color: #bababa;
+      --footer-link-color-visited: #bababa;
+    }
+  }
+  
+  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Khmer:wght@400;700&family=Noto+Sans+Mono&family=Noto+Sans+Myanmar:wght@400;700&family=Noto+Sans+Thai:wght@400;700&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+  
+  body {
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
+  code, .gdoc-error__title {
+    font-family: 'Noto Sans Mono', monospace;
+  }
+  
+  .gdoc-header {
+    border-bottom-width: 1px;
+    font-family: 'Noto Sans Mono', monospace;
+    font-weight: bold;
+  }
+  
+  .gdoc-nav {
+  }
+  
+  .gdoc-nav__list ul {
+    padding-left: 0;
+  }
+  
+  .gdoc-nav__entry:hover, .gdoc-nav__entry.is-active, .gdoc-search__entry:hover, .gdoc-search__entry.is-active, .gdoc-language__entry:hover, .gdoc-language__entry.is-active {
+    text-decoration: inherit;
+    color: #eb1c23;
+  }
+  
+  
