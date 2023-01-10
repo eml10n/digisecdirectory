@@ -1,5 +1,5 @@
 ---
-baseURL: https://digisec.directory/
+baseURL: /
 title: digisec.directory
 theme: hugo-geekdoc
 
