@@ -45,18 +45,12 @@ main:
       en: Localization Resources
       id: Sumber Daya Pelokalan
     sub:
-      - name: L10N.info
+      - name: L10N.INFO
         ref: "https://l10n.info/"
         external: true
-  - name: 
-  - name: Weblate
-    sub:
       - name: L10N.SPACE
         ref: "https://l10n.space/"
         external: true
-  - name: 
-  - name: Jitsi
-    sub:
       - name: L10N.PARTY
         ref: "https://l10n.party/"
         external: true
