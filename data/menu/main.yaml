@@ -17,7 +17,9 @@ main:
         ref: "#Productivity"
         external: true
 
-  - name: " "
+  - name: 
+  - name: 
+  - name: 
 
   - name: 
       en: Contribute
@@ -34,14 +36,17 @@ main:
         ref: "#translate"
         external: true
         
-  - name: " "
+  - name: 
+  - name: 
+  - name: 
+
 
   - name:
       en: Localization Resources
       id: Sumber Daya Pelokalan
     sub:
-      - name: L10N.SPACE
-        ref: "https://l10n.space/"
+      - name: L10N.info
+        ref: "https://l10n.info/"
         external: true
   - name: 
   - name: Weblate
