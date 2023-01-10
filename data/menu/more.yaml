@@ -1,14 +1,7 @@
 ---
-more:
-  - name: News
-    ref: "/posts"
-    icon: "gdoc_notification"
-  - name: Releases
-    ref: "https://github.com/thegeeklab/hugo-geekdoc/releases"
+header:
+  - name: GitLab
+    ref: https://gitlab.com/eml10n/digisecdirectory
+    icon: gdoc_gitlab
     external: true
-    icon: "gdoc_download"
-  - name: View Source
-    ref: "https://github.com/thegeeklab/hugo-geekdoc"
-    external: true
-    icon: "gdoc_github"
 ---
