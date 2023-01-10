@@ -17,7 +17,7 @@ main:
         ref: "#Productivity"
         external: true
 
-  - name: &nbsp;
+  - name: " "
 
   - name: 
       en: Contribute
@@ -34,7 +34,7 @@ main:
         ref: "#translate"
         external: true
         
-  - name: 
+  - name: " "
 
   - name:
       en: Localization Resources
