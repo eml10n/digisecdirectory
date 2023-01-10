@@ -25,14 +25,17 @@ main:
       en: Digital Safety Guides
       id: Panduan Keselamatan Digital
     sub:
-      - name: Privacy
+      - name: Protecting Privacy
         ref: "#privacy"
         external: true
-      - name: Security
+      - name: Enhancing Security
         ref: "#security"
         external: true
-      - name: Wellbeing
+      - name: Improving Wellbeing
         ref: "#wellbeing"
+        external: true
+      - name: Identifying Misinformation
+        ref: "#misinformation
         external: true
 
   - name: 
