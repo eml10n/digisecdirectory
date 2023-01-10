@@ -6,12 +6,16 @@ main:
     sub:
       - name: Circumvention and Anonymity
         ref: "#Circumvention"
+        external: true
       - name: Communications and Messaging
         ref: "#Communications"
+        external: true
       - name: Documentation and Data Management
         ref: "#Documentation"
+        external: true
       - name: Productivity and Browser
         ref: "#Productivity"
+        external: true
   - name: 
   - name: 
       en: Contribute
@@ -21,10 +25,12 @@ main:
           en: Add to the Directory
           id: Tambakan ke Directori
         ref: "#add"
+        external: true
       - name: 
           en: Translate the directory
           id: Terjemahkan direktori
         ref: "#translate"
+        external: true
   - name: 
   - name:
       en: Localziation Resources
