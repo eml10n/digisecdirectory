@@ -169,7 +169,8 @@
     font-weight: bold;
   }
   
-  .gdoc-nav {
+  .gdoc-nav--main h2 {
+    display: none;
   }
   
   .gdoc-nav__list ul {
