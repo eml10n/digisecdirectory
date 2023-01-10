@@ -1,8 +1,8 @@
 ---
 main:
   - name: 
-      en: Get started
-      id: Mulakan
+      en: Digital Security Tools
+      id: Alat Keamanan Digital
     sub:
       - name: Circumvention and Anonymity
         ref: "#Circumvention"
@@ -15,6 +15,24 @@ main:
         external: true
       - name: Productivity and Browser
         ref: "#Productivity"
+        external: true
+
+  - name: 
+  - name: 
+  - name: 
+
+  - name: 
+      en: Digital Safety Guides
+      id: Panduan Keselamatan Digital
+    sub:
+      - name: Privacy
+        ref: "#privacy"
+        external: true
+      - name: Security
+        ref: "#security"
+        external: true
+      - name: Wellbeing
+        ref: "#wellbeing"
         external: true
 
   - name: 
@@ -42,16 +60,16 @@ main:
 
 
   - name:
-      en: Localization Resources
-      id: Sumber Daya Pelokalan
+      en: Localization Community
+      id: Komuniti Pelokalan
     sub:
-      - name: L10N.INFO
+      - name: Knowledge Base
         ref: "https://l10n.info/"
         external: true
-      - name: L10N.SPACE
+      - name: Weblate 
         ref: "https://l10n.space/"
         external: true
-      - name: L10N.PARTY
+      - name: Jitsi
         ref: "https://l10n.party/"
         external: true
 ---
