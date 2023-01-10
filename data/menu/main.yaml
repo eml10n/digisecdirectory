@@ -4,25 +4,27 @@ main:
       en: Get started
       id: Mulakan
     sub:
-      - name: Localize
-        ref: "localization"
-      - name: Join a localization event
-        ref: "events"
-      - name: Find a localization resource
-        ref: "resources"
-      - name: Follow a localizer
-        ref: "localizers"
-      - name: Internationalize
-        ref: "internationalization"
+      - name: Circumvention and Anonymity
+        ref: "#Circumvention"
+      - name: Communications and Messaging
+        ref: "#Communications"
+      - name: Documentation and Data Management
+        ref: "#Documentation"
+      - name: Productivity and Browser
+        ref: "#Productivity"
   - name: 
-  - name: Contribute
+  - name: 
+      en: Contribute
+      id: Kontribusi
     sub:
-      - name: Host a localization event
-        ref: "events"
-      - name: Share a localization resource
-        ref: "resources"
-      - name: Create your profile
-        ref: "localizers"
+      - name: 
+          en: Add to the Directory
+          id: Tambakan ke Directori
+        ref: "#add"
+      - name: 
+          en: Translate the directory
+          id: Terjemahkan direktori
+        ref: "#translate"
   - name: 
   - name:
       en: Localziation Resources
