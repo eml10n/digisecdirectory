@@ -17,7 +17,7 @@ main:
         ref: "#Productivity"
         external: true
 
-  - name: 
+  - name: &nbsp;
 
   - name: 
       en: Contribute
