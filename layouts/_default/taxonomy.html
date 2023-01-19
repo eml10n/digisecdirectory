@@ -2,7 +2,7 @@
 <div style="display: flex; border-bottom: 1px solid rgb(120, 120, 120, 0.25); margin-bottom: 2rem">
   <article class="gdoc-post" style="align-self: stretch; border: 0; min-height: 90px;">
     <header class="gdoc-post__header">
-      <strong class="gdoc-post__title">{{ .Title }}</strong>
+      <h1 class="gdoc-post__title">{{ .Title }}</h1>
     </header>
   </article>
 </div>
@@ -14,9 +14,9 @@
     </div>      
     <article class="gdoc-post" style="align-self: stretch; border: 0; min-height: 90px;">
       <header class="gdoc-post__header">
-        <h1 class="gdoc-post__title"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}">
+        <h2 class="gdoc-post__title"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}" style="margin-top: 0;">
           {{ partial "utils/title" . }}
-        </a></h1>
+        </a></h2>
       </header>
 
       <section class="gdoc-markdown">
