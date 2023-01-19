@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "@netlify/jamstack-explorers",
+    "version": "0.1.0",
+    "license": "MIT",
+    "dependencies": {
+      "simple-oauth2": "^4.1.0"
+    }
+  }
