@@ -13,7 +13,6 @@ main:
         ref: "/tags/productivity-browser/"
   - name: 
   - name: 
-  - name: 
   - name: Digital Safety Guides
     sub:
       - name: Protecting Privacy

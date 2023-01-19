@@ -76,9 +76,15 @@ collections:
           - Improving Wellbeing
           - Countering Misinformation
 
+          # Formats
+          - Video
+          - Infographic
+          - Online Course
+
           # Other Resources
-          - Trainers & Resource Persons
-          - Crisis Response Contacts
+          - Training 
+          - Crisis Response
+
         required: true
       - label: 'Credits'
         name: 'credits' 
