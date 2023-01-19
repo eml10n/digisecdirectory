@@ -1,7 +1,7 @@
 {{ define "main" }}
   <article class="gdoc-post" style="align-self: stretch; border: 0; min-height: 90px;">
     <header class="gdoc-post__header">
-      <h1 class="gdoc-post__title">{{ .Title }}</h1>
+      <h2 class="gdoc-post__title">{{ .Title }}</h2>
     </header>
   </article>
 
@@ -13,9 +13,9 @@
     </div>      
     <article class="gdoc-post" style="align-self: stretch; border: 0; min-height: 90px;">
       <header class="gdoc-post__header">
-        <h2 class="gdoc-post__title"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}">
+        <h1 class="gdoc-post__title"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}">
           {{ partial "utils/title" . }}
-        </a></h2>
+        </a></h1>
       </header>
 
       <section class="gdoc-markdown">
