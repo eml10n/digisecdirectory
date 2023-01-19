@@ -6,12 +6,9 @@ public_folder: /files
 site_url: https://digisec.directory
 display_url: https://digisec.directory
 collections:
-  - name: 'content-en'
+  - name: 'tools'
     label: 'English Content'
-    folder: 'content/en'
-    filter:
-      field: type
-      value: post
+    folder: 'content/en/tools'
     create: true
     slug: '{{slug}}'
     preview_path: '{{filename}}'
@@ -19,19 +16,23 @@ collections:
       preview: false
     show_preview_links: true
     fields:
-      - label: 'Type'
-        name: 'type'
-        widget: 'hidden'
-        default: 'post'
       - label: 'Title' 
         name: 'title' 
         widget: 'string'
-      - label: 'Language Codes' 
+      - label: 'Languages' 
         name: 'languages' 
+        comment: 'Before you add, verify that the language is supported. Use ISO 639-1 code only without country code. ms instead of ms_MY. If the source language is English, do not add to the list.'
         widget: 'list'
         allow_add: true
         default:
-         - en
+          - en
+        options:
+          - en
+          - fil
+          - id
+          - km
+          - my
+          - th
       - label: 'Website'
         name: 'website'
         widget: 'string'
@@ -48,21 +49,24 @@ collections:
         widget: 'select'
         multiple: true
         options:
+          # Flags
+          - Closed Source 
+          - Open Source 
+          - Free 
+          - Freemium 
+          - Premium 
+
+          # Digital Security Tools
           - Circumvention and Anonymity
           - Communications and Messaging
           - Documentation and Data Management
           - Productivity and Browser
+
+          # Digital Safety Guides
           - Protecting Privacy
           - Enhancing Security
           - Improving Wellbeing
           - Identifying Misinformation
-        required: true
-      - label: 'Category'
-        name: 'category'
-        widget: 'select'
-        options:
-          - Digital Security Guides
-          - Digital Security Tools
         required: true
       - label: 'Credits'
         name: 'credits' 
@@ -75,21 +79,34 @@ collections:
       - title
       - date
     view_filters:
-      - label: "Circumvention and Anonymity"
+      # Flags
+      - pattern: Closed Source 
         field: tag
-        pattern: 'Circumvention and Anonymity'
-      - label: 'Communications and Messaging'
+      - pattern: Open Source 
         field: tag
-        pattern: 'Communications and Messaging'
-      - label: 'Documentation and Data Management'
+      - pattern: Free 
         field: tag
-        pattern: 'Documentation and Data Management'
-      - label: 'Productivity and Browser'
+      - pattern: Freemium 
         field: tag
-        pattern: 'Productivity and Browser'
-      - label: 'Digital Security Guides'
-        field: category
-        pattern: 'Digital Security Guides'
-      - label: 'Digital Security Tools'
-        field: category
-        pattern: 'Digital Security Tools'
+      - pattern: Premium 
+        field: tag
+
+      # Digital Security Tools
+      - pattern: "Circumvention and Anonymity"
+        field: tag
+      - pattern: 'Communications and Messaging'
+        field: tag
+      - pattern: 'Documentation and Data Management'
+        field: tag
+      - pattern: 'Productivity and Browser'
+        field: tag
+
+      # Digital Safety Guides
+      - pattern: Protecting Privacy
+        field: tag
+      - pattern: Enhancing Security
+        field: tag
+      - pattern: Improving Wellbeing
+        field: tag
+      - pattern: Identifying Misinformation
+        field: tag
