@@ -5,7 +5,7 @@ main:
       id: Alat Keamanan Digital
     sub:
       - name: Circumvention and Anonymity
-        ref: "/tags/circumvention-and-anonymity//"
+        ref: "/tags/circumvention-and-anonymity/"
         external: true
       - name: Communications and Messaging
         ref: "/tags/"
