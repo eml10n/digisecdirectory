@@ -1,5 +1,9 @@
 ---
 header:
+  - name: Weblate
+    ref: https://gitlab.com/eml10n/digisecdirectory
+    icon: gdoc_gitlab
+    external: true
   - name: GitLab
     ref: https://gitlab.com/eml10n/digisecdirectory
     icon: gdoc_gitlab
