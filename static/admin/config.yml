@@ -16,13 +16,18 @@ collections:
       preview: false
     show_preview_links: true
     fields:
-      - label: 'Title' 
+      - label: 'Draft' 
+        name: 'draft' 
+        widget: 'boolean'
+        default: false
+      - label: 'Name' 
         name: 'title' 
         widget: 'string'
       - label: 'Languages' 
         name: 'languages' 
         comment: 'Before you add, verify that the language is supported. Use ISO 639-1 code only without country code. ms instead of ms_MY. If the source language is English, do not add to the list.'
-        widget: 'list'
+        widget: 'select'
+        multiple: true
         allow_add: true
         default:
           - en
@@ -40,7 +45,7 @@ collections:
       - label: 'Body'
         name: 'body' 
         widget: 'markdown'
-      - label: 'Cover Image'
+      - label: 'Icon'
         name: 'cover'
         widget: 'image'
         required: true
@@ -69,7 +74,11 @@ collections:
           - Protecting Privacy
           - Enhancing Security
           - Improving Wellbeing
-          - Identifying Misinformation
+          - Countering Misinformation
+
+          # Other Resources
+          - Trainers & Resource Persons
+          - Crisis Response Contacts
         required: true
       - label: 'Credits'
         name: 'credits' 
