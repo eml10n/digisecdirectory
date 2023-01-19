@@ -1,65 +1,40 @@
-function renderBody(status, content) {
-    const html = `
-    <script>
-      const receiveMessage = (message) => {
-        window.opener.postMessage(
-          'authorization:github:${status}:${JSON.stringify(content)}',
-          message.origin
-        );
-        window.removeEventListener("message", receiveMessage, false);
-      }
-      window.addEventListener("message", receiveMessage, false);
-      window.opener.postMessage("authorizing:github", "*");
-    </script>
-    `;
-    const blob = new Blob([html]);
-    return blob;
-}
+const qs = require('querystring');
+const oauth = require('./util/oauth');
 
-export async function onRequest(context) {
-    const {
-        request, // same as existing Worker API
-        env, // same as existing Worker API
-        params, // if filename includes [id] or [[path]]
-        waitUntil, // same as ctx.waitUntil in existing Worker API
-        next, // used for middleware or to fetch assets
-        data, // arbitrary space for passing data between middlewares
-    } = context;
+exports.handler = async (event) => {
+  if (!event.queryStringParameters) {
+    return {
+      statusCode: 401,
+      body: JSON.stringify({ error: 'Not authorized' }),
+    };
+  }
 
-    const client_id = env.GITLAB_OAUTH_APPID;
-    const client_secret = env.GITLAB_OAUTH_SECRET;
+  const { code, state } = event.queryStringParameters;
+  const { url, csrf } = qs.parse(state);
 
-    try {
-        const url = new URL(request.url);
-        const code = url.searchParams.get('code');
-        const response = await fetch(
-            'https://gitlab.com/oauth/token',
-            {
-                method: 'POST',
-                headers: {
-                    'content-type': 'application/json',
-                    'user-agent': 'netlify-cms-gitlab-oauth',
-                    'accept': 'application/json',
-                },
-                body: JSON.stringify({ client_id, client_secret, code }),
-            },
-        );
-        const result = await response.json();
-        if (result.error) {
-            return new Response(renderBody('error', result), { status: 401 });
-        }
-        const token = result.access_token;
-        const provider = 'github';
-        const responseBody = renderBody('success', {
-            token,
-            provider,
-        });
-        return new Response(responseBody, { status: 200 });
+  try {
+    // if the user accepts, we get an authorization token, which we need to
+    // exchange for an access token
+    const { token } = await oauth.getToken({
+      code,
+      redirect_uri: process.env.OAUTH_REDIRECT_URI,
+    });
 
-    } catch (error) {
-        console.error(error);
-        return new Response(error.message, {
-            status: 500,
-        });
-    }
-}
+    return {
+      statusCode: 302,
+      headers: {
+        Location: `${url}#csrf=${csrf}&token=${token.access_token}`,
+        'Cache-Control': 'no-cache',
+      },
+      body: 'redirecting to application...',
+    };
+  } catch (err) {
+    console.error('Access token error', err.message);
+    console.error(err);
+
+    return {
+      statusCode: err.statusCode || 500,
+      body: JSON.stringify({ error: err.message }),
+    };
+  }
+};

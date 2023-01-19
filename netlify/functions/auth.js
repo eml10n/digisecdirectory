@@ -1,31 +1,32 @@
-export async function onRequest(context) {
-    const {
-        request, // same as existing Worker API
-        env, // same as existing Worker API
-        params, // if filename includes [id] or [[path]]
-        waitUntil, // same as ctx.waitUntil in existing Worker API
-        next, // used for middleware or to fetch assets
-        data, // arbitrary space for passing data between middlewares
-    } = context;
+const oauth = require('./util/oauth');
 
-    const client_id = env.GITLAB_OAUTH_APPID;
+exports.handler = async (event) => {
+  if (!event.queryStringParameters) {
+    return {
+      statusCode: 401,
+      body: JSON.stringify({
+        error: 'Missing required parameters `url` and `csrf`',
+      }),
+    };
+  }
 
-    try {
-        const url = new URL(request.url);
-        const redirectUrl = new URL('https://gitlab.com/oauth/authorize');
-        redirectUrl.searchParams.set('client_id', client_id);
-        redirectUrl.searchParams.set('redirect_uri', url.origin + '/auth-callback');
-        redirectUrl.searchParams.set('scope', 'api');
-        redirectUrl.searchParams.set(
-            'state',
-            crypto.getRandomValues(new Uint8Array(12)).join(''),
-        );
-        return Response.redirect(redirectUrl.href, 301);
+  const { csrf: csrfToken, url } = event.queryStringParameters;
 
-    } catch (error) {
-        console.error(error);
-        return new Response(error.message, {
-            status: 500,
-        });
-    }
-}
+  const authorizationURI = oauth.authorizeURL({
+    redirect_uri: process.env.NETLIFY_OAUTH_REDIRECT_URI,
+    state: `url=${url}&csrf=${csrfToken}`,
+
+    // for now, this is always blank. in the future, specific scopes will be
+    // required to perform actions on the user’s behalf
+    scope: 'api',
+  });
+
+  return {
+    statusCode: 302,
+    headers: {
+      Location: `${authorizationURI}&utm_source=explorers&utm_medium=login&utm_campaign=devex`,
+      'Cache-Control': 'no-cache',
+    },
+    body: 'redirecting to authorization...',
+  };
+};
