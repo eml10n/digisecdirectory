@@ -1,0 +1,34 @@
+{{ define "main" }}
+  {{ range .Paginator.Pages }}
+    <article class="gdoc-post">
+      <div style="float: left; padding-right: 2rem;">
+        <img src="{{ .Params.cover }}" style="max-width: 180px; border-radius: 10%;">
+      </div>      
+      <header class="gdoc-post__header">
+        <h1 class="gdoc-post__title">
+          {{ partial "utils/title" . }}
+        </h1>
+      </header>
+
+      <section class="gdoc-markdown">
+        {{ .Content }}
+      </section>
+
+    </article>
+  {{ end }}
+  {{ partial "pagination.html" . }}
+{{ end }}
+
+{{ define "post-tag" }}
+  <span class="gdoc-post__tag">
+    <span class="gdoc-button">
+      <a
+        class="gdoc-button__link"
+        href="{{ .page.RelPermalink }}"
+        title="{{ i18n "posts_tagged_with" .name }}"
+      >
+        {{ .name }}
+      </a>
+    </span>
+  </span>
+{{ end }}
