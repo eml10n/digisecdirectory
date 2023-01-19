@@ -1,19 +1,19 @@
 {{ define "main" }}
   {{ range .Paginator.Pages }}
-  <div style="display: flex; border-bottom: 1px solid rgb(120, 120, 120, 0.5); margin-bottom: 3rem">
+  <div style="display: flex; border-bottom: 1px solid rgb(120, 120, 120, 0.1); margin-bottom: 4rem">
 
     <div style="padding-right: 1.5rem;">
       <img src="{{ .Params.cover }}" style="border-radius: 10%; max-width: 90px; ">
     </div>      
     <article class="gdoc-post" style="align-self: stretch; border: 0; min-height: 90px;">
       <header class="gdoc-post__header">
-        <h1 class="gdoc-post__title">
+        <h1 class="gdoc-post__title"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}">
           {{ partial "utils/title" . }}
-        </h1>
+        </a></h1>
       </header>
 
       <section class="gdoc-markdown">
-        {{ .Content }}
+        {{ .Summary }}
       </section>
 
     </article>

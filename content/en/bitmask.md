@@ -1,6 +1,7 @@
 ---
 type: post
 title: Bitmask
+website: https://bitmask.net/
 cover: /files/bitmask.jpg
 credits: Text by Khairil Zhafri/EngageMedia
 tags:

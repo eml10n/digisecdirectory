@@ -1,6 +1,7 @@
 ---
 type: post
 title: Psiphon
+website: https://psiphon.ca/
 cover: /files/psiphon.png
 credits: Text by Khairil Zhafri/EngageMedia
 tags:

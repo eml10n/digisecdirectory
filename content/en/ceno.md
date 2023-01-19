@@ -1,6 +1,7 @@
 ---
 type: post
 title: CENO
+website: https://censorship.no/
 cover: /files/ceno.jpg
 credits: Text by Khairil Zhafri/Engagemedia
 tags:
