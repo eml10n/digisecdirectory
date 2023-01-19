@@ -33,6 +33,9 @@ collections:
       - label: 'Body'
         name: 'body' 
         widget: 'markdown'
+      - label: 'Credits'
+        name: 'credits' 
+        widget: 'text'
       - label: 'Tags'
         name: 'tag'
         widget: 'select'
@@ -46,14 +49,14 @@ collections:
           - { label: 'Enhancing Security', value: 'security' }
           - { label: 'Improving Wellbeing', value: 'wellbeing' }
           - { label: 'Identifying Misinformation', value: 'misinformation' }
-        required: false
+        required: true
       - label: 'Category'
         name: 'category'
         widget: 'select'
         options:
           - { label: 'Digital Security Guides', value: 'guides' }
           - { label: 'Digital Security Tools', value: 'tools' }
-        required: false
+        required: true
       - label: 'Date & Time'
         name: 'date'
         widget: 'datetime'
