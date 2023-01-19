@@ -1,9 +1,11 @@
 {{ define "main" }}
   {{ range .Paginator.Pages }}
-<div style="float: left; padding-right: 1.5rem;">
-  <img src="{{ .Params.cover }}" style="max-width: 90px; border-radius: 10%;">
-</div>      
-<article class="gdoc-post" style="min-height: 90px;">
+  <div class="display: flex">
+
+    <div style="padding: 1.5rem;">
+      <img src="{{ .Params.cover }}" style="max-width: 90px; border-radius: 10%;">
+    </div>      
+    <article class="gdoc-post" style="min-height: 90px;">
       <header class="gdoc-post__header">
         <h1 class="gdoc-post__title">
           {{ partial "utils/title" . }}
@@ -15,6 +17,7 @@
       </section>
 
     </article>
+  </div>
   {{ end }}
   {{ partial "pagination.html" . }}
 {{ end }}
