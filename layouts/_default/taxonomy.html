@@ -1,27 +1,38 @@
 {{ define "main" }}
-<div style="display: flex; border-bottom: 1px solid rgb(120, 120, 120, 0.25); margin-bottom: 2rem">
-  <article class="gdoc-post" style="align-self: stretch; border: 0;">
+<style>
+.tag-{{ .Title | urlize }} {
+  display: none;
+}
+</style>
+<div style="border-bottom: 1px solid rgb(120, 120, 120, 0.25); margin-bottom: 2rem">
+  <article class="gdoc-post" style="border: 0;">
     <header class="gdoc-post__header">
-      <h1 class="gdoc-post__title">{{ .Title }}</h1>
+      <h1 class="gdoc-post__title" style="margin-block: 0;">{{ .Title }}</h1>
     </header>
   </article>
 </div>
 {{ range .Paginator.Pages.ByTitle }} 
-  <div style="display: flex; border-bottom: 1px solid rgb(120, 120, 120, 0.25); margin-bottom: 2rem">
+  <div class="flex" style="border-bottom: 1px solid rgb(120, 120, 120, 0.25); margin-bottom: 2rem">
 
-    <div style="padding-right: 1.5rem;">
+    <div style="padding-right: 1rem;">
       <img src="{{ .Params.cover }}" style="border-radius: 10%; border: 1px solid rgb(120, 120, 120, 0.25); max-width: 72px; ">
     </div>      
-    <article class="gdoc-post" style="align-self: stretch; border: 0;">
+    <article class="gdoc-post" style="border: 0;">
       <header class="gdoc-post__header">
-        <h2 class="gdoc-post__title" style="margin-block-start: 0;"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}">
+        <h2 class="gdoc-post__title" style="margin-block: 0;"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}">
           {{ partial "utils/title" . }}
         </a></h2>
       </header>
 
-      <section class="gdoc-markdown">
+      <section class="gdoc-markdown" style="margin-block: .5rem">
         {{ .Summary }}
       </section>
+      
+      <footer class="gdoc-post__footer">
+        <div class="flex flex-wrap align-center gdoc-post__meta">
+          {{ partial "posts/metadata.html" . }}
+        </div>
+      </footer>
 
     </article>
   </div>
