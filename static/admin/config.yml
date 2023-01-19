@@ -41,21 +41,21 @@ collections:
         widget: 'select'
         multiple: true
         options:
-          - { label: 'Circumvention and Anonymity', value: 'circumvention' }
-          - { label: 'Communications and Messaging', value: 'communications' }
-          - { label: 'Documentation and Data Management', value: 'documentation' }
-          - { label: 'Productivity and Browser', value: 'productivity' }
-          - { label: 'Protecting Privacy', value: 'privacy' }
-          - { label: 'Enhancing Security', value: 'security' }
-          - { label: 'Improving Wellbeing', value: 'wellbeing' }
-          - { label: 'Identifying Misinformation', value: 'misinformation' }
+          - Circumvention and Anonymity
+          - Communications and Messaging
+          - Documentation and Data Management
+          - Productivity and Browser
+          - Protecting Privacy
+          - Enhancing Security
+          - Improving Wellbeing
+          - Identifying Misinformation
         required: true
       - label: 'Category'
         name: 'category'
         widget: 'select'
         options:
-          - { label: 'Digital Security Guides', value: 'guides' }
-          - { label: 'Digital Security Tools', value: 'tools' }
+          - Digital Security Guides
+          - Digital Security Tools
         required: true
       - label: 'Date & Time'
         name: 'date'
