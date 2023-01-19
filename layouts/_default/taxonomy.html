@@ -1,4 +1,10 @@
 {{ define "main" }}
+  <article class="gdoc-post" style="align-self: stretch; border: 0; min-height: 90px;">
+    <header class="gdoc-post__header">
+      <h1 class="gdoc-post__title">{{ .name }}</h1>
+    </header>
+  </article>
+
   {{ range .Paginator.Pages }}
   <div style="display: flex; border-bottom: 1px solid rgb(120, 120, 120, 0.25); margin-bottom: 2rem">
 
@@ -7,9 +13,9 @@
     </div>      
     <article class="gdoc-post" style="align-self: stretch; border: 0; min-height: 90px;">
       <header class="gdoc-post__header">
-        <h1 class="gdoc-post__title"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}">
+        <h2 class="gdoc-post__title"><a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}">
           {{ partial "utils/title" . }}
-        </a></h1>
+        </a></h2>
       </header>
 
       <section class="gdoc-markdown">
