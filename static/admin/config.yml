@@ -55,6 +55,7 @@ collections:
           - Premium 
 
           # Green Flags
+          - Cross Platform
           - Web App 
           - Self-hosting 
 
@@ -93,6 +94,9 @@ collections:
         field: tag
 
       # Green Flags
+      - pattern: Cross Platform 
+        label: Cross Platform 
+        field: tag
       - pattern: Web App 
         label: Web App 
         field: tag
