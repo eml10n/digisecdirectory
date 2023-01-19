@@ -6,7 +6,7 @@ geekdocMenuBundle: true
 geekdocCollapseAllSections: true
 
 geekdocNextPrev: false
-geekdocBreadcrumb: false
+geekdocBreadcrumb: true
 
 geekdocRepo: 'https://gitlab.com/-/ide/project/eml10n/digisecdirectory'
 geekdocEditPath: edit/main/-
