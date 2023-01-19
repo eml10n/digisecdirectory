@@ -1,13 +1,11 @@
 backend:
-#  name: git-gateway
-#  branch: main
+  branch: main
+# name: git-gateway
   name: gitlab
   repo: eml10n/digisecdirectory
   branch: main
   base_url: https://digisec.directory
   auth_endpoint: /.netlify/functions/auth
-
-
 media_folder: static/files
 public_folder: /files
 site_url: https://digisec.directory
