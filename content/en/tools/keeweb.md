@@ -16,4 +16,4 @@ tags:
 credits: Text by Khairil Zhafri/EngageMedia
 date: 2023-01-19T17:43:57.715Z
 ---
-K﻿eeWeb is an open-source password manager based on KeePass available as a web app that works with modern internet browsers on desktop and mobile devices.
+K﻿eeWeb is an open-source password manager based on KeePass. It is available as a web app that works with modern internet browsers on desktop and mobile devices.
