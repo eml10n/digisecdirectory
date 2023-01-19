@@ -6,7 +6,7 @@ languages:
 website: https://www.thunderbird.net/
 cover: /files/thunderbird.jpg
 tags:
-  - Communications and Messaging
+  - Communications & Messaging
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:46:42.301Z
 ---

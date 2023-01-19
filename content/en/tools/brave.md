@@ -6,7 +6,7 @@ languages:
 website: https://brave.com/
 cover: /files/brave.jpg
 tags:
-  - Productivity and Browser
+  - Productivity & Browser
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:27:21.358Z
 ---

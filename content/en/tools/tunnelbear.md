@@ -8,7 +8,7 @@ languages:
 website: https://www.tunnelbear.com/
 cover: /files/tunnelbear.jpg
 tags:
-  - Circumvention and Anonymity
+  - Circumvention & Anonymity
   - Freemium
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T09:54:16.180Z

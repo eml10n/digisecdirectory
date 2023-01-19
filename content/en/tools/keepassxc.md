@@ -6,7 +6,7 @@ languages:
 website: https://keepassxc.org/
 cover: /files/keepassxc.jpg
 tags:
-  - Documentation and Data Management
+  - Documentation & Data Management
 credits: Text by Khairil Zhafri/EngageMedia
 date: 2023-01-19T17:55:27.353Z
 ---

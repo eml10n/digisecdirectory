@@ -1,5 +1,5 @@
 ---
-title: The Ultimate Digital Security and Safety Directory 
+title: Update the Directory
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam euismod vulputate felis vel vehicula. Donec porttitor, tortor ac luctus auctor, odio dolor hendrerit magna, luctus lacinia justo nisl nec nibh. Vestibulum vitae gravida ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ac orci elit. Suspendisse nulla mauris, ultrices a finibus ac, mollis at metus. Nam at elit at neque consequat congue quis vel ante. Nunc a ullamcorper nulla. Curabitur sed tincidunt turpis, vel condimentum nulla. Vestibulum tempor sem id massa elementum, et suscipit sapien eleifend. Ut pretium lectus eget ante dictum luctus. Aenean in dolor feugiat, elementum sem id, blandit lorem. Nullam ut congue nisi, nec cursus ipsum. Aenean mauris dui, porta at ultricies et, aliquam eget dui. Duis nec hendrerit nibh, id convallis ligula.

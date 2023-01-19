@@ -1,37 +1,20 @@
 ---
+### Localized menus have to be merged into a single yaml file
 main:
-  - name:
+  - name: Digital Security Tools
     sub:
-      - name: 
-          en: Get Started
-        ref: "/"
-      
-
+      - name: Circumvention & Anonymity
+        ref: "/tags/circumvention-anonymity/"
+      - name: Communications & Messaging
+        ref: "/tags/communications-messaging/"
+      - name: Documentation & Data Management
+        ref: "/tags/documentation-data-management/"
+      - name: Productivity & Browser
+        ref: "/tags/productivity-browser/"
   - name: 
   - name: 
   - name: 
-
-
-  - name: 
-      en: Digital Security Tools
-      id: Alat Keamanan Digital
-    sub:
-      - name: Circumvention and Anonymity
-        ref: "/tags/circumvention-and-anonymity/"
-      - name: Communications and Messaging
-        ref: "/tags/communications-and-messaging/"
-      - name: Documentation and Data Management
-        ref: "/tags/documentation-and-data-management/"
-      - name: Productivity and Browser
-        ref: "/tags/productivity-and-browser/"
-
-  - name: 
-  - name: 
-  - name: 
-
-  - name: 
-      en: Digital Safety Guides
-      id: Panduan Keselamatan Digital
+  - name: Digital Safety Guides
     sub:
       - name: Protecting Privacy
         ref: "/tags/protecting-privacy/"
@@ -41,23 +24,4 @@ main:
         ref: "/tags/improving-wellbeing/"
       - name: Countering Misinformation
         ref: "/tags/countering-misinformation/"
-
-  - name: 
-  - name: 
-  - name: 
-
-  - name: 
-      en: Contribute
-      id: Kontribusi
-    sub:
-      - name: 
-          en: Add to the Directory
-          id: Tambakan ke Directori
-        ref: "https://gitlab.com/eml10n/digisecdirectory"
-        external: true
-      - name: 
-          en: Translate the Directory
-          id: Terjemahkan direktori
-        ref: "https://l10n.space/"
-        external: true
 ---

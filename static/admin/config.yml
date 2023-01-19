@@ -60,10 +60,10 @@ collections:
           - Self-hosting 
 
           # Digital Security Tools
-          - Circumvention and Anonymity
-          - Communications and Messaging
-          - Documentation and Data Management
-          - Productivity and Browser
+          - Circumvention & Anonymity
+          - Communications & Messaging
+          - Documentation & Data Management
+          - Productivity & Browser
 
           # Digital Safety Guides
           - Protecting Privacy
@@ -105,17 +105,17 @@ collections:
         field: tag
 
       # Digital Security Tools
-      - pattern: "Circumvention and Anonymity"
-        label: "Circumvention and Anonymity"
+      - pattern: "Circumvention & Anonymity"
+        label: "Circumvention & Anonymity"
         field: tag
-      - pattern: 'Communications and Messaging'
-        label: 'Communications and Messaging'
+      - pattern: 'Communications & Messaging'
+        label: 'Communications & Messaging'
         field: tag
-      - pattern: 'Documentation and Data Management'
-        label: 'Documentation and Data Management'
+      - pattern: 'Documentation & Data Management'
+        label: 'Documentation & Data Management'
         field: tag
-      - pattern: 'Productivity and Browser'
-        label: 'Productivity and Browser'
+      - pattern: 'Productivity & Browser'
+        label: 'Productivity & Browser'
         field: tag
 
       # Digital Safety Guides

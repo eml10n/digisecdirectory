@@ -7,7 +7,7 @@ languages:
 website: https://proton.me/mail
 cover: /files/protonmail.jpg
 tags:
-  - Communications and Messaging
+  - Communications & Messaging
   - Freemium
   - Web App
 credits: Text by Khairil Zhafri/EngageMedia.

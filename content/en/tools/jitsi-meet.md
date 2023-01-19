@@ -5,7 +5,7 @@ languages:
 website: https://jitsi.org/
 cover: /files/jitsimeet.jpg
 tags:
-  - Communications and Messaging
+  - Communications & Messaging
   - Web App
   - Self-hosting
 credits: Text by Khairil Zhafri/EngageMedia.

@@ -6,7 +6,7 @@ languages:
 website: https://www.veracrypt.fr/
 cover: /files/veracrypt.jpg
 tags:
-  - Documentation and Data Management
+  - Documentation & Data Management
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:09:13.542Z
 ---

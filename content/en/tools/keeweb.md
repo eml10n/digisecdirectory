@@ -10,7 +10,7 @@ languages:
 website: https://keeweb.info/
 cover: /files/keeweb.jpg
 tags:
-  - Documentation and Data Management
+  - Documentation & Data Management
   - Web App
   - Self-hosting
 credits: Text by Khairil Zhafri/EngageMedia

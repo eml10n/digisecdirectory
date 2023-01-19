@@ -7,7 +7,7 @@ languages:
 website: https://onionshare.org/
 cover: /files/onionshare.jpg
 tags:
-  - Documentation and Data Management
+  - Documentation & Data Management
 credits: Text by Khairil Zhafri/EngageMedia
 date: 2023-01-19T17:57:06.460Z
 ---

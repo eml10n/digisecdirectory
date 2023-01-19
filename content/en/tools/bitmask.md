@@ -6,7 +6,7 @@ languages:
 cover: /files/bitmask.jpg
 credits: Text by Khairil Zhafri/EngageMedia.
 tags:
-  - Circumvention and Anonymity
+  - Circumvention & Anonymity
 date: 2023-01-19T07:27:56.488Z
 website: https://bitmask.net/
 ---

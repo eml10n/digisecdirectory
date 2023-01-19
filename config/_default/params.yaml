@@ -3,7 +3,7 @@ geekdocToC: 3
 
 geekdocLogo: files/digisec.directory.svg
 geekdocMenuBundle: true
-geekdocCollapseAllSections: true
+geekdocCollapseAllSections: false
 
 geekdocNextPrev: false
 geekdocBreadcrumb: false
@@ -26,7 +26,7 @@ geekdocDarkModeCode: false
 
 geekdocBackToTop: true
 
-geekdocTagsToMenu: true
+geekdocTagsToMenu: false
 
 geekdocFileTreeSortBy: title
 ---
