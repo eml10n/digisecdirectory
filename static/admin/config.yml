@@ -20,6 +20,7 @@ collections:
         name: 'draft' 
         widget: 'boolean'
         default: false
+        required: false
       - label: 'Name' 
         name: 'title' 
         widget: 'string'
