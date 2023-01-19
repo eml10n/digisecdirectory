@@ -188,6 +188,5 @@
   }
   
   .gdoc-post {
-    border-style: solid;
-    border-color: #dcdcdc;
+    border-top-style: solid;
   }
