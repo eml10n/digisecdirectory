@@ -3,7 +3,7 @@ type: post
 title: Bitmask
 cover: /files/bitmask.jpg
 credits: Text by Khairil Zhafri/EngageMedia
-tag:
+tags:
   - circumvention
 category: tools
 date: 2023-01-19T07:27:56.488Z

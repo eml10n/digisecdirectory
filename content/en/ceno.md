@@ -3,7 +3,7 @@ type: post
 title: CENO
 cover: /files/ceno.jpg
 credits: Text by Khairil Zhafri/Engagemedia
-tag:
+tags:
   - circumvention
 category: tools
 date: 2023-01-19T07:32:57.800Z

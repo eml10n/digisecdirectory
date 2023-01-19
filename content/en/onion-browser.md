@@ -3,7 +3,7 @@ type: post
 title: Onion Browser
 cover: /files/onionbrowser.jpg
 credits: Text by Khairil Zhafri/EngageMedia
-tag:
+tags:
   - circumvention
 category: tools
 date: 2023-01-19T07:35:04.460Z
