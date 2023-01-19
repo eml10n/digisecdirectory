@@ -14,7 +14,7 @@ export async function onRequest(context) {
         const url = new URL(request.url);
         const redirectUrl = new URL('https://gitlab.com/oauth/authorize');
         redirectUrl.searchParams.set('client_id', client_id);
-        redirectUrl.searchParams.set('redirect_uri', url.origin + '/callback');
+        redirectUrl.searchParams.set('redirect_uri', url.origin + '/auth-callback');
         redirectUrl.searchParams.set('scope', 'api');
         redirectUrl.searchParams.set(
             'state',
