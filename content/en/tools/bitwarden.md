@@ -10,6 +10,7 @@ tags:
   - Freemium
   - Web App
   - Self-hosting
+  - Documentation and Data Management
 credits: Text by Khairil Zhafri/EngageMedia
 date: 2023-01-19T18:14:01.740Z
 ---
