@@ -1,0 +1,69 @@
+---
+main:
+  - name: Alat Keamanan Digital
+    sub:
+      - name: Circumvention and Anonymity
+        ref: "/tags/circumvention/"
+        external: true
+      - name: Communications and Messaging
+        ref: "/tags/communications/"
+        external: true
+      - name: Documentation and Data Management
+        ref: "/tags/documentation/"
+        external: true
+      - name: Productivity and Browser
+        ref: "/tags/productivity/"
+        external: true
+
+  - name: 
+  - name: 
+  - name: 
+
+  - name: Panduan Keselamatan Digital
+    sub:
+      - name: Protecting Privacy
+        ref: "/tags/privacy/"
+        external: true
+      - name: Enhancing Security
+        ref: "/tags/security/"
+        external: true
+      - name: Improving Wellbeing
+        ref: "/tags/wellbeing/"
+        external: true
+      - name: Identifying Misinformation
+        ref: "/tags/misinformation/"
+
+  - name: 
+  - name: 
+  - name: 
+
+  - name: Kontribusi
+    sub:
+      - name: 
+          en: Add to the Directory
+          id: Tambakan ke Directori
+        ref: "https://gitlab.com/eml10n/digisecdirectory"
+        external: true
+      - name: 
+          en: Translate the directory
+          id: Terjemahkan direktori
+        ref: "https://l10n.space/"
+        external: true
+        
+  - name: 
+  - name: 
+  - name: 
+
+
+  - name: Komuniti Pelokalan
+    sub:
+      - name: Knowledge Base
+        ref: "https://l10n.info/"
+        external: true
+      - name: Weblate 
+        ref: "https://l10n.space/"
+        external: true
+      - name: Jitsi
+        ref: "https://l10n.party/"
+        external: true
+---

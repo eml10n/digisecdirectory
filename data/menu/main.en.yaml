@@ -1,8 +1,6 @@
 ---
 main:
-  - name: 
-      en: Digital Security Tools
-      id: Alat Keamanan Digital
+  - name: Digital Security Tools
     sub:
       - name: Circumvention and Anonymity
         ref: "/tags/circumvention/"
@@ -21,9 +19,7 @@ main:
   - name: 
   - name: 
 
-  - name: 
-      en: Digital Safety Guides
-      id: Panduan Keselamatan Digital
+  - name: Digital Safety Guides
     sub:
       - name: Protecting Privacy
         ref: "/tags/privacy/"
@@ -45,14 +41,10 @@ main:
       en: Contribute
       id: Kontribusi
     sub:
-      - name: 
-          en: Add to the Directory
-          id: Tambakan ke Directori
+      - name: Add to the Directory
         ref: "https://gitlab.com/eml10n/digisecdirectory"
         external: true
-      - name: 
-          en: Translate the directory
-          id: Terjemahkan direktori
+      - name: Translate the directory
         ref: "https://l10n.space/"
         external: true
         
@@ -60,10 +52,7 @@ main:
   - name: 
   - name: 
 
-
-  - name:
-      en: Localization Community
-      id: Komuniti Pelokalan
+  - name: Localization Community
     sub:
       - name: Knowledge Base
         ref: "https://l10n.info/"
