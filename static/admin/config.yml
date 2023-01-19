@@ -1,6 +1,4 @@
 backend:
-  branch: main
-# name: git-gateway
   name: gitlab
   repo: eml10n/digisecdirectory
   branch: main
