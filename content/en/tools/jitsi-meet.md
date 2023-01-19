@@ -6,6 +6,8 @@ website: https://jitsi.org/
 cover: /files/jitsimeet.jpg
 tags:
   - Communications and Messaging
+  - Web App
+  - Self-hosting
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:31:23.647Z
 ---

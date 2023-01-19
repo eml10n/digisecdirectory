@@ -11,7 +11,7 @@ geekdocBreadcrumb: false
 #geekdocRepo: 'https://gitlab.com/-/ide/project/eml10n/digisecdirectory'
 #geekdocEditPath: edit/main/-
 
-geekdocSearch: true
+geekdocSearch: false
 geekdocSearchShowParent: true
 
 #geekdocPrivacyPolicy: /privacy/

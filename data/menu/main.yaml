@@ -1,5 +1,17 @@
 ---
 main:
+  - name:
+    sub:
+      - name: 
+          en: Get Started
+        ref: "/"
+      
+
+  - name: 
+  - name: 
+  - name: 
+
+
   - name: 
       en: Digital Security Tools
       id: Alat Keamanan Digital
@@ -9,9 +21,9 @@ main:
       - name: Communications and Messaging
         ref: "/tags/communications-and-messaging/"
       - name: Documentation and Data Management
-        ref: "/tags/"
+        ref: "/tags/documentation-and-data-management/"
       - name: Productivity and Browser
-        ref: "/tags/"
+        ref: "/tags/productivity-and-browser/"
 
   - name: 
   - name: 
@@ -22,13 +34,13 @@ main:
       id: Panduan Keselamatan Digital
     sub:
       - name: Protecting Privacy
-        ref: "/tags/"
+        ref: "/tags/protecting-privacy/"
       - name: Enhancing Security
-        ref: "/tags/"
+        ref: "/tags/enhancing-security/"
       - name: Improving Wellbeing
-        ref: "/tags/"
-      - name: Identifying Misinformation
-        ref: "/tags/"
+        ref: "/tags/improving-wellbeing/"
+      - name: Countering Misinformation
+        ref: "/tags/countering-misinformation/"
 
   - name: 
   - name: 
@@ -44,27 +56,8 @@ main:
         ref: "https://gitlab.com/eml10n/digisecdirectory"
         external: true
       - name: 
-          en: Translate the directory
+          en: Translate the Directory
           id: Terjemahkan direktori
         ref: "https://l10n.space/"
-        external: true
-        
-  - name: 
-  - name: 
-  - name: 
-
-
-  - name:
-      en: Localization Community
-      id: Komuniti Pelokalan
-    sub:
-      - name: Knowledge Base
-        ref: "https://l10n.info/"
-        external: true
-      - name: Weblate 
-        ref: "https://l10n.space/"
-        external: true
-      - name: Jitsi
-        ref: "https://l10n.party/"
         external: true
 ---

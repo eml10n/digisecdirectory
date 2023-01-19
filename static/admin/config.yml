@@ -49,12 +49,14 @@ collections:
         widget: 'select'
         multiple: true
         options:
-          # Flags
-          - Open Source 
+          # Red Flags
           - Closed Source 
-          - Free 
           - Freemium 
           - Premium 
+
+          # Green Flags
+          - Web App 
+          - Self-hosting 
 
           # Digital Security Tools
           - Circumvention and Anonymity
@@ -79,21 +81,23 @@ collections:
       - title
       - date
     view_filters:
-      # Flags
+      # Red Flags
       - pattern: Closed Source 
         label: Closed Source 
-        field: tag
-      - pattern: Open Source 
-        label: Open Source 
-        field: tag
-      - pattern: Free 
-        label: Free 
         field: tag
       - pattern: Freemium 
         label: Freemium 
         field: tag
       - pattern: Premium 
         label: Premium 
+        field: tag
+
+      # Green Flags
+      - pattern: Web App 
+        label: Web App 
+        field: tag
+      - pattern: Self-hosting 
+        label: Self-hosting 
         field: tag
 
       # Digital Security Tools
