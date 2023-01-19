@@ -1,0 +1,88 @@
+backend:
+  name: git-gateway
+media_folder: static/files
+public_folder: /files
+site_url: https://digisec.directory
+display_url: https://digisec.directory
+collections:
+  - name: 'posts'
+    label: 'Content Posts'
+    label_singular: 'Content Post'
+    folder: 'content'
+    filter:
+      field: type
+      value: post
+    create: true
+    slug: '{{slug}}'
+    preview_path: '{{filename}}'
+    editor:
+      preview: false
+    show_preview_links: true
+    fields:
+      - label: 'Type'
+        name: 'type'
+        widget: 'hidden'
+        default: 'post'
+      - label: 'Title' 
+        name: 'title' 
+        widget: 'string'
+      - label: 'Cover Image'
+        name: 'cover'
+        widget: 'image'
+        required: false
+      - label: 'Body'
+        name: 'body' 
+        widget: 'markdown'
+      - label: 'Tags'
+        name: 'tag'
+        widget: 'select'
+        multiple: true
+        options:
+          - { label: 'Circumvention and Anonymity', value: 'circumvention' }
+          - { label: 'Communications and Messaging', value: 'communications' }
+          - { label: 'Documentation and Data Management', value: 'documentation' }
+          - { label: 'Productivity and Browser', value: 'productivity' }
+        required: false
+      - label: 'Category'
+        name: 'category'
+        widget: 'select'
+        options:
+          - { label: 'Digital Security Guides', value: 'guides' }
+          - { label: 'Digital Security Tools', value: 'tools' }
+        required: false
+      - label: 'Date & Time'
+        name: 'date'
+        widget: 'datetime'
+      - label: 'Aliases'
+        name: 'aliases'
+        widget: 'list'
+      - label: 'HTML Meta Description'
+        name: 'description'
+        widget: 'string'
+        required: false
+      - label: 'HTML Meta Keywords'
+        name: 'keywords'
+        widget: 'list'
+        required: false
+    sortable_fields: 
+      - title
+      - date
+    view_filters:
+      - label: "Circumvention and Anonymity"
+        field: tag
+        pattern: 'circumvention'
+      - label: 'Communications and Messaging'
+        field: tag
+        pattern: 'communications'
+      - label: 'Documentation and Data Management'
+        field: tag
+        pattern: 'documentation'
+      - label: 'Productivity and Browser'
+        field: tag
+        pattern: 'productivity'
+      - label: 'Digital Security Guides'
+        field: category
+        pattern: 'guides'
+      - label: 'Digital Security Tools'
+        field: category
+        pattern: 'tools'

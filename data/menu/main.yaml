@@ -5,16 +5,16 @@ main:
       id: Alat Keamanan Digital
     sub:
       - name: Circumvention and Anonymity
-        ref: "#Circumvention"
+        ref: "#circumvention"
         external: true
       - name: Communications and Messaging
-        ref: "#Communications"
+        ref: "#communications"
         external: true
       - name: Documentation and Data Management
-        ref: "#Documentation"
+        ref: "#documentation"
         external: true
       - name: Productivity and Browser
-        ref: "#Productivity"
+        ref: "#productivity"
         external: true
 
   - name: 
