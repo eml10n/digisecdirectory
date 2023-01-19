@@ -7,7 +7,7 @@ main:
       - name: Circumvention and Anonymity
         ref: "/tags/circumvention-and-anonymity/"
       - name: Communications and Messaging
-        ref: "/tags/"
+        ref: "/tags/communications-and-messaging/"
       - name: Documentation and Data Management
         ref: "/tags/"
       - name: Productivity and Browser
