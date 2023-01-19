@@ -26,10 +26,6 @@ collections:
       - label: 'Title' 
         name: 'title' 
         widget: 'string'
-      - label: 'Cover Image'
-        name: 'cover'
-        widget: 'image'
-        required: true
       - label: 'Website'
         name: 'website'
         widget: 'string'
@@ -37,6 +33,10 @@ collections:
       - label: 'Body'
         name: 'body' 
         widget: 'markdown'
+      - label: 'Cover Image'
+        name: 'cover'
+        widget: 'image'
+        required: true
       - label: 'Credits'
         name: 'credits' 
         widget: 'string'
