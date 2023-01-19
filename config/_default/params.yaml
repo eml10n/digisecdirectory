@@ -8,13 +8,13 @@ geekdocCollapseAllSections: true
 geekdocNextPrev: false
 geekdocBreadcrumb: true
 
-geekdocRepo: 'https://gitlab.com/-/ide/project/eml10n/digisecdirectory'
-geekdocEditPath: edit/main/-
+#geekdocRepo: 'https://gitlab.com/-/ide/project/eml10n/digisecdirectory'
+#geekdocEditPath: edit/main/-
 
 geekdocSearch: true
 geekdocSearchShowParent: true
 
-geekdocPrivacyPolicy: /privacy/
+#geekdocPrivacyPolicy: /privacy/
 
 geekdocAnchor: true
 geekdocAnchorCopy: true

@@ -1,5 +1,12 @@
 {{ define "main" }}
-  {{ range .Paginator.Pages.ByTitle }} 
+<div style="display: flex; border-bottom: 1px solid rgb(120, 120, 120, 0.25); margin-bottom: 2rem">
+  <article class="gdoc-post" style="align-self: stretch; border: 0; min-height: 90px;">
+    <header class="gdoc-post__header">
+      <strong class="gdoc-post__title">{{ .Title }}</strong>
+    </header>
+  </article>
+</div>
+{{ range .Paginator.Pages.ByTitle }} 
   <div style="display: flex; border-bottom: 1px solid rgb(120, 120, 120, 0.25); margin-bottom: 2rem">
 
     <div style="padding-right: 1.5rem;">
