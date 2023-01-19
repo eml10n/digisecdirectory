@@ -26,6 +26,12 @@ collections:
       - label: 'Title' 
         name: 'title' 
         widget: 'string'
+      - label: 'Language Codes' 
+        name: 'languages' 
+        widget: 'list'
+        allow_add: true
+        default:
+         - en
       - label: 'Website'
         name: 'website'
         widget: 'string'
