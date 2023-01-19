@@ -1,6 +1,6 @@
 const simpleOauth = require('simple-oauth2')
 
-const SITE_URL = process.env.URL || 'http://localhost:3000'
+const SITE_URL = process.env.URL || 'https://digisec.directory'
 
 /* Auth values */
 const TOKEN_HOST = 'https://gitlab.com'
