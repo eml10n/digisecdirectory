@@ -186,3 +186,7 @@
     text-decoration: inherit;
     color: #eb1c23;
   }
+  
+  .gdoc-post {
+    border: 0;
+  }
