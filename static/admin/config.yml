@@ -81,32 +81,45 @@ collections:
     view_filters:
       # Flags
       - pattern: Closed Source 
+        label: Closed Source 
         field: tag
       - pattern: Open Source 
+        label: Open Source 
         field: tag
       - pattern: Free 
+        label: Free 
         field: tag
       - pattern: Freemium 
+        label: Freemium 
         field: tag
       - pattern: Premium 
+        label: Premium 
         field: tag
 
       # Digital Security Tools
       - pattern: "Circumvention and Anonymity"
+        label: "Circumvention and Anonymity"
         field: tag
       - pattern: 'Communications and Messaging'
+        label: 'Communications and Messaging'
         field: tag
       - pattern: 'Documentation and Data Management'
+        label: 'Documentation and Data Management'
         field: tag
       - pattern: 'Productivity and Browser'
+        label: 'Productivity and Browser'
         field: tag
 
       # Digital Safety Guides
       - pattern: Protecting Privacy
+        label: Protecting Privacy
         field: tag
       - pattern: Enhancing Security
+        label: Enhancing Security
         field: tag
       - pattern: Improving Wellbeing
+        label: Improving Wellbeing
         field: tag
       - pattern: Identifying Misinformation
+        label: Identifying Misinformation
         field: tag
