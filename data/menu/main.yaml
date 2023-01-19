@@ -5,16 +5,16 @@ main:
       id: Alat Keamanan Digital
     sub:
       - name: Circumvention and Anonymity
-        ref: "#circumvention"
+        ref: "/tags/circumvention/"
         external: true
       - name: Communications and Messaging
-        ref: "#communications"
+        ref: "/tags/communications/"
         external: true
       - name: Documentation and Data Management
-        ref: "#documentation"
+        ref: "/tags/documentation/"
         external: true
       - name: Productivity and Browser
-        ref: "#productivity"
+        ref: "/tags/productivity/"
         external: true
 
   - name: 
@@ -26,17 +26,16 @@ main:
       id: Panduan Keselamatan Digital
     sub:
       - name: Protecting Privacy
-        ref: "#privacy"
+        ref: "/tags/privacy/"
         external: true
       - name: Enhancing Security
-        ref: "#security"
+        ref: "/tags/security/"
         external: true
       - name: Improving Wellbeing
-        ref: "#wellbeing"
+        ref: "/tags/wellbeing/"
         external: true
       - name: Identifying Misinformation
-        ref: "#misinformation
-        external: true
+        ref: "/tags/misinformation/"
 
   - name: 
   - name: 
@@ -49,12 +48,12 @@ main:
       - name: 
           en: Add to the Directory
           id: Tambakan ke Directori
-        ref: "#add"
+        ref: "https://gitlab.com/eml10n/digisecdirectory"
         external: true
       - name: 
           en: Translate the directory
           id: Terjemahkan direktori
-        ref: "#translate"
+        ref: "https://l10n.space/"
         external: true
         
   - name: 
