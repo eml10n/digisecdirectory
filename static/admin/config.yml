@@ -37,10 +37,6 @@ collections:
         name: 'cover'
         widget: 'image'
         required: true
-      - label: 'Credits'
-        name: 'credits' 
-        widget: 'string'
-        required: false
       - label: 'Tags'
         name: 'tags'
         widget: 'select'
@@ -62,6 +58,10 @@ collections:
           - Digital Security Guides
           - Digital Security Tools
         required: true
+      - label: 'Credits'
+        name: 'credits' 
+        widget: 'string'
+        required: false
       - label: 'Date & Time'
         name: 'date'
         widget: 'datetime'
