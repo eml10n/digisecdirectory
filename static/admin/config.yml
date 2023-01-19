@@ -7,7 +7,7 @@ site_url: https://digisec.directory
 display_url: https://digisec.directory
 collections:
   - name: 'tools'
-    label: 'English Content'
+    label: 'Digital Security Tools'
     folder: 'content/en/tools'
     create: true
     slug: '{{slug}}'
@@ -50,8 +50,8 @@ collections:
         multiple: true
         options:
           # Flags
-          - Closed Source 
           - Open Source 
+          - Closed Source 
           - Free 
           - Freemium 
           - Premium 
