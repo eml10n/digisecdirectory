@@ -2,7 +2,7 @@
   {{ range .Paginator.Pages }}
   <div class="display: flex;">
 
-    <div style="padding: 0 1.5rem 0 0;">
+    <div style="padding-right: 1.5rem;">
       <img src="{{ .Params.cover }}" style="max-width: 90px; border-radius: 10%;">
     </div>      
     <article class="gdoc-post" style="min-height: 90px;">
@@ -18,7 +18,7 @@
 
     </article>
   </div>
-  <hr>
+  <hr style="border: 1px 0 0 0; border-color: #787878;">
   {{ end }}
   {{ partial "pagination.html" . }}
 {{ end }}
