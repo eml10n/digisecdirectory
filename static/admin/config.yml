@@ -39,7 +39,7 @@ collections:
     fields:
       - label: 'Name' 
         name: 'title' 
-        i18n: true
+        i18n: duplicate
         widget: 'string'
       - label: 'Languages' 
         name: 'languages' 
@@ -74,7 +74,7 @@ collections:
         required: true
       - label: 'Tags'
         name: 'tags'
-        i18n: true
+        i18n: duplicate
         widget: 'select'
         multiple: true
         options:
@@ -110,7 +110,7 @@ collections:
         required: true
       - label: 'Categories'
         name: 'categories'
-        i18n: true
+        i18n: duplicate
         widget: 'select'
         multiple: true
         default: Digital Security Tools
@@ -172,6 +172,32 @@ collections:
         label: 'Productivity & Browser'
         field: tags
 
+      # Secondary categories
+      - pattern: File Sharing # Alternative to We Transfer
+        label: File Sharing # Alternative to We Transfer
+        field: categories
+      - pattern: File Storage & Sync # Alternative to Google Drive, Dropbox
+        label: File Storage & Sync # Alternative to Google Drive, Dropbox
+        field: categories
+      - pattern: Instant Messaging # Alternative to WhatsApp
+        label: Instant Messaging # Alternative to WhatsApp
+        field: categories
+      - pattern: Onion Routing
+        label: Onion Routing
+        field: categories
+      - pattern: OpenPGP Encryption
+        label: OpenPGP Encryption
+        field: categories
+      - pattern: Password Management
+        label: Password Management
+        field: categories
+      - pattern: Videoconferencing # Alternative to Zoom
+        label: Videoconferencing # Alternative to Zoom
+        field: categories
+      - pattern: Virtual Private Network
+        label: Virtual Private Network
+        field: categories
+
       # Digital Safety Guides
       - pattern: Enhancing Security
         label: Enhancing Security
@@ -184,4 +210,4 @@ collections:
         field: tags
       - pattern: Countering Misinformation
         label: Countering Misinformation
-        field: tag
+        field: tags
