@@ -25,6 +25,7 @@ markup:
 
 taxonomies:
   tag: tags
+  category: categories
 
 outputs:
   home:
