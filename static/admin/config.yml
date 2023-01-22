@@ -25,6 +25,7 @@ default_locale: en
 collections:
   - name: 'tools'
     label: 'Digital Security Tools'
+    label_singular: 'Digital Security Tool'
     folder: 'content'
     create: true
     filter:
@@ -69,7 +70,7 @@ collections:
         widget: 'string'
         required: true
       - label: 'Body'
-        name: 'body' 
+        name: 'body'
         i18n: true
         widget: 'markdown'
       - label: 'Credits'
