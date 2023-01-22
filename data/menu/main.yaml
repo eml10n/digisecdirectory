@@ -18,11 +18,11 @@ main:
     ref: "/categories/digital-safety-guides/" 
     external: true
     sub:
-      - name: Protecting Privacy
-        ref: "/tags/protecting-privacy/"
-        external: true
       - name: Enhancing Security
         ref: "/tags/enhancing-security/"
+        external: true
+      - name: Protecting Privacy
+        ref: "/tags/protecting-privacy/"
         external: true
       - name: Improving Wellbeing
         ref: "/tags/improving-wellbeing/"

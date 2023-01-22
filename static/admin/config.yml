@@ -119,49 +119,43 @@ collections:
       # Red Flags
       - pattern: Closed Source 
         label: Closed Source 
-        field: tag
+        field: tags
       - pattern: Freemium 
         label: Freemium 
-        field: tag
-      - pattern: Premium 
-        label: Premium 
-        field: tag
+        field: tags
 
       # Green Flags
-      - pattern: Cross Platform 
-        label: Cross Platform 
-        field: tag
       - pattern: Web App 
         label: Web App 
-        field: tag
+        field: tags
       - pattern: Self-hosting 
         label: Self-hosting 
-        field: tag
+        field: tags
 
       # Digital Security Tools
       - pattern: "Circumvention & Anonymity"
         label: "Circumvention & Anonymity"
-        field: tag
+        field: tags
       - pattern: 'Communications & Messaging'
         label: 'Communications & Messaging'
-        field: tag
+        field: tags
       - pattern: 'Documentation & Data Management'
         label: 'Documentation & Data Management'
-        field: tag
+        field: tags
       - pattern: 'Productivity & Browser'
         label: 'Productivity & Browser'
-        field: tag
+        field: tags
 
       # Digital Safety Guides
-      - pattern: Protecting Privacy
-        label: Protecting Privacy
-        field: tag
       - pattern: Enhancing Security
         label: Enhancing Security
-        field: tag
+        field: tags
+      - pattern: Protecting Privacy
+        label: Protecting Privacy
+        field: tags
       - pattern: Improving Wellbeing
         label: Improving Wellbeing
-        field: tag
-      - pattern: Identifying Misinformation
-        label: Identifying Misinformation
+        field: tags
+      - pattern: Countering Misinformation
+        label: Countering Misinformation
         field: tag
