@@ -11,6 +11,7 @@ media_folder: static/files
 public_folder: /files
 site_url: https://digisec.directory
 logo_url: "/files/digisec.directory.svg"
+create: true
 i18n:
   structure: multiple_folders
   locales:
