@@ -24,7 +24,7 @@ default_locale: en
 collections:
   - name: 'tools'
     label: 'Digital Security Tools'
-    folder: 'content/en'
+    folder: 'content'
     create: true
     filter:
       field: categories
@@ -34,6 +34,7 @@ collections:
     editor:
       preview: false
     show_preview_links: true
+    i18n: true
     fields:
       - label: 'Name' 
         name: 'title' 
