@@ -123,10 +123,10 @@ collections:
         default: Digital Security Tools
         options:
           # Primary categories
-          - name:
+          - value:
               en: Digital Safety Guides 
               id: Panduan Keselamatan Digital 
-          - name:
+          - value:
               en: Digital Security Tools
               id: Panduan Keamanan Digital
 
