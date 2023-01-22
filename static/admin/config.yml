@@ -11,18 +11,20 @@ media_folder: static/files
 public_folder: /files
 site_url: https://digisec.directory
 logo_url: "/files/digisec.directory.svg"
-
-#backend:
-#  name: git-gateway
-#  branch: main
-#media_folder: static/files
-#public_folder: /files
-#site_url: https://digisec.directory
-#display_url: https://digisec.directory
+i18n:
+  structure: multiple_folders
+  locales:
+    - en
+    - fil
+    - id
+    - km
+    - my
+    - th
+default_locale: en
 collections:
   - name: 'tools'
     label: 'Digital Security Tools'
-    folder: 'content/en'
+    folder: 'content'
     create: true
     filter:
       field: categories
