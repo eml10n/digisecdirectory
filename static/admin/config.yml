@@ -123,8 +123,12 @@ collections:
         default: Digital Security Tools
         options:
           # Primary categories
-          - Digital Safety Guides 
-          - Digital Security Tools
+          - name:
+              en: Digital Safety Guides 
+              id: Panduan Keselamatan Digital 
+          - name:
+              en: Digital Security Tools
+              id: Panduan Keamanan Digital
 
           # Secondary categories
           - File Sharing # Alternative to We Transfer
