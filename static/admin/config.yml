@@ -24,7 +24,7 @@ default_locale: en
 collections:
   - name: 'tools'
     label: 'Digital Security Tools'
-    folder: 'content'
+    folder: 'content/en'
     create: true
     filter:
       field: categories
