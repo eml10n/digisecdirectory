@@ -12,6 +12,7 @@ tags:
   - Web App
 categories:
   - Digital Security Tools
+  - OpenPGP Encryption
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:40:05.818Z
 ---

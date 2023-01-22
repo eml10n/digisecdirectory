@@ -8,7 +8,9 @@ website: https://www.getsession.org/
 cover: /files/session.jpg
 tags:
   - Communications & Messaging
-category: Digital Security Tools
+categories: 
+  - Digital Security Tools
+  - Instant Messaging
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T23:08:17.311Z
 ---
