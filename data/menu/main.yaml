@@ -2,6 +2,7 @@
 ### Localized menus have to be merged into a single yaml file
 main:
   - name: Digital Security Tools
+    ref: "/categories/digital-security-tools/" 
     sub:
       - name: Circumvention & Anonymity
         ref: "/tags/circumvention-anonymity/"
@@ -14,6 +15,7 @@ main:
   - name: 
   - name: 
   - name: Digital Safety Guides
+    ref: "/categories/digital-safety-guides/" 
     sub:
       - name: Protecting Privacy
         ref: "/tags/protecting-privacy/"
