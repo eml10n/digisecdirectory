@@ -12,7 +12,9 @@ tags:
   - Self-hosting
   - Web App
   - Documentation & Data Management
-category: Digital Security Tools
+categories: 
+  - Digital Security Tools
+  - File Sharing
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T15:50:08.622Z
 ---

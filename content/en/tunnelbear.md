@@ -13,6 +13,7 @@ tags:
   - Closed Source
 categories:
   - Digital Security Tools
+  - Virtual Private Network
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T09:54:16.180Z
 ---

@@ -59,12 +59,9 @@ collections:
         multiple: true
         options:
           # Red Flags
-          - Closed Source 
           - Freemium 
-          - Premium 
 
           # Green Flags
-          - Cross Platform
           - Web App 
           - Self-hosting 
 
@@ -93,11 +90,20 @@ collections:
       - label: 'Category'
         name: 'category'
         widget: 'select'
-        multiple: false
+        multiple: true
         default: Digital Security Tools
         options:
+          # Primary categories
           - Digital Safety Guides 
           - Digital Security Tools
+
+          # Secondary categories
+          - File Sharing # Alternative to We Transfer
+          - File Storage & Sync # Alternative to Google Drive, Dropbox
+          - Instant Messaging # Alternative to WhatsApp
+          - Onion Network
+          - Password Management
+          - Virtual Private Network
       - label: 'Credits'
         name: 'credits' 
         default: 'Text by EngageMedia.'

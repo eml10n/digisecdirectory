@@ -15,6 +15,7 @@ tags:
   - Self-hosting
 categories:
   - Digital Security Tools
+  - Password Manager
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:43:57.715Z
 ---

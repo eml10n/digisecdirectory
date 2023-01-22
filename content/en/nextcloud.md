@@ -14,7 +14,9 @@ cover: /files/nextcloud.jpg
 tags:
   - Self-hosting
   - Documentation & Data Management
-category: Digital Security Tools
+categories: 
+  - Digital Security Tools
+  - File Storage & Sync
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T09:04:42.901Z
 ---

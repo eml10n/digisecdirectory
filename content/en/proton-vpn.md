@@ -10,7 +10,9 @@ cover: /files/protonvpn.jpg
 tags:
   - Circumvention & Anonymity
   - Freemium
-category: Digital Security Tools
+categories: 
+  - Digital Security Tools
+  - Virtual Private Network
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T08:34:51.650Z
 ---
