@@ -12,7 +12,7 @@ tags:
   - Circumvention & Anonymity
 categories:
   - Digital Security Tools
-  - Onion Network
+  - Onion Routing
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T09:57:54.810Z
 ---
