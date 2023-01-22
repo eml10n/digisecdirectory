@@ -87,8 +87,8 @@ collections:
           - Crisis Response
 
         required: true
-      - label: 'Category'
-        name: 'category'
+      - label: 'Categories'
+        name: 'categories'
         widget: 'select'
         multiple: true
         default: Digital Security Tools
