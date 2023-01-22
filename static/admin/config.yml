@@ -8,8 +8,11 @@ display_url: https://digisec.directory
 collections:
   - name: 'tools'
     label: 'Digital Security Tools'
-    folder: 'content/en/tools'
+    folder: 'content/en'
     create: true
+    filter:
+      field: categories
+      value: 'Digital Security Tools'
     slug: '{{slug}}'
     preview_path: '{{filename}}'
     editor:
@@ -87,8 +90,17 @@ collections:
           - Crisis Response
 
         required: true
+      - label: 'Category'
+        name: 'category'
+        widget: 'select'
+        multiple: false
+        default: Digital Security Tools
+        options:
+          - Digital Safety Guides 
+          - Digital Security Tools
       - label: 'Credits'
         name: 'credits' 
+        default: 'Text by EngageMedia.'
         widget: 'string'
         required: false
       - label: 'Date & Time'
