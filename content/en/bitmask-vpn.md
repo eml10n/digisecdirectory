@@ -1,6 +1,6 @@
 ---
 title: Bitmask VPN
-# Before you add, verify that the language is supported. Use ISO 639-1 code only without country code. ms instead of ms_MY. If the source language is English, do not add to the list.
+# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
 languages:
   - en
   - my
@@ -14,4 +14,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T07:27:56.488Z
 ---
-Bitmask (Android, Desktop) is an open-source virtual private network (VPN).
+Bitmask VPN (Android, Desktop) is an open-source virtual private network (VPN).
