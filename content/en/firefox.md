@@ -5,7 +5,7 @@ languages:
   - en
   - id
   - my
-  - kh
+  - km
   - fil
   - th
 website: https://www.mozilla.org/firefox
