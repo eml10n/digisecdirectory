@@ -16,6 +16,7 @@ main:
   - name: 
   - name: Digital Safety Guides
     ref: "/categories/digital-safety-guides/" 
+    external: true
     sub:
       - name: Protecting Privacy
         ref: "/tags/protecting-privacy/"
