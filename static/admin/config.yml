@@ -103,6 +103,7 @@ collections:
           - File Storage & Sync # Alternative to Google Drive, Dropbox
           - Instant Messaging # Alternative to WhatsApp
           - Onion Routing
+          - OpenPGP Encryption
           - Password Management
           - Videoconferencing # Alternative to Zoom
           - Virtual Private Network
