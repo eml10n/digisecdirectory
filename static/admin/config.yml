@@ -137,7 +137,6 @@ collections:
           - Virtual Private Network
       - label: 'Date & Time'
         name: 'date'
-        i18n: duplicate
         widget: 'datetime'
     sortable_fields: 
       - title
