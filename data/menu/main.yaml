@@ -38,4 +38,23 @@ main:
           en: Countering Misinformation
         ref: "/tags/countering-misinformation/"
         external: true
+  - identifier: spacer1
+  - identifier: spacer2
+  - name:  
+          en: Resource Network
+    ref: "/categories/resource-network/" 
+    external: true
+    sub:
+      - name:  
+          en: Crisis Responders
+        ref: "/tags/crisis-responders/"
+        external: true
+      - name:  
+          en: Service Providers
+        ref: "/tags/service-providers/"
+        external: true
+      - name:  
+          en: Trainers
+        ref: "/tags/trainers/"
+        external: true
 ---
