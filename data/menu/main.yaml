@@ -4,30 +4,38 @@ main:
   - name: Digital Security Tools
     ref: "/categories/digital-security-tools/" 
     sub:
-      - name: Circumvention & Anonymity
+      - name: 
+          en: Circumvention & Anonymity
         ref: "/tags/circumvention-anonymity/"
-      - name: Communications & Messaging
+      - name:  
+          en: Communications & Messaging
         ref: "/tags/communications-messaging/"
       - name: Documentation & Data Management
         ref: "/tags/documentation-data-management/"
-      - name: Productivity & Browser
+      - name:  
+          en: Productivity & Browser
         ref: "/tags/productivity-browser/"
-  - name: 
-  - name: 
-  - name: Digital Safety Guides
+  - identifier: spacer1
+  - identifier: spacer2
+  - name:  
+          en: Digital Safety Guides
     ref: "/categories/digital-safety-guides/" 
     external: true
     sub:
-      - name: Enhancing Security
+      - name:  
+          en: Enhancing Security
         ref: "/tags/enhancing-security/"
         external: true
-      - name: Protecting Privacy
+      - name:  
+          en: Protecting Privacy
         ref: "/tags/protecting-privacy/"
         external: true
-      - name: Improving Wellbeing
+      - name:  
+          en: Improving Wellbeing
         ref: "/tags/improving-wellbeing/"
         external: true
-      - name: Countering Misinformation
+      - name:  
+          en: Countering Misinformation
         ref: "/tags/countering-misinformation/"
         external: true
 ---
