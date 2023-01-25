@@ -200,10 +200,10 @@ collections:
         widget: 'string'
         required: false
       - label: 'Tags'
+        label_singular: 'Tag'
         name: 'tags'
-        i18n: duplicate
         widget: 'list'
-        multiple: true
+        allow_add: true
         required: false
       - label: 'Categories'
         name: 'categories'
