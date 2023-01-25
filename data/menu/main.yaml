@@ -16,45 +16,19 @@ main:
           en: Productivity & Browser
         ref: "/tags/productivity-browser/"
   - identifier: spacer1
+    external: true
   - identifier: spacer2
+    external: true
   - name:  
           en: Digital Safety Guides
-    ref: "/categories/digital-safety-guides/" 
     external: true
-    sub:
-      - name:  
-          en: Enhancing Security
-        ref: "/tags/enhancing-security/"
-        external: true
-      - name:  
-          en: Protecting Privacy
-        ref: "/tags/protecting-privacy/"
-        external: true
-      - name:  
-          en: Improving Wellbeing
-        ref: "/tags/improving-wellbeing/"
-        external: true
-      - name:  
-          en: Countering Misinformation
-        ref: "/tags/countering-misinformation/"
-        external: true
+    ref: "/categories/digital-safety-guides/" 
   - identifier: spacer1
+    external: true
   - identifier: spacer2
+    external: true
   - name:  
           en: Resource Network
-    ref: "/categories/resource-network/" 
     external: true
-    sub:
-      - name:  
-          en: Crisis Responders
-        ref: "/tags/crisis-responders/"
-        external: true
-      - name:  
-          en: Service Providers
-        ref: "/tags/service-providers/"
-        external: true
-      - name:  
-          en: Trainers
-        ref: "/tags/trainers/"
-        external: true
+    ref: "/categories/resource-network/" 
 ---
