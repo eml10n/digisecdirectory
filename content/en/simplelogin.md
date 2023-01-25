@@ -12,4 +12,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-25T08:12:29.951Z
 ---
-S﻿impleLogin is an email f services that can mask your personal email addresses.
+S﻿impleLogin is an email forwarding service that keeps your personal email address private.
