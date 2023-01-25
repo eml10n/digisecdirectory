@@ -19,7 +19,7 @@ i18n:
     # EM L10N target languages
     - fil # Filipino
     - id # Indonesian
-    - kh # Khmer
+    - km # Khmer
     - my # Burmese
     - th # Thai
 default_locale: en
@@ -66,7 +66,7 @@ collections:
           - en # English
           - fil # Filipino
           - id # Indonesian
-          - kh # Khmer
+          - km # Khmer
           - lo # Lao
           - ms # Malay
           - ta # Tamil
@@ -188,7 +188,7 @@ collections:
           - en # English
           - fil # Filipino
           - id # Indonesian
-          - kh # Khmer
+          - km # Khmer
           - lo # Lao
           - ms # Malay
           - ta # Tamil
@@ -275,7 +275,7 @@ collections:
           - en # English
           - fil # Filipino
           - id # Indonesian
-          - kh # Khmer
+          - km # Khmer
           - lo # Lao
           - ms # Malay
           - ta # Tamil
