@@ -16,4 +16,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T08:34:51.650Z
 ---
-P﻿roton VPN is a virtual private network (VPN) service.
+Proton VPN is a virtual private network (VPN) service.

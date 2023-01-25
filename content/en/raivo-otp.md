@@ -12,4 +12,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-25T08:37:08.507Z
 ---
-R﻿aivo OTP is an open source software-based authenticator for two-step verification services that syncs your tokens across your iOS and macOS devices.
+Raivo OTP is an open source software-based authenticator for two-step verification services that syncs your tokens across your iOS and macOS devices.

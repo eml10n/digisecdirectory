@@ -18,4 +18,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T15:50:08.622Z
 ---
-S﻿end is a simple, private file-sharing tool with end-to-end encryption.
+Send is a simple, private file-sharing tool with end-to-end encryption.

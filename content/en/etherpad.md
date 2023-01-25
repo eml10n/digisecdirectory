@@ -18,4 +18,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T21:34:39.091Z
 ---
-E﻿therpad is an open-source collaborative notetaking tool.
+Etherpad is an open-source collaborative notetaking tool.

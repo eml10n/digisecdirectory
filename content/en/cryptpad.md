@@ -14,4 +14,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T21:28:00.311Z
 ---
-C﻿ryptPad is an open-source encrypted collaboration suite for securely storing, editing, and sharing spreadsheets, documents, presentations, forms, and other types of files.
+CryptPad is an open-source encrypted collaboration suite for securely storing, editing, and sharing spreadsheets, documents, presentations, forms, and other types of files.
