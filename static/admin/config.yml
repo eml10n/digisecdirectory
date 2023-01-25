@@ -14,7 +14,7 @@ logo_url: "/files/digisec.directory.svg"
 i18n:
   structure: multiple_folders
   locales:
-    ## EM L10N target languages
+    # EM L10N target languages
     - my # Burmese
     - en # English
     - fil # Filipino
@@ -24,6 +24,7 @@ i18n:
     - th # Thai
 default_locale: en
 collections:
+# Digital Security Tools
   - name: 'tools'
     label: 'Digital Security Tools'
     label_singular: 'Digital Security Tool'
@@ -72,10 +73,11 @@ collections:
           - th # Thai
           - vi # Vietnamese
 
-          ## Other EngageMedia langauges
+          # Other EngageMedia langauges
           - bn # Bengali
           - hi # Hindi
           - ur # Urdu
+
       - label: 'Website'
         name: 'website'
         i18n: duplicate
@@ -148,20 +150,8 @@ collections:
     sortable_fields: 
       - title
       - date
-    view_filters:
-      # Digital Security Guides
-      - pattern: Enhancing Security
-        label: Enhancing Security
-        field: tags
-      - pattern: Protecting Privacy
-        label: Protecting Privacy
-        field: tags
-      - pattern: Improving Wellbeing
-        label: Improving Wellbeing
-        field: tags
-      - pattern: Countering Misinformation
-        label: Countering Misinformation
-        field: tags
+
+  # Digital Security Guides    
   - name: 'guides'
     label: 'Digital Security Guides'
     label_singular: 'Digital Security Guides'
@@ -192,7 +182,7 @@ collections:
         default:
           - en
         options:
-          ## Official ASEAN languages
+          # Official ASEAN languages
           - my # Burmese
           - zh # Chinese
           - en # English
@@ -205,10 +195,11 @@ collections:
           - th # Thai
           - vi # Vietnamese
 
-          ## Other EngageMedia langauges
+          # Other EngageMedia langauges
           - bn # Bengali
           - hi # Hindi
           - ur # Urdu
+
       - label: 'Website'
         name: 'website'
         i18n: duplicate
@@ -242,6 +233,7 @@ collections:
       - title
       - date
 
+  # Digital Security Network
   - name: 'network'
     label: 'Digital Security Network'
     label_singular: 'Digital Security Network'
@@ -277,7 +269,7 @@ collections:
         default:
           - en
         options:
-          ## Official ASEAN languages
+          # Official ASEAN languages
           - my # Burmese
           - zh # Chinese
           - en # English
@@ -290,10 +282,11 @@ collections:
           - th # Thai
           - vi # Vietnamese
 
-          ## Other EngageMedia langauges
+          # Other EngageMedia langauges
           - bn # Bengali
           - hi # Hindi
           - ur # Urdu
+          
       - label: 'Website'
         name: 'website'
         i18n: duplicate
@@ -315,49 +308,6 @@ collections:
         widget: 'select'
         multiple: true
         default: Digital Security Network
-        options:
-          # Primary categories
-          - Digital Security Guides 
-          - Digital Security Tools
-          - Digital Security Network
-
-          # Digital Security Network categories
-          - Digital Security Auditors
-          - Digital Security Crisis Responders
-          - Digital Security Service Providers
-          - Digital Security Trainers
-      - label: 'Date & Time'
-        name: 'date'
-        widget: 'datetime'
-    sortable_fields: 
-      - title
-      - date
-
-
-  - name: 'uncategorised'
-    label: 'Uncategorised'
-    label_singular: 'Uncategorised'
-    folder: 'content'
-    create: true
-    filter:
-      field: categories
-      value: ''
-    slug: '{{slug}}'
-    preview_path: '{{filename}}'
-    editor:
-      preview: false
-    show_preview_links: true
-    i18n: true
-    fields:
-      - label: 'Name' 
-        name: 'title' 
-        i18n: duplicate
-        widget: 'string'
-      - label: 'Categories'
-        name: 'categories'
-        i18n: duplicate
-        widget: 'select'
-        multiple: true
         options:
           # Primary categories
           - Digital Security Guides 
