@@ -6,14 +6,7 @@ languages:
   - en
 website: https://securityplanner.consumerreports.org/recommendations
 credits: Text by Erin McConnell/EngageMedia
-tags:
-  - Account Safety
-  - Data Protection
-  - Device Security
-  - Safe Browsing
-  - Secure Connection
-  - Stalking & Harassment
 categories:
-  - Digital Safety Guides
+  - Digital Security Guides
 ---
 Security Planner by Consumer Reports is a guide that walks users through a series of questions about their digital habits to provide customised digital security recommendations.

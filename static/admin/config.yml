@@ -116,7 +116,7 @@ collections:
         default: Digital Security Tools
         options:
           # Primary categories
-          - Digital Safety Guides 
+          - Digital Security Guides 
           - Digital Security Tools
           - Network Resources
 
@@ -136,7 +136,7 @@ collections:
       - title
       - date
     view_filters:
-      # Digital Safety Guides
+      # Digital Security Guides
       - pattern: Enhancing Security
         label: Enhancing Security
         field: tags
@@ -150,13 +150,13 @@ collections:
         label: Countering Misinformation
         field: tags
   - name: 'guides'
-    label: 'Digital Safety Guides'
+    label: 'Digital Security Guides'
     label_singular: 'Digital Security Guides'
     folder: 'content'
     create: true
     filter:
       field: categories
-      value: 'Digital Safety Guides'
+      value: 'Digital Security Guides'
     slug: '{{slug}}'
     preview_path: '{{filename}}'
     editor:
@@ -200,28 +200,15 @@ collections:
         default: ''
         widget: 'string'
         required: false
-      - label: 'Tags'
-        name: 'tags'
-        i18n: duplicate
-        widget: 'select'
-        multiple: true
-        options:
-          # Primary tags
-          - Account Safety
-          - Data Protection
-          - Device Security
-          - Safe Browsing
-          - Secure Connection
-          - Stalking & Harassment
       - label: 'Categories'
         name: 'categories'
         i18n: duplicate
         widget: 'select'
         multiple: true
-        default: Digital Safety Guides
+        default: Digital Security Guides
         options:
           # Primary categories
-          - Digital Safety Guides 
+          - Digital Security Guides 
           - Digital Security Tools
           - Network Resources
       - label: 'Date & Time'
@@ -230,17 +217,83 @@ collections:
     sortable_fields: 
       - title
       - date
-    view_filters:
-      # Digital Safety Guides
-      - pattern: Enhancing Security
-        label: Enhancing Security
-        field: tags
-      - pattern: Protecting Privacy
-        label: Protecting Privacy
-        field: tags
-      - pattern: Improving Wellbeing
-        label: Improving Wellbeing
-        field: tags
-      - pattern: Countering Misinformation
-        label: Countering Misinformation
-        field: tags
+
+  - name: 'guides'
+    label: 'Digital Security Guides'
+    label_singular: 'Digital Security Guides'
+    folder: 'content'
+    create: true
+    filter:
+      field: categories
+      value: 'Digital Security Guides'
+    slug: '{{slug}}'
+    preview_path: '{{filename}}'
+    editor:
+      preview: false
+    show_preview_links: true
+    i18n: true
+    fields:
+      - label: 'Name' 
+        name: 'title' 
+        i18n: duplicate
+        widget: 'string'
+      - label: 'Logo'
+        name: 'cover'
+        i18n: duplicate
+        widget: 'image'
+        required: true
+      - label: 'Supported Languages' 
+        name: 'languages' 
+        i18n: duplicate
+        comment: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
+        description: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
+        widget: 'select'
+        multiple: true
+        allow_add: true
+        default:
+          - en
+        options:
+          - en
+          - fil
+          - id
+          - km
+          - my
+          - th
+      - label: 'Website'
+        name: 'website'
+        i18n: duplicate
+        widget: 'string'
+        required: true
+      - label: 'Body'
+        name: 'body'
+        i18n: true
+        widget: 'markdown'
+      - label: 'Credits'
+        name: 'credits' 
+        i18n: true
+        default: ''
+        widget: 'string'
+        required: false
+      - label: 'Categories'
+        name: 'categories'
+        i18n: duplicate
+        widget: 'select'
+        multiple: true
+        default: Digital Security Network
+        options:
+          # Primary categories
+          - Digital Security Guides 
+          - Digital Security Tools
+          - Digital Security Network
+
+          # Digital Security Network categories
+          - Digital Security Auditors
+          - Digital Security Crisis Responders
+          - Digital Security Service Providers
+          - Digital Security Trainers
+      - label: 'Date & Time'
+        name: 'date'
+        widget: 'datetime'
+    sortable_fields: 
+      - title
+      - date

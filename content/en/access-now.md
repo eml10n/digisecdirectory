@@ -7,11 +7,10 @@ languages:
   - id
 website: https://www.accessnow.org/
 cover: /files/access-now.jpg
-tags:
-  - Crisis Response
-  - Training
 categories:
-  - Resource Network
+  - Digital Security Network
+  - Crisis Responders
+  - Trainers
 credits: Text by Access Now.
 date: 2023-01-19T07:27:56.488Z
 ---
