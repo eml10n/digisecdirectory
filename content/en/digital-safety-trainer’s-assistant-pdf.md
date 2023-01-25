@@ -4,9 +4,9 @@ title: Digital Safety Trainer’s Assistant (PDF)
 languages:
   - en
 website: https://safesisters.org/wp-content/uploads/2019/09/Digital-Safety-Trainers-Assistant-smaller.pdf
-credits: Text by Erin McConnel/EngageMedia.
+credits: Text by Safe Sisters.
 categories:
   - Digital Security Guides
 date: 2023-01-25T10:49:17.797Z
 ---
-Digital Safety Trainer’s Assistant by Natasha Msonza and Internews is a guide for digital security trainers that provides step-by-step approaches for teaching digital security concepts and practices.
+The Digital Security Trainer’s Assistant, is a trainer’s guide for new and experienced digital security trainers, who want a friendly, easy-to-follow resource that they can keep with them as they learn and train. Written by digital security trainer and Safe Sisters trainer Natasha Msonza**,** the guide draws from her experiences learning and training others on digital security.
