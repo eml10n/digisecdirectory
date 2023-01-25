@@ -148,8 +148,6 @@ collections:
       - pattern: Countering Misinformation
         label: Countering Misinformation
         field: tags
-
-collections:
   - name: 'guides'
     label: 'Digital Safety Guides'
     label_singular: 'Digital Security Guides'
