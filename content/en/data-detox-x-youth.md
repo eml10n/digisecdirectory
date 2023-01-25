@@ -4,7 +4,7 @@ title: Data Detox x Youth
 languages:
   - en
 website: https://datadetoxkit.org/en/families/datadetox-x-youth/
-credits: Text by Techtical Tech
+credits: Text by Techtical Tech.
 categories:
   - Digital Safety Guides
 date: 2023-01-25T10:16:30.255Z
