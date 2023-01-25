@@ -14,23 +14,14 @@ logo_url: "/files/digisec.directory.svg"
 i18n:
   structure: multiple_folders
   locales:
-    ## Official ASEAN languages
+    ## EM L10N target languages
     - my # Burmese
-    - zh # Chinese
     - en # English
     - fil # Filipino
     - id # Indonesian
     - kh # Khmer
-    - lo # Lao
     - ms # Malay
-    - ta # Tamil
     - th # Thai
-    - vi # Vietnamese
-
-    ## Other EngageMedia langauges
-    - bn # Bengali
-    - hi # Hindi
-    - ur # Urdu
 default_locale: en
 collections:
   - name: 'tools'
@@ -66,14 +57,25 @@ collections:
         multiple: true
         allow_add: true
         default:
-          - en
+          - en # English
         options:
-          - en
-          - fil
-          - id
-          - km
-          - my
-          - th
+          ## Official ASEAN languages
+          - my # Burmese
+          - zh # Chinese
+          - en # English
+          - fil # Filipino
+          - id # Indonesian
+          - kh # Khmer
+          - lo # Lao
+          - ms # Malay
+          - ta # Tamil
+          - th # Thai
+          - vi # Vietnamese
+
+          ## Other EngageMedia langauges
+          - bn # Bengali
+          - hi # Hindi
+          - ur # Urdu
       - label: 'Website'
         name: 'website'
         i18n: duplicate
@@ -190,12 +192,23 @@ collections:
         default:
           - en
         options:
-          - en
-          - fil
-          - id
-          - km
-          - my
-          - th
+          ## Official ASEAN languages
+          - my # Burmese
+          - zh # Chinese
+          - en # English
+          - fil # Filipino
+          - id # Indonesian
+          - kh # Khmer
+          - lo # Lao
+          - ms # Malay
+          - ta # Tamil
+          - th # Thai
+          - vi # Vietnamese
+
+          ## Other EngageMedia langauges
+          - bn # Bengali
+          - hi # Hindi
+          - ur # Urdu
       - label: 'Website'
         name: 'website'
         i18n: duplicate
@@ -264,12 +277,23 @@ collections:
         default:
           - en
         options:
-          - en
-          - fil
-          - id
-          - km
-          - my
-          - th
+          ## Official ASEAN languages
+          - my # Burmese
+          - zh # Chinese
+          - en # English
+          - fil # Filipino
+          - id # Indonesian
+          - kh # Khmer
+          - lo # Lao
+          - ms # Malay
+          - ta # Tamil
+          - th # Thai
+          - vi # Vietnamese
+
+          ## Other EngageMedia langauges
+          - bn # Bengali
+          - hi # Hindi
+          - ur # Urdu
       - label: 'Website'
         name: 'website'
         i18n: duplicate
