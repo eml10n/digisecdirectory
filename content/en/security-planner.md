@@ -5,13 +5,17 @@ title: Security Planner
 # Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
 languages:
   - en
-website: https://securityplanner.consumerreports.org/
+website: https://securityplanner.consumerreports.org/recommendations
 credits: Text by Erin McConnell/EngageMedia
 tags:
   - Safe Browsing
   - Device Security
   - Online Stalking & Harassment
-  - OnlineAccountSafety
+  - Online Account Safety
+  - Secure Internet Connection
+  - Data Protection
+  - Connected Device Security
+  - Financial Data Security
 categories:
   - Digital Safety Guides
 ---
