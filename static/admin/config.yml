@@ -60,7 +60,7 @@ collections:
         default:
           - en # English
         options:
-          ## Official ASEAN languages
+          # Official ASEAN languages
           - my # Burmese
           - zh # Chinese
           - en # English
