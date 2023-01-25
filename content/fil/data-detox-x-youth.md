@@ -6,6 +6,6 @@ languages:
 website: https://datadetoxkit.org/en/families/datadetox-x-youth/
 credits: ""
 categories:
-  - Digital Safety Guides
+  - Digital Security Guides
 date: 2023-01-25T10:16:30.263Z
 ---
