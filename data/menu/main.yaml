@@ -22,7 +22,7 @@ main:
   - name:  
       en: Digital Safety Guides
     ref: "/categories/digital-safety-guides/" 
-    - sub:
+    sub:
       - name: 
           en: Data Protection
         ref: /tags/data-protection/
@@ -42,7 +42,7 @@ main:
   - name:  
       en: Resource Network
     ref: "/categories/resource-network/" 
-    - sub:
+    sub:
       - name: 
           en: Audit
         ref: tags/audit/
