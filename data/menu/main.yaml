@@ -25,16 +25,16 @@ main:
     - sub:
       - name: 
           en: Data Protection
-        ref: /data-protection/
+        ref: /tags/data-protection/
       - name: 
           en: Account Safety
-        ref: /account-safety/
+        ref: /tags/account-safety/
       - name: 
           en: Stalking & Harassment
-        ref: /stalking-harassment/
+        ref: /tags/stalking-harassment/
       - name: 
           en: Safe Browsing
-        ref: /safe-browsing/
+        ref: /tags/safe-browsing/
   - identifier: spacer1
     external: true
   - identifier: spacer2
@@ -45,14 +45,14 @@ main:
     - sub:
       - name: 
           en: Audit
-        ref: /audit/
+        ref: tags/audit/
       - name: 
           en: Crisis Response
-        ref: /crisis-response/
+        ref: /tags/crisis-response/
       - name: 
           en: Training
-        ref: /training/
+        ref: /tags/training/
       - name: 
           en: Service Provider
-        ref: /service-provider/
+        ref: /tags/service-provider/
 ---
