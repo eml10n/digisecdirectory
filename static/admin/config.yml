@@ -163,15 +163,10 @@ collections:
     show_preview_links: true
     i18n: true
     fields:
-      - label: 'Name' 
+      - label: 'Title' 
         name: 'title' 
         i18n: duplicate
         widget: 'string'
-      - label: 'Icon'
-        name: 'cover'
-        i18n: duplicate
-        widget: 'image'
-        required: true
       - label: 'Supported Languages' 
         name: 'languages' 
         i18n: duplicate
@@ -207,16 +202,9 @@ collections:
       - label: 'Tags'
         name: 'tags'
         i18n: duplicate
-        widget: 'select'
+        widget: 'list'
         multiple: true
-        options:
-          # Digital Safety Guides
-          - Protecting Privacy
-          - Enhancing Security
-          - Improving Wellbeing
-          - Countering Misinformation
-
-        required: true
+        required: false
       - label: 'Categories'
         name: 'categories'
         i18n: duplicate
