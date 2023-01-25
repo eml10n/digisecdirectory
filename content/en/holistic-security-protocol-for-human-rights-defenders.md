@@ -4,6 +4,15 @@ title: Holistic Security Protocol for Human Rights Defenders
 languages:
   - en
   - fil
+  - lo
+  - ms
+  - my
+  - vi
+  - zh
+  - id
+  - bn
+  - hi
+  - ur
 website: https://protocol.openbriefing.org/
 credits: Text by Open Briefing,
 categories:
