@@ -218,14 +218,14 @@ collections:
       - title
       - date
 
-  - name: 'guides'
-    label: 'Digital Security Guides'
-    label_singular: 'Digital Security Guides'
+  - name: 'network'
+    label: 'Digital Security Network'
+    label_singular: 'Digital Security Network'
     folder: 'content'
     create: true
     filter:
       field: categories
-      value: 'Digital Security Guides'
+      value: 'Digital Security Network'
     slug: '{{slug}}'
     preview_path: '{{filename}}'
     editor:
@@ -280,6 +280,49 @@ collections:
         widget: 'select'
         multiple: true
         default: Digital Security Network
+        options:
+          # Primary categories
+          - Digital Security Guides 
+          - Digital Security Tools
+          - Digital Security Network
+
+          # Digital Security Network categories
+          - Digital Security Auditors
+          - Digital Security Crisis Responders
+          - Digital Security Service Providers
+          - Digital Security Trainers
+      - label: 'Date & Time'
+        name: 'date'
+        widget: 'datetime'
+    sortable_fields: 
+      - title
+      - date
+
+
+  - name: 'network'
+    label: 'Digital Security Network'
+    label_singular: 'Digital Security Network'
+    folder: 'content'
+    create: true
+    filter:
+      field: categories
+      value: ''
+    slug: '{{slug}}'
+    preview_path: '{{filename}}'
+    editor:
+      preview: false
+    show_preview_links: true
+    i18n: true
+    fields:
+      - label: 'Name' 
+        name: 'title' 
+        i18n: duplicate
+        widget: 'string'
+      - label: 'Categories'
+        name: 'categories'
+        i18n: duplicate
+        widget: 'select'
+        multiple: true
         options:
           # Primary categories
           - Digital Security Guides 
