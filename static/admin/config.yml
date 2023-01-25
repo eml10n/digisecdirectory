@@ -299,9 +299,9 @@ collections:
       - date
 
 
-  - name: 'network'
-    label: 'Digital Security Network'
-    label_singular: 'Digital Security Network'
+  - name: 'uncategorised'
+    label: 'Uncategorised'
+    label_singular: 'Uncategorised'
     folder: 'content'
     create: true
     filter:
