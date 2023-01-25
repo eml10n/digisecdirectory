@@ -15,11 +15,12 @@ i18n:
   structure: multiple_folders
   locales:
     # EM L10N target languages
-    - my # Burmese
     - en # English
+    # EM L10N target languages
     - fil # Filipino
     - id # Indonesian
     - kh # Khmer
+    - my # Burmese
     - th # Thai
 default_locale: en
 collections:
