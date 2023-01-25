@@ -24,17 +24,17 @@ main:
     ref: "/categories/digital-safety-guides/" 
     sub:
       - name: 
-          en: Data Protection
-        ref: /tags/data-protection/
-      - name: 
           en: Account Safety
         ref: /tags/account-safety/
       - name: 
-          en: Stalking & Harassment
-        ref: /tags/stalking-harassment/
+          en: Data Protection
+        ref: /tags/data-protection/
       - name: 
           en: Safe Browsing
         ref: /tags/safe-browsing/
+      - name: 
+          en: Stalking & Harassment
+        ref: /tags/stalking-harassment/
   - identifier: spacer1
     external: true
   - identifier: spacer2

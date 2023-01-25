@@ -7,12 +7,12 @@ languages:
 website: https://securityplanner.consumerreports.org/recommendations
 credits: Text by Erin McConnell/EngageMedia
 tags:
-  - Safe Browsing
-  - Device Security
-  - Stalking & Harassment
   - Account Safety
-  - Secure Connection
   - Data Protection
+  - Device Security
+  - Safe Browsing
+  - Secure Connection
+  - Stalking & Harassment
 categories:
   - Digital Safety Guides
 ---
