@@ -9,12 +9,10 @@ credits: Text by Erin McConnell/EngageMedia
 tags:
   - Safe Browsing
   - Device Security
-  - Online Stalking & Harassment
-  - Online Account Safety
-  - Secure Internet Connection
+  - Stalking & Harassment
+  - Account Safety
+  - Secure Connection
   - Data Protection
-  - Connected Device Security
-  - Financial Data Security
 categories:
   - Digital Safety Guides
 ---

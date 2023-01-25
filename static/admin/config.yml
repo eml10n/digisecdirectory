@@ -118,6 +118,7 @@ collections:
           # Primary categories
           - Digital Safety Guides 
           - Digital Security Tools
+          - Network Resources
 
           # Secondary categories
           - File Sharing # Alternative to We Transfer
@@ -200,11 +201,18 @@ collections:
         widget: 'string'
         required: false
       - label: 'Tags'
-        label_singular: 'Tag'
         name: 'tags'
-        widget: 'list'
-        allow_add: true
-        required: false
+        i18n: duplicate
+        widget: 'select'
+        multiple: true
+        options:
+          # Primary tags
+          - Account Safety
+          - Data Protection
+          - Device Security
+          - Safe Browsing
+          - Secure Connection
+          - Stalking & Harassment
       - label: 'Categories'
         name: 'categories'
         i18n: duplicate
@@ -215,6 +223,7 @@ collections:
           # Primary categories
           - Digital Safety Guides 
           - Digital Security Tools
+          - Network Resources
       - label: 'Date & Time'
         name: 'date'
         widget: 'datetime'

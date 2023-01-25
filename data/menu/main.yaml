@@ -22,6 +22,19 @@ main:
   - name:  
       en: Digital Safety Guides
     ref: "/categories/digital-safety-guides/" 
+    - sub:
+      - name: 
+          en: Data Protection
+        ref: /data-protection/
+      - name: 
+          en: Account Safety
+        ref: /account-safety/
+      - name: 
+          en: Stalking & Harassment
+        ref: /stalking-harassment/
+      - name: 
+          en: Safe Browsing
+        ref: /safe-browsing/
   - identifier: spacer1
     external: true
   - identifier: spacer2
@@ -29,4 +42,17 @@ main:
   - name:  
       en: Resource Network
     ref: "/categories/resource-network/" 
+    - sub:
+      - name: 
+          en: Audit
+        ref: /audit/
+      - name: 
+          en: Crisis Response
+        ref: /crisis-response/
+      - name: 
+          en: Training
+        ref: /training/
+      - name: 
+          en: Service Provider
+        ref: /service-provider/
 ---
