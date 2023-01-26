@@ -10,7 +10,6 @@ website: https://www.accessnow.org/help/
 credits: Text by Access Now.
 categories:
   - Digital Security Network
-  - Crisis Responders
-  - Trainers
+  - Digital Security Crisis Responders
 date: 2023-01-19T07:27:56.488Z
 ---
