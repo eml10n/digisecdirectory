@@ -5,8 +5,8 @@ backend:
  auth_type: pkce # Required for pkce
  app_id: 7211b2bd14325e647d848c9d5dbee2f65e8899b7160f05b9ef657a54cabb2e21 # Application ID from your GitLab settings
  cms_label_prefix: netlify-cms/
- preview_context: review/cms-blog-posts-{{file_name}}  # MR !78973
-publish_mode: editorial_workflow
+ preview_context: review/cms-blog-posts-{{file_name}}
+# publish_mode: editorial_workflow
 media_folder: static/files
 public_folder: /files
 site_url: https://digisec.directory
