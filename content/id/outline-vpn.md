@@ -1,6 +1,7 @@
 ---
 title: Outline VPN
-# Before you add, verify that the language is supported. Use ISO 639-1 code only without country code. ms instead of ms_MY. If the source language is English, do not add to the list.
+cover: /files/outline.jpg
+# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
 languages:
   - en
   - fil
@@ -9,13 +10,12 @@ languages:
   - th
   - km
 website: https://getoutline.org/
-cover: /files/outline.jpg
+credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Self-hosting
-  - Circumvention and Anonymity
+  - Circumvention & Anonymity
 categories:
   - Digital Security Tools
   - Virtual Private Network
-credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T20:13:34.694Z
 ---
