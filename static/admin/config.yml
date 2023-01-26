@@ -20,6 +20,7 @@ i18n:
     - fil # Filipino
     - id # Indonesian
     - km # Khmer
+    - ms # Malay
     - my # Burmese
     - th # Thai
 default_locale: en

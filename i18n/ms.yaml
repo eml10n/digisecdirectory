@@ -1,0 +1,53 @@
+---
+edit_page: Edit halaman
+
+nav_navigation: Mulakan
+nav_tags: Tag
+nav_more: Sumbangkan
+nav_top: Kembali ke atas
+
+form_placeholder_search: Cari
+
+error_page_title: Tak jumpa? Jangan bimbang
+error_message_title: Tak jumpa?
+error_message_code: Ralat 404
+error_message_text: >
+  Nampaknya apa yang anda cari tidak ditemui. Jangan risau, kami boleh
+  membawa anda kembali ke <a class="gdoc-error__link" href="{{ . }}">laman utama</a>.
+
+button_toggle_dark: Togol mod Gelap/Cerah/Auto
+button_nav_open: Buka Navigasi
+button_nav_close: Tutup Navigasi
+button_menu_open: Buka Bar Menu
+button_menu_close: Tutup bar Menu
+button_homepage: Kembali ke laman utama
+
+title_anchor_prefix: "Anchor to:"
+
+posts_read_more: Baca siaran penuh
+posts_read_time:
+  one: "Baca dalam seminit"
+  other: "Baca dalam {{ . }} minit"
+posts_update_prefix: Dikemaskini pada
+posts_count:
+  one: "Satu siaran"
+  other: "{{ . }} siaran"
+posts_tagged_with: Semua siaran yang ditag dengan '{{ . }}'
+
+footer_build_with: >
+  Dibangunkan dengan <a href="https://gohugo.io/" class="gdoc-footer__link">Hugo</a> dan
+  <svg class="gdoc-icon gdoc_heart"><use xlink:href="#gdoc_heart"></use></svg>
+footer_legal_notice: Notis Undang-undang
+footer_privacy_policy: Polisi Privasi
+footer_content_license_prefix: >
+  Kandungan dilesenkan di bawah
+
+language_switch_no_tranlation_prefix: "Halaman tidak diterjemahkan:"
+
+propertylist_required: diperlukan
+propertylist_optional: pilihan
+propertylist_default: default
+
+pagination_page_prev: sebelumnya
+pagination_page_next: kemudian
+pagination_page_state: "Halaman {{ .PageNumber }} daripada {{ .TotalPages }}"

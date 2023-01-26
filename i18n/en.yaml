@@ -50,4 +50,4 @@ propertylist_default: default
 
 pagination_page_prev: prev
 pagination_page_next: next
-pagination_page_state: "{{ .PageNumber }}/{{ .TotalPages }}"
+pagination_page_state: "Page {{ .PageNumber }} of {{ .TotalPages }}"
