@@ -11,5 +11,6 @@ credits: Text by Access Now.
 categories:
   - Digital Security Network
   - Digital Security Crisis Responders
+  - Digital Security Trainers
 date: 2023-01-19T07:27:56.488Z
 ---
