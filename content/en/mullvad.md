@@ -7,7 +7,7 @@ languages:
   - zh
   - th
   - my
-website: https://mullvad
+website: https://mullvad.net
 credits: Text by Khairil Zhafri/EngageMedia
 flags:
   - Premium
