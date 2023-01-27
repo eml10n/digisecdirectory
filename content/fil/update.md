@@ -1,3 +1,0 @@
----
-title: Update the Directory
----

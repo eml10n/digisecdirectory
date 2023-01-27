@@ -1,3 +1,0 @@
----
-title: Direktori Keamanan Digital 
----
