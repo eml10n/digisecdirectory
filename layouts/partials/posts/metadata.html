@@ -38,11 +38,11 @@
     {{ with $.Site.GetPage (printf "/flags/%s" $name | urlize) }}
       {{ if eq $tc 0 }}
         <span class="flex align-center no-wrap tag-{{ $name | urlize }}">
-          {{ template "post-tag" dict "name" $name "page" . }}
+          {{ template "post-flag" dict "name" $name "page" . }}
         </span>
       {{ else }}
         <span class="flex align-center tag-{{ $name | urlize }}">
-          {{ template "post-tag" dict "name" $name "page" . }}
+          {{ template "post-flag" dict "name" $name "page" . }}
         </span>
       {{ end }}
     {{ end }}
@@ -50,14 +50,14 @@
   {{ end }}
 {{ end }}
 
-{{ define "post-tag" }}
+{{ define "post-flag" }}
   <span class="gdoc-post__tag gdoc-button gdoc-button--regular">
-    <a
+    <span
       class="gdoc-button__link"
       href="{{ .page.RelPermalink }}"
       title="{{ i18n "posts_tagged_with" .name }}"
     >
       {{ .name }}
-    </a>
+    </span>
   </span>
 {{ end }}
