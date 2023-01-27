@@ -52,12 +52,12 @@
 
 {{ define "post-flag" }}
   <span class="gdoc-post__tag gdoc-button gdoc-button--regular">
-    <span
+    <a
       class="gdoc-button__link"
       href="{{ .page.RelPermalink }}"
       title="{{ i18n "posts_tagged_with" .name }}"
     >
       {{ .name }}
-    </span>
+    </a>
   </span>
 {{ end }}
