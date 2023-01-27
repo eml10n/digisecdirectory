@@ -16,7 +16,7 @@ collections:
   - name: 'tools'
     label: 'Digital Security Tools'
     label_singular: 'Digital Security Tool'
-    folder: 'content'
+    folder: 'content/en'
     create: true
     filter:
       field: categories
@@ -134,7 +134,7 @@ collections:
   - name: 'guides'
     label: 'Digital Security Guides'
     label_singular: 'Digital Security Guides'
-    folder: 'content'
+    folder: 'content/en'
     create: true
     filter:
       field: categories
@@ -209,7 +209,7 @@ collections:
   - name: 'network'
     label: 'Digital Security Network'
     label_singular: 'Digital Security Network'
-    folder: 'content'
+    folder: 'content/en'
     create: true
     filter:
       field: categories
@@ -294,7 +294,7 @@ collections:
   - name: 'pages'
     label: 'Pages'
     label_singular: 'Page'
-    folder: 'content'
+    folder: 'content/en'
     create: true
     filter:
       field: type
@@ -306,7 +306,7 @@ collections:
     show_preview_links: true
     fields:
       - name: 'type'
-        widdet: 'hidden'
+        widget: 'hidden'
         default: 'page'
       - label: 'Title' 
         name: 'title' 
