@@ -11,19 +11,6 @@ media_folder: static/files
 public_folder: /files
 site_url: https://digisec.directory
 logo_url: "/files/digisec.directory.svg"
-i18n:
-  structure: multiple_folders
-  locales:
-    # EM L10N target languages
-    - en # English
-    # EM L10N target languages
-    - fil # Filipino
-    - id # Indonesian
-    - km # Khmer
-    - ms # Malay
-    - my # Burmese
-    - th # Thai
-default_locale: en
 collections:
 # Digital Security Tools
   - name: 'tools'
@@ -39,20 +26,16 @@ collections:
     editor:
       preview: false
     show_preview_links: true
-    i18n: true
     fields:
       - label: 'Name' 
         name: 'title' 
-        i18n: duplicate
         widget: 'string'
       - label: 'Icon'
         name: 'cover'
-        i18n: duplicate
         widget: 'image'
         required: true
       - label: 'Supported Languages' 
         name: 'languages' 
-        i18n: duplicate
         comment: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         description: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         widget: 'select'
@@ -81,22 +64,18 @@ collections:
 
       - label: 'Website'
         name: 'website'
-        i18n: duplicate
         widget: 'string'
         required: true
       - label: 'Body'
         name: 'body'
-        i18n: true
         widget: 'markdown'
       - label: 'Credits'
         name: 'credits' 
-        i18n: true
         default: 'Text by EngageMedia.'
         widget: 'string'
         required: false
       - label: 'Tags'
         name: 'tags'
-        i18n: duplicate
         widget: 'select'
         multiple: true
         options:
@@ -126,7 +105,6 @@ collections:
         required: true
       - label: 'Categories'
         name: 'categories'
-        i18n: duplicate
         widget: 'select'
         multiple: true
         default: Digital Security Tools
@@ -147,7 +125,6 @@ collections:
           - Virtual Private Network
       - label: 'Date & Time'
         name: 'date'
-        i18n: true
         widget: 'datetime'
     sortable_fields: 
       - title
@@ -167,15 +144,12 @@ collections:
     editor:
       preview: false
     show_preview_links: true
-    i18n: true
     fields:
       - label: 'Title' 
         name: 'title' 
-        i18n: duplicate
         widget: 'string'
       - label: 'Supported Languages' 
         name: 'languages' 
-        i18n: duplicate
         comment: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         description: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         widget: 'select'
@@ -204,22 +178,18 @@ collections:
 
       - label: 'Website'
         name: 'website'
-        i18n: duplicate
         widget: 'string'
         required: true
       - label: 'Body'
         name: 'body'
-        i18n: true
         widget: 'markdown'
       - label: 'Credits'
         name: 'credits' 
-        i18n: true
         default: ''
         widget: 'string'
         required: false
       - label: 'Categories'
         name: 'categories'
-        i18n: duplicate
         widget: 'select'
         multiple: true
         default: Digital Security Guides
@@ -230,7 +200,6 @@ collections:
           - Network Resources
       - label: 'Date & Time'
         name: 'date'
-        i18n: true
         widget: 'datetime'
     sortable_fields: 
       - title
@@ -250,20 +219,15 @@ collections:
     editor:
       preview: false
     show_preview_links: true
-    i18n: true
     fields:
       - label: 'Name' 
         name: 'title' 
-        i18n: duplicate
         widget: 'string'
       - label: 'Logo'
         name: 'cover'
-        i18n: duplicate
         widget: 'image'
-        required: true
       - label: 'Supported Languages' 
         name: 'languages' 
-        i18n: duplicate
         comment: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         description: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         widget: 'select'
@@ -292,22 +256,18 @@ collections:
           
       - label: 'Website'
         name: 'website'
-        i18n: duplicate
         widget: 'string'
         required: true
       - label: 'Body'
         name: 'body'
-        i18n: true
         widget: 'markdown'
       - label: 'Credits'
         name: 'credits' 
-        i18n: true
         default: ''
         widget: 'string'
         required: false
       - label: 'Categories'
         name: 'categories'
-        i18n: duplicate
         widget: 'select'
         multiple: true
         default: Digital Security Network
@@ -324,7 +284,6 @@ collections:
           - Digital Security Trainers
       - label: 'Date & Time'
         name: 'date'
-        i18n: true
         widget: 'datetime'
     sortable_fields: 
       - title
