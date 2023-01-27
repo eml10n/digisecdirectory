@@ -6,8 +6,9 @@ languages:
   - id
 website: https://bitwarden.com/
 cover: /files/bitwarden.jpg
-tags:
+flags:
   - Freemium
+tags:
   - Web App
   - Self-hosting
   - Documentation & Data Management

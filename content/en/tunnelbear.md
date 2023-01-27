@@ -9,9 +9,9 @@ website: https://www.tunnelbear.com/
 cover: /files/tunnelbear.jpg
 flags:
   - Closed Source
+  - Freemium
 tags:
   - Circumvention & Anonymity
-  - Freemium
 categories:
   - Digital Security Tools
   - Virtual Private Network

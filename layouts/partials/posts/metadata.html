@@ -29,3 +29,35 @@
     </a>
   </span>
 {{ end }}
+
+
+{{ $tc := 0 }}
+{{ with .Params.flags }}
+  {{ range sort . }}
+    {{ $name := . }}
+    {{ with $.Site.GetPage (printf "/flags/%s" $name | urlize) }}
+      {{ if eq $tc 0 }}
+        <span class="flex align-center no-wrap tag-{{ $name | urlize }}">
+          {{ template "post-tag" dict "name" $name "page" . }}
+        </span>
+      {{ else }}
+        <span class="flex align-center tag-{{ $name | urlize }}">
+          {{ template "post-tag" dict "name" $name "page" . }}
+        </span>
+      {{ end }}
+    {{ end }}
+    {{ $tc = (add $tc 1) }}
+  {{ end }}
+{{ end }}
+
+{{ define "post-tag" }}
+  <span class="gdoc-post__tag gdoc-button gdoc-button--regular">
+    <a
+      class="gdoc-button__link"
+      href="{{ .page.RelPermalink }}"
+      title="{{ i18n "posts_tagged_with" .name }}"
+    >
+      {{ .name }}
+    </a>
+  </span>
+{{ end }}

@@ -7,9 +7,10 @@ languages:
   - id
 website: https://protonvpn.com/
 cover: /files/protonvpn.jpg
+flags:
+  - Freemium
 tags:
   - Circumvention & Anonymity
-  - Freemium
 categories: 
   - Digital Security Tools
   - Virtual Private Network

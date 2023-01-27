@@ -6,8 +6,9 @@ languages:
   - en
 website: https://anonaddy.com/
 credits: Text by Khairil Zhafri/EngageMedia.
-tags:
+flags:
   - Freemium
+tags:
   - Communications & Messaging
 categories:
   - OpenPGP Encryption

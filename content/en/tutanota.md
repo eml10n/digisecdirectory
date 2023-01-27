@@ -6,9 +6,10 @@ languages:
   - en
 website: https://tutanota.com/
 credits: Text by Khairil/EngageMedia.
+flags:
+  - Freemium
 tags:
   - Communications & Messaging
-  - Freemium
 categories:
   - Digital Security Tools
 date: 2023-01-25T07:33:11.715Z

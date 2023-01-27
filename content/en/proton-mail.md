@@ -6,9 +6,10 @@ languages:
   - id
 website: https://proton.me/mail
 cover: /files/protonmail.jpg
+flags:
+  - Freemium
 tags:
   - Communications & Messaging
-  - Freemium
   - Web App
 categories:
   - Digital Security Tools

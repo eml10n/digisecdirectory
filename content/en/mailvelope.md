@@ -5,6 +5,8 @@ languages:
   - my
 website: https://mailvelope.com/
 cover: /files/mailvelope.jpg
+flags:
+  - Freemium
 tags:
   - Communications & Messaging
 categories:

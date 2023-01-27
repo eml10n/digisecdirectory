@@ -6,8 +6,9 @@ languages:
   - en
 website: https://relay.firefox.com/
 cover: /files/firefoxrelay.jpg
-tags:
+flags:
   - Freemium
+tags:
   - Self-hosting
   - Productivity & Browser
 categories:
