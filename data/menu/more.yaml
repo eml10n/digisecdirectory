@@ -1,22 +1,18 @@
 ---
 ### Localized menus have to be merged into a single yaml file
 more:
-  - identifier: internal
-    sub:
-      - name: Update the Directory
-        ref: "/update"
-      - name: Translate the Directory
-        ref: "/translate"
+  - name: Update the Directory
+    ref: "/update"
+  - name: Translate the Directory
+    ref: "/translate"
   - identifier: spacer1
     external: true
   - identifier: spacer2
     external: true
-  - identifier: external
-    sub:
-      - name: Fork on GitLab
-        ref: "https://gitlab.com/eml10n/digisecdirectory"
-        external: true
-      - name: Localize on L10N.SPACE
-        ref: "https://l10n.space"
-        external: true
+  - name: Fork on GitLab
+    ref: "https://gitlab.com/eml10n/digisecdirectory"
+    external: true
+  - name: Localize on L10N.SPACE
+    ref: "https://l10n.space"
+    external: true
 ---
