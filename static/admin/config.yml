@@ -147,6 +147,7 @@ collections:
           - Virtual Private Network
       - label: 'Date & Time'
         name: 'date'
+        i18n: true
         widget: 'datetime'
     sortable_fields: 
       - title
@@ -229,6 +230,7 @@ collections:
           - Network Resources
       - label: 'Date & Time'
         name: 'date'
+        i18n: true
         widget: 'datetime'
     sortable_fields: 
       - title
@@ -322,6 +324,7 @@ collections:
           - Digital Security Trainers
       - label: 'Date & Time'
         name: 'date'
+        i18n: true
         widget: 'datetime'
     sortable_fields: 
       - title
