@@ -48,6 +48,6 @@ propertylist_required: required
 propertylist_optional: optional
 propertylist_default: default
 
-pagination_page_prev: prev
-pagination_page_next: next
+pagination_page_prev: Previous
+pagination_page_next: Next
 pagination_page_state: "Page {{ .PageNumber }} of {{ .TotalPages }}"
