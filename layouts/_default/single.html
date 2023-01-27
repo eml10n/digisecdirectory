@@ -1,8 +1,7 @@
 {{ define "main" }}
   {{ if .Params.website }}
     <article class="gdoc-markdown gdoc-markdown__align--{{ default "left" (.Page.Params.GeekdocAlign | lower) }}">
-        {{ $website := $.Params.website }}
-        <h1>Redirecting to {{ replaceRE `^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/\n]+)` "-" $website 1 }}</h1>
+        <h1>Redirecting to {{ replaceRE "^https?://([^/]+).*" "$1" $.Params.website }}</h1>
     </article>
   {{ else }}
     {{ partial "page-header" . }}
