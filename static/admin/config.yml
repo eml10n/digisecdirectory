@@ -78,7 +78,6 @@ collections:
         widget: 'select'
         multiple: true
         options:
-          # Red Flags
           - Closed Source # OK TO TRANLSATE
           - Freemium # OK TO TRANLSATE
 
@@ -184,6 +183,13 @@ collections:
         default: ''
         widget: 'string'
         required: false
+      - label: 'Flags' # OK TO TRANLSATE
+        name: 'flags'
+        widget: 'select'
+        multiple: true
+        options:
+          - PDF # OK TO TRANLSATE
+
       - label: 'Categories' # OK TO TRANLSATE 
         name: 'categories'
         widget: 'select'

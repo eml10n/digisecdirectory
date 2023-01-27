@@ -24,6 +24,7 @@ markup:
     endLevel: 9
 
 taxonomies:
+  flag: flags
   tag: tags
   category: categories
   language: languages
