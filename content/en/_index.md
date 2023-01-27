@@ -1,16 +1,39 @@
 ---
 type: page
-title: Digital Security Directory 
+title: Digital Security Community Directory
+date: 2023-01-27T17:18:43.828Z
 ---
+**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). This directory primarily lists digital security and safety tools and guides, and support contacts that are available in Burmese, Filipino, Indonesian, Khmer, Thai, and English.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam euismod vulputate felis vel vehicula. Donec porttitor, tortor ac luctus auctor, odio dolor hendrerit magna, luctus lacinia justo nisl nec nibh. Vestibulum vitae gravida ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ac orci elit. Suspendisse nulla mauris, ultrices a finibus ac, mollis at metus. Nam at elit at neque consequat congue quis vel ante. Nunc a ullamcorper nulla. Curabitur sed tincidunt turpis, vel condimentum nulla. Vestibulum tempor sem id massa elementum, et suscipit sapien eleifend. Ut pretium lectus eget ante dictum luctus. Aenean in dolor feugiat, elementum sem id, blandit lorem. Nullam ut congue nisi, nec cursus ipsum. Aenean mauris dui, porta at ultricies et, aliquam eget dui. Duis nec hendrerit nibh, id convallis ligula.
+In this directory, we group the [digital security tools](/categories/digital-security-tools/) by their main utility or function, namely
 
-Quisque facilisis turpis a mi eleifend, ultrices suscipit nulla auctor. Duis varius risus nec pulvinar mollis. Ut erat sapien, dapibus a ipsum fermentum, posuere rutrum ante. Mauris eget eleifend lorem, ut efficitur nisi. Suspendisse pulvinar enim justo, sit amet suscipit ex dapibus in. Donec quis felis lorem. Sed et erat in sapien pellentesque vestibulum a eu nisi. Morbi vitae nulla et massa gravida hendrerit. Aliquam viverra risus urna, pretium tempor tellus tincidunt at. Ut mattis lorem ligula, eget convallis orci imperdiet at. Vestibulum sed sodales purus, vitae gravida nibh. Duis vel tincidunt tellus, id molestie dolor. Sed ac leo id lorem eleifend scelerisque. Duis maximus accumsan est, a pretium nisl consectetur consequat.
+* [Circumvention & Anonymity](/tags/circumvention-anonymity/)
+* [Communications & Messaging](/tags/communications-messaging/)
+* [Documentation & Data Management](/tags/documentation-data-management/)
+* [Productivity & Browser](/tags/productivity-browser/)
 
-Maecenas egestas tellus non tellus iaculis aliquet. Vestibulum luctus velit non metus luctus finibus. Quisque sodales eu lacus nec vehicula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas hendrerit dolor vitae tortor ultricies lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. In congue leo arcu. Ut in purus egestas, suscipit tortor a, pretium mauris. Ut finibus nisi ut ex pretium molestie. Phasellus fermentum urna eget mauris malesuada tempor. Vivamus non condimentum augue. Aliquam tincidunt elit tincidunt diam gravida sagittis.
+As much as possible, we include free and open-source tools, ie you have the freedom to use, modify, and redistribute the source code without any restriction. 
 
-Morbi vitae est sit amet nulla varius aliquet nec vel lacus. In at lectus sagittis, dapibus lacus blandit, tincidunt lectus. Mauris non euismod leo. Curabitur eu convallis dolor. Quisque egestas, lorem ac rutrum imperdiet, arcu nulla pulvinar neque, ut euismod velit sapien pharetra lectus. Nam enim risus, lobortis non condimentum quis, ornare a elit. Phasellus accumsan ultrices venenatis. Aliquam sed imperdiet lorem. Praesent aliquet massa id sem dignissim dignissim. Suspendisse potenti. Suspendisse egestas nisi nec augue accumsan fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec facilisis urna congue ullamcorper aliquam. Donec in nibh non nisl tempus eleifend. Etiam dictum orci velit. Sed vitae libero vitae ligula fermentum blandit.
+Some tools in this directory are tagged as:
 
-Phasellus molestie erat sit amet semper pharetra. Nam aliquam tortor id lacus lobortis vulputate. Nulla fermentum ligula mauris, id ultrices felis fermentum ac. Nunc vel risus eget neque consectetur sollicitudin. Cras posuere, erat eget finibus tempor, metus felis mollis urna, at blandit magna velit ut mauris. Nam eu orci est. Donec purus leo, hendrerit sit amet congue nec, dictum eu nulla. Nunc id dolor fringilla, mollis velit sit amet, tempor ex. Nunc sit amet nisl eu tortor ultrices ornare. Curabitur a erat neque. Aliquam vitae ultricies arcu. Nam mollis dictum sem, vestibulum aliquam ante interdum sed. Nullam ultrices nisi purus. Praesent nec nisl at ligula euismod ultrices eu nec felis.
+* [Web App](/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
+* [Self-hosting](/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
+* [Cross-platform](/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
 
+W﻿e also flag certain tools as:
 
+* Freemium – this tool is available for free but additional storage, bandwidth, or other features are available with a paid upgrade; and
+* Closed Source – this tool does not have publicly available and verifiable source code.
+
+S﻿ome tools are grouped into special categories like:
+
+* [Videoconferencing](/categories/Videoconferencing/) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
+* [File sharing](/categories/file-sharing/), [storage](/categories/file-storage/), and [sync](/categories/file-sync/) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
+* [Instant messaging](/categories/Instant-Messaging/) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
+* [Virtual private network (VPN)](/categories/Virtual-Private-Network/) services;
+* A﻿pplications c﻿onfigured with [Onion routing](/categories/onion-routing/);﻿ and
+* [OpenPGP encryption](/categories/openpgp-encryption/) applications.
+
+The [digital security guides](/categories/digital-security-guides/) section contains a list of resources including step-by-step instructions, user manuals, trainer's handbooks, support toolkits, and other similar materials. These guides cover a wide range of digital security and safety topics including privacy, surveillance, censorship, encryption, backup, and more.
+
+In the [digital security network](/categories/digital-security-network/) section of this directory, we list organisations that support human rights defenders by providing digital security [training](/categories/digital-security-trainers/) and [crisis response](/categories/digital-security-crisis-responders/). We also include in this section cooperative groups and independent businesses that provide free or subsidised [hosting and other services](/categories/digital-security-service-providers/) to human rights defenders.
