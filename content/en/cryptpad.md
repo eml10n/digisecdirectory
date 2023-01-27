@@ -12,6 +12,7 @@ tags:
   - Productivity & Browser
 categories:
   - Digital Security Tools
+  - File Storage
   - File Sharing
 date: 2023-01-19T21:28:00.311Z
 ---

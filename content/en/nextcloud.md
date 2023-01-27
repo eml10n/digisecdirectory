@@ -16,7 +16,8 @@ tags:
   - Documentation & Data Management
 categories: 
   - Digital Security Tools
-  - File Storage & Sync
+  - File Storage
+  - File Sync
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T09:04:42.901Z
 ---
