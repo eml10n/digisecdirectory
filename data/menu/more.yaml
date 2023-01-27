@@ -1,8 +1,10 @@
 ---
 ### Localized menus have to be merged into a single yaml file
 more:
-  - name: Update the Directory
-    ref: "/update/"
-  - name: Translate the Directory
-    ref: "/translate/"
+  - identifier: contribute
+    sub:
+      - name: Update the Directory
+        ref: "/update/"
+      - name: Translate the Directory
+        ref: "/translate/"
 ---
