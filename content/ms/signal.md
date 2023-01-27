@@ -7,4 +7,6 @@ languages:
   - km
   - my
   - ms
+credits: Translation by Khairil Zhafri/EngageMedia.
 ---
+Signal (Desktop, Android, iOS) adalah aplikasi mesej dan panggilan sumber terbuka selamat  yang menggunakan enkripsi hujung ke hujung untuk melindungi privasi pengguna.
