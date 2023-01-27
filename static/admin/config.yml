@@ -80,6 +80,7 @@ collections:
         options:
           - Closed Source # OK TO TRANLSATE
           - Freemium # OK TO TRANLSATE
+          - Premium # OK TO TRANLSATE
 
         required: false
       - label: 'Tags' # OK TO TRANLSATE

@@ -22,7 +22,8 @@ Some tools in this directory are tagged as:
 
 W﻿e also flag certain tools as:
 
-* Freemium – this tool is available for free but additional storage, bandwidth, or other features are available with a paid upgrade; and
+* Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade; and
+* Premium – this tool is only available with paid subscription; and
 * Closed Source – this tool does not have publicly available and verifiable source code.
 
 S﻿ome tools are grouped into special categories like:
