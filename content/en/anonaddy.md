@@ -10,6 +10,7 @@ flags:
   - Freemium
 tags:
   - Communications & Messaging
+  - Self-hosting
 categories:
   - OpenPGP Encryption
   - Digital Security Tools
