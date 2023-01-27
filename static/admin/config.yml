@@ -191,7 +191,7 @@ collections:
         multiple: true
         options:
           - PDF # OK TO TRANLSATE
-
+        required: false
       - label: 'Categories' # OK TO TRANLSATE 
         name: 'categories'
         widget: 'select'
