@@ -1,4 +1,5 @@
 ---
+type: page
 title: Update the Directory
 ---
 

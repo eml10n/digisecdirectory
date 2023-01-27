@@ -288,3 +288,32 @@ collections:
     sortable_fields: 
       - title
       - date
+
+
+# Other
+  - name: 'pages'
+    label: 'Pages'
+    label_singular: 'Page'
+    folder: 'content'
+    create: true
+    filter:
+      field: type
+      value: 'page'
+    slug: '{{slug}}'
+    preview_path: '{{filename}}'
+    editor:
+      preview: false
+    show_preview_links: true
+    fields:
+      - name: 'type'
+        widdet: 'hidden'
+        default: 'page'
+      - label: 'Title' 
+        name: 'title' 
+        widget: 'string'
+      - label: 'Body' 
+        name: 'body' 
+        widget: 'markdown'
+      - label: 'Date & Time'
+        name: 'date'
+        widget: 'datetime'
