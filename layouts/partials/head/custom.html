@@ -1,7 +1,6 @@
 {{ if .Params.website }}
 {{ $website := $.Params.website }}
 <meta http-equiv="refresh" content="0; url={{ printf "%s" $website }}">
-{{ replaceRE `^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/\n]+)` "-" $website 1 }}
-<script>document.title = 'Redirecting to {{ printf "%s" $website }}'; </script>
+<script>document.title = 'Redirecting to {{ replaceRE `^(?:https?:\/\/)?(?:[^@\/\n]+@)?(?:www\.)?([^:\/\n]+)` "-" $website 1 }}'; </script>
   {{ end }}
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
