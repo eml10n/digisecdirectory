@@ -14,27 +14,27 @@ logo_url: "/files/digisec.directory.svg"
 collections:
 # Digital Security Tools
   - name: 'tools'
-    label: 'Digital Security Tools'
-    label_singular: 'Digital Security Tool'
+    label: 'Digital Security Tools' # OK TO TRANLSATE
+    label_singular: 'Digital Security Tool' # OK TO TRANLSATE
     folder: 'content/en'
     create: true
     filter:
       field: categories
-      value: 'Digital Security Tools'
+      value: 'Digital Security Tools' # OK TO TRANLSATE
     slug: '{{slug}}'
     preview_path: '{{filename}}'
     editor:
       preview: false
     show_preview_links: true
     fields:
-      - label: 'Name' 
+      - label: 'Name' # OK TO TRANLSATE
         name: 'title' 
         widget: 'string'
-      - label: 'Icon'
+      - label: 'Icon' # OK TO TRANLSATE
         name: 'cover'
         widget: 'image'
         required: true
-      - label: 'Supported Languages' 
+      - label: 'Supported Languages' # OK TO TRANLSATE
         name: 'languages' 
         comment: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         description: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
@@ -62,68 +62,64 @@ collections:
           - hi # Hindi
           - ur # Urdu
 
-      - label: 'Website'
+      - label: 'Website' # OK TO TRANLSATE
         name: 'website'
         widget: 'string'
         required: true
-      - label: 'Body'
+      - label: 'Description' # OK TO TRANLSATE
         name: 'body'
         widget: 'markdown'
       - label: 'Credits'
         name: 'credits' 
-        default: 'Text by EngageMedia.'
         widget: 'string'
         required: false
-      - label: 'Tags'
-        name: 'tags'
+      - label: 'Flags' # OK TO TRANLSATE
+        name: 'flags'
         widget: 'select'
         multiple: true
         options:
           # Red Flags
-          - Closed Source 
-          - Freemium 
+          - Closed Source # OK TO TRANLSATE
+          - Freemium # OK TO TRANLSATE
 
-          # Green Flags
-          - Web App 
-          - Self-hosting 
+        required: false
+      - label: 'Tags' # OK TO TRANLSATE
+        name: 'tags'
+        widget: 'select'
+        multiple: true
+        options:
+          - Web App # OK TO TRANLSATE
+          - Self-hosting # OK TO TRANLSATE
 
           # Digital Security Tools
-          - Circumvention & Anonymity
-          - Communications & Messaging
-          - Documentation & Data Management
-          - Productivity & Browser
-
-          # Formats
-          - Video
-          - Infographic
-          - Online Course
-
-          # Other Resources
-          - Training 
-          - Crisis Response
-
+          - Circumvention & Anonymity # OK TO TRANLSATE
+          - Communications & Messaging # OK TO TRANLSATE
+          - Documentation & Data Management # OK TO TRANLSATE
+          - Productivity & Browser # OK TO TRANLSATE
+          
         required: true
-      - label: 'Categories'
+      - label: 'Categories' # OK TO TRANLSATE
         name: 'categories'
         widget: 'select'
         multiple: true
         default: Digital Security Tools
         options:
           # Primary categories
-          - Digital Security Guides 
-          - Digital Security Tools
-          - Network Resources
+          - Digital Security Guides # OK TO TRANLSATE 
+          - Digital Security Tools # OK TO TRANLSATE
+          - Digital Security Network # OK TO TRANLSATE
 
           # Secondary categories
-          - File Sharing # Alternative to We Transfer
-          - File Storage & Sync # Alternative to Google Drive, Dropbox
-          - Instant Messaging # Alternative to WhatsApp
-          - Onion Routing
-          - OpenPGP Encryption
-          - Password Management
-          - Videoconferencing # Alternative to Zoom
-          - Virtual Private Network
-      - label: 'Date & Time'
+          - File Sharing # OK TO TRANLSATE 
+          - File Storage # OK TO TRANLSATE 
+          - File Sync # OK TO TRANLSATE 
+          - Instant Messaging # OK TO TRANLSATE 
+          - Onion Routing # OK TO TRANLSATE 
+          - OpenPGP Encryption # OK TO TRANLSATE 
+          - Password Management # OK TO TRANLSATE 
+          - Videoconferencing # OK TO TRANLSATE 
+          - Virtual Private Network # OK TO TRANLSATE 
+      - label: 'Date & Time' # OK TO TRANLSATE 
         name: 'date'
         widget: 'datetime'
     sortable_fields: 
@@ -132,23 +128,23 @@ collections:
 
   # Digital Security Guides    
   - name: 'guides'
-    label: 'Digital Security Guides'
-    label_singular: 'Digital Security Guides'
+    label: 'Digital Security Guides' # OK TO TRANLSATE 
+    label_singular: 'Digital Security Guides' # OK TO TRANLSATE 
     folder: 'content/en'
     create: true
     filter:
       field: categories
-      value: 'Digital Security Guides'
+      value: 'Digital Security Guides' # OK TO TRANLSATE 
     slug: '{{slug}}'
     preview_path: '{{filename}}'
     editor:
       preview: false
     show_preview_links: true
     fields:
-      - label: 'Title' 
+      - label: 'Title' # OK TO TRANLSATE 
         name: 'title' 
         widget: 'string'
-      - label: 'Supported Languages' 
+      - label: 'Supported Languages' # OK TO TRANLSATE 
         name: 'languages' 
         comment: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         description: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
@@ -176,29 +172,29 @@ collections:
           - hi # Hindi
           - ur # Urdu
 
-      - label: 'Website'
+      - label: 'Website' # OK TO TRANLSATE 
         name: 'website'
         widget: 'string'
         required: true
-      - label: 'Body'
+      - label: 'Summary' # OK TO TRANLSATE 
         name: 'body'
         widget: 'markdown'
-      - label: 'Credits'
+      - label: 'Credits' # OK TO TRANLSATE 
         name: 'credits' 
         default: ''
         widget: 'string'
         required: false
-      - label: 'Categories'
+      - label: 'Categories' # OK TO TRANLSATE 
         name: 'categories'
         widget: 'select'
         multiple: true
-        default: Digital Security Guides
+        default: Digital Security Guides # OK TO TRANLSATE 
         options:
           # Primary categories
-          - Digital Security Guides 
-          - Digital Security Tools
-          - Network Resources
-      - label: 'Date & Time'
+          - Digital Security Guides # OK TO TRANLSATE 
+          - Digital Security Tools # OK TO TRANLSATE 
+          - Digital Security Network # OK TO TRANLSATE 
+      - label: 'Date & Time' # OK TO TRANLSATE 
         name: 'date'
         widget: 'datetime'
     sortable_fields: 
@@ -207,26 +203,26 @@ collections:
 
   # Digital Security Network
   - name: 'network'
-    label: 'Digital Security Network'
-    label_singular: 'Digital Security Network'
+    label: 'Digital Security Network' # OK TO TRANLSATE 
+    label_singular: 'Digital Security Network Organisation' # OK TO TRANLSATE 
     folder: 'content/en'
     create: true
     filter:
       field: categories
-      value: 'Digital Security Network'
+      value: 'Digital Security Network' # OK TO TRANLSATE 
     slug: '{{slug}}'
     preview_path: '{{filename}}'
     editor:
       preview: false
     show_preview_links: true
     fields:
-      - label: 'Name' 
+      - label: 'Name' # OK TO TRANLSATE 
         name: 'title' 
         widget: 'string'
-      - label: 'Logo'
+      - label: 'Logo' # OK TO TRANLSATE 
         name: 'cover'
         widget: 'image'
-      - label: 'Supported Languages' 
+      - label: 'Supported Languages' # OK TO TRANLSATE 
         name: 'languages' 
         comment: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
         description: 'Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.'
@@ -254,11 +250,11 @@ collections:
           - hi # Hindi
           - ur # Urdu
           
-      - label: 'Website'
+      - label: 'Website' # OK TO TRANLSATE 
         name: 'website'
         widget: 'string'
         required: true
-      - label: 'Body'
+      - label: 'Description' # OK TO TRANLSATE 
         name: 'body'
         widget: 'markdown'
       - label: 'Credits'
@@ -266,22 +262,21 @@ collections:
         default: ''
         widget: 'string'
         required: false
-      - label: 'Categories'
+      - label: 'Categories' # OK TO TRANLSATE 
         name: 'categories'
         widget: 'select'
         multiple: true
-        default: Digital Security Network
+        default: Digital Security Network # OK TO TRANLSATE 
         options:
           # Primary categories
-          - Digital Security Guides 
-          - Digital Security Tools
-          - Digital Security Network
+          - Digital Security Guides # OK TO TRANLSATE 
+          - Digital Security Tools # OK TO TRANLSATE 
+          - Digital Security Network # OK TO TRANLSATE 
 
           # Digital Security Network categories
-          - Digital Security Auditors
-          - Digital Security Crisis Responders
-          - Digital Security Service Providers
-          - Digital Security Trainers
+          - Digital Security Crisis Responders # OK TO TRANLSATE 
+          - Digital Security Service Providers # OK TO TRANLSATE 
+          - Digital Security Trainers # OK TO TRANLSATE 
       - label: 'Date & Time'
         name: 'date'
         widget: 'datetime'
@@ -292,8 +287,8 @@ collections:
 
 # Other
   - name: 'pages'
-    label: 'Pages'
-    label_singular: 'Page'
+    label: 'Pages' # OK TO TRANLSATE 
+    label_singular: 'Page' # OK TO TRANLSATE 
     folder: 'content/en'
     create: true
     filter:
@@ -308,12 +303,12 @@ collections:
       - name: 'type'
         widget: 'hidden'
         default: 'page'
-      - label: 'Title' 
+      - label: 'Title' # OK TO TRANLSATE  
         name: 'title' 
         widget: 'string'
-      - label: 'Body' 
+      - label: 'Content' # OK TO TRANLSATE  
         name: 'body' 
         widget: 'markdown'
-      - label: 'Date & Time'
+      - label: 'Date & Time' # OK TO TRANLSATE 
         name: 'date'
         widget: 'datetime'

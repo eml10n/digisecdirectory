@@ -14,6 +14,7 @@ credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Self-hosting
   - Circumvention & Anonymity
+  - Cross-platform
 categories:
   - Digital Security Tools
   - Virtual Private Network

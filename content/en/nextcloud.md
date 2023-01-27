@@ -14,6 +14,7 @@ cover: /files/nextcloud.jpg
 tags:
   - Self-hosting
   - Documentation & Data Management
+  - Cross-platform
 categories: 
   - Digital Security Tools
   - File Storage

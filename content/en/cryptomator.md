@@ -11,6 +11,7 @@ website: https://cryptomator.org/
 cover: /files/cryptomator.jpg
 tags:
   - Documentation & Data Management
+  - Cross-platform
 categories:
   - Digital Security Tools
 credits: Text by Khairil Zhafri/EngageMedia.

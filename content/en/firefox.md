@@ -12,6 +12,7 @@ website: https://www.mozilla.org/firefox
 cover: /files/firefox.jpg
 tags:
   - Productivity & Browser
+  - Cross-platform
 categories:
   - Digital Security Tools
 credits: Text by Khairil Zhafri/EngageMedia.

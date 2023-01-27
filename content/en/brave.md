@@ -7,6 +7,7 @@ website: https://brave.com/
 cover: /files/brave.jpg
 tags:
   - Productivity & Browser
+  - Cross-platform
 categories:
   - Digital Security Tools
 credits: Text by Khairil Zhafri/EngageMedia.

@@ -7,10 +7,11 @@ languages:
   - th
 website: https://www.tunnelbear.com/
 cover: /files/tunnelbear.jpg
+flags:
+  - Closed Source
 tags:
   - Circumvention & Anonymity
   - Freemium
-  - Closed Source
 categories:
   - Digital Security Tools
   - Virtual Private Network
