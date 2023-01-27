@@ -3,7 +3,7 @@ type: page
 title: Digital Security Community Directory
 date: 2023-01-27T17:18:43.828Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). This directory primarily lists digital security and safety tools and guides, and support contacts that are available in Burmese, Filipino, Indonesian, Khmer, Thai, and English.
+**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). This directory primarily lists digital security and safety tools and guides, and resource groups that are available in Burmese, Filipino, Indonesian, Khmer, Thai, and English.
 
 In this directory, we group the [digital security tools](/categories/digital-security-tools/) by their main utility or function, namely
 
