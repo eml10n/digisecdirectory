@@ -10,7 +10,7 @@ In this directory, we group the [digital security tools](/categories/digital-sec
 * [Circumvention & Anonymity](/tags/circumvention-anonymity/)
 * [Communications & Messaging](/tags/communications-messaging/)
 * [Documentation & Data Management](/tags/documentation-data-management/)
-* [Productivity & Browser](/tags/productivity-browser/)
+* [Productivity & Internet Browsing](/tags/productivity-internet-browsing/)
 
 As much as possible, we include free and open-source tools, ie you have the freedom to use, modify, and redistribute the source code without any restriction. 
 

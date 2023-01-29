@@ -13,8 +13,8 @@ main:
       - name: Documentation & Data Management
         ref: "/tags/documentation-data-management"
       - name:  
-          en: Productivity & Browser
-        ref: "/tags/productivity-browser"
+          en: Productivity & Internet Browsing
+        ref: "/tags/productivity-internet-browsing"
   - identifier: spacer1
     external: true
   - identifier: spacer2

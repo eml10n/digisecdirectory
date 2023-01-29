@@ -9,10 +9,10 @@ more:
     external: true
   - identifier: spacer2
     external: true
-  - name: Fork on GitLab
+  - name: Fork the Directory on GitLab
     ref: "https://gitlab.com/eml10n/digisecdirectory"
     external: true
-  - name: Localize on L10N.SPACE
+  - name: Localize Resources on L10N.SPACE
     ref: "https://l10n.space"
     external: true
 ---

@@ -10,7 +10,7 @@ languages:
 website: https://searx.github.io/searx/
 credits: Text by Searx.
 tags:
-  - Productivity & Browser
+  - Productivity & Internet Browsing
 categories:
   - Digital Security Tools
 date: 2023-01-29T20:06:50.821Z

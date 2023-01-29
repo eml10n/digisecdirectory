@@ -11,7 +11,7 @@ languages:
 website: https://www.mozilla.org/firefox
 cover: /files/firefox.jpg
 tags:
-  - Productivity & Browser
+  - Productivity & Internet Browsing
   - Cross-platform
 categories:
   - Digital Security Tools

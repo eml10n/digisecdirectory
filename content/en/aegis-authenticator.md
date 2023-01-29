@@ -7,7 +7,7 @@ languages:
 website: https://getaegis.app/
 credits: Text by Aegis Authenticator.
 tags:
-  - Productivity & Browser
+  - Productivity & Internet Browsing
 categories:
   - Digital Security Tools
 date: 2023-01-29T20:30:48.920Z

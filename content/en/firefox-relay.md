@@ -10,7 +10,7 @@ flags:
   - Freemium
 tags:
   - Self-hosting
-  - Productivity & Browser
+  - Productivity & Internet Browsing
 categories:
   - Digital Security Tools
 credits: Text by Khairil Zhafri/EngageMedia.
