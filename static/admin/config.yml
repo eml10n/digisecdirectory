@@ -10,7 +10,7 @@ backend:
 media_folder: static/files
 public_folder: /files
 site_url: https://digisec.directory
-logo_url: "/files/digisec.directory.svg"
+logo_url: "/favicon/favicon.svg"
 collections:
 # Digital Security Tools
   - name: 'tools'
