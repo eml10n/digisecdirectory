@@ -15,7 +15,7 @@ enableGitInfo: true
 
 enableRobotsTXT: true
 
-paginate: 100
+paginate: 100000
 
 markup:
   goldmark:
