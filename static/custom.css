@@ -183,6 +183,11 @@
     color: #eb1c23;
   }
 
+  :root .gdoc-footer__item .logo {
+    height: 1.67em;
+    padding: 0 0.33em;
+  }
+  
   :root .gdoc-footer__item .logo.light-logo,
   :root[color-theme="light"] .gdoc-footer__item .logo.light-logo { display: inline-block; }
   :root .gdoc-footer__item .logo.dark-logo,
