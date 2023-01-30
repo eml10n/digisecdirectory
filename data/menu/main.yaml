@@ -7,19 +7,23 @@ main:
       - name: 
           en: Circumvention & Anonymity
         ref: "/tags/circumvention-anonymity"
-        pre: <i class="fa-solid fa-user-secret"></i>
+        pre: <i class="fa-solid fa-fw fa-user-secret"></i><span style="inline-block">
+        post: </span>
       - name:  
           en: Communications & Messaging
         ref: "/tags/communications-messaging"
-        pre: <i class="fa-solid fa-user-secret"></i>
+        pre: <i class="fa-solid fa-fw fa-comments"></i><span style="inline-block">
+        post: </span>
       - name: 
           en: Documentation & Data Management
         ref: "/tags/documentation-data-management"
-        pre: <i class="fa-solid fa-user-secret"></i>
+        pre: <i class="fa-solid fa-fw fa-briefcase"></i><span style="inline-block">
+        post: </span>
       - name:  
           en: Productivity & Internet Browsing
         ref: "/tags/productivity-internet-browsing"
-        pre: <i class="fa-solid fa-user-secret"></i>
+        pre: <i class="fa-solid fa-fw fa-computer"></i><span style="inline-block">
+        post: </span>
   - identifier: spacer1
     external: true
   - identifier: spacer2
