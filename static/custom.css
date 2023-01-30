@@ -1,6 +1,6 @@
 /* Global customization */
 
-:root {
+  :root {
     --code-max-height: 60rem;
   }
   
@@ -185,6 +185,18 @@
 
   .gdoc-footer__item .logo {
     display: none;
+  }
+
+  @media (prefers-color-scheme: light) {
+    :root .gdoc-footer__item .logo.light-logo {
+      display: inline-block;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root .gdoc-footer__item .logo.dark-logo {
+      display: inline-block;
+    }
   }
 
   :root[color-theme="light"] .gdoc-footer__item .logo.light-logo {
