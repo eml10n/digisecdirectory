@@ -25,13 +25,8 @@
                 {{- end }}"
                 href="{{ .RelPermalink }}"
               >
-                {{ if .pre }}
-                  {{ .pre }}
-                {{ end }}
+                menu.html
                 {{ partial "utils/title" . }}
-                {{ if .post }}
-                  {{ .post }}
-                {{ end }}
               </a>
             </li>
           {{ end }}
