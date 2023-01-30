@@ -61,7 +61,7 @@
                     {{- if $isCurrent }}{{ printf " is-active" }}{{ end }}
                   {{- end }}"
                 >
-                  menu-bundle.html{{ $name }}
+                  menu-bundle.html - external{{ $name }}
                 </a>
               </span>
               {{ if $doCollapse }}
@@ -75,7 +75,7 @@
             </label>
           {{ end }}
         {{ else }}
-          <span class="flex">{{ $name }}</span>
+          <span class="flex">menu-bundle.html - internal{{ $name }}</span>
         {{ end }}
 
         {{ with .sub }}
