@@ -3,18 +3,16 @@ type: page
 title: Copyright Notice
 date: 2023-01-30T21:42:36.544Z
 ---
-All trademarks, logos and brand names are the property of their respective owners. The copyright of all cited materials remains with their respective authors.
+**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
 
-**Unless otherwise specified, all other work on this website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).**
+All trademarks, logos and brand names are the property of their respective owners. The copyright of all cited materials remains with their respective authors. 
 
-You are free to:
+Unless otherwise specified, all other work on this website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Under this license, you are free to:
 
 * Share — copy and redistribute the material in any medium or format
 * Adapt — remix, transform, and build upon the material
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-Under the following terms:
+Such freedoms are subject to the following terms:
 
 * Attribution — You must give [appropriate credit](https://creativecommons.org/licenses/by-nc/4.0/#), provide a link to the license, and [indicate if changes were made](https://creativecommons.org/licenses/by-nc/4.0/#). You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * NonCommercial — You may not use the material for [commercial purposes](https://creativecommons.org/licenses/by-nc/4.0/#).
