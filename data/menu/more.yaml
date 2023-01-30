@@ -5,10 +5,8 @@ more:
     ref: "/update"
   - name: Translate the Directory
     ref: "/translate"
-  - name: Fork the Directory on GitLab
-    ref: "https://gitlab.com/eml10n/digisecdirectory"
-    external: true
-  - name: Localize Resources on L10N.SPACE
-    ref: "https://l10n.space"
-    external: true
+  - name: Copyright Notice
+    ref: "/copyright"
+  - name: Privacy Policy
+    ref: "/privacy"
 ---
