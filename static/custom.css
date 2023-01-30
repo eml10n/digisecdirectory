@@ -193,16 +193,8 @@
     }
   }
 
-  :root[color-theme="light"] .gdoc-footer__item .logo.dark-logo {
-    display: none;
-  }
-
   @media (prefers-color-scheme: dark) {
     :root .gdoc-footer__item .logo.light-logo {
       display: none;
     }
-  }
-
-  :root[color-theme="dark"] .gdoc-footer__item .logo.light-logo {
-    display: none;
   }
