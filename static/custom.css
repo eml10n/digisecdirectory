@@ -187,7 +187,6 @@
     :root .gdoc-footer__item .logo.light-logo { display: none; }
     :root .gdoc-footer__item .logo.dark-logo { display: inline-block; }
       display: none;
-    }
   }
 
   @media (prefers-color-scheme: light) {
