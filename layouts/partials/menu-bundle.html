@@ -61,7 +61,7 @@
                     {{- if $isCurrent }}{{ printf " is-active" }}{{ end }}
                   {{- end }}"
                 >
-                  {{ .pre }}{{ $name }}{{ .post }}
+                  {{ .pre | safeHTML }}{{ $name }}{{ .post | safeHTML }}
                 </a>
               </span>
               {{ if $doCollapse }}
@@ -75,7 +75,7 @@
             </label>
           {{ end }}
         {{ else }}
-          <span class="flex">{{ .pre }}{{ $name }}{{ .post }}</span>
+          <span class="flex">{{ .pre | safeHTML }}{{ $name }}{{ .post | safeHTML }}</span>
         {{ end }}
 
         {{ with .sub }}
