@@ -9,4 +9,6 @@ more:
     ref: "/copyright"
   - name: Privacy Policy
     ref: "/privacy"
+  - name: Colophon
+    ref: "/colophon"
 ---

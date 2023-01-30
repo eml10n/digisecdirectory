@@ -7,14 +7,19 @@ main:
       - name: 
           en: Circumvention & Anonymity
         ref: "/tags/circumvention-anonymity"
+        icon: "user-lock"
       - name:  
           en: Communications & Messaging
         ref: "/tags/communications-messaging"
-      - name: Documentation & Data Management
+        icon: "comments"
+      - name: 
+          en: Documentation & Data Management
         ref: "/tags/documentation-data-management"
+        icon: "file-shield"
       - name:  
           en: Productivity & Internet Browsing
         ref: "/tags/productivity-internet-browsing"
+        icon: "briefcase"
   - identifier: spacer1
     external: true
   - identifier: spacer2
