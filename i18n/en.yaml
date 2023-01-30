@@ -35,7 +35,11 @@ posts_count:
 posts_tagged_with: All posts tagged with '{{ . }}'
 
 footer_build_with: >
-  An initiative by <a href="https://engagemedia.org/"><img src="/files/logo-on-dark-bg.svg" alt="EngageMedia" style="height: 1.5em; padding: 0 0.33em" class="logo dark-logo"><img src="/files/logo-on-light-bg.svg" alt="EngageMedia" style="height: 1.5em; padding: 0 0.33em" class="logo light-logo"></a>
+  An initiative by 
+  <a href="https://engagemedia.org/">
+    <img src="/files/logo-on-dark-bg.svg" alt="EngageMedia" style="height: 1.5em;" class="logo dark-logo">
+    <img src="/files/logo-on-light-bg.svg" alt="EngageMedia" style="height: 1.5em;" class="logo light-logo">
+  </a>
 footer_legal_notice: Legal Notice
 footer_privacy_policy: Privacy Policy
 footer_content_license_prefix: >
