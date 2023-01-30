@@ -187,10 +187,10 @@
     display: none;
   }
 
-  .color-toggle-dark .gdoc-footer__item .logo.logo-dark {
+  .color-toggle-dark .gdoc-footer__item .logo.dark-logo {
     display: inline-block;
   }
 
-  .color-toggle-light .gdoc-footer__item .logo.logo-light {
+  .color-toggle-light .gdoc-footer__item .logo.light-logo {
     display: inline-block;
   }
