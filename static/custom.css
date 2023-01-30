@@ -182,3 +182,15 @@
     text-decoration: inherit;
     color: #eb1c23;
   }
+
+  .gdoc-footer__item .logo {
+    display: none;
+  }
+
+  .color-toggle-dark .gdoc-footer__item .logo.logo-dark {
+    display: inline-block;
+  }
+
+  .color-toggle-light .gdoc-footer__item .logo.logo-light {
+    display: inline-block;
+  }
