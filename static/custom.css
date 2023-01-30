@@ -187,10 +187,14 @@
     display: none;
   }
 
-  .color-toggle-dark .gdoc-footer__item .logo.dark-logo {
-    display: inline-block;
+  :root[color-theme="light"] {
+    .color-toggle-light .gdoc-footer__item .logo.light-logo {
+      display: inline-block;
+    }
   }
 
-  .color-toggle-light .gdoc-footer__item .logo.light-logo {
-    display: inline-block;
+  :root[color-theme="dark"] {
+    .color-toggle-dark .gdoc-footer__item .logo.dark-logo {
+      display: inline-block;
+    }
   }
