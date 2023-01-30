@@ -183,10 +183,6 @@
     color: #eb1c23;
   }
 
-  :root .gdoc-footer__item .logo {
-    display: none;
-  }
-
   @media (prefers-color-scheme: dark) {
     :root .gdoc-footer__item .logo.light-logo { display: none; }
     :root .gdoc-footer__item .logo.dark-logo { display: inline-block; }
