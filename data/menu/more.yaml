@@ -5,10 +5,6 @@ more:
     ref: "/update"
   - name: Translate the Directory
     ref: "/translate"
-  - identifier: spacer1
-    external: true
-  - identifier: spacer2
-    external: true
   - name: Fork the Directory on GitLab
     ref: "https://gitlab.com/eml10n/digisecdirectory"
     external: true
