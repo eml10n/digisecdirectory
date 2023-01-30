@@ -5,8 +5,8 @@ main:
     ref: "/categories/digital-security-tools" 
     sub:
       - name: 
-          en: >
-            <i class="fa-solid fa-user-secret fa-fw"></i>Circumvention & Anonymity
+          en: Circumvention & Anonymity
+          
         ref: "/tags/circumvention-anonymity"
       - name:  
           en: Communications & Messaging
