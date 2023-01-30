@@ -21,7 +21,10 @@
     <article class="gdoc-post" style="border: 0;">
       <header class="gdoc-post__header">
         <h2 class="gdoc-post__title" style="margin-block: 0 .5rem">
-        <a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}" target="_blank">{{ partial "utils/title" . }}</a>
+        <a href="{{ .Params.website }}" rel=”nofollow” title="{{ .Title }}" target="_blank">
+          {{ partial "utils/title" . }}
+          <small><small style="color: rgb(120, 120, 120, 0.5)">{{ .Params.website }}</small></small>
+        </a>
         </h2>
         <div class="flex flex-wrap align-center gdoc-post__meta">
           {{ partial "posts/metadata.html" . }}
