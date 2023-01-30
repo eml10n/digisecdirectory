@@ -76,12 +76,12 @@
           {{ end }}
         {{ else }}
           <span class="flex">
-            {{ if .pre }}
-              {{ .pre }}
+            {{ if .Pre }}
+              {{ printf .Pre }}
             {{ end }}
             {{ $name }}
-            {{ if .post }}
-              {{ .post }}
+            {{ if .Post }}
+              {{ printf .Post }}
             {{ end }}
           </span>
         {{ end }}
