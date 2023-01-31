@@ -11,7 +11,7 @@ more:
     post: </span></span>
   - name: Copyright Notice
     ref: "/copyright"
-    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-creative-commons fa-fw"></i></span><span class="label">
+    pre: <span class="flex"><span class="icon"><i class="fa-brands fa-creative-commons fa-fw"></i></span><span class="label">
     post: </span></span>
   - name: Privacy Policy
     ref: "/privacy"
