@@ -7,9 +7,9 @@ date: 2023-01-27T17:18:43.828Z
 
 In this directory, we group the [digital security tools](/categories/digital-security-tools/) by their main utility or function, namely
 
-* [Circumvention & Anonymity](/tags/circumvention-anonymity/) tools for circumventing internet censorship and surveillance
+* [Circumvention & Anonymity](/tags/circumvention-anonymity/) tools for circumventing censorship and surveillance on the internet
 * [Communications & Messaging](/tags/communications-messaging/) services for secure online chats, calls, and meetings
-* [Documentation & Data Management](/tags/documentation-data-management/) software for encrypted storage and transfer of documents and data
+* [Documentation & Data Management](/tags/documentation-data-management/) software for encrypted storage and transfer of electronic files and digital records
 * [Internet Browsing & Productivity](/tags/productivity-internet-browsing/) applications for using the internet and working online safely
 
 As much as possible, we include free and open-source tools in this directory, ie you have the freedom to use, modify, and redistribute the source code of these tools without any restriction. 
