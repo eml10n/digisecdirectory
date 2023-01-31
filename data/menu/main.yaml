@@ -3,6 +3,8 @@
 main:
   - name: Digital Security Tools
     ref: "/categories/digital-security-tools" 
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">
+    post: </span></span>
     sub:
       - name: 
           en: Circumvention & Anonymity
@@ -31,6 +33,8 @@ main:
   - name:  
       en: Digital Security Guides
     ref: "/categories/digital-security-guides" 
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-clipboard-question fa-fw"></i></span><span class="label">
+    post: </span></span>
   - identifier: spacer1
     external: true
   - identifier: spacer2
@@ -38,4 +42,6 @@ main:
   - name:  
       en: Digital Security Network
     ref: "/categories/digital-security-network" 
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span class="label">
+    post: </span></span>
 ---
