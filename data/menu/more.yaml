@@ -11,6 +11,10 @@ more:
     ref: "/translate"
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-language fa-fw"></i></span><span class="label">
     post: </span></span>
+  - identifier: spacer1
+    external: true
+  - identifier: spacer2
+    external: true
   - name: 
       en: Copyright Notice
     ref: "/copyright"
