@@ -3,12 +3,22 @@
 more:
   - name: Update the Directory
     ref: "/update"
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-pen-to-square fa-fw"></i></span><span class="label">
+    post: </span></span>
   - name: Translate the Directory
     ref: "/translate"
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-language fa-fw"></i></span><span class="label">
+    post: </span></span>
   - name: Copyright Notice
     ref: "/copyright"
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-creative-commons fa-fw"></i></span><span class="label">
+    post: </span></span>
   - name: Privacy Policy
     ref: "/privacy"
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-eye fa-fw"></i></span><span class="label">
+    post: </span></span>
   - name: Colophon
     ref: "/colophon"
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-circle-info fa-fw"></i></span><span class="label">
+    post: </span></span>
 ---
