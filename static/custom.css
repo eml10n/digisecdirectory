@@ -206,3 +206,7 @@
     :root .gdoc-footer__item .logo.dark-logo { display: inline-block; }
       display: none;
   }
+
+  .gdoc-nav__entry .flex span {
+    margin-left: 1em;
+  }
