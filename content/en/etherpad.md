@@ -13,7 +13,7 @@ credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Web App
   - Self-hosting
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
 categories:
   - Digital Security Tools
 date: 2023-01-19T21:34:39.091Z

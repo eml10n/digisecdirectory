@@ -6,7 +6,7 @@ languages:
   - en
 website: https://simplelogin.io/
 credits: Text by Khairil Zhafri/EngageMedia.
-tags:
+flags:
   - Freemium
 categories:
   - Digital Security Tools
