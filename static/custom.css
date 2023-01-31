@@ -207,6 +207,6 @@
       display: none;
   }
 
-  .gdoc-nav__entry .flex span {
+  .gdoc-nav__entry .icon.flex span {
     margin-left: 1em;
   }
