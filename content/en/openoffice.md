@@ -8,7 +8,7 @@ languages:
 website: https://www.openoffice.org/
 cover: /files/openoffice.jpg
 tags:
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
 categories:
   - Digital Security Tools
 credits: Text by Khairil Zhafri/EngageMedia.

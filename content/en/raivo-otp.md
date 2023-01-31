@@ -7,7 +7,7 @@ languages:
 website: https://raivo-otp.com/
 credits: Text by Khairil Zhafri/EngageMedia.
 tags:
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
 categories:
   - Digital Security Tools
 date: 2023-01-25T08:37:08.507Z

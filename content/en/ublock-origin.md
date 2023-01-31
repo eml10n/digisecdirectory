@@ -7,7 +7,7 @@ languages:
 website: https://ublockorigin.com/
 credits: Text by uBlock Origin
 tags:
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
 categories:
   - Digital Security Tools
 date: 2023-01-29T20:25:44.572Z

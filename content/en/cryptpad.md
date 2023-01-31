@@ -9,7 +9,7 @@ credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Web App
   - Self-hosting
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
 categories:
   - Digital Security Tools
   - File Storage

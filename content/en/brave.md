@@ -6,7 +6,7 @@ languages:
 website: https://brave.com/
 cover: /files/brave.jpg
 tags:
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
   - Cross-platform
 categories:
   - Digital Security Tools

@@ -11,7 +11,7 @@ languages:
 website: https://duckduckgo.com/
 credits: Text by Khairil/EngageMedia.
 tags:
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
 categories:
   - Digital Security Tools
 date: 2023-01-29T19:51:42.320Z

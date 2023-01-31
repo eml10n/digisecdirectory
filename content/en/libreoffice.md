@@ -10,7 +10,7 @@ languages:
 website: https://www.libreoffice.org/
 cover: /files/libreoffice.jpg
 tags:
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
 categories:
   - Digital Security Tools
 credits: Text by Khairil Zhafri/EngageMedia.

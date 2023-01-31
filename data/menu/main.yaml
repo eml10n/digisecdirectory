@@ -23,8 +23,8 @@ main:
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span class="label">
         post: </span></span>
       - name:  
-          en: Productivity & Internet Browsing
-        ref: "/tags/productivity-internet-browsing"
+          en: Internet Browsing & Productivity
+        ref: "/tags/internet-browsing-productivity"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span class="label">
         post: </span></span>
   - identifier: spacer1
