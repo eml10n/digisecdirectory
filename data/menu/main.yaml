@@ -1,7 +1,8 @@
 ---
 ### Localized menus have to be merged into a single yaml file
 main:
-  - name: Digital Security Tools
+  - name: 
+      en: Digital Security Tools
     ref: "/categories/digital-security-tools" 
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">
     post: </span></span>
