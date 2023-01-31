@@ -33,7 +33,7 @@ main:
   - name:  
       en: Digital Security Guides
     ref: "/categories/digital-security-guides" 
-    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-clipboard-question fa-fw"></i></span><span class="label">
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span class="label">
     post: </span></span>
   - identifier: spacer1
     external: true
