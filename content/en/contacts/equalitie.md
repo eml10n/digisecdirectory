@@ -1,5 +1,5 @@
 ---
-title: Deflect
+title: eQualitie
 cover: /files/deflect.jpg
 # Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
 languages:
@@ -12,4 +12,4 @@ categories:
   - Digital Security Trainers
 date: 2023-02-03T16:22:52.208Z
 ---
-Deflect is a project by eQualitie – a Canadian company developing open and reusable systems with a focus on privacy, online security and freedom of association. It offers free distributed denial of service (DDoS) protection and managed WordPress hosting to civil society groups and individuals.
+eQualitie develops open and reusable systems with a focus on privacy, online security and freedom of association. It offers free distributed denial of service (DDoS) protection and managed WordPress hosting to civil society groups and individuals.

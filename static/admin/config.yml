@@ -16,7 +16,7 @@ collections:
   - name: 'tools'
     label: 'Digital Security Tools' # OK TO TRANLSATE
     label_singular: 'Digital Security Tool' # OK TO TRANLSATE
-    folder: 'content/en'
+    folder: 'content/en/tools'
     create: true
     filter:
       field: categories
@@ -131,7 +131,7 @@ collections:
   - name: 'guides'
     label: 'Digital Security Guides' # OK TO TRANLSATE 
     label_singular: 'Digital Security Guides' # OK TO TRANLSATE 
-    folder: 'content/en'
+    folder: 'content/en/guides'
     create: true
     filter:
       field: categories
@@ -210,10 +210,10 @@ collections:
       - date
 
   # Digital Security Network
-  - name: 'network'
+  - name: 'contacts'
     label: 'Digital Security Network' # OK TO TRANLSATE 
     label_singular: 'Digital Security Network Organisation' # OK TO TRANLSATE 
-    folder: 'content/en'
+    folder: 'content/en/contacts'
     create: true
     filter:
       field: categories
