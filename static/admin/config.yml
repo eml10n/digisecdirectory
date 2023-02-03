@@ -103,12 +103,11 @@ collections:
         name: 'categories'
         widget: 'select'
         multiple: true
-        default: Digital Security Tools
+        default: 
+          - Digital Security Tools # OK TO TRANLSATE
         options:
           # Primary categories
-          - Digital Security Guides # OK TO TRANLSATE 
           - Digital Security Tools # OK TO TRANLSATE
-          - Digital Security Network # OK TO TRANLSATE
 
           # Secondary categories
           - File Sharing # OK TO TRANLSATE 
@@ -196,12 +195,11 @@ collections:
         name: 'categories'
         widget: 'select'
         multiple: true
-        default: Digital Security Guides # OK TO TRANLSATE 
+        default: 
+          - Digital Security Guides # OK TO TRANLSATE 
         options:
           # Primary categories
           - Digital Security Guides # OK TO TRANLSATE 
-          - Digital Security Tools # OK TO TRANLSATE 
-          - Digital Security Network # OK TO TRANLSATE 
       - label: 'Date & Time' # OK TO TRANLSATE 
         name: 'date'
         widget: 'datetime'
@@ -274,11 +272,10 @@ collections:
         name: 'categories'
         widget: 'select'
         multiple: true
-        default: Digital Security Network # OK TO TRANLSATE 
+        default: 
+          - Digital Security Network # OK TO TRANLSATE 
         options:
           # Primary categories
-          - Digital Security Guides # OK TO TRANLSATE 
-          - Digital Security Tools # OK TO TRANLSATE 
           - Digital Security Network # OK TO TRANLSATE 
 
           # Digital Security Network categories
