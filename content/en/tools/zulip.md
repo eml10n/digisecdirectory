@@ -10,6 +10,7 @@ flags:
   - Freemium
 tags:
   - Self-hosting
+  - Collaborative Chat
   - Cross-platform
   - Communications & Messaging
 categories:
