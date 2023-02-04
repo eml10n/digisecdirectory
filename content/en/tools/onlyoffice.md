@@ -12,6 +12,7 @@ tags:
   - Self-hosting
   - Web App
   - Productivity & Internet Browsing
+  - Cross-platform
 categories:
   - Digital Security Tools
 date: 2023-02-04T21:37:24.103Z
