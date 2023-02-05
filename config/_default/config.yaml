@@ -47,5 +47,3 @@ security:
   exec:
     allow:
       - "^asciidoctor$"
-
----
