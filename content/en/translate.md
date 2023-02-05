@@ -1,16 +1,22 @@
 ---
 type: page
 title: Translate the Directory
+date: 2023-02-05T01:03:25.476Z
 ---
+**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam euismod vulputate felis vel vehicula. Donec porttitor, tortor ac luctus auctor, odio dolor hendrerit magna, luctus lacinia justo nisl nec nibh. Vestibulum vitae gravida ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus ac orci elit. Suspendisse nulla mauris, ultrices a finibus ac, mollis at metus. Nam at elit at neque consequat congue quis vel ante. Nunc a ullamcorper nulla. Curabitur sed tincidunt turpis, vel condimentum nulla. Vestibulum tempor sem id massa elementum, et suscipit sapien eleifend. Ut pretium lectus eget ante dictum luctus. Aenean in dolor feugiat, elementum sem id, blandit lorem. Nullam ut congue nisi, nec cursus ipsum. Aenean mauris dui, porta at ultricies et, aliquam eget dui. Duis nec hendrerit nibh, id convallis ligula.
+Y﻿ou can help improve this directory by adding new tools, guides, and contacts or by updating existing ones. There are two ways to contribute an update to the directory.
 
-Quisque facilisis turpis a mi eleifend, ultrices suscipit nulla auctor. Duis varius risus nec pulvinar mollis. Ut erat sapien, dapibus a ipsum fermentum, posuere rutrum ante. Mauris eget eleifend lorem, ut efficitur nisi. Suspendisse pulvinar enim justo, sit amet suscipit ex dapibus in. Donec quis felis lorem. Sed et erat in sapien pellentesque vestibulum a eu nisi. Morbi vitae nulla et massa gravida hendrerit. Aliquam viverra risus urna, pretium tempor tellus tincidunt at. Ut mattis lorem ligula, eget convallis orci imperdiet at. Vestibulum sed sodales purus, vitae gravida nibh. Duis vel tincidunt tellus, id molestie dolor. Sed ac leo id lorem eleifend scelerisque. Duis maximus accumsan est, a pretium nisl consectetur consequat.
+## N﻿o rights reserved[](https://digisec.directory/update/#no-rights-reserved "Anchor to: N﻿o rights reserved")
 
-Maecenas egestas tellus non tellus iaculis aliquet. Vestibulum luctus velit non metus luctus finibus. Quisque sodales eu lacus nec vehicula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas hendrerit dolor vitae tortor ultricies lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. In congue leo arcu. Ut in purus egestas, suscipit tortor a, pretium mauris. Ut finibus nisi ut ex pretium molestie. Phasellus fermentum urna eget mauris malesuada tempor. Vivamus non condimentum augue. Aliquam tincidunt elit tincidunt diam gravida sagittis.
+By translating the directory, you agree to making your contribution public domain as per [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-Morbi vitae est sit amet nulla varius aliquet nec vel lacus. In at lectus sagittis, dapibus lacus blandit, tincidunt lectus. Mauris non euismod leo. Curabitur eu convallis dolor. Quisque egestas, lorem ac rutrum imperdiet, arcu nulla pulvinar neque, ut euismod velit sapien pharetra lectus. Nam enim risus, lobortis non condimentum quis, ornare a elit. Phasellus accumsan ultrices venenatis. Aliquam sed imperdiet lorem. Praesent aliquet massa id sem dignissim dignissim. Suspendisse potenti. Suspendisse egestas nisi nec augue accumsan fermentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec facilisis urna congue ullamcorper aliquam. Donec in nibh non nisl tempus eleifend. Etiam dictum orci velit. Sed vitae libero vitae ligula fermentum blandit.
+You may add attribution in the front matter parameter `credits` of the content files that you contribute. This attribution is only visible in the front matter of the content files and will not appear on the published website.
 
-Phasellus molestie erat sit amet semper pharetra. Nam aliquam tortor id lacus lobortis vulputate. Nulla fermentum ligula mauris, id ultrices felis fermentum ac. Nunc vel risus eget neque consectetur sollicitudin. Cras posuere, erat eget finibus tempor, metus felis mollis urna, at blandit magna velit ut mauris. Nam eu orci est. Donec purus leo, hendrerit sit amet congue nec, dictum eu nulla. Nunc id dolor fringilla, mollis velit sit amet, tempor ex. Nunc sit amet nisl eu tortor ultrices ornare. Curabitur a erat neque. Aliquam vitae ultricies arcu. Nam mollis dictum sem, vestibulum aliquam ante interdum sed. Nullam ultrices nisi purus. Praesent nec nisl at ligula euismod ultrices eu nec felis.
+## Localize on Weblate
 
-
+1. G﻿o to the EngageMedia Localization Community [Weblate instance](https://l10n.space/). 
+2. Navigate to the [Registration page](https://l10n.space/accounts/register/). You need a [GitLab](https://gitlab.com/users/sign_up) or [GitHub](https://github.com/signup) account to use this Weblate instance.
+3. Create an account using your GitLab or GitHub account. Log in and authorise L10N.SPACE on GitLab or GitHub.
+4. N﻿avigate to [digisec.directory translation project](https://l10n.space/projects/digisecdirectory/) and choose the component that you would like to translate.
+5. C﻿hoose your target language or request a new one to start translating.
