@@ -13,7 +13,7 @@ By translating the directory, you agree to making your contribution public domai
 
 You may add attribution in the front matter parameter `credits` of the content files that you contribute. This attribution is only visible in the front matter of the content files and will not appear on the published website.
 
-## Localize on Weblate
+## Translate on Weblate
 
 1. G﻿o to the EngageMedia Localization Community [Weblate instance](https://l10n.space/). 
 2. Navigate to the [Registration page](https://l10n.space/accounts/register/). You need a [GitLab](https://gitlab.com/users/sign_up) or [GitHub](https://github.com/signup) account to use this Weblate instance.
