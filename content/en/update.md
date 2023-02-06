@@ -7,11 +7,22 @@ date: 2023-02-05T00:40:31.643Z
 
 Y﻿ou can help improve this directory by adding new tools, guides, and contacts or by updating existing ones. There are two ways to contribute an update to the directory.
 
-## N﻿o rights reserved
+## N﻿o Rights Reserved
 
 By updating the directory, you agree to making your contribution public domain as per [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 You may add attribution in the front matter parameter `credits` of the content files that you contribute. This attribution is only visible in the front matter of the content files and will not appear on the published website.
+
+## Listing Considerations
+
+1. D﻿O flag tools that are closed source
+
+   * Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade;
+   * Premium – this tool is only available with a paid subscription; or
+   * Closed Source – this tool does not have publicly available and verifiable source code.
+2. DO NOT include tools or guides that are directly or indirectly supported or subsidised by advertising business model.
+3. D﻿O NOT add new guides that have not been updated for more than five years.
+4. D﻿O NOT list tools or guides created by big tech corporations (e.g. Alphabet/Google, Amazon, Apple, Meta/Facebook, and Microsoft).
 
 ## F﻿ork on GitLab
 
