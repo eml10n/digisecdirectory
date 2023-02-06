@@ -10,9 +10,6 @@ pluralizeListTitles: false
 
 defaultContentLanguage: fr
 
-disableLanguages:
-- fr
-
 disablePathToLower: true
 enableGitInfo: true
 
