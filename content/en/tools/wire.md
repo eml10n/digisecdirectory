@@ -10,6 +10,7 @@ flags:
   - Freemium
 tags:
   - Communications & Messaging
+  - Cross-platform
 categories:
   - Digital Security Tools
   - Collaborative Chat
