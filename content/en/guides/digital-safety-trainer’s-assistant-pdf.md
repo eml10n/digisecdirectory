@@ -6,7 +6,7 @@ languages:
 website: https://safesisters.org/wp-content/uploads/2019/09/Digital-Safety-Trainers-Assistant-smaller.pdf
 credits: Text by Safe Sisters.
 flags:
-  - PDF
+  - PDF Only
 categories:
   - Digital Security Guides
 date: 2023-01-25T10:49:17.797Z
