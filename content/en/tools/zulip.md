@@ -18,4 +18,4 @@ categories:
   - Collaborative Chat
 date: 2023-02-04T21:57:35.157Z
 ---
-Z﻿ulip is an open-source collaborative chat for groups.
+Z﻿ulip is an open-source collaborative chat for teams.
