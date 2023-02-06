@@ -32,14 +32,7 @@
     {{ if (default true .Site.Params.GeekdocBackToTop) }}
       <div class="flex flex-25 justify-end">
         <span class="gdoc-footer__item text-right">
-          <a class="gdoc-footer__link fake-link" href="#" aria-label="{{ i18n "nav_top" }}">
-            <!--
-            <svg class="gdoc-icon gdoc_keyboard_arrow_up">
-              <use xlink:href="#gdoc_keyboard_arrow_up"></use>
-            </svg>
-            -->
-            <i class="fa-solid fa-chevron-up fa-fw"></i><span class="hidden-mobile">{{ i18n "nav_top" }}</span>
-          </a>
+          <a class="gdoc-footer__link fake-link" href="#" aria-label="{{ i18n "nav_top" }}"><i class="fa-solid fa-chevron-up fa-fw"></i><span class="hidden-mobile">{{ i18n "nav_top" }}</span></a>
         </span>
       </div>
     {{ end }}
