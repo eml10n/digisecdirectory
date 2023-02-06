@@ -22,14 +22,15 @@ Some tools in this directory are tagged as:
 
 We also flag certain tools as:
 
-* Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade;
-* Premium – this tool is only available with a paid subscription; and
-* Closed Source – this tool does not have publicly available and verifiable source code.
+* Closed Source – this tool does not have publicly available and verifiable source code;
+* Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade; and
+* Premium – this tool is only available with a paid subscription.
 
 Some tools are grouped into special categories:
 
 * [Collaborative chat](/categories/collaborative-chat) alternatives to Slack;
-* [Email](/categories/email) alternatives to Gmail, Outlook, etc;
+* [Email](/categories/email) and [e﻿mail client](/categories/email-client/) alternatives to Google Gmail, Apple Mail, Microsoft Outlook, etc;
+* [E﻿mail forwarding](/categories/email-forwarding/) services for privacy protection;
 * [File sharing](/categories/file-sharing), [storage](/categories/file-storage), and [sync](/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
 * [Instant messaging](/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
 * [Onion routing](/categories/onion-routing)-configured tools; and
