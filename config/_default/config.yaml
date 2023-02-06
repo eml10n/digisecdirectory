@@ -8,7 +8,7 @@ pygmentsCodeFences: true
 timeout: 180000
 pluralizeListTitles: false
 
-defaultContentLanguage: fr
+defaultContentLanguage: int
 
 disablePathToLower: true
 enableGitInfo: true
