@@ -15,13 +15,15 @@ You may add attribution in the front matter parameter `credits` of the content f
 
 ## Listing Considerations
 
+The following dos and don'ts serve as a general rule.
+
 1. D﻿O flag tools that are closed source
 
    * Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade;
    * Premium – this tool is only available with a paid subscription; or
    * Closed Source – this tool does not have publicly available and verifiable source code.
-2. DO NOT include tools or guides that are directly or indirectly supported or subsidised by advertising business model.
-3. D﻿O NOT add new guides that have not been updated for more than five years.
+2. DO NOT include free tools that are directly or indirectly supported or subsidised by an advertising-based business model.
+3. D﻿O NOT add new guides that have not been updated for more than five years. An exception can be made if the content has not gone out of date.
 4. D﻿O NOT list tools or guides created by big tech corporations (e.g. Alphabet/Google, Amazon, Apple, Meta/Facebook, and Microsoft).
 
 ## F﻿ork on GitLab
