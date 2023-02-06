@@ -29,7 +29,7 @@ We also flag certain tools as:
 Some tools are grouped into special categories:
 
 * [Collaborative chat](/categories/collaborative-chat) alternatives to Slack;
-* [Email](/categories/file-sync) alternatives to Gmail, Outlook, etc;
+* [Email](/categories/email) alternatives to Gmail, Outlook, etc;
 * [File sharing](/categories/file-sharing), [storage](/categories/file-storage), and [sync](/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
 * [Instant messaging](/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
 * [Onion routing](/categories/onion-routing)-configured tools; and

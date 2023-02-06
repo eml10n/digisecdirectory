@@ -10,6 +10,7 @@ tags:
 categories:
   - Digital Security Tools
   - OpenPGP Encryption
+  - Email Client
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:46:42.301Z
 ---
