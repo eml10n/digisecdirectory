@@ -1,0 +1,48 @@
+---
+### Localized menus have to be merged into a single yaml file
+main:
+  - name: 
+      en: Digital Security Tools
+    ref: "/categories/digital-security-tools" 
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">
+    post: </span></span>
+    sub:
+      - name: 
+          en: Circumvention & Anonymity
+        ref: "/tags/circumvention-anonymity"
+        pre: <span class="flex"><span class="icon"><i class="fa-solid fa-user-secret fa-fw"></i></span><span class="label">
+        post: </span></span>
+      - name:  
+          en: Communications & Messaging
+        ref: "/tags/communications-messaging"
+        pre: <span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span class="label">
+        post: </span></span>
+      - name: 
+          en: Documentation & Data Management
+        ref: "/tags/documentation-data-management"
+        pre: <span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span class="label">
+        post: </span></span>
+      - name:  
+          en: Internet Browsing & Productivity
+        ref: "/tags/internet-browsing-productivity"
+        pre: <span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span class="label">
+        post: </span></span>
+  - identifier: spacer1
+    external: true
+  - identifier: spacer2
+    external: true
+  - name:  
+      en: Digital Security Guides
+    ref: "/categories/digital-security-guides" 
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span class="label">
+    post: </span></span>
+  - identifier: spacer1
+    external: true
+  - identifier: spacer2
+    external: true
+  - name:  
+      en: Digital Security Network
+    ref: "/categories/digital-security-network" 
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span class="label">
+    post: </span></span>
+---
