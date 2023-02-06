@@ -20,9 +20,11 @@ You may add attribution in the front matter parameter `credits` of the content f
    * Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade;
    * Premium – this tool is only available with a paid subscription; or
    * Closed Source – this tool does not have publicly available and verifiable source code.
-2. DO NOT include free tools that are directly or indirectly supported or subsidised by an advertising-based business model.
-3. DO NOT add new guides that have not been updated for more than five years. An exception can be made if the content has not gone out of date.
-4. DO NOT list tools or guides created by big tech corporations (e.g. Alphabet/Google, Amazon, Apple, Meta/Facebook, and Microsoft).
+2. D﻿O correct grammar and spelling mistakes and edit for consistency.
+3. DO NOT include tools that are directly or indirectly supported or subsidised by an advertising-based business model.
+4. DO NOT add new guides that have not been updated for more than five years. An exception can be made if the content has not gone out of date.
+5. DO NOT list closed-source products of big tech corporations (e.g. Alphabet/Google, Amazon, Apple, Meta/Facebook, Microsoft, etc).
+6. DO NOT use any affiliate or tracking link.
 
 ## F﻿ork on GitLab
 
