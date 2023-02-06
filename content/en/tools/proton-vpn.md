@@ -6,7 +6,7 @@ languages:
   - en
   - id
 website: https://protonvpn.com/
-cover: /files/protonvpn.jpg
+cover: /files/proton-vpn.jpg
 flags:
   - Freemium
 tags:

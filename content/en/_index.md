@@ -28,13 +28,14 @@ We also flag certain tools as:
 
 Some tools are grouped into special categories:
 
-* [Videoconferencing](/categories/videoconferencing) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
+* [Collaborative chat](/categories/collaborative-chat) alternatives to Slack;
+* [Email](/categories/file-sync) alternatives to Gmail, Outlook, etc;
 * [File sharing](/categories/file-sharing), [storage](/categories/file-storage), and [sync](/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
 * [Instant messaging](/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
-* [Collaborative chat](/categories/collaborative-chat) alternatives to Slack;
-* [Virtual private network (VPN)](/categories/virtual-private-network) services;
-* Applications configured with [Onion routing](/categories/onion-routing); and
+* [Onion routing](/categories/onion-routing)-configured tools; and
 * [OpenPGP encryption](/categories/openpgp-encryption) applications.
+* [Videoconferencing](/categories/videoconferencing) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
+* [Virtual private network (VPN)](/categories/virtual-private-network) services;
 
 Using the tools recommended in this directory can help you improve your digital security and safety. Having good understanding of how these tools work and knowing how to use them properly are equally important in limiting your digital security risks and mitigating your digital safety threats.
 

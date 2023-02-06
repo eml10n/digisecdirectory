@@ -13,7 +13,7 @@ flags:
 tags:
   - Self-hosting
   - Web App
-  - Productivity & Internet Browsing
+  - Internet Browsing & Productivity
   - Cross-platform
 categories:
   - Digital Security Tools

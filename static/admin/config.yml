@@ -96,7 +96,7 @@ collections:
           - Circumvention & Anonymity # OK TO TRANLSATE
           - Communications & Messaging # OK TO TRANLSATE
           - Documentation & Data Management # OK TO TRANLSATE
-          - Productivity & Internet Browsing # OK TO TRANLSATE
+          - Internet Browsing & Productivity # OK TO TRANLSATE
           
         required: true
       - label: 'Categories' # OK TO TRANLSATE
@@ -111,6 +111,7 @@ collections:
 
           # Secondary categories
           - Collaborative Chat # OK TO TRANLSATE 
+          - Email # OK TO TRANLSATE 
           - File Sharing # OK TO TRANLSATE 
           - File Storage # OK TO TRANLSATE 
           - File Sync # OK TO TRANLSATE 
