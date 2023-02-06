@@ -15,8 +15,6 @@ You may add attribution in the front matter parameter `credits` of the content f
 
 ## Listing Considerations
 
-The following dos and don'ts serve as a general rule.
-
 1. DO flag tools that are
 
    * Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade;
