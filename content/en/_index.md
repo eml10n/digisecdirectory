@@ -16,7 +16,7 @@ As much as possible, we include free and open-source tools in this directory, ie
 
 Some tools in this directory are tagged as:
 
-* [Web App](/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
+* [Web app](/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
 * [Self-hosting](/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
 * [Cross-platform](/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
 
@@ -36,7 +36,7 @@ Some tools are grouped into special categories:
 * Applications configured with [Onion routing](/categories/onion-routing); and
 * [OpenPGP encryption](/categories/openpgp-encryption) applications.
 
-Using the tools recommended in this directory can help you improve your digital security and safety. Knowing how these tools work and how to use them properly are equally important in lowering your digital security risks and mitigating your digital safety threats.
+Using the tools recommended in this directory can help you improve your digital security and safety. Having good understanding of how these tools work and knowing how to use them properly are equally important in limiting your digital security risks and mitigating your digital safety threats.
 
 The [digital security guides](/categories/digital-security-guides/) section contains a list of resources including step-by-step instructions, user manuals, trainer's handbooks, support toolkits, and other similar materials. These guides cover a wide range of digital security and safety topics including privacy, surveillance, censorship, encryption, backup, and more.
 
