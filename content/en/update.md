@@ -11,7 +11,7 @@ You can help improve this directory by adding new tools, guides, and contacts or
 
 By updating the directory, you agree to making your contribution public domain as per [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-You may add attribution in the front matter parameter `credits` of the content files that you contribute. This attribution is only visible in the front matter of the content files and will not appear on the published website.
+You may add attribution in the front matter parameter `credits` of the content files that you contribute. This attribution is only visible in the source code and will not appear on the published website.
 
 ## Listing Considerations
 
