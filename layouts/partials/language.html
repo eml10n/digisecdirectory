@@ -5,20 +5,19 @@
         {{ range .Site.Languages }}
           {{ if eq . $.Site.Language }}
             <span class="flex align-center">
-              <svg class="gdoc-icon gdoc_language"><use xlink:href="#gdoc_language"></use></svg>
-              <span>{{ .Lang }}</span>
+                <i class="fa-solid fa-globe fa-fw"></i><span>{{ .Lang }}</span>
             </span>
           {{ end }}
         {{ end }}
 
 
         <ul class="gdoc-language__list">
-            <li><a class="flex gdoc-language__entry" title="English" href="/en/" hreflang="en" lang="en">en | English</a></li>
-            <li><a class="flex gdoc-language__entry" title="Filipino" href="/fil/" hreflang="id" lang="id">fil | Filipino</a></li>
-            <li><a class="flex gdoc-language__entry" title="Bahasa Indonesia (Indonesian)" href="/id/" hreflang="id" lang="id">id | Bahasa Indonesia (Indonesian)</a></li>
-            <li><a class="flex gdoc-language__entry" title="ភាសាខ្មែរ (Khmer)" href="/km/" hreflang="km" lang="km">kh | ភាសាខ្មែរ (Khmer)</a></li>
-            <li><a class="flex gdoc-language__entry" title="မြန်မာဘာသာ (Burmese)" href="/my/" hreflang="my" lang="my">my | မြန်မာဘာသာ (Burmese)</a></li>
-            <li><a class="flex gdoc-language__entry" title="ไทย (Thai)" href="/th/" hreflang="th" lang="th">th | ไทย (Thai)</a></li>
+            <li><a class="flex gdoc-language__entry" title="English" href="/en/" hreflang="en" lang="en">en: English</a></li>
+            <li><a class="flex gdoc-language__entry" title="Filipino" href="/fil/" hreflang="id" lang="id">fil: Filipino</a></li>
+            <li><a class="flex gdoc-language__entry" title="Bahasa Indonesia (Indonesian)" href="/id/" hreflang="id" lang="id">id: Bahasa Indonesia (Indonesian)</a></li>
+            <li><a class="flex gdoc-language__entry" title="ភាសាខ្មែរ (Khmer)" href="/km/" hreflang="km" lang="km">kh: ភាសាខ្មែរ (Khmer)</a></li>
+            <li><a class="flex gdoc-language__entry" title="မြန်မာဘာသာ (Burmese)" href="/my/" hreflang="my" lang="my">my: မြန်မာဘာသာ (Burmese)</a></li>
+            <li><a class="flex gdoc-language__entry" title="ไทย (Thai)" href="/th/" hreflang="th" lang="th">th: ไทย (Thai)</a></li>
         </ul>
       </li>
     </ul>
