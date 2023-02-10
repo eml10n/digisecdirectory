@@ -210,3 +210,8 @@
   .gdoc-nav__entry .flex .label {
     margin-left: 0.33em;
   }
+
+  .gdoc-language__list,
+  .gdoc-language__list li {
+    padding: .5em;
+  }
