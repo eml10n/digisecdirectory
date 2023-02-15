@@ -5,20 +5,20 @@ date: 2023-01-27T17:18:43.828Z
 ---
 **digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). This directory primarily lists digital security and safety tools and guides, and resource groups that are available in Burmese, Filipino, Indonesian, Khmer, Thai, and English.
 
-In this directory, we group the [digital security tools](/categories/digital-security-tools/) by their main utility or function, namely
+In this directory, we group the [digital security tools](/en/categories/digital-security-tools/) by their main utility or function, namely
 
-* [Circumvention & Anonymity](/tags/circumvention-anonymity/) tools for circumventing censorship and surveillance on the internet
-* [Communications & Messaging](/tags/communications-messaging/) services for secure online chats, calls, and meetings
-* [Documentation & Data Management](/tags/documentation-data-management/) software for encrypted storage and transfer of electronic files and digital records
-* [Internet Browsing & Productivity](/tags/productivity-internet-browsing/) applications for using the internet and working online safely
+* [Circumvention & Anonymity](/en/tags/circumvention-anonymity/) tools for circumventing censorship and surveillance on the internet
+* [Communications & Messaging](/en/tags/communications-messaging/) services for secure online chats, calls, and meetings
+* [Documentation & Data Management](/en/tags/documentation-data-management/) software for encrypted storage and transfer of electronic files and digital records
+* [Internet Browsing & Productivity](/en/tags/productivity-internet-browsing/) applications for using the internet and working online safely
 
 As much as possible, we include free and open-source tools in this directory, ie you have the freedom to use, modify, and redistribute the source code of these tools without any restriction. 
 
 Some tools in this directory are tagged as:
 
-* [Web app](/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
-* [Self-hosting](/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
-* [Cross-platform](/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
+* [Web app](/en/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
+* [Self-hosting](/en/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
+* [Cross-platform](/en/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
 
 We also flag certain tools as:
 
@@ -28,18 +28,18 @@ We also flag certain tools as:
 
 Some tools are grouped into special categories:
 
-* [Collaborative chat](/categories/collaborative-chat) alternatives to Slack;
-* [Email](/categories/email) and [e﻿mail client](/categories/email-client/) alternatives to Google Gmail, Apple Mail, Microsoft Outlook, etc;
-* [E﻿mail forwarding](/categories/email-forwarding/) services for privacy protection;
-* [File sharing](/categories/file-sharing), [storage](/categories/file-storage), and [sync](/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
-* [Instant messaging](/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
-* [Onion routing](/categories/onion-routing)-configured tools; and
-* [OpenPGP encryption](/categories/openpgp-encryption) applications.
-* [Videoconferencing](/categories/videoconferencing) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
-* [Virtual private network (VPN)](/categories/virtual-private-network) services;
+* [Collaborative chat](/en/categories/collaborative-chat) alternatives to Slack;
+* [Email](/en/categories/email) and [e﻿mail client](/en/categories/email-client/) alternatives to Google Gmail, Apple Mail, Microsoft Outlook, etc;
+* [E﻿mail forwarding](/en/categories/email-forwarding/) services for privacy protection;
+* [File sharing](/en/categories/file-sharing), [storage](/en/categories/file-storage), and [sync](/en/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
+* [Instant messaging](/en/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
+* [Onion routing](/en/categories/onion-routing)-configured tools; and
+* [OpenPGP encryption](/en/categories/openpgp-encryption) applications.
+* [Videoconferencing](/en/categories/videoconferencing) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
+* [Virtual private network (VPN)](/en/categories/virtual-private-network) services;
 
 Using the tools recommended in this directory can help you improve your digital security and safety. Having good understanding of how these tools work and knowing how to use them properly are equally important in limiting your digital security risks and mitigating your digital safety threats.
 
-The [digital security guides](/categories/digital-security-guides/) section contains a list of resources including step-by-step instructions, user manuals, trainer's handbooks, support toolkits, and other similar materials. These guides cover a wide range of digital security and safety topics including privacy, surveillance, censorship, encryption, backup, and more.
+The [digital security guides](/en/categories/digital-security-guides/) section contains a list of resources including step-by-step instructions, user manuals, trainer's handbooks, support toolkits, and other similar materials. These guides cover a wide range of digital security and safety topics including privacy, surveillance, censorship, encryption, backup, and more.
 
-In the [digital security network](/categories/digital-security-network/) section of this directory, we list organisations that support human rights defenders by providing digital security [training](/categories/digital-security-trainers/) and [crisis response](/categories/digital-security-crisis-responders/). We also include in this section cooperative groups and independent businesses that provide free or subsidised [hosting and other services](/categories/digital-security-service-providers/) to human rights defenders.
+In the [digital security network](/categen/categoriesories/digital-security-network/) section of this directory, we list organisations that support human rights defenders by providing digital security [training](/en/categories/digital-security-trainers/) and [crisis response](/en/categories/digital-security-crisis-responders/). We also include in this section cooperative groups and independent businesses that provide free or subsidised [hosting and other services](/en/categories/digital-security-service-providers/) to human rights defenders.
