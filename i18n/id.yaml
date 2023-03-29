@@ -1,51 +1,58 @@
-edit_page: ''
+edit_page: 'Edit halaman'
 
-nav_navigation: ''
-nav_tags: ''
-nav_more: ''
-nav_top: ''
+nav_navigation: 'Mulai'
+nav_tags: 'Label'
+nav_more: 'Berkontribusi'
+nav_top: 'Kembali ke atas'
 
-form_placeholder_search: ''
+form_placeholder_search: 'Cari'
 
-error_page_title: ''
-error_message_title: ''
-error_message_code: ''
+error_page_title: 'Hilang? Jangan khawatir'
+error_message_title: 'Hilang?'
+error_message_code: 'Kesalahan 404'
 error_message_text: >
+  Sepertinya apa yang Anda cari tidak dapat ditemukan. Jangan khawatir, kami dapat
+  membawa Anda kembali ke <a class="gdoc-error__link" href="{{ . }}">beranda</a>.
 
-button_toggle_dark: ''
-button_nav_open: ''
-button_nav_close: ''
-button_menu_open: ''
-button_menu_close: ''
-button_homepage: ''
+button_toggle_dark: 'Alihkan mode Gelap/Terang/Otomatis'
+button_nav_open: 'Buka Navigasi'
+button_nav_close: 'Tutup Navigasi'
+button_menu_open: 'Buka Bilah Menu'
+button_menu_close: 'Tutup Bilah Menu'
+button_homepage: 'Kembali ke beranda'
 
-title_anchor_prefix: ""
+title_anchor_prefix: "Jangkarkan ke:"
 
-posts_read_more: ''
+posts_read_more: 'Baca postingan lengkap'
 posts_read_time:
-  one: ""
-  other: ""
-posts_update_prefix: ''
+  one: "Satu menit dibaca"
+  other: "{{ . }} menit dibaca"
+posts_update_prefix: 'Diperbarui di'
 posts_count:
-  one: ""
-  other: ""
-posts_tagged_with: ''
+  one: "Satu postingan"
+  other: "{{ . }} postingan"
+posts_tagged_with: 'Semua postingan yang dilabeli dengan ''{{ . }}'''
 
 footer_build_with: >
-footer_legal_notice: ''
-footer_privacy_policy: ''
+  Sebuah inisiatif komunitas oleh  <a href="https://engagemedia.org/">
+    <img src="/files/logo-on-dark-bg.svg" alt="EngageMedia" class="logo dark-logo">
+    <img src="/files/logo-on-light-bg.svg" alt="EngageMedia" class="logo cahaya-logo">
+  </a>
+footer_legal_notice: 'Pemberitahuan Hak Cipta'
+footer_privacy_policy: 'Kebijakan Privasi'
 footer_content_license_prefix: >
+  Konten berlisensi di bawah
 
-language_switch_no_tranlation_prefix: ""
+language_switch_no_tranlation_prefix: "Halaman belum diterjemahkan:"
 
-propertylist_required: ''
-propertylist_optional: ''
-propertylist_default: ''
+propertylist_required: 'wajib'
+propertylist_optional: 'opsional'
+propertylist_default: 'standar'
 
-pagination_page_prev: ''
-pagination_page_next: ''
-pagination_page_state: ""
+pagination_page_prev: 'Sebelumnya'
+pagination_page_next: 'Selanjutnya'
+pagination_page_state: "Halaman {{ .PageNumber }} dari {{ .TotalPages }}"
 
 # This is to warn the user that the resource may not be available in their language
 ## Please replace "English" with the target language
-language_unavailable: ""
+language_unavailable: "{{. Title }} mungkin tidak tersedia dalam bahasa Inggris."
