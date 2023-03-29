@@ -1,8 +1,5 @@
 ---
 title: Thunderbird
-languages: 
-  - en
-  - id
 website: https://www.thunderbird.net/
 cover: /files/thunderbird.jpg
 tags:

@@ -1,8 +1,5 @@
 ---
 title: Briar
-languages: 
-  - en
-  - my
 website: https://briarproject.org/
 cover: /files/briar.jpg
 tags:

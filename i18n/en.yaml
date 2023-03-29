@@ -54,3 +54,7 @@ propertylist_default: default
 pagination_page_prev: Previous
 pagination_page_next: Next
 pagination_page_state: "Page {{ .PageNumber }} of {{ .TotalPages }}"
+
+# This is to warn the user that the resource may not be available in their language
+## Please replace "English" with the target language
+language_unavailable: "{{ .Title }} may not be available in English."

@@ -1,13 +1,6 @@
 ---
 title: Etherpad
 cover: /files/etherpad.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-  - my
-  - km
-  - id
-  - th
 website: https://etherpad.org/
 credits: Text by Khairil Zhafri/EngageMedia.
 tags:

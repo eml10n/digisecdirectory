@@ -1,8 +1,5 @@
 ---
 title: K-9 Mail
-languages: 
-  - en
-  - id
 website: https://k9mail.app/
 cover: /files/k-9-mail.jpg
 tags:

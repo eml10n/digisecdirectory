@@ -1,11 +1,5 @@
 ---
 title: Orbot
-languages: 
-  - en
-  - fil
-  - id
-  - km
-  - my
 website: https://guardianproject.info/apps/org.torproject.android/
 cover: /files/orbot.jpg
 tags:

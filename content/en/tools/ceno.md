@@ -1,8 +1,5 @@
 ---
 title: CENO
-languages: 
-  - en
-  - my
 website: https://censorship.no/
 cover: /files/ceno.jpg
 tags:

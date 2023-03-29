@@ -1,11 +1,5 @@
 ---
 title: Psiphon
-languages: 
-  - en
-  - id
-  - km
-  - my
-  - th
 website: https://psiphon.ca/
 cover: /files/psiphon.png
 tags:

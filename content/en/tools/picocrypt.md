@@ -1,10 +1,6 @@
 ---
 title: Picocrypt
 cover: /files/picocrypt.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-  - zh
 website: https://github.com/HACKERALERT/Picocrypt
 credits: Text by Picocrypt.
 tags:

@@ -1,8 +1,5 @@
 ---
 title: Onion Browser
-languages: 
-  - en
-  - km
 website: https://onionbrowser.com/
 cover: /files/onionbrowser.jpg
 tags:

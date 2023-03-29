@@ -1,12 +1,6 @@
 ---
 title: Searx
 cover: /files/searx.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-  - id
-  - th
-  - zh
 website: https://searx.github.io/searx/
 credits: Text by Searx.
 tags:

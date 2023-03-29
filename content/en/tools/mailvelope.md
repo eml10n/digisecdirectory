@@ -1,8 +1,5 @@
 ---
 title: Mailvelope
-languages: 
-  - en
-  - my
 website: https://mailvelope.com/
 cover: /files/mailvelope.jpg
 flags:
