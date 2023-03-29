@@ -1,23 +1,23 @@
 ---
-type: page
-title: Copyright Notice
-date: 2023-01-30T21:42:36.544Z
+jenis: halaman
+judul: Pemberitahuan Hak Cipta
+tanggal: 2023-01-30T21:42:36.544Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
+**digisec.directory** adalah kompilasi referensi keamanan dan keselamatan digital oleh para kontributor [proyek Pelokalan Keamanan Digital EngageMedia](https://engagemedia.org/projects/localization/). 
 
-All trademarks, logos and brand names are the property of their respective owners. The copyright of all cited materials remains with their respective authors. 
+Semua merek dagang, logo, dan nama merek adalah milik dari pemiliknya masing-masing. Hak cipta semua materi yang dikutip tetap milik penulisnya masing-masing. 
 
-Unless otherwise specified, all other work on this website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Under this license, you are free to:
+Kecuali ditentukan lain, semua karya lain di situs web ini dilisensikan di bawah [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Berdasarkan lisensi ini, Anda bebas untuk:
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material
+* Membagikan — menyalin dan mendistribusikan ulang materi ini dalam media atau format apa pun
+* Mengadaptasi — menyusun ulang, mengubah, dan menembangkan berdasarkan materi ini
 
-Such freedoms are subject to the following terms:
+Kebebasan ini tunduk terhadap ketentuan-ketentuan berikut ini:
 
-* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* NonCommercial — You may not use the material for commercial purposes.
-* No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+* Atribusi — Anda harus memberikan kredit yang sesuai, menyediakan tautan ke lisensi, dan menunjukkan jika ada perubahan yang telah dilakukan. Anda dapat melakukannya dengan cara apa pun yang wajar, tetapi tidak dengan cara apa pun yang menunjukkan bahwa pemberi lisensi mendukung Anda atau penggunaan oleh Anda.
+* NonKomersial — Anda tidak boleh menggunakan materi ini untuk tujuan komersial.
+* Tidak ada batasan tambahan — Anda tidak boleh menerapkan syarat-syarat hukum atau langkah-langkah teknologi yang secara hukum membatasi orang lain untuk melakukan apa pun yang diizinkan oleh lisensi ini.
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+Anda tidak harus mematuhi lisensi untuk elemen materi ini di domain publik atau jika penggunaan oleh Anda diizinkan oleh pengecualian atau pembatasan yang berlaku.
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+Tidak ada jaminan yang diberikan. Lisensi mungkin tidak memberi Anda semua izin yang diperlukan untuk tujuan penggunaan Anda. Misalnya, hak-hak lain, seperti publisitas, privasi, atau hak moral, dapat membatasi cara Anda menggunakan materi ini.
