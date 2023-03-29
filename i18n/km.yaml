@@ -1,0 +1,51 @@
+edit_page: ''
+
+nav_navigation: ''
+nav_tags: ''
+nav_more: ''
+nav_top: ''
+
+form_placeholder_search: ''
+
+error_page_title: ''
+error_message_title: ''
+error_message_code: ''
+error_message_text: >
+
+button_toggle_dark: ''
+button_nav_open: ''
+button_nav_close: ''
+button_menu_open: ''
+button_menu_close: ''
+button_homepage: ''
+
+title_anchor_prefix: ""
+
+posts_read_more: ''
+posts_read_time:
+  one: ""
+  other: ""
+posts_update_prefix: ''
+posts_count:
+  one: ""
+  other: ""
+posts_tagged_with: ''
+
+footer_build_with: >
+footer_legal_notice: ''
+footer_privacy_policy: ''
+footer_content_license_prefix: >
+
+language_switch_no_tranlation_prefix: ""
+
+propertylist_required: ''
+propertylist_optional: ''
+propertylist_default: ''
+
+pagination_page_prev: ''
+pagination_page_next: ''
+pagination_page_state: ""
+
+# This is to warn the user that the resource may not be available in their language
+## Please replace "English" with the target language
+language_unavailable: ""
