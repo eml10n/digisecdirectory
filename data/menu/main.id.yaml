@@ -1,46 +1,53 @@
 ### Localized menus have to be merged into a single yaml file
 main:
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'Alat Keamanan Digital'
+  ref: "/categories/digital-security-tools"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
   sub:
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'Circumvention & Anonimitas'
+    ref: "/tags/circumvention-anonymity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-user-secret
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'Komunikasi & Perpesanan'
+    ref: "/tags/communications-messaging"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'Manajemen Data & Dokumentasi'
+    ref: "/tags/documentation-data-management"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
-- identifier: ''
-  external: ''
-- identifier: ''
-  external: ''
+      en: 'Produktivitas & Penelusuran Internet'
+    ref: "/tags/internet-browsing-productivity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
+- identifier: 'spacer1'
+  external: 'Asli'
+- identifier: 'spacer2'
+  external: 'Asli'
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
-- identifier: ''
-  external: ''
-- identifier: ''
-  external: ''
+    en: 'Panduan Keamanan Digital'
+  ref: "/categories/digital-security-guides"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
+- identifier: 'spacer1'
+  external: 'Asli'
+- identifier: 'spacer2'
+  external: 'Asli'
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'Jaringan Keamanan Digital'
+  ref: "/categories/digital-security-network"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
