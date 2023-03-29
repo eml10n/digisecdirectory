@@ -1,0 +1,33 @@
+### Localized menus have to be merged into a single yaml file
+more:
+- name:
+    en: ''
+  ref: ""
+  pre: ''
+  post: ''
+- name:
+    en: ''
+  ref: ""
+  pre: ''
+  post: ''
+- identifier: ''
+  external: ''
+- identifier: ''
+  external: ''
+- identifier: ''
+  external: ''
+- name:
+    en: ''
+  ref: ""
+  pre: ''
+  post: ''
+- name:
+    en: ''
+  ref: ""
+  pre: ''
+  post: ''
+- name:
+    en: ''
+  ref: ""
+  pre: ''
+  post: ''
