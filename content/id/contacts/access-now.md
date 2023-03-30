@@ -14,4 +14,4 @@ categories:
   - Digital Security Trainers
 date: 2023-01-19T07:27:56.488Z
 ---
-Access Now’s Digital Security Helpline works with individuals and organizations around the world to keep them safe online. If you’re at risk, we can help you improve your digital security practices to keep you out of harm’s way. If you’re already under attack, we provide rapid-response emergency assistance.
+Digital Security Helpline dari Access Now dapat digunakan oleh perorangan maupun organisasi di seluruh dunia untuk membuat mereka tetap aman saat daring. Jika Anda terancam, kami dapat membantu Anda meningkatkan praktik keamanan digital Anda untuk menghindarkan Anda dari masalah. Apabila Anda telah diserang, kami menyediakan bantuan darurat cepat tanggap.
