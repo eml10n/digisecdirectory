@@ -10,4 +10,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T07:27:56.488Z
 ---
-Bitmask VPN (Android, Desktop) is an open-source virtual private network (VPN).
+Bitmask VPN (Android, Desktop) merupakan jaringan privat virtual (VPN) terbuka.
