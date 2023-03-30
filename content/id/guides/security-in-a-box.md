@@ -9,4 +9,4 @@ categories:
   - Digital Security Guides
 date: 2023-01-25T11:00:23.669Z
 ---
-Security in a Box by Front Line Defenders and Tactical Tech primarily aims to help a global community of human rights defenders whose work puts them at risk. It has been recognized worldwide as a foundational resource for helping people at risk protect their digital security and privacy.
+Security in a Box dari Front Line Defenders and Tactical Tech punya tujuan utama untuk membantu komunitas global para pembela HAM dengan tugas yang membuat mereka terancam. Layanan ini sudah diakui di seluruh dunia sebagai sumber daya dasar untuk membantu orang-orang yang terancam dengan melindungi keamanan dan privasi digital mereka.
