@@ -14,4 +14,4 @@ categories:
   - Email Forwarding
 date: 2023-01-25T08:17:33.984Z
 ---
-AnonAddy provides an email forwarding service that keeps personal email addresses private.
+AnonAddy menyediakan layanan penerusan surel yang menyimpan alamat surel pribadi secara privat.
