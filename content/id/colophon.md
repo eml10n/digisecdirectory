@@ -1,7 +1,7 @@
 ---
-jenis: halaman
-judul: Kolofon
-tanggal: 2023-01-31T00:30:17.649Z
+type: page
+title: Kolofon
+date: 2023-01-31T00:30:17.649Z
 ---
 **digisec.directory** adalah kompilasi referensi keamanan dan keselamatan digital oleh para kontributor [proyek Pelokalan Keamanan Digital EngageMedia](https://engagemedia.org/projects/localization/). 
 
