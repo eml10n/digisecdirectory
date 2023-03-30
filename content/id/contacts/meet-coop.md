@@ -10,4 +10,4 @@ categories:
   - Digital Security Network
 date: 2023-02-04T22:21:53.580Z
 ---
-meet.coop is a meeting and conferencing platform powered by BigBlueButton, stewarded by a global coalition of co-operatives.
+meet.coop adalah platform pertemuan dan konferensi yang didukung oleh BigBlueButton, dikelola oleh koaliasi kerja sama global.
