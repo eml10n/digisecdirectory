@@ -9,4 +9,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T07:24:24.913Z
 ---
-Psiphon (Android, iOS, Windows, Mac) is an open-source internet censorship circumvention tool that uses a combination of secure communication and obfuscation technologies to allow users to access blocked or censored content.
+Psiphon (Android, iOS, Windows, Mac) adalah alat terbuka yang dapat menggagalkan penyensoran internet yang menggunakan kombinasi komunikasi dan teknologi pengelabuan yang aman sehingga pengguna dapat mengakses konten yang diblokir atau disensor.
