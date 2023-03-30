@@ -1,14 +1,14 @@
 ---
 title: Digital First Aid Kit
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
+# Pastikan bahwa bahasa yang dimaksud sudah didukung sebelum menambahkan kode ISO 639-1 nya di sini. tanpa kode negara, mis. ms dan bukannya ms_MY.
 languages:
   - en
   - th
   - id
 website: https://digitalfirstaid.org/
-credits: Text by CiviCERT
+credits: Naskah oleh CiviCERT
 categories:
-  - Digital Security Guides
+  - Panduan Keamanan Digital
 date: 2023-01-25T10:42:12.841Z
 ---
-The Digital First Aid Kit is a free resource to help rapid responders, digital security trainers, and tech-savvy activists to better protect themselves and the communities they support against the most common types of digital emergencies. It can also be used by activists, human rights defenders, bloggers, journalists or media activists who want to learn more about how they can protect themselves and support others. If you or someone you are assisting is experiencing a digital emergency, the Digital First Aid Kit will guide you in diagnosing the issues you are facing and refer you to support providers for further help if needed.
+Digital First Aid Kit adalah sumber daya gratis untuk membantu unit reaksi cepat, pelatih keamanan digital, dan aktivis penggemar teknologi agar mereka dapat dengan lebih baik melindungi diri mereka dan komunitas yang mereka dukung terhadap jenis kondisi darurat digital yang paling umum. Kit ini dapat juga digunakan oleh aktivis, pembela hak asasi, blogger, jurnalis, atau aktivis media yang ingin tahu lebih lanjut caranya mereka melindungi diri sendiri dan mendukung orang lain. Jika Anda atau orang yang Anda bantu mengalami kondisi darurat digital, Digital First Aid Kit akan membantu Anda mendiagnosis masalah yang Anda hadapi dan merujuk Anda ke penyedia dukungan untuk mendapatkan bantuan lebih lanjut jika dibutuhkan.
