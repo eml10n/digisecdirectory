@@ -11,4 +11,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:36:32.118Z
 ---
-GlobaLeaks is a free and open-source secure reporting and documentation system that protects the whistleblower’s identity.
+GlobaLeaks merupakan sistem dokumentasi dan pelaporan terbuka yang aman yang dapat melindungi identitas pengungkap informasi.
