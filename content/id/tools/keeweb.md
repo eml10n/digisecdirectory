@@ -12,4 +12,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:43:57.715Z
 ---
-KeeWeb is an open-source password manager based on KeePass. It is available as a web app that works with modern internet browsers on desktop and mobile devices.
+KeeWeb adalah aplikasi pengelola kata sandi yang terdapat di KeePass. Aplikasi ini tersedia sebagai aplikasi web yang bekerja dengan peramban internet modern di perangkat komputer dan seluler.
