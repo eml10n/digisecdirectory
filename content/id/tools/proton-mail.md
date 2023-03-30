@@ -14,4 +14,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:40:05.818Z
 ---
-Proton Mail (Web, Android, iOS) is an open-source email service that uses end-to-end encryption and zero-access encryption to protect the user’s data and privacy.
+Proton Mail (Web, Android, iOS) adalah layanan surel terbuka yang menggunakan enkripsi ujung-ke-ujung dan enkripsi nihil-akses guna melindungi data dan privasi penggunanya.
