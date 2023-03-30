@@ -1,7 +1,7 @@
 ---
-jenis: halaman
-judul: Kebijakan Privasi
-tanggal: 2023-01-30T21:30:57.375Z
+type: page
+title: Kebijakan Privasi
+date: 2023-01-30T21:30:57.375Z
 ---
 **digisec.directory** adalah kompilasi referensi keamanan dan keselamatan digital oleh para kontributor [proyek Pelokalan Keamanan Digital EngageMedia](https://engagemedia.org/projects/localization/). 
 
