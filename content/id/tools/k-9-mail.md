@@ -11,4 +11,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:46:42.301Z
 ---
-K-9 Mail is an open source email client for Android with OpenPGP encryption support.
+K-9 Mail adalah klien surel terbuka untuk Android dengan dukungan enkripsi OpenPGP.
