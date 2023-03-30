@@ -9,4 +9,4 @@ categories:
   - Digital Security Guides
 date: 2023-01-25T10:51:55.248Z
 ---
-The Holistic Security Manual by Tactical Tech is designed to guide the process of establishing or improving security strategies for individuals, collectives or organisations. The content is divided into four Sections: Prepare, Explore, Strategise and Act, which are conceived as steps in an evolving, cyclical process and should be regularly revisited as part of our ongoing strategic planning. The chapters which appear on this website are summarised versions of those in the manual, which can be downloaded and read offline.
+The Holistic Security Manual dari Tactical Tech disusun untuk memandu proses pembuatan dan peningkatan strategi keamanan bagi perorangan, kelompok, atau organisasi. Isinya terbagi ke dalam empat sesi: Persiapan, Penjelajahan, Penyusunan, dan Penindakan yang dapat dipahami sebagai langkah-langkah dalam proses siklus yang berevolusi dan harus ditinjau ulang secara berkala sebagai bagian dari perencanaan strategis berkelanjutan kami. Bab-bab yang muncul di situs web ini merupakan versi rangkuman yang terdapat dalam buku manual yang dapat diunduh dan dibaca secara luring.
