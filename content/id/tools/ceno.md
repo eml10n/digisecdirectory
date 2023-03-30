@@ -5,8 +5,8 @@ cover: /files/ceno.jpg
 tags:
   - Circumvention & Anonymity
 categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
+  - Peralatan Keamanan Digital
+credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-19T07:32:57.800Z
 ---
-CENO – Censorship.no! – is a mobile web browser for Android OS that creates peerto-peer networks for storing and sharing web content so that users can bypass internet surveillance and censorship without needing proxies, VPN servers, or relays.
+CENO – Katakan tidak pada penyensoran! – adalah peramban web seluler untuk Sistem Operasi Android yang menghasilkan jaringan pengguna-ke-pengguna untuk menyimpan dan berbagi konten web sehingga pengguna dapat melewati pengintaian dan penyensoran internet tanpa membutuhkan proksi, server VPN, atau relai.
