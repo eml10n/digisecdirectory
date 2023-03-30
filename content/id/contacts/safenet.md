@@ -12,4 +12,4 @@ categories:
   - Digital Security Trainers
 date: 2023-01-25T12:44:26.097Z
 ---
-The Southeast Asia Freedom of Expression Network (SAFEnet) advocates for survivors of digital rights violations and champions Internet policies with human rights perspectives. SAFEnet also provides holistic security training (physical, psychosocial, and digital) for vulnerable groups in Indonesia and Southeast Asia to build their resilience towards increasingly common digital repression.
+The Southeast Asia Freedom of Expression Network (SAFEnet) mengadvokasi para penyintas pelanggaran hak-hak digital dan memperjuangkan kebijakan internet dari sudut pandang HAM. SAFEnet juga memberikan pelatihan keamanan holistik (psikis, psikologis, dan digital) untuk kelompok-kelompok rawan di Indonesia dan Asia Tenggara untuk membangun tembok pertahanan terhadap serangan digital umum yang makin meningkat.
