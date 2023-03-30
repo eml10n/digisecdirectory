@@ -9,4 +9,4 @@ categories:
   - Digital Security Guides
 date: 2023-01-25T11:04:34.727Z
 ---
-Totem, developed by Greenhost and Free Press Unlimited, is an online learning platform that offers educational courses about digital security and privacy, and related tools and tactics for journalists, activists and human rights defenders in a safe, online classroom environment.
+Totem, yang dikembangkan oleh Greenhost and Free Press Unlimited, adalah platform pembelajaran daring yang menawarkan kursus edukatif tentang keamanan dan privasi digital, serta alat-alat terkait dan taktik bagi jurnalis, aktivis, dan pembela HAM di lingkungan kelas daring yang aman.
