@@ -2,16 +2,16 @@
 title: OnlyOffice
 cover: /files/onlyoffice.jpg
 website: https://www.onlyoffice.com/
-credits: Text by Khairil/EngageMedia.
+credits: Naskah oleh Khairil/EngageMedia.
 flags:
   - Freemium
 tags:
-  - Self-hosting
-  - Web App
-  - Internet Browsing & Productivity
-  - Cross-platform
+  - Hosting mandiri
+  - Aplikasi web
+  - Peramban Internet & Produktivitas
+  - Lintas Platform
 categories:
-  - Digital Security Tools
+  - Peralatan Keamanan Digital
 date: 2023-02-04T21:37:24.103Z
 ---
-O﻿nlyOffice is an office suite of online editors for text documents, spreadsheets, and presentations.
+O﻿nlyOffice is adalah kelengkapan kantor pengedit online untuk dokumen, lembar kerja, dan presentasi naskah.
