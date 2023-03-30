@@ -10,4 +10,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:34:10.090Z
 ---
-Firefox is an open-source web browser that protects the user’s privacy on the internet.
+Firefox adalah peramban web terbuka yang melindungi privasi penggunanya di internet.
