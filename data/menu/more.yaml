@@ -3,11 +3,13 @@
 more:
   - name: 
       en: Update the Directory
+      id: 'Perbarui Direktori'
     ref: "/update"
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-pen-to-square fa-fw"></i></span><span class="label">
     post: </span></span>
   - name: 
       en: Translate the Directory
+      id: 'Terjemahkan Direktori'
     ref: "/translate"
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-language fa-fw"></i></span><span class="label">
     post: </span></span>
@@ -19,16 +21,19 @@ more:
     external: true
   - name: 
       en: Copyright Notice
+      id: 'Pemberitahuan Hak Cipta'
     ref: "/copyright"
     pre: <span class="flex"><span class="icon"><i class="fa-brands fa-creative-commons fa-fw"></i></span><span class="label">
     post: </span></span>
   - name: 
       en: Privacy Policy
+      id: 'Kebijakan Privasi'
     ref: "/privacy"
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-eye fa-fw"></i></span><span class="label">
     post: </span></span>
   - name: 
       en: Colophon
+      id: 'Kolofon'
     ref: "/colophon"
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-circle-info fa-fw"></i></span><span class="label">
     post: </span></span>
