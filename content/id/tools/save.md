@@ -9,4 +9,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:00:50.203Z
 ---
-Save by OpenArchive is an open-source secure documentation app for Android and iOS that helps users preserve, protect, authenticate, and amplify their work.
+Save buatan OpenArchive adalah aplikasi dokumentasi terbuka yang aman untuk Android dan iOS yang dapat membantu pengguna menjaga, melindungi, mengautentikasi, dan memperbaiki pekerjaan mereka.
