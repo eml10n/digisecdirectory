@@ -2,14 +2,14 @@
 title: Tutanota
 cover: /files/tutanota.jpg
 website: https://tutanota.com/
-credits: Text by Khairil/EngageMedia.
+credits: Naskah oleh Khairil/EngageMedia.
 flags:
   - Freemium
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan Singkat
 categories:
-  - Digital Security Tools
+  - Peralatan Keamanan Digital
   - Email
 date: 2023-01-25T07:33:11.715Z
 ---
-Tutanota provides secure, green, and ad-free email service that incorporates privacy by design.
+Tutanota adalah layanan email yang aman, hemat energi, dan bebas iklan yang mengutamakan privasi dalam perancangannya.
