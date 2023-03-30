@@ -9,4 +9,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-29T21:01:18.081Z
 ---
-Picocrypt is a very small (hence *Pico*), very simple, yet very secure encryption tool that you can use to protect your files.Picocrypt is a very small (hence *Pico*), very simple, yet very secure encryption tool that you can use to protect your files.
+Picocrypt adalah alat enkripsi yang sangat kecil dan sangat sederhana (makanya disebut *Pico*), namun sangat aman yang dapat Anda gunakan untuk melindungi berkas Anda. Picocrypt adalah alat enkripsi yang sangat kecil dan sangat sederhana (makanya disebut *Pico*), namun sangat aman yang dapat Anda gunakan untuk melindungi berkas Anda.
