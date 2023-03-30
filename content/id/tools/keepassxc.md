@@ -10,4 +10,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:55:27.353Z
 ---
-KeePassXC is an open-source secure password manager for Linux, macOS, and Windows.
+KeePassXC merupakan aplikasi pengelola kata sandi yang aman dan terbuka untuk Linux, macOS, dan Windows.
