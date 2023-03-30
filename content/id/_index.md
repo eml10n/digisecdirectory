@@ -7,39 +7,39 @@ date: 2023-01-27T17:18:43.828Z
 
 Dalam direktori ini, kami mengelompokkan [peralatan keamanan digital](/id/categories/digital-security-tools/) berdasarkan kegunaan dan fungsi utamanya, yaitu
 
-* [Circumvention & Anonymity](/en/tags/circumvention-anonymity/) tools for circumventing censorship and surveillance on the internet
-* [Communications & Messaging](/en/tags/communications-messaging/) services for secure online chats, calls, and meetings
-* [Documentation & Data Management](/en/tags/documentation-data-management/) software for encrypted storage and transfer of electronic files and digital records
-* [Internet Browsing & Productivity](/en/tags/productivity-internet-browsing/) applications for using the internet and working online safely
+* [Penghindaran & Anonimitas](/id/tags/circumvention-anonymity/) alat untuk menghindari sensor dan pengawasan di internet
+* [Komunikasi & Pesan](/id/tags/communications-messaging/) layanan untuk pertemuan, panggilan, dan chatting online yang aman
+* [Dokumentasi & Manajemen Data](/id/tags/documentation-data-management/) perangkat lunak untuk transfer dan penyimpanan file elektronik dan catatan digital terenkripsi
+* [Produktivitas & Penjelajahan Internet](/id/tags/productivity-internet-browsing/) aplikasi untuk menggunakan internet dan bekerja online dengan aman
 
 Sebanyak mungkin kami memasukkan peralatan sumber-terbuka dan gratis di direktori ini, dengan begitu Anda bisa bebas menggunakan, memodifikasi, dan menyebarkan kode sumber peralatan ini tanpa pembatasan apa pun. 
 
 Beberapa peralatan dalam direktori ini dilabel sebagai:
 
-* [Web app](/en/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
-* [Self-hosting](/en/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
-* [Cross-platform](/en/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
+* [Aplikasi web](/id/tags/web-app/) – Anda dapat menggunakan alat ini langsung pada browser internet tanpa harus menginstalnya di perangkat;
+* [Hosting mandiri](/id/tags/self–hosting/) – Anda dapat menjalankan dan memelihara instance alat ini di server yang Anda kendalikan;
+* [Lintas platform](/id/tags/cross-platform/) – Anda dapat menginstal alat ini di perangkat mobile dan desktop yang menjalankan sistem operasi populer;
 
 Kami juga menandai peralatan tertentu sebagai:
 
-* Closed Source – this tool does not have publicly available and verifiable source code;
-* Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade; and
-* Premium – this tool is only available with a paid subscription.
+* Sumber Tertutup – alat ini tidak memiliki kode sumber yang tersedia untuk umum dan dapat diverifikasi;
+* Freemium – alat ini tersedia secara gratis tetapi penyimpanan tambahan, bandwidth, atau fitur tersedia dengan upgrade berbayar; dan
+* Premium – alat ini hanya tersedia dengan langganan berbayar.
 
 Some tools are grouped into special categories:
 
-* [Collaborative chat](/en/categories/collaborative-chat) alternatives to Slack;
-* [Email](/en/categories/email) and [e﻿mail client](/en/categories/email-client/) alternatives to Google Gmail, Apple Mail, Microsoft Outlook, etc;
-* [E﻿mail forwarding](/en/categories/email-forwarding/) services for privacy protection;
-* [File sharing](/en/categories/file-sharing), [storage](/en/categories/file-storage), and [sync](/en/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
-* [Instant messaging](/en/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
-* [Onion routing](/en/categories/onion-routing)-configured tools; and
-* [OpenPGP encryption](/en/categories/openpgp-encryption) applications.
-* [Videoconferencing](/en/categories/videoconferencing) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
-* [Virtual private network (VPN)](/en/categories/virtual-private-network) services;
+* Alternatif [obrolan kolaboratif](/id/categories/collaborative-chat) untuk Slack;
+* Alternatif [email](/id/categories/email) dan [pembaca email](/id/categories/email-client/) untuk Google Gmail, Apple Mail, Microsoft Outlook, dll.;
+* Layanan [penerusan email](/id/categories/email-forwarding/) untuk perlindungan privasi;
+* Alternatif [berbagi](/id/categories/file-sharing), [penyimpanan](/id/categories/file-storage), dan [sinkronisasi](/id/categories/file-sync) file untuk Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, dll.;
+* Alternatif [pesan instan](/id/categories/instant-messaging) untuk WhatsApp, Messenger, WeChat, LINE, Viber, dll.;
+* Alat yang dikonfigurasi dengan [nion routing](/id/categories/onion-routing); dan
+* Aplikasi [enkripsi OpenPGP](/id/categories/openpgp-enkripsi).
+* Alternatif [konferensi video](/id/categories/konferensi video) untuk Zoom, Google Meet, Microsoft Teams, dll.;
+* [Layanan jaringan pribadi virtual (VPN)](/id/categories/virtual-private-network);
 
-Using the tools recommended in this directory can help you improve your digital security and safety. Having good understanding of how these tools work and knowing how to use them properly are equally important in limiting your digital security risks and mitigating your digital safety threats.
+Penggunaan alat yang direkomendasikan dalam direktori ini dapat membantu Anda meningkatkan keamanan dan keselamatan digital. Memiliki pemahaman yang baik tentang cara kerja alat-alat ini dan mengetahui cara menggunakannya dengan benar sama pentingnya dalam membatasi risiko keamanan digital dan mengurangi ancaman keamanan digital Anda.
 
-The [digital security guides](/en/categories/digital-security-guides/) section contains a list of resources including step-by-step instructions, user manuals, trainer's handbooks, support toolkits, and other similar materials. These guides cover a wide range of digital security and safety topics including privacy, surveillance, censorship, encryption, backup, and more.
+Bagian [panduan keamanan digital ](/id/categories/digital-security-guides/) berisi daftar sumber informasi termasuk petunjuk langkah demi langkah, manual pengguna, buku pegangan pelatih, toolkit pendukung, dan materi serupa lainnya. Panduan ini mencakup berbagai topik keamanan dan keselamatan digital termasuk privasi, pengawasan, sensor, enkripsi, pencadangan, dan banyak lagi.
 
 In the [digital security network](/categen/categoriesories/digital-security-network/) section of this directory, we list organisations that support human rights defenders by providing digital security [training](/en/categories/digital-security-trainers/) and [crisis response](/en/categories/digital-security-crisis-responders/). We also include in this section cooperative groups and independent businesses that provide free or subsidised [hosting and other services](/en/categories/digital-security-service-providers/) to human rights defenders.
