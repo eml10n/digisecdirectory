@@ -1,7 +1,7 @@
 ---
-jenis: halaman
-judul: Pemberitahuan Hak Cipta
-tanggal: 2023-01-30T21:42:36.544Z
+type: page
+title: Pemberitahuan Hak Cipta
+date: 2023-01-30T21:42:36.544Z
 ---
 **digisec.directory** adalah kompilasi referensi keamanan dan keselamatan digital oleh para kontributor [proyek Pelokalan Keamanan Digital EngageMedia](https://engagemedia.org/projects/localization/). 
 
