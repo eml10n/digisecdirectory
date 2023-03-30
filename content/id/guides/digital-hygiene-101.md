@@ -12,4 +12,4 @@ categories:
   - Digital Security Guides
 date: 2023-01-25T10:45:45.597Z
 ---
-Digital Hygiene 101 by EngageMedia provides a number of tips to stay safe and healthy against digital viruses, along with a list of safer alternatives to the usual tools we use for online work.
+Digital Hygiene 101 oleh EngageMedia menyajikan sejumlah kiat untuk tetap aman dan terjaga terhadap virus digital, serta seperangkat alternatif lebih aman dari alat-alat lazimnya yang kami gunakan untuk urusan daring.
