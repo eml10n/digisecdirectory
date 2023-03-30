@@ -12,4 +12,4 @@ categories:
   - Digital Security Trainers
 date: 2023-02-03T16:22:52.208Z
 ---
-eQualitie develops open and reusable systems with a focus on privacy, online security and freedom of association. It offers free distributed denial of service (DDoS) protection and managed WordPress hosting to civil society groups and individuals.
+eQualitie mengembangkan sistem terbuka dan pakai ulang dengan fokus pada privasi, keamanan daring, dan kebebasan berserikat. Ia menawarkan perlindungan Penolakan Layanan Terdistribusi (DDos) dan mengelola hosting WordPress bagi kelompok warga sipil dan perorangan.
