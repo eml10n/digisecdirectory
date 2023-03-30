@@ -9,4 +9,4 @@ categories:
   - Digital Security Guides
 date: 2023-02-10T01:49:52.202Z
 ---
-D﻿igitalHub101 is a collection of digital security and safety guides written in Khmer. It offers simple, useful tips to help users secure their digital devices, protect their online accounts, and safeguard their personal data. Users can also find step-by-step instructions and infographics on how to use common digital security tools as well as relevant digital safety resources.
+D﻿igitalHub101 merupakan rangkuman panduan keamanan dan keselamatan digital yang ditulis dalam bahasa Khmer. Rangkuman ini menyajikan kiat-kiat yang berguna dan sederhana untuk membantu pengguna mengamankan perangkat digital mereka, melindungi akun daring mereka, dan menyelamatkan data pribadi mereka. Pengguna juga dapat menemukan instruksi dan infografis bertahap perihal cara menggunakan alat keamanan digital yang umum serta informasi keselamatan digital yang relevan.
