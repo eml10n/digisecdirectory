@@ -26,7 +26,7 @@ Kami juga menandai peralatan tertentu sebagai:
 * Freemium – alat ini tersedia secara gratis tetapi penyimpanan tambahan, bandwidth, atau fitur tersedia dengan upgrade berbayar; dan
 * Premium – alat ini hanya tersedia dengan langganan berbayar.
 
-Some tools are grouped into special categories:
+Beberapa peralatan dikelompokkan ke dalam kategori khusus:
 
 * Alternatif [obrolan kolaboratif](/id/categories/collaborative-chat) untuk Slack;
 * Alternatif [email](/id/categories/email) dan [pembaca email](/id/categories/email-client/) untuk Google Gmail, Apple Mail, Microsoft Outlook, dll.;
