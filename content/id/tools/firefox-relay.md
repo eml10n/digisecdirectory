@@ -14,4 +14,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T22:30:27.850Z
 ---
-Firefox Relay provides disposable unique forwarding email addresses to help users mask their personal email addresses on e-commerce sites, social networking platforms, sign-up forms, and more.
+Firefox Relay menyediakan alamat surel penerusan yang unik dan dapat dibuang untuk membantu pengguna menyamarkan alamat surel pribadi mereka di situs e-niaga, platform jejaring sosial, formulir pendaftaran, dan lainnya.
