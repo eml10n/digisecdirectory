@@ -2,20 +2,20 @@
 title: TunnelBear
 cover: /files/tunnelbear.jpg
 website: https://www.tunnelbear.com/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: Naskah oleh Khairil Zhafri/EngageMedia.
 flags:
-  - Closed Source
+  - Sumber-Tertutup
   - Freemium
 tags:
-  - Circumvention & Anonymity
-  - Cross-platform
+  - Penghindaran & Anonimitas
+  - Lintas Platform
 categories:
-  - Digital Security Tools
-  - Virtual Private Network
+  - Peralatan Keamanan Digital
+  - Jaringan Privat Virtual
 date: 2023-01-19T09:54:16.180Z
 ---
-Tunnelbear is a secure VPN service. Available for iOS, Android, Mac, Windows, Firefox, and Chrome.
+Tunnelbear adalah layanan VPN yang aman. Tersedia untuk iOS, Android, Mac, Windows, Firefox, dan Chrome.
 
-> Email `vpn@engagemedia.org` to ask for your voucher code. In the email, please include a brief summary of what you do and how this VPN voucher can help you in your line of work. Once we receive your application, your unique codes will be sent within two working days.\
-> –﻿ [Free VPN for digital rights defenders: A partnership between TunnelBear and EngageMedia
+> Email ke `vpn@engagemedia.org` untuk meminta kode voucher Anda. Di email, cantumkan keterangan singkat tentang pekerjaan Anda dan bagaimana voucher VPN ini dapat membantu Anda di bidang pekerjaan Anda. Setelah menerima permohonan ini, kode unik Anda akan dikirimkan dalam waktu dua hari kerja.\
+> –﻿ [Gratis VPN untuk pembela hak digital: Sebuah kemitraan antara TunnelBear dan EngageMedia
 ](https://engagemedia.org/projects/tunnelbear/)
