@@ -2,16 +2,16 @@
 title: Zulip
 cover: /files/zulip.jpg
 website: https://zulip.com/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: Teks oleh Khairil Zhafri/EngageMedia.
 flags:
   - Freemium
 tags:
   - Self-hosting
-  - Cross-platform
-  - Communications & Messaging
+  - Lintas platform
+  - Komunikasi & Perpesanan
 categories:
-  - Digital Security Tools
-  - Collaborative Chat
+  - Alat Keamanan Digital
+  - Obrolan Kolaboratif
 date: 2023-02-04T21:57:35.157Z
 ---
-Zulip is an open-source collaborative chat for teams.
+Zulip adalah obrolan kolaboratif sumber terbuka untuk tim.
