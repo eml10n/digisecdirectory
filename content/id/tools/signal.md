@@ -10,4 +10,4 @@ categories:
   - Instant Messaging
 date: 2023-01-19T10:42:10.334Z
 ---
-Signal (Desktop, Android, iOS) is an open-source secure messaging and calling app that uses end-to-end encryption to protect the user’s privacy.
+Signal (Desktop, Android, iOS) adalah aplikasi telepon dan pesan instan yang menggunakan enkripsi ujung-ke-ujung untuk melindungi privasi penggunanya.
