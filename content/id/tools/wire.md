@@ -2,15 +2,15 @@
 title: Wire
 cover: /files/wire.jpg
 website: https://wire.com/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: Naskah oleh Khairil Zhafri/EngageMedia.
 flags:
   - Freemium
 tags:
-  - Communications & Messaging
-  - Cross-platform
+  - Komunikasi & Pesan Singkat
+  - Lintas Platform
 categories:
-  - Digital Security Tools
-  - Collaborative Chat
+  - Peralatan Keamanan Digital
+  - Obrolan Kolaboratif
 date: 2023-01-19T10:45:12.357Z
 ---
-Wire is a secure group communication suite that offers secure messaging, video conferencing, and file sharing.
+Wire adalah kelengkapan komunikasi grup yang aman dan menawarkan layanan pesan singkat, konferensi video, dan berbagi file yang aman.
