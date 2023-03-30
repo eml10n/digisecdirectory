@@ -12,4 +12,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-27T20:39:54.245Z
 ---
-Mullvad is a premium privacy-respecting virtual private network (VPN) service.
+Mullvad merupakan layanan jaringan privat virtual (VPN) premium yang menghormati privasi.
