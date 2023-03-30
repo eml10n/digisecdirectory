@@ -2,11 +2,11 @@
 title: DuckDuckGo
 cover: /files/duckduckgo.jpg
 website: https://duckduckgo.com/
-credits: Text by Khairil/EngageMedia.
+credits: Naskah oleh Khairil/EngageMedia.
 tags:
-  - Internet Browsing & Productivity
+  - Peramban Internet & Produktivitas
 categories:
-  - Digital Security Tools
+  - Peralatan Keamanan Digital
 date: 2023-01-29T19:51:42.320Z
 ---
-D﻿uckDuckGo is a privacy-focused internet search engine.
+D﻿uckDuckGo adalah mesin pencarian internet yang fokus untuk privasi.
