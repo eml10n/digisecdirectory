@@ -14,4 +14,4 @@ categories:
   - Collaborative Chat
 date: 2023-02-04T21:57:35.157Z
 ---
-Mattermost is an open-source collaborative chat for teams.
+Mattermost adalah aplikasi pesan kolaboratif terbuka bagi tim.
