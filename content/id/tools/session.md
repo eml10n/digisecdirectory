@@ -11,4 +11,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T23:08:17.311Z
 ---
-Session is a decentralised instant messaging app that does not require phone numbers, email addresses, or other personally identifiable information.
+Session adalah aplikasi pesan instan terdesentralisasi yang tidak memerlukan nomor ponsel, alamat surel, atau informasi pribadi lainnya yang dapat diidentifikasi.
