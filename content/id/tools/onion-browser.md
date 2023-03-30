@@ -10,4 +10,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T07:35:04.460Z
 ---
-Onion Browser is a web browser that reroutes all traffic through the Tor network to protect privacy, circumvent surveillance, and evade censorship on the internet.
+Onion Browser merupakan peramban web yang mengalihkan semua lalu lintas melalui jaringan Tor untuk melindungi privasi, menggagalkan pengawasan, dan menghindari penyensoran di internet.
