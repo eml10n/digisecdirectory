@@ -12,4 +12,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:38:37.852Z
 ---
-Mailvelope is an open-source extension for Chromium- and Firefox-based web browsers that provides an interface for Pretty Good Protection (PGP) email encryption on popular web-based email services.
+Mailvelope adalah ekstensi terbuka yang diperuntuhkan bagi peramban web berbasis Chromium dan Firefox yang menyediakan antarmuka untuk enkripsi surel Pretty Good Protection (PGP) pada layanan surel berbasis web yang populer.
