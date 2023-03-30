@@ -2,11 +2,11 @@
 title: uBlock Origin
 cover: /files/ublock-origin.jpg
 website: https://ublockorigin.com/
-credits: Text by uBlock Origin
+credits: Naskah oleh uBlock Origin
 tags:
-  - Internet Browsing & Productivity
+  - Peramban Internet & Produktivitas
 categories:
-  - Digital Security Tools
+  - Peralatan Keamanan Digital
 date: 2023-01-29T20:25:44.572Z
 ---
-uBlock Origin is a free and open-source browser extension for content filtering—primarily aimed at neutralizing privacy invasion in an efficient, user-friendly method.
+uBlock Origin adalah ekstensi peramban gratis dengan sumber-terbuka untuk penyaringan konten —terutama bertujuan untuk menetralkan invasi privasi dengan metode yang efisien dan mudah digunakan pengguna.
