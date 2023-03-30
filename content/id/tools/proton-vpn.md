@@ -6,11 +6,11 @@ cover: /files/proton-vpn.jpg
 flags:
   - Freemium
 tags:
-  - Circumvention & Anonymity
+  - Penghindaran & Anonimitas
 categories: 
-  - Digital Security Tools
-  - Virtual Private Network
-credits: Text by Khairil Zhafri/EngageMedia.
+  - Peralatan Keamanan Digital
+  - Jaringan Privat Virtual
+credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-22T08:34:51.650Z
 ---
-Proton VPN is a virtual private network (VPN) service.
+Proton VPN adalah layanan VPN.
