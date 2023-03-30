@@ -9,4 +9,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T21:18:42.158Z
 ---
-LibreOffice is a free and open-source office productivity suite that contains a word processor, a spreadsheet program, a presentation application, and more.
+LibreOffice adalah rangkaian aplikasi produktivitas kantoran yang gratis dan terbuka yang berisi pengolah kata, program lembar sebar, aplikasi presentasi, dan lainnya.
