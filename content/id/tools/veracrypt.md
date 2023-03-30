@@ -3,10 +3,10 @@ title: VeraCrypt
 website: https://www.veracrypt.fr/
 cover: /files/veracrypt.jpg
 tags:
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
 categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
+  - Peralatan Keamanan Digital
+credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:09:13.542Z
 ---
-VeraCrypt is an open-source disk encryption tool for Windows, macOS, and Linux.
+VeraCrypt adalah alat enkripsi cakram dengan sumber-terbuka untuk Windows, macOS, dan Linux.
