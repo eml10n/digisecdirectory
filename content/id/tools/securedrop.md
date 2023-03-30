@@ -11,4 +11,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:04:00.106Z
 ---
-SecureDrop is an open-source whistleblowing system designed for media practitioners to receive information from sources securely and anonymously on the web.
+SecureDrop adalah sistem pengungkapan fakta terbuka yang dirancang untuk praktisi media untuk menerima informasi dari sumber di web secara aman dan anonim.
