@@ -17,4 +17,4 @@ categories:
   - Digital Security Trainers
 date: 2023-01-30T08:20:29.849Z
 ---
-EngageMedia is a nonprofit that promotes digital rights, open and secure technology, and social issue documentary. We equip civil society through training and other educational activities, producing guides, research, and other resources. We develop, localize, and engage with platforms, promoting open and secure software and supporting open culture and knowledge.
+EngageMedia adalah organisasi nirlaba yang mempromosikan hak-hak digital, teknologi yang terbuka dan aman, dan pendokomentasian masalah sosial. Kami memperlengkapi masyarakat umum dengan pelatihan dan aktivitas pendidikan lainnya, membuat panduan, penelitian, dan sumber daya lainnya. Kami mengembangkan, melokalkan, terlibat dengan platform, mempromosikan perangkat lunak terbuka dan aman, serta mendukung pengetahuan dan budaya yang terbuka.
