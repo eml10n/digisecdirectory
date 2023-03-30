@@ -13,4 +13,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T15:50:08.622Z
 ---
-Send is a simple, private file-sharing tool with end-to-end encryption.
+Send merupakan alat berbagi berkas yang privat dengan enkripsi ujung-ke-ujung.
