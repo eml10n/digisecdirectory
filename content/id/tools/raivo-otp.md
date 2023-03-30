@@ -9,4 +9,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-25T08:37:08.507Z
 ---
-Raivo OTP is an open source software-based authenticator for two-step verification services that syncs your tokens across your iOS and macOS devices.
+Raivo OTP adalah autentikator berbasis peranti lunak untuk layanan verifikasi dua langkah yang dapat menyelaraskan token Anda di perangkat iOS dan macOS.
