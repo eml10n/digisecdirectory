@@ -1,5 +1,5 @@
 ---
-type: halaman
+type: page
 title: Direktori Komunitas Keamanan Digital
 date: 2023-01-27T17:18:43.828Z
 ---
