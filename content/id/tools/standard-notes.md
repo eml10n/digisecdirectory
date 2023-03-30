@@ -14,4 +14,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-27T23:27:21.695Z
 ---
-S﻿tandard Notes is a note-taking app with end-to-end encryption, advanced security, and privacy controls.
+S﻿tandard Notes adalah aplikasi pencatatan dengan enkripsi ujung-ke-ujung, keamanan tingkat lanjut, dan kontrol privasi.
