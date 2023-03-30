@@ -12,4 +12,4 @@ categories:
   - Virtual Private Network
 date: 2023-01-19T20:13:34.694Z
 ---
-O﻿utline makes it easy for users to access the internet using a virtual private network (VPN). The Outline Manager enables users to run their own VPN servers on cloud platforms and the Outline Client connects devices to existing servers.
+O﻿utline mempermudah pengguna untuk mengakses internet menggunakan jaringan privat virtual (VPN). Dengan Outline Manager pengguna dapat beraktivitas di server VPN sendiri di platform awan dan Outline Client menghubungkan perangkat ke server yang ada.
