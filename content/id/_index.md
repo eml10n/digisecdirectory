@@ -1,26 +1,26 @@
 ---
-type: page
-title: Digital Security Community Directory
+type: halaman
+title: Direktori Komunitas Keamanan Digital
 date: 2023-01-27T17:18:43.828Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). This directory primarily lists digital security and safety tools and guides, and resource groups that are available in Burmese, Filipino, Indonesian, Khmer, Thai, and English.
+**digisec.directory** adalah kompilasi sumber daya keselamatan dan keamanan digital oleh kontributor [proyek Pelokalan Keamanan Digital EngageMedia](https://engagemedia.org/projects/localization/). Direktori ini pada dasarnya mencantumkan peralatan dan panduan keselamatan dan keamanan digital, serta kelompok sumber daya yang tersedia dalam bahasa Burma, Filipina, Indonesia, Khmer, Thai, Inggris.
 
-In this directory, we group the [digital security tools](/en/categories/digital-security-tools/) by their main utility or function, namely
+Dalam direktori ini, kami mengelompokkan [peralatan keamanan digital](/id/categories/digital-security-tools/) berdasarkan kegunaan dan fungsi utamanya, yaitu
 
 * [Circumvention & Anonymity](/en/tags/circumvention-anonymity/) tools for circumventing censorship and surveillance on the internet
 * [Communications & Messaging](/en/tags/communications-messaging/) services for secure online chats, calls, and meetings
 * [Documentation & Data Management](/en/tags/documentation-data-management/) software for encrypted storage and transfer of electronic files and digital records
 * [Internet Browsing & Productivity](/en/tags/productivity-internet-browsing/) applications for using the internet and working online safely
 
-As much as possible, we include free and open-source tools in this directory, ie you have the freedom to use, modify, and redistribute the source code of these tools without any restriction. 
+Sebanyak mungkin kami memasukkan peralatan sumber-terbuka dan gratis di direktori ini, dengan begitu Anda bisa bebas menggunakan, memodifikasi, dan menyebarkan kode sumber peralatan ini tanpa pembatasan apa pun. 
 
-Some tools in this directory are tagged as:
+Beberapa peralatan dalam direktori ini dilabel sebagai:
 
 * [Web app](/en/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
 * [Self-hosting](/en/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
 * [Cross-platform](/en/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
 
-We also flag certain tools as:
+Kami juga menandai peralatan tertentu sebagai:
 
 * Closed Source – this tool does not have publicly available and verifiable source code;
 * Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade; and
