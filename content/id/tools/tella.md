@@ -3,9 +3,9 @@ title: Tella
 website: https://tella-app.org/
 cover: /files/tella.jpg
 tags:
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:07:09.169Z
 ---
