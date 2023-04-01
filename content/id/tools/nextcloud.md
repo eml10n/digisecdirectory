@@ -5,10 +5,10 @@ website: https://nextcloud.com/
 cover: /files/nextcloud.jpg
 tags:
   - Self-hosting
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
   - Cross-platform
 categories: 
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - File Storage
   - File Sync
 credits: Text by Khairil Zhafri/EngageMedia.
