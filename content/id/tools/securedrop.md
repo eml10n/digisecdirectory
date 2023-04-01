@@ -5,9 +5,9 @@ cover: /files/securedrop.jpg
 tags:
   - Self-hosting
   - Web App
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:04:00.106Z
 ---
