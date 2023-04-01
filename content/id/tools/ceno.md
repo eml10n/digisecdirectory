@@ -3,7 +3,7 @@ title: CENO
 website: https://censorship.no/
 cover: /files/ceno.jpg
 tags:
-  - Circumvention & Anonymity
+  - Penghindaran & Anonimitas
 categories:
   - Peralatan Keamanan Digital
 credits: Naskah oleh Khairil Zhafri/EngageMedia.
