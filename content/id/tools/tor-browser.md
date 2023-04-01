@@ -3,9 +3,9 @@ title: Tor Browser
 website: https://www.torproject.org/
 cover: /files/torbrowser.jpg
 tags:
-  - Circumvention & Anonymity
+  - Penghindaran & Anonimitas
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Onion Routing
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T09:57:54.810Z
