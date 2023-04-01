@@ -3,11 +3,11 @@ title: KeeWeb
 website: https://keeweb.info/
 cover: /files/keeweb.jpg
 tags:
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
   - Web App
   - Self-hosting
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Password Manager
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:43:57.715Z
