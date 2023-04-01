@@ -6,7 +6,7 @@ credits: Naskah oleh Khairil/EngageMedia.
 flags:
   - Freemium
 tags:
-  - Komunikasi & Pesan Singkat
+  - Komunikasi & Pesan
 categories:
   - Peralatan Keamanan Digital
   - Email
