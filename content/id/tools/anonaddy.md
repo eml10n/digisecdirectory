@@ -6,11 +6,11 @@ credits: Text by Khairil Zhafri/EngageMedia.
 flags:
   - Freemium
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
   - Self-hosting
 categories:
   - OpenPGP Encryption
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Email Forwarding
 date: 2023-01-25T08:17:33.984Z
 ---
