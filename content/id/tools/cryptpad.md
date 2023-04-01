@@ -6,9 +6,9 @@ credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Web App
   - Self-hosting
-  - Internet Browsing & Productivity
+  - Produktivitas & Penjelajahan Internet
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - File Storage
   - File Sharing
 date: 2023-01-19T21:28:00.311Z
