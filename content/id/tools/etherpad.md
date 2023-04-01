@@ -6,9 +6,9 @@ credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Web App
   - Self-hosting
-  - Internet Browsing & Productivity
+  - Produktivitas & Penjelajahan Internet
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
 date: 2023-01-19T21:34:39.091Z
 ---
 Etherpad adalah alat pencatatan kolaboratif terbuka.
