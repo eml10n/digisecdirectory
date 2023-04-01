@@ -4,7 +4,7 @@ cover: /files/jitsimeet.jpg
 website: https://jitsi.org/jitsi-meet/
 credits: Naskah oleh Khairil Zhafri/EngageMedia.
 tags:
-  - Komunikasi & Pesan Singkat
+  - Komunikasi & Pesan
   - Aplikasi Web
   - Hosting mandiri
 categories:
