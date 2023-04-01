@@ -3,9 +3,9 @@ title: K-9 Mail
 website: https://k9mail.app/
 cover: /files/k-9-mail.jpg
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - OpenPGP Encryption
   - Email Client
 credits: Text by Khairil Zhafri/EngageMedia.
