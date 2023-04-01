@@ -5,10 +5,10 @@ cover: /files/skiff-mail.jpg
 flags:
   - Freemium
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
   - Web App
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Email
 credits: Text by Skiff.
 date: 2023-01-19T10:40:05.818Z
