@@ -7,9 +7,9 @@ flags:
   - Freemium
 tags:
   - Self-hosting
-  - Internet Browsing & Productivity
+  - Produktivitas & Penjelajahan Internet
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Email Forwarding
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T22:30:27.850Z
