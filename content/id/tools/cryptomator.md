@@ -3,10 +3,10 @@ title: Cryptomator
 website: https://cryptomator.org/
 cover: /files/cryptomator.jpg
 tags:
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
   - Cross-platform
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T22:16:31.881Z
 ---
