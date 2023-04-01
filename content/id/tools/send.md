@@ -6,9 +6,9 @@ cover: /files/send.jpg
 tags:
   - Self-hosting
   - Web App
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
 categories: 
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - File Sharing
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T15:50:08.622Z
