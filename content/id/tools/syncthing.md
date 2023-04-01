@@ -4,7 +4,7 @@ cover: /files/syncthing.jpg
 website: https://syncthing.net/
 credits: Text by Syncthing.
 tags:
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
 categories:
   - File Sync
 date: 2023-01-28T00:35:53.546Z
