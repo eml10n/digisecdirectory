@@ -6,7 +6,7 @@ credits: Naskah oleh Khairil Zhafri/EngageMedia.
 flags:
   - Freemium
 tags:
-  - Komunikasi & Pesan Singkat
+  - Komunikasi & Pesan
   - Lintas Platform
 categories:
   - Peralatan Keamanan Digital
