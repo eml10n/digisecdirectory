@@ -5,9 +5,9 @@ cover: /files/globaleaks.jpg
 tags:
   - Web App
   - Self-hosting
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:36:32.118Z
 ---
