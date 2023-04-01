@@ -6,9 +6,9 @@ credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Self-hosting
   - Web App
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Videoconferencing
 date: 2023-01-19T21:52:14.370Z
 ---
