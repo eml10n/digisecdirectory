@@ -2,6 +2,7 @@
 main:
 - name:
     id: 'Alat Keamanan Digital'
+    en: Alat Keamanan Digital
   ref: "/categories/digital-security-tools"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
     fa-fw"></i></span><span class="label">'
@@ -9,24 +10,28 @@ main:
   sub:
   - name:
       id: 'Circumvention & Anonimitas'
+      en: Penghindaran & Anonimitas
     ref: "/tags/circumvention-anonymity"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-user-secret
       fa-fw"></i></span><span class="label">'
     post: '</span></span>'
   - name:
       id: 'Komunikasi & Perpesanan'
+      en: Komunikasi & Pesan
     ref: "/tags/communications-messaging"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span
       class="label">'
     post: '</span></span>'
   - name:
       id: 'Manajemen Data & Dokumentasi'
+      en: Dokumentasi & Manajemen Data
     ref: "/tags/documentation-data-management"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span
       class="label">'
     post: '</span></span>'
   - name:
       id: 'Produktivitas & Penelusuran Internet'
+      en: Dokumentasi & Manajemen Data
     ref: "/tags/internet-browsing-productivity"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
       class="label">'
@@ -37,6 +42,7 @@ main:
   external: 'Asli'
 - name:
     id: 'Panduan Keamanan Digital'
+    en: Panduan Keamanan Digital
   ref: "/categories/digital-security-guides"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
     class="label">'
@@ -47,6 +53,7 @@ main:
   external: 'Asli'
 - name:
     id: 'Jaringan Keamanan Digital'
+    en: Alat Keamanan Digital
   ref: "/categories/digital-security-network"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
     class="label">'
