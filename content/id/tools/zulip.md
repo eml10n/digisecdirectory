@@ -8,7 +8,7 @@ flags:
 tags:
   - Self-hosting
   - Lintas platform
-  - Komunikasi & Perpesanan
+  - Komunikasi & Pesan
 categories:
   - Alat Keamanan Digital
   - Obrolan Kolaboratif
