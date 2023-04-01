@@ -7,9 +7,9 @@ flags:
   - Premium
 tags:
   - Cross-platform
-  - Circumvention & Anonymity
+  - Penghindaran & Anonimitas
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
 date: 2023-01-27T20:39:54.245Z
 ---
 Mullvad merupakan layanan jaringan privat virtual (VPN) premium yang menghormati privasi.
