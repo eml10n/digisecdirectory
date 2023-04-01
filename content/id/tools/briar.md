@@ -3,9 +3,9 @@ title: Briar
 website: https://briarproject.org/
 cover: /files/briar.jpg
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Onion Routing
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:29:01.038Z
