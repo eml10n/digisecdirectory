@@ -5,10 +5,10 @@ cover: /files/proton-mail.jpg
 flags:
   - Freemium
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
   - Web App
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - OpenPGP Encryption
   - Email
 credits: Text by Khairil Zhafri/EngageMedia.
