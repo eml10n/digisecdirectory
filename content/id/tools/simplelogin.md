@@ -6,7 +6,7 @@ credits: Text by Khairil Zhafri/EngageMedia.
 flags:
   - Freemium
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Email Forwarding
 date: 2023-01-25T08:12:29.951Z
 ---
