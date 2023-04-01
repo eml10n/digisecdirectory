@@ -1,32 +1,32 @@
 ### Localized menus have to be merged into a single yaml file
 main:
 - name:
-    en: 'Alat Keamanan Digital'
+    id: 'Alat Keamanan Digital'
   ref: "/categories/digital-security-tools"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
     fa-fw"></i></span><span class="label">'
   post: '</span></span>'
   sub:
   - name:
-      en: 'Circumvention & Anonimitas'
+      id: 'Circumvention & Anonimitas'
     ref: "/tags/circumvention-anonymity"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-user-secret
       fa-fw"></i></span><span class="label">'
     post: '</span></span>'
   - name:
-      en: 'Komunikasi & Perpesanan'
+      id: 'Komunikasi & Perpesanan'
     ref: "/tags/communications-messaging"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span
       class="label">'
     post: '</span></span>'
   - name:
-      en: 'Manajemen Data & Dokumentasi'
+      id: 'Manajemen Data & Dokumentasi'
     ref: "/tags/documentation-data-management"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span
       class="label">'
     post: '</span></span>'
   - name:
-      en: 'Produktivitas & Penelusuran Internet'
+      id: 'Produktivitas & Penelusuran Internet'
     ref: "/tags/internet-browsing-productivity"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
       class="label">'
@@ -36,7 +36,7 @@ main:
 - identifier: 'spacer2'
   external: 'Asli'
 - name:
-    en: 'Panduan Keamanan Digital'
+    id: 'Panduan Keamanan Digital'
   ref: "/categories/digital-security-guides"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
     class="label">'
@@ -46,7 +46,7 @@ main:
 - identifier: 'spacer2'
   external: 'Asli'
 - name:
-    en: 'Jaringan Keamanan Digital'
+    id: 'Jaringan Keamanan Digital'
   ref: "/categories/digital-security-network"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
     class="label">'

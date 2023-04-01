@@ -3,27 +3,28 @@
 main:
   - name: 
       en: Digital Security Tools
+      id: 'Alat Keamanan Digital'
     ref: "/categories/digital-security-tools" 
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">
     post: </span></span>
     sub:
       - name: 
-          en: Circumvention & Anonymity
+          id: 'Circumvention & Anonimitas'
         ref: "/tags/circumvention-anonymity"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-user-secret fa-fw"></i></span><span class="label">
         post: </span></span>
       - name:  
-          en: Communications & Messaging
+          id: 'Komunikasi & Perpesanan'
         ref: "/tags/communications-messaging"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span class="label">
         post: </span></span>
       - name: 
-          en: Documentation & Data Management
+          id: 'Manajemen Data & Dokumentasi'
         ref: "/tags/documentation-data-management"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span class="label">
         post: </span></span>
       - name:  
-          en: Internet Browsing & Productivity
+          id: 'Produktivitas & Penelusuran Internet'
         ref: "/tags/internet-browsing-productivity"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span class="label">
         post: </span></span>
@@ -32,7 +33,7 @@ main:
   - identifier: spacer2
     external: true
   - name:  
-      en: Digital Security Guides
+      id: 'Panduan Keamanan Digital'
     ref: "/categories/digital-security-guides" 
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span class="label">
     post: </span></span>
@@ -41,7 +42,7 @@ main:
   - identifier: spacer2
     external: true
   - name:  
-      en: Digital Security Network
+      id: 'Jaringan Keamanan Digital'
     ref: "/categories/digital-security-network" 
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span class="label">
     post: </span></span>

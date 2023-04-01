@@ -1,13 +1,13 @@
 ### Localized menus have to be merged into a single yaml file
 more:
 - name:
-    en: 'Perbarui Direktori'
+    id: 'Perbarui Direktori'
   ref: "/update"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-pen-to-square
     fa-fw"></i></span><span class="label">'
   post: '</span></span>'
 - name:
-    en: 'Terjemahkan Direktori'
+    id: 'Terjemahkan Direktori'
   ref: "/translate"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-language fa-fw"></i></span><span
     class="label">'
@@ -19,19 +19,19 @@ more:
 - identifier: 'spacer3'
   external: 'Asli'
 - name:
-    en: 'Pemberitahuan Hak Cipta'
+    id: 'Pemberitahuan Hak Cipta'
   ref: "/copyright"
   pre: '<span class="flex"><span class="icon"><i class="fa-brands fa-creative-commons
     fa-fw"></i></span><span class="label">'
   post: '</span></span>'
 - name:
-    en: 'Kebijakan Privasi'
+    id: 'Kebijakan Privasi'
   ref: "/privacy"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-eye fa-fw"></i></span><span
     class="label">'
   post: '</span></span>'
 - name:
-    en: 'Kolofon'
+    id: 'Kolofon'
   ref: "/colophon"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-circle-info fa-fw"></i></span><span
     class="label">'

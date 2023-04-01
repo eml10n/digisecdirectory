@@ -3,5 +3,5 @@
 <link href="/fontawesome/6.2.1/css/solid.min.css" rel="stylesheet">
 {{ if .Params.website }}
 <meta http-equiv="refresh" content="0; url={{ printf "%s" $.Params.website }}">
-<script>document.title = 'Redireail.cting to {{ replaceRE "^https?://([^/]+).*" "$1" $.Params.website }}'; </script>
+<script>document.title = 'Redirecting to {{ replaceRE "^https?://([^/]+).*" "$1" $.Params.website }}'; </script>
 {{ end }}
