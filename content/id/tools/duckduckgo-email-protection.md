@@ -4,9 +4,9 @@ cover: /files/duckduckgo.jpg
 website: https://duckduckgo.com/email/
 credits: Text by Khairil Zhafri/EngageMedia.
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Email Forwarding
 date: 2023-01-25T08:17:33.984Z
 ---
