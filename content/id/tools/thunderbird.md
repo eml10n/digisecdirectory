@@ -3,9 +3,9 @@ title: Thunderbird
 website: https://www.thunderbird.net/
 cover: /files/thunderbird.jpg
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - OpenPGP Encryption
   - Email Client
 credits: Text by Khairil Zhafri/EngageMedia.
