@@ -7,10 +7,10 @@ flags:
 tags:
   - Web App
   - Self-hosting
-  - Documentation & Data Management
+  - Dokumentasi & Manajemen Data
   - Cross-platform
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Password Manager
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:14:01.740Z
