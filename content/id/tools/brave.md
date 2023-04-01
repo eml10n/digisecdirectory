@@ -3,10 +3,10 @@ title: Brave
 website: https://brave.com/
 cover: /files/brave.jpg
 tags:
-  - Internet Browsing & Productivity
+  - Produktivitas & Penjelajahan Internet
   - Cross-platform
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:27:21.358Z
 ---
