@@ -4,9 +4,9 @@ cover: /files/aegis-authenticator.jpg
 website: https://getaegis.app/
 credits: Text by Aegis Authenticator.
 tags:
-  - Internet Browsing & Productivity
+  - Produktivitas & Penjelajahan Internet
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
 date: 2023-01-29T20:30:48.920Z
 ---
 Aegis Authenticator merupakan aplikasi terbuka yang aman dan gratis untuk Android yang dapat mengelola token verifikasi dua langkah Anda untuk layanan daring Anda.
