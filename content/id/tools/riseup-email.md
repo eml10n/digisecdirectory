@@ -7,9 +7,9 @@ flags:
   - Freemium
   - Invite Only
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - OpenPGP Encryption
   - Onion Routing
   - Email
