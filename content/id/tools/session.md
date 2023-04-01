@@ -4,9 +4,9 @@ title: Session
 website: https://www.getsession.org/
 cover: /files/session.jpg
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories: 
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Instant Messaging
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T23:08:17.311Z
