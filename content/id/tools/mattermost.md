@@ -8,9 +8,9 @@ flags:
 tags:
   - Self-hosting
   - Cross-platform
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - Collaborative Chat
 date: 2023-02-04T21:57:35.157Z
 ---
