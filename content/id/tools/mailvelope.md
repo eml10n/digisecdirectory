@@ -5,9 +5,9 @@ cover: /files/mailvelope.jpg
 flags:
   - Freemium
 tags:
-  - Communications & Messaging
+  - Komunikasi & Pesan
 categories:
-  - Digital Security Tools
+  - Alat Keamanan Digital
   - OpenPGP Encryption
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:38:37.852Z
