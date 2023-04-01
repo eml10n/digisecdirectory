@@ -3,7 +3,7 @@ main:
 - name:
     id: 'Alat Keamanan Digital'
     en: Alat Keamanan Digital
-  ref: "/categories/digital-security-tools"
+  ref: "/categories/alat-keamanan-digital"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
     fa-fw"></i></span><span class="label">'
   post: '</span></span>'
