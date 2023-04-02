@@ -4,13 +4,15 @@ more:
   - name: 
       en: Update the Directory
       id: 'Perbarui Direktori'
-    ref: "/update"
+    ref: "/en/update/"
+    external: true
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-pen-to-square fa-fw"></i></span><span class="label">
     post: </span></span>
   - name: 
       en: Translate the Directory
       id: 'Terjemahkan Direktori'
-    ref: "/translate"
+    ref: "/en/translate/" 
+    external: true
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-language fa-fw"></i></span><span class="label">
     post: </span></span>
   - identifier: spacer1
