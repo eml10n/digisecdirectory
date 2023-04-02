@@ -15,11 +15,11 @@ more:
     class="label">'
   post: '</span></span>'
 - identifier: 'spacer1'
-  external: 'Asli'
+  external: 'True'
 - identifier: 'spacer2'
-  external: 'Asli'
+  external: 'True'
 - identifier: 'spacer3'
-  external: 'Asli'
+  external: 'True'
 - name:
     id: 'Pemberitahuan Hak Cipta'
     en: Pemberitahuan Hak Cipta
