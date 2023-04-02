@@ -6,10 +6,10 @@ flags:
   - Freemium
 tags:
   - Komunikasi & Pesan
-  - Web App
+  - Aplikasi Web
 categories:
   - Alat Keamanan Digital
-  - OpenPGP Encryption
+  - Enkripsi OpenPGP
   - Email
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:40:05.818Z
