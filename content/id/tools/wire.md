@@ -9,7 +9,7 @@ tags:
   - Komunikasi & Pesan
   - Lintas Platform
 categories:
-  - Peralatan Keamanan Digital
+  - Alat Keamanan Digital
   - Obrolan Kolaboratif
 date: 2023-01-19T10:45:12.357Z
 ---
