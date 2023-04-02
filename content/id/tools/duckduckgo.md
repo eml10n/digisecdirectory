@@ -4,7 +4,7 @@ cover: /files/duckduckgo.jpg
 website: https://duckduckgo.com/
 credits: Naskah oleh Khairil/EngageMedia.
 tags:
-  - Peramban Internet & Produktivitas
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
 date: 2023-01-29T19:51:42.320Z
