@@ -1,34 +1,25 @@
 ---
-### Localized menus have to be merged into a single yaml file
 main:
-  - name: 
-      en: Digital Security Tools
-      id: 'Alat Keamanan Digital'
+### English  
+### Menu
+  - name: Digital Security Tools
     ref: "/categories/digital-security-tools" 
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">
     post: </span></span>
     sub:
-      - name: 
-          en: Circumvention & Anonymity
-          id: 'Circumvention & Anonimitas'
+      - name: Circumvention & Anonymity
         ref: "/tags/circumvention-anonymity"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-user-secret fa-fw"></i></span><span class="label">
         post: </span></span>
-      - name:  
-          en: Communications & Messaging
-          id: 'Komunikasi & Perpesanan'
+      - name: Communications & Messaging
         ref: "/tags/communications-messaging"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span class="label">
         post: </span></span>
-      - name: 
-          en: Documentation & Data Management
-          id: 'Manajemen Data & Dokumentasi'
+      - name: Documentation & Data Management
         ref: "/tags/documentation-data-management"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span class="label">
         post: </span></span>
-      - name:  
-          en: Internet Browsing & Productivity
-          id: 'Produktivitas & Penelusuran Internet'
+      - name: Internet Browsing & Productivity
         ref: "/tags/internet-browsing-productivity"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span class="label">
         post: </span></span>
@@ -36,9 +27,7 @@ main:
     external: true
   - identifier: spacer2
     external: true
-  - name:  
-      en: Digital Security Guides
-      id: 'Panduan Keamanan Digital'
+  - name: Digital Security Guides
     ref: "/categories/digital-security-guides" 
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span class="label">
     post: </span></span>
@@ -46,9 +35,54 @@ main:
     external: true
   - identifier: spacer2
     external: true
-  - name:  
-      en: Digital Security Network
-      id: 'Jaringan Keamanan Digital'
+  - name: Digital Security Network
     ref: "/categories/digital-security-network" 
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span class="label">
     post: </span></span>
+### Indonesian  
+### Menu
+- name: Alat Keamanan Digital
+  ref: "/categories/alat-keamanan-digital"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
+  sub:
+  - name:
+      id: Penghindaran & Anonimitas
+    ref: "/tags/penghindaran-anonimitas"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-user-secret
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
+  - name: Komunikasi & Pesan
+    ref: "/tags/komunikasi-pesan"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
+  - name: Dokumentasi & Manajemen Data
+    ref: "/tags/dokumentasi-manajemen-data"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
+  - name: Penelusuran Internet & Produktivitas
+    ref: "/tags/penelusuran-internet-produktivitas"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
+- identifier: 'spacer1'
+  external: 'True'
+- identifier: 'spacer2'
+  external: 'True'
+- name: Panduan Keamanan Digital
+  ref: "/categories/panduan-keamanan-digital"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
+- identifier: 'spacer1'
+  external: 'True'
+- identifier: 'spacer2'
+  external: 'True'
+- name: Jaringan Keamanan Digital
+  ref: "/categories/jaringan-keamanan-digital"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
