@@ -8,7 +8,7 @@ tags:
   - Hosting Mandiri
 categories:
   - Alat Keamanan Digital
-  - Password Manager
+  - Pengelola Kata Sandi
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:43:57.715Z
 ---
