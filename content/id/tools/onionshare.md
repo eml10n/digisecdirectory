@@ -7,7 +7,7 @@ tags:
 categories:
   - Alat Keamanan Digital
   - Berbagi File
-  - Onion Routing
+  - Perutean Onion
 credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:57:06.460Z
 ---
