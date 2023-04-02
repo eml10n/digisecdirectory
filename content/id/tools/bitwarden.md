@@ -5,10 +5,10 @@ cover: /files/bitwarden.jpg
 flags:
   - Freemium
 tags:
-  - Web App
-  - Self-hosting
+  - Aplikasi Web
+  - Hosting Mandiri
   - Dokumentasi & Manajemen Data
-  - Cross-platform
+  - Lintas Platform
 categories:
   - Alat Keamanan Digital
   - Password Manager
