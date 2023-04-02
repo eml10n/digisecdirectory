@@ -35,7 +35,7 @@ Beberapa peralatan dikelompokkan ke dalam kategori khusus:
 * Alternatif [pesan instan](/id/categories/pesan-instan) untuk WhatsApp, Messenger, WeChat, LINE, Viber, dll.;
 * Alat yang dikonfigurasi dengan [Onion routing](/id/categories/onion-routing); dan
 * Aplikasi [enkripsi OpenPGP](/id/categories/enkripsi-openpgp).
-* Alternatif [konferensi video](/id/categories/videoconferencing) untuk Zoom, Google Meet, Microsoft Teams, dll.;
+* Alternatif [konferensi video](/id/categories/konferensi-video) untuk Zoom, Google Meet, Microsoft Teams, dll.;
 * Layanan [jaringan pribadi virtual (VPN)](/id/categories/jaringan-pribadi-virtual);
 
 Penggunaan alat yang direkomendasikan dalam direktori ini dapat membantu Anda meningkatkan keamanan dan keselamatan digital. Memiliki pemahaman yang baik tentang cara kerja alat-alat ini dan mengetahui cara menggunakannya dengan benar sama pentingnya dalam membatasi risiko keamanan digital dan mengurangi ancaman keamanan digital Anda.
