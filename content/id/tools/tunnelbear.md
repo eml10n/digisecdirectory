@@ -10,7 +10,7 @@ tags:
   - Penghindaran & Anonimitas
   - Lintas Platform
 categories:
-  - Peralatan Keamanan Digital
+  - Alat Keamanan Digital
   - Jaringan Privat Virtual
 date: 2023-01-19T09:54:16.180Z
 ---
