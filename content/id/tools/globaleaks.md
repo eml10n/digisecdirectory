@@ -3,8 +3,8 @@ title: GlobaLeaks
 website: https://www.globaleaks.org/
 cover: /files/globaleaks.jpg
 tags:
-  - Web App
-  - Self-hosting
+  - Aplikasi Web
+  - Hosting Mandiri
   - Dokumentasi & Manajemen Data
 categories:
   - Alat Keamanan Digital
