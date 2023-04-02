@@ -13,14 +13,14 @@
       </label>
     {{ end }}
     <div>
-      <a class="gdoc-brand gdoc-header__link" href="{{ .Root.Site.BaseURL }}/{{ .Lang }}">
+      <a class="gdoc-brand gdoc-header__link" href="{{ .Root.Site.BaseURL }}/{{ .Root.Site.Lang }}">
         <span class="flex align-center">
           <img
             class="gdoc-brand__img"
             src="{{ (default "brand.svg" .Root.Site.Params.GeekdocLogo) | relURL }}"
             alt=""
           />
-          <span class="gdoc-brand__title">{{ .Root.Site.Title }}/{{ .Lang }}</span>
+          <span class="gdoc-brand__title">{{ .Root.Site.Title }}/{{ .Root.Site.Lang }}</span>
         </span>
       </a>
     </div>
