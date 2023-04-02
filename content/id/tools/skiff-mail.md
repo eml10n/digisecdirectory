@@ -6,7 +6,7 @@ flags:
   - Freemium
 tags:
   - Komunikasi & Pesan
-  - Web App
+  - Aplikasi Web
 categories:
   - Alat Keamanan Digital
   - Email
