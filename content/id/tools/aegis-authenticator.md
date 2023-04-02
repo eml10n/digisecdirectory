@@ -4,7 +4,7 @@ cover: /files/aegis-authenticator.jpg
 website: https://getaegis.app/
 credits: Text by Aegis Authenticator.
 tags:
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
 date: 2023-01-29T20:30:48.920Z
