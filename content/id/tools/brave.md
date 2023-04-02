@@ -3,7 +3,7 @@ title: Brave
 website: https://brave.com/
 cover: /files/brave.jpg
 tags:
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
   - Lintas Platform
 categories:
   - Alat Keamanan Digital
