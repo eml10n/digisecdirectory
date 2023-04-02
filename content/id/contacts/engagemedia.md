@@ -17,4 +17,4 @@ categories:
   - Pelatihan Keamanan Digital
 date: 2023-01-30T08:20:29.849Z
 ---
-EngageMedia adalah organisasi nirlaba yang mempromosikan hak-hak digital, teknologi yang terbuka dan aman, dan pendokomentasian masalah sosial. Kami memperlengkapi masyarakat umum dengan pelatihan dan aktivitas pendidikan lainnya, membuat panduan, penelitian, dan sumber daya lainnya. Kami mengembangkan, melokalkan, terlibat dengan platform, mempromosikan perangkat lunak terbuka dan aman, serta mendukung pengetahuan dan budaya yang terbuka.
+EngageMedia adalah organisasi nirlaba yang mempromosikan hak-hak digital, teknologi yang terbuka dan aman, dan film dokumenter masalah sosial. Kami memperlengkapi masyarakat umum dengan pelatihan dan aktivitas pendidikan lainnya, membuat panduan, penelitian, dan sumber daya lainnya. Kami mengembangkan, melokalkan, terlibat dengan platform, mempromosikan perangkat lunak terbuka dan aman, serta mendukung pengetahuan dan budaya yang terbuka.
