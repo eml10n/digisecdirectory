@@ -4,7 +4,7 @@ website: https://www.mozilla.org/firefox
 cover: /files/firefox.jpg
 tags:
   - Produktivitas & Penjelajahan Internet
-  - Cross-platform
+  - Lintas Platform
 categories:
   - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.
