@@ -6,7 +6,7 @@ credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Aplikasi Web
   - Hosting Mandiri
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
   - Penyimpanan File
