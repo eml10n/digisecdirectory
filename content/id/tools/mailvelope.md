@@ -8,7 +8,7 @@ tags:
   - Komunikasi & Pesan
 categories:
   - Alat Keamanan Digital
-  - OpenPGP Encryption
+  - Enkripsi OpenPGP
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:38:37.852Z
 ---
