@@ -8,7 +8,7 @@ flags:
 tags:
   - Hosting mandiri
   - Aplikasi web
-  - Peramban Internet & Produktivitas
+  - Penelusuran Internet & Produktivitas
   - Lintas Platform
 categories:
   - Alat Keamanan Digital
