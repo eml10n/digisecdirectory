@@ -8,7 +8,7 @@ credits: Text by Safe Sisters.
 flags:
   - PDF Only
 categories:
-  - Digital Security Guides
+  - Panduan Keamanan Digital
 date: 2023-01-25T10:53:14.951Z
 ---
 Safe Sisters Guide dimaksudkan untuk membantu saudari-saudari kita mempelajari tentang masalah yang mungkin kita temui di ineternet (seperti foto yang dicuri atau disebarkan tanpa izin, virus, dan penipuan), bagaimana cara membuat keputusan yang terinformasi setiap hari untuk melindungi diri kita sendiri, dan menjadikan internet ruang yang aman bagi diri sendiri, keluarga kita, dan semua wanita!
