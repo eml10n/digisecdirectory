@@ -3,7 +3,7 @@ title: Firefox Focus
 website: https://www.mozilla.org/firefox/browsers/mobile/focus/
 cover: /files/firefox-focus.jpg
 tags:
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.
