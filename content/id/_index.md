@@ -10,7 +10,7 @@ Dalam direktori ini, kami mengelompokkan [alat keamanan digital](/id/categories/
 * Alat [Penghindaran & Anonimitas](/id/tags/penghindaran-anonimitas/) untuk menghindari sensor dan pengawasan di internet
 * Layanan [Komunikasi & Pesan](/id/tags/komunikasi-pesan/) untuk pertemuan, panggilan, dan chatting online yang aman
 * Perangkat lunak [Dokumentasi & Manajemen Data](/id/tags/dokumentasi-manajemen-data/) untuk transfer dan penyimpanan file elektronik dan catatan digital terenkripsi
-* Aplikasi [Produktivitas & Penjelajahan Internet](/id/tags/produktivitas-penjelajahan-internet/) untuk menggunakan internet dan bekerja online dengan aman
+* Aplikasi [Penelusuran Internet & Produktivitas](/id/tags/penelusuran-internet-produktivitas/) untuk menggunakan internet dan bekerja online dengan aman
 
 Sebanyak mungkin kami memasukkan peralatan gratis dan sumber terbuka (free and open source) di direktori ini, yakni Anda bisa bebas menggunakan, memodifikasi, dan menyebarkan kode sumber peralatan ini tanpa pembatasan apa pun. 
 
