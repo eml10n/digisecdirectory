@@ -3,7 +3,7 @@ title: Firefox
 website: https://www.mozilla.org/firefox
 cover: /files/firefox.jpg
 tags:
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
   - Lintas Platform
 categories:
   - Alat Keamanan Digital
