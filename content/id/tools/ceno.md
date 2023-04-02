@@ -5,7 +5,7 @@ cover: /files/ceno.jpg
 tags:
   - Penghindaran & Anonimitas
 categories:
-  - Peralatan Keamanan Digital
+  - Alat Keamanan Digital
 credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-19T07:32:57.800Z
 ---

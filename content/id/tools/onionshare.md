@@ -5,7 +5,7 @@ cover: /files/onionshare.jpg
 tags:
   - Dokumentasi & Manajemen Data
 categories:
-  - Peralatan Keamanan Digital
+  - Alat Keamanan Digital
   - Berbagi File
   - Perutean Onion
 credits: Naskah oleh Khairil Zhafri/EngageMedia.

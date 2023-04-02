@@ -11,7 +11,7 @@ tags:
 categories:
   - Alat Keamanan Digital
   - Enkripsi OpenPGP
-  - Onion Routing
+  - Perutean Onion
   - Surel
 date: 2023-01-19T10:38:37.852Z
 ---

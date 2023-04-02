@@ -33,7 +33,7 @@ Beberapa peralatan dikelompokkan ke dalam kategori khusus:
 * Layanan [penerusan surel](/id/categories/penerusan-surel/) untuk perlindungan privasi;
 * Alternatif [berbagi](/id/categories/berbagi-file), [penyimpanan](/id/categories/penyimpanan-file), dan [sinkronisasi](/id/categories/sinkronisasi-file) file untuk Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, dll.;
 * Alternatif [pesan instan](/id/categories/pesan-instan) untuk WhatsApp, Messenger, WeChat, LINE, Viber, dll.;
-* Alat yang dikonfigurasi dengan [Onion routing](/id/categories/onion-routing); dan
+* Alat yang dikonfigurasi dengan [perutean Onion (Onion routing)](/id/categories/perutean-onion); dan
 * Aplikasi [enkripsi OpenPGP](/id/categories/enkripsi-openpgp).
 * Alternatif [konferensi video](/id/categories/konferensi-video) untuk Zoom, Google Meet, Microsoft Teams, dll.;
 * Layanan [jaringan pribadi virtual (VPN)](/id/categories/jaringan-pribadi-virtual);
@@ -42,4 +42,4 @@ Penggunaan alat yang direkomendasikan dalam direktori ini dapat membantu Anda me
 
 Bagian [panduan keamanan digital](/id/categories/panduan-keamanan-digital/) berisi daftar sumber informasi termasuk petunjuk langkah demi langkah, manual pengguna, buku pegangan pelatih, toolkit pendukung, dan materi serupa lainnya. Panduan ini mencakup berbagai topik keamanan dan keselamatan digital termasuk privasi, pengawasan, sensor, enkripsi, pencadangan, dan banyak lagi.
 
-Di bagian [jaringan keamanan digital](/id/categories/jaringan-keamanan-digital/) dari direktori ini, kami mencantumkan organisasi yang mendukung pembela hak asasi manusia dengan menyediakan [pelatihan](/id/categories/pelatihan-keamanan-digital/) dan [penanggap krisis](/id/categories/penanggap-krisis-keamanan-digital/) keamanan digital. Kami juga menyertakan ke dalam bagian ini kelompok koperasi dan bisnis independen yang menyediakan [hosting dan layanan](/id/categories/digital-security-service-providers/) gratis atau bersubsidi untuk pembela hak asasi manusia.
+Di bagian [jaringan keamanan digital](/id/categories/jaringan-keamanan-digital/) dari direktori ini, kami mencantumkan organisasi yang mendukung pembela hak asasi manusia dengan menyediakan [pelatihan](/id/categories/pelatihan-keamanan-digital/) dan [penanggap krisis](/id/categories/penanggap-krisis-keamanan-digital/) keamanan digital. Kami juga menyertakan ke dalam bagian ini kelompok koperasi dan bisnis independen yang menyediakan [hosting dan layanan](/id/categories/penyedia-layanan-keamanan-digital/) gratis atau bersubsidi untuk pembela hak asasi manusia.

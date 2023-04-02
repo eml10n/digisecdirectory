@@ -5,9 +5,9 @@ cover: /files/keepassdx.jpg
 tags:
   - Dokumentasi & Manajemen Data
 categories:
-  - Peralatan Keamanan Digital
-  - Manajer Kata Sandi
+  - Alat Keamanan Digital
+  - Pengelola Kata Sandi
 credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:42:23.612Z
 ---
-KeePassDX adalah manajer kata sandi yang aman dengan sumber-terbuka untuk perangkat seluler Android.
+KeePassDX adalah pengelola kata sandi yang aman dengan sumber-terbuka untuk perangkat seluler Android.

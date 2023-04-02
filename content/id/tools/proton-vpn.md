@@ -8,7 +8,7 @@ flags:
 tags:
   - Penghindaran & Anonimitas
 categories: 
-  - Peralatan Keamanan Digital
+  - Alat Keamanan Digital
   - Jaringan Privat Virtual
 credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-22T08:34:51.650Z

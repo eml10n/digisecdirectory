@@ -8,7 +8,7 @@ website: https://deflect.ca/non-profits/
 credits: Text by Khairil/EngageMedia.
 categories:
   - Jaringan Keamanan Digital
-  - Digital Security Service Providers
+  - Penyedia Layanan Keamanan Digital
   - Pelatihan Keamanan Digital
 date: 2023-02-03T16:22:52.208Z
 ---

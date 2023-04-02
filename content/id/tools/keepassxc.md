@@ -5,8 +5,8 @@ cover: /files/keepassxc.jpg
 tags:
   - Dokumentasi & Manajemen Data
 categories:
-  - Peralatan Keamanan Digital
-  - Manajer Kata Sandi
+  - Alat Keamanan Digital
+  - Pengelola Kata Sandi
 credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:55:27.353Z
 ---
