@@ -3,7 +3,7 @@ title: OpenOffice
 website: https://www.openoffice.org/
 cover: /files/openoffice.jpg
 tags:
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.

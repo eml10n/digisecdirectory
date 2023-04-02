@@ -7,7 +7,7 @@ flags:
   - Freemium
 categories:
   - Alat Keamanan Digital
-  - Email Forwarding
+  - Penerusan Surel
 date: 2023-01-25T08:12:29.951Z
 ---
 S﻿impleLogin adalah layanan penerusan surel yang menyimpan alamat surel pribadi Anda secara privat.

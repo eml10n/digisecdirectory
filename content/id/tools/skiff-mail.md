@@ -6,10 +6,10 @@ flags:
   - Freemium
 tags:
   - Komunikasi & Pesan
-  - Web App
+  - Aplikasi Web
 categories:
   - Alat Keamanan Digital
-  - Email
+  - Surel
 credits: Text by Skiff.
 date: 2023-01-19T10:40:05.818Z
 ---

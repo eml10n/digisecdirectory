@@ -55,4 +55,4 @@ pagination_page_state: "Halaman {{ .PageNumber }} dari {{ .TotalPages }}"
 
 # This is to warn the user that the resource may not be available in their language
 ## Please replace "English" with the target language
-language_unavailable: "{{. Title }} mungkin tidak tersedia dalam bahasa Inggris."
+language_unavailable: "{{. Title }} mungkin tidak tersedia dalam bahasa Indonesia."

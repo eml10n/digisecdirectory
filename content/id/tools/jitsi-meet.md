@@ -6,10 +6,10 @@ credits: Naskah oleh Khairil Zhafri/EngageMedia.
 tags:
   - Komunikasi & Pesan
   - Aplikasi Web
-  - Hosting mandiri
+  - Hosting Mandiri
 categories:
   - Peralatan Keamanan Digital
-  - Konferensi video
+  - Konferensi Video
 date: 2023-01-19T10:31:23.647Z
 ---
 Jitsi Meet adalah perangkat lunak konferensi video privat sumber-terbuka yang membatasi sidik jari digital pengguna secara virtual. Jitsi bisa digunakan di sebagian besar peramban internet modern dan juga tersedia dalam bentuk aplikasi seluer untuk Android dan iOS.

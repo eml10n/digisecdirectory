@@ -9,7 +9,7 @@ tags:
   - Komunikasi & Pesan
 categories:
   - Peralatan Keamanan Digital
-  - Email
+  - Surel
 date: 2023-01-25T07:33:11.715Z
 ---
 Tutanota adalah layanan email yang aman, hemat energi, dan bebas iklan yang mengutamakan privasi dalam perancangannya.

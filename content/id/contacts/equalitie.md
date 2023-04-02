@@ -7,9 +7,9 @@ languages:
 website: https://deflect.ca/non-profits/
 credits: Text by Khairil/EngageMedia.
 categories:
-  - Digital Security Network
+  - Jaringan Keamanan Digital
   - Digital Security Service Providers
-  - Digital Security Trainers
+  - Pelatihan Keamanan Digital
 date: 2023-02-03T16:22:52.208Z
 ---
 eQualitie mengembangkan sistem terbuka dan pakai ulang dengan fokus pada privasi, keamanan daring, dan kebebasan berserikat. Ia menawarkan perlindungan Penolakan Layanan Terdistribusi (DDos) dan mengelola hosting WordPress bagi kelompok warga sipil dan perorangan.

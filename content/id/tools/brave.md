@@ -3,8 +3,8 @@ title: Brave
 website: https://brave.com/
 cover: /files/brave.jpg
 tags:
-  - Produktivitas & Penjelajahan Internet
-  - Cross-platform
+  - Penelusuran Internet & Produktivitas
+  - Lintas Platform
 categories:
   - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.

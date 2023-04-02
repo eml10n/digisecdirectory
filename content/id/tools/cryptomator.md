@@ -4,7 +4,7 @@ website: https://cryptomator.org/
 cover: /files/cryptomator.jpg
 tags:
   - Dokumentasi & Manajemen Data
-  - Cross-platform
+  - Lintas Platform
 categories:
   - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.

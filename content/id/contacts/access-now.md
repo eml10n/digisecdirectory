@@ -9,9 +9,9 @@ languages:
 website: https://www.accessnow.org/help/
 credits: Text by Access Now.
 categories:
-  - Digital Security Network
-  - Digital Security Crisis Responders
-  - Digital Security Trainers
+  - Jaringan Keamanan Digital
+  - Penanggap Krisis Keamanan Digital
+  - Pelatihan Keamanan Digital
 date: 2023-01-19T07:27:56.488Z
 ---
 Digital Security Helpline dari Access Now dapat digunakan oleh perorangan maupun organisasi di seluruh dunia untuk membuat mereka tetap aman saat daring. Jika Anda terancam, kami dapat membantu Anda meningkatkan praktik keamanan digital Anda untuk menghindarkan Anda dari masalah. Apabila Anda telah diserang, kami menyediakan bantuan darurat cepat tanggap.

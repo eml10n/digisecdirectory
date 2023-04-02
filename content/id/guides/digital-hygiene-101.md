@@ -9,7 +9,7 @@ languages:
 website: https://engagemedia.org/2022/digital-hygiene-safety-security/
 credits: Text by EngageMedia.
 categories:
-  - Digital Security Guides
+  - Panduan Keamanan Digital
 date: 2023-01-25T10:45:45.597Z
 ---
 Digital Hygiene 101 oleh EngageMedia menyajikan sejumlah kiat untuk tetap aman dan terjaga terhadap virus digital, serta seperangkat alternatif lebih aman dari alat-alat lazimnya yang kami gunakan untuk urusan daring.

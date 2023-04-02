@@ -6,7 +6,7 @@ credits: Teks oleh Khairil Zhafri/EngageMedia.
 flags:
   - Freemium
 tags:
-  - Self-hosting
+  - Hosting Mandiri
   - Lintas platform
   - Komunikasi & Pesan
 categories:

@@ -3,8 +3,8 @@ title: SecureDrop
 website: https://securedrop.org/
 cover: /files/securedrop.jpg
 tags:
-  - Self-hosting
-  - Web App
+  - Hosting Mandiri
+  - Aplikasi Web
   - Dokumentasi & Manajemen Data
 categories:
   - Alat Keamanan Digital

@@ -9,9 +9,9 @@ languages:
 website: https://www.securitymatters.asia/
 credits: Naskah oleh Khairil Zhafri/EngageMedia
 categories:
-  - Digital Security Network
-  - Digital Security Crisis Responders
-  - Digital Security Trainers
+  - Jaringan Keamanan Digital
+  - Penanggap Krisis Keamanan Digital
+  - Pelatihan Keamanan Digital
 date: 2023-01-25T12:20:38.276Z
 ---
 Security Matters (SecM) adalah prakarsa yang bertujuan untuk mempromosikan keamanan digital dan melindungi komunitas yang berisiko di Asia Tenggara. Dengan jaringan pelatihnya dan melalui pelatihan pelatihnya SecM bekerja untuk membangun kapasitas keamanan digital untuk organisasi masyarakat madani dan pembela hak asasi. SecM juga menyediakan dukungan dan respons insiden keamanan digital yang berkolaborasi dengan Center for Digital Resilience (CDR).

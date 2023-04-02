@@ -7,7 +7,7 @@ languages:
 website: https://greenhost.net/internet-freedom/
 credits: Text by Khairil/EngageMedia.
 categories:
-  - Digital Security Network
+  - Jaringan Keamanan Digital
   - Digital Security Service Providers
   - Digital Security Crisis Responders
 date: 2023-02-03T21:01:54.067Z

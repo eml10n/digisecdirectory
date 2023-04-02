@@ -3,7 +3,7 @@ main:
 - name:
     id: 'Alat Keamanan Digital'
     en: Alat Keamanan Digital
-  ref: "/categories/digital-security-tools"
+  ref: "/categories/alat-keamanan-digital"
   pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
     fa-fw"></i></span><span class="label">'
   post: '</span></span>'
@@ -37,9 +37,9 @@ main:
       class="label">'
     post: '</span></span>'
 - identifier: 'spacer1'
-  external: 'Asli'
+  external: 'True'
 - identifier: 'spacer2'
-  external: 'Asli'
+  external: 'True'
 - name:
     id: 'Panduan Keamanan Digital'
     en: Panduan Keamanan Digital
@@ -48,9 +48,9 @@ main:
     class="label">'
   post: '</span></span>'
 - identifier: 'spacer1'
-  external: 'Asli'
+  external: 'True'
 - identifier: 'spacer2'
-  external: 'Asli'
+  external: 'True'
 - name:
     id: 'Jaringan Keamanan Digital'
     en: Alat Keamanan Digital

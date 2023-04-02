@@ -4,13 +4,13 @@ title: Nextcloud
 website: https://nextcloud.com/
 cover: /files/nextcloud.jpg
 tags:
-  - Self-hosting
+  - Hosting Mandiri
   - Dokumentasi & Manajemen Data
-  - Cross-platform
+  - Lintas Platform
 categories: 
   - Alat Keamanan Digital
-  - File Storage
-  - File Sync
+  - Penyimpanan File
+  - Sinkronisasi File
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T09:04:42.901Z
 ---

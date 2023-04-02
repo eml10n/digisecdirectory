@@ -3,7 +3,7 @@ title: LibreOffice
 website: https://www.libreoffice.org/
 cover: /files/libreoffice.jpg
 tags:
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
 credits: Text by Khairil Zhafri/EngageMedia.

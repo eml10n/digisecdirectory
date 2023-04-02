@@ -6,11 +6,11 @@ cover: /files/firefoxrelay.jpg
 flags:
   - Freemium
 tags:
-  - Self-hosting
-  - Produktivitas & Penjelajahan Internet
+  - Hosting Mandiri
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
-  - Email Forwarding
+  - Penerusan Surel
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T22:30:27.850Z
 ---

@@ -6,7 +6,7 @@ credits: Text by Khairil Zhafri/EngageMedia
 flags:
   - Premium
 tags:
-  - Cross-platform
+  - Lintas Platform
   - Penghindaran & Anonimitas
 categories:
   - Alat Keamanan Digital

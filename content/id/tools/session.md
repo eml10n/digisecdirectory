@@ -7,7 +7,7 @@ tags:
   - Komunikasi & Pesan
 categories: 
   - Alat Keamanan Digital
-  - Instant Messaging
+  - Pesan Instan
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T23:08:17.311Z
 ---
