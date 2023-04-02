@@ -4,7 +4,7 @@ cover: /files/searx.jpg
 website: https://searx.github.io/searx/
 credits: Naskah oleh Searx.
 tags:
-  - Peramban Internet & Produktivitas
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
 date: 2023-01-29T20:06:50.821Z
