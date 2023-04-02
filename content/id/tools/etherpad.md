@@ -4,8 +4,8 @@ cover: /files/etherpad.jpg
 website: https://etherpad.org/
 credits: Text by Khairil Zhafri/EngageMedia.
 tags:
-  - Web App
-  - Self-hosting
+  - Aplikasi Web
+  - Hosting Mandiri
   - Produktivitas & Penjelajahan Internet
 categories:
   - Alat Keamanan Digital
