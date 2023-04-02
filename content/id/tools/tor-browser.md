@@ -6,7 +6,7 @@ tags:
   - Penghindaran & Anonimitas
 categories:
   - Alat Keamanan Digital
-  - Onion Routing
+  - Perutean Onion
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T09:57:54.810Z
 ---
