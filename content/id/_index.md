@@ -33,7 +33,7 @@ Beberapa peralatan dikelompokkan ke dalam kategori khusus:
 * Layanan [penerusan surel](/id/categories/penerusan-surel/) untuk perlindungan privasi;
 * Alternatif [berbagi](/id/categories/berbagi-file), [penyimpanan](/id/categories/penyimpanan-file), dan [sinkronisasi](/id/categories/sinkronisasi-file) file untuk Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, dll.;
 * Alternatif [pesan instan](/id/categories/pesan-instan) untuk WhatsApp, Messenger, WeChat, LINE, Viber, dll.;
-* Alat yang dikonfigurasi dengan [Onion routing](/id/categories/onion-routing); dan
+* Alat yang dikonfigurasi dengan [perutean Onion (Onion routing)](/id/categories/perutean-onion); dan
 * Aplikasi [enkripsi OpenPGP](/id/categories/enkripsi-openpgp).
 * Alternatif [konferensi video](/id/categories/konferensi-video) untuk Zoom, Google Meet, Microsoft Teams, dll.;
 * Layanan [jaringan pribadi virtual (VPN)](/id/categories/jaringan-pribadi-virtual);
