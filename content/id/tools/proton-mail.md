@@ -10,7 +10,7 @@ tags:
 categories:
   - Alat Keamanan Digital
   - Enkripsi OpenPGP
-  - Email
+  - Surel
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:40:05.818Z
 ---
