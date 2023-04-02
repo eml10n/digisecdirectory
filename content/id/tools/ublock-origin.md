@@ -6,7 +6,7 @@ credits: Naskah oleh uBlock Origin
 tags:
   - Peramban Internet & Produktivitas
 categories:
-  - Peralatan Keamanan Digital
+  - Alat Keamanan Digital
 date: 2023-01-29T20:25:44.572Z
 ---
 uBlock Origin adalah ekstensi peramban gratis dengan sumber-terbuka untuk penyaringan konten —terutama bertujuan untuk menetralkan invasi privasi dengan metode yang efisien dan mudah digunakan pengguna.
