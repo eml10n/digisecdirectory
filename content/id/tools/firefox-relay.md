@@ -7,7 +7,7 @@ flags:
   - Freemium
 tags:
   - Hosting Mandiri
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
   - Penerusan Surel
