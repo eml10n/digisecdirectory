@@ -7,7 +7,7 @@ languages:
 website: https://www.meet.coop/
 credits: Text by meet.coop.
 categories:
-  - Digital Security Network
+  - Jaringan Keamanan Digital
 date: 2023-02-04T22:21:53.580Z
 ---
 meet.coop adalah platform pertemuan dan konferensi yang didukung oleh BigBlueButton, dikelola oleh koaliasi kerja sama global.
