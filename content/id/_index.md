@@ -16,7 +16,7 @@ Sebanyak mungkin kami memasukkan peralatan gratis dan sumber terbuka (free and o
 
 Beberapa peralatan dalam direktori ini dilabel sebagai:
 
-* [Aplikasi web](/id/tags/aplikasi-web/) – Anda dapat menggunakan alat ini langsung pada browser internet tanpa harus menginstalnya di perangkat;
+* [Aplikasi Web](/id/tags/aplikasi-web/) – Anda dapat menggunakan alat ini langsung pada browser internet tanpa harus menginstalnya di perangkat;
 * [Hosting Mandiri](/id/tags/hosting-mandiri/) – Anda dapat menjalankan dan memelihara instance alat ini di server yang Anda kendalikan;
 * [Lintas Platform](/id/tags/lintas-platform/) – Anda dapat menginstal alat ini di perangkat mobile dan desktop yang menjalankan sistem operasi populer;
 
@@ -30,7 +30,7 @@ Beberapa peralatan dikelompokkan ke dalam kategori khusus:
 
 * Alternatif [obrolan kolaboratif](/id/categories/obrolan-kolaboratif) untuk Slack;
 * Alternatif [surel](/id/categories/surel) dan [pembaca surel](/id/categories/pembaca-surel/) untuk Google Gmail, Apple Mail, Microsoft Outlook, dll.;
-* Layanan [penerusan surel](/id/categories/email-forwarding/) untuk perlindungan privasi;
+* Layanan [penerusan surel](/id/categories/penerusan-surel/) untuk perlindungan privasi;
 * Alternatif [berbagi](/id/categories/berbagi-file), [penyimpanan](/id/categories/penyimpanan-file), dan [sinkronisasi](/id/categories/sinkronisasi-file) file untuk Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, dll.;
 * Alternatif [pesan instan](/id/categories/pesan-instan) untuk WhatsApp, Messenger, WeChat, LINE, Viber, dll.;
 * Alat yang dikonfigurasi dengan [Onion routing](/id/categories/onion-routing); dan
