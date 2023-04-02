@@ -6,9 +6,9 @@ credits: Text by Khairil/EngageMedia.
 flags:
   - Freemium
 tags:
-  - Self-hosting
-  - Web App
-  - Cross-platform
+  - Hosting Mandiri
+  - Aplikasi Web
+  - Lintas Platform
   - Dokumentasi & Manajemen Data
 categories:
   - Alat Keamanan Digital
