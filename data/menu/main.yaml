@@ -1,7 +1,9 @@
 ---
 main:
-  ### English  
-  ### Menu
+  ###
+  ### Digital Security Tools  
+  ###
+  ### English
   - name: Digital Security Tools
     ref: "/categories/digital-security-tools" 
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">
@@ -23,24 +25,8 @@ main:
         ref: "/tags/internet-browsing-productivity"
         pre: <span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span class="label">
         post: </span></span>
-  - identifier: spacer1
-    external: true
-  - identifier: spacer2
-    external: true
-  - name: Digital Security Guides
-    ref: "/categories/digital-security-guides" 
-    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span class="label">
-    post: </span></span>
-  - identifier: spacer1
-    external: true
-  - identifier: spacer2
-    external: true
-  - name: Digital Security Network
-    ref: "/categories/digital-security-network" 
-    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span class="label">
-    post: </span></span>
-  ### Indonesian  
-  ### Menu
+  ###
+  ### Indonesian
   - name: Alat Keamanan Digital
     ref: "/categories/alat-keamanan-digital"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
@@ -68,19 +54,40 @@ main:
       pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
         class="label">'
       post: '</span></span>'
+  ###
   - identifier: spacer1
     external: true
   - identifier: spacer2
     external: true
+  ###
+  ### Digital Security Guides
+  ###
+  ### English 
+  - name: Digital Security Guides
+    ref: "/categories/digital-security-guides" 
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span class="label">
+    post: </span></span>
+  ###
+  ### Indonesian 
   - name: Panduan Keamanan Digital
     ref: "/categories/panduan-keamanan-digital"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
       class="label">'
-    post: '</span></span>'
-  - identifier: 'spacer1'
+  ###
+  - identifier: spacer1
     external: true
-  - identifier: 'spacer2'
+  - identifier: spacer2
     external: true
+  ###
+  ### Digital Security Network
+  ###
+  ### English 
+  - name: Digital Security Network
+    ref: "/categories/digital-security-network" 
+    pre: <span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span class="label">
+    post: </span></span>
+  ###
+  ### Indonesian 
   - name: Jaringan Keamanan Digital
     ref: "/categories/jaringan-keamanan-digital"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
