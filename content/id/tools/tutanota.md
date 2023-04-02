@@ -8,7 +8,7 @@ flags:
 tags:
   - Komunikasi & Pesan
 categories:
-  - Peralatan Keamanan Digital
+  - Alat Keamanan Digital
   - Surel
 date: 2023-01-25T07:33:11.715Z
 ---
