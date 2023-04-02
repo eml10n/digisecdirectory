@@ -5,8 +5,8 @@ cover: /files/keepassdx.jpg
 tags:
   - Dokumentasi & Manajemen Data
 categories:
-  - Peralatan Keamanan Digital
-  - Manajer Kata Sandi
+  - Alat Keamanan Digital
+  - Password Manager
 credits: Naskah oleh Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:42:23.612Z
 ---
