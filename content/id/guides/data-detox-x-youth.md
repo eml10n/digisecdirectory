@@ -6,7 +6,7 @@ languages:
 website: https://datadetoxkit.org/en/families/datadetox-x-youth/
 credits: Text by Tactical Tech.
 categories:
-  - Digital Security Guides
+  - Panduan Keamanan Digital
 date: 2023-01-25T10:16:30.255Z
 ---
 Data Detox x Youth merupakan buku aktivitas untuk membantu anak-anak muda menguasai teknologi mereka. Seperangkat alat interaktif ini mendorong anak muda untuk memikirkan aspek kehidupan digital mereka yang lain, dari profil media sosial hingga kata sandi mereka, dengan aktivitas sederhana untuk belajar dan bermain.
