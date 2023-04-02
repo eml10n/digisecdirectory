@@ -7,11 +7,11 @@ flags:
   - Freemium
 tags:
   - Komunikasi & Pesan
-  - Self-hosting
+  - Hosting Mandiri
 categories:
-  - OpenPGP Encryption
+  - Enkripsi OpenPGP
   - Alat Keamanan Digital
-  - Email Forwarding
+  - Penerusan Surel
 date: 2023-01-25T08:17:33.984Z
 ---
 AnonAddy menyediakan layanan penerusan surel yang menyimpan alamat surel pribadi secara privat.
