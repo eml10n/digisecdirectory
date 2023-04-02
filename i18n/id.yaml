@@ -36,7 +36,7 @@ posts_tagged_with: 'Semua postingan yang dilabeli dengan ''{{ . }}'''
 footer_build_with: >
   Sebuah inisiatif komunitas oleh  <a href="https://engagemedia.org/">
     <img src="/files/logo-on-dark-bg.svg" alt="EngageMedia" class="logo dark-logo">
-    <img src="/files/logo-on-light-bg.svg" alt="EngageMedia" class="logo cahaya-logo">
+    <img src="/files/logo-on-light-bg.svg" alt="EngageMedia" class="logo light-logo">
   </a>
 footer_legal_notice: 'Pemberitahuan Hak Cipta'
 footer_privacy_policy: 'Kebijakan Privasi'
