@@ -4,7 +4,7 @@ cover: /files/raivo-otp.jpg
 website: https://raivo-otp.com/
 credits: Text by Khairil Zhafri/EngageMedia.
 tags:
-  - Produktivitas & Penjelajahan Internet
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
 date: 2023-01-25T08:37:08.507Z
