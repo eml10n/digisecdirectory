@@ -1,5 +1,5 @@
 ---
-title: Riseup Email
+title: Riseup Surel
 cover: /files/riseup.jpg
 website: https://riseup.net/email
 credits: Text by Khairil Zhafri/EngageMedia.
@@ -12,7 +12,7 @@ categories:
   - Alat Keamanan Digital
   - Enkripsi OpenPGP
   - Onion Routing
-  - Email
+  - Surel
 date: 2023-01-19T10:38:37.852Z
 ---
-Riseup Email adalah layanan surel aman dari aktivis untuk aktivis. Fitur keamanannya mencakup enkripsi penuh, penyimpanan surel yang terenkripsi, penjaluran Onion, dan lainnya.
+Riseup Surel adalah layanan surel aman dari aktivis untuk aktivis. Fitur keamanannya mencakup enkripsi penuh, penyimpanan surel yang terenkripsi, penjaluran Onion, dan lainnya.
