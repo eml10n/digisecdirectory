@@ -4,7 +4,7 @@ cover: /files/ublock-origin.jpg
 website: https://ublockorigin.com/
 credits: Naskah oleh uBlock Origin
 tags:
-  - Peramban Internet & Produktivitas
+  - Penelusuran Internet & Produktivitas
 categories:
   - Alat Keamanan Digital
 date: 2023-01-29T20:25:44.572Z
