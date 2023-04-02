@@ -68,19 +68,19 @@ main:
       pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
         class="label">'
       post: '</span></span>'
-  - identifier: 'spacer1'
-    external: 'True'
-  - identifier: 'spacer2'
-    external: 'True'
+  - identifier: spacer1
+    external: true
+  - identifier: spacer2
+    external: true
   - name: Panduan Keamanan Digital
     ref: "/categories/panduan-keamanan-digital"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
       class="label">'
     post: '</span></span>'
   - identifier: 'spacer1'
-    external: 'True'
+    external: true
   - identifier: 'spacer2'
-    external: 'True'
+    external: true
   - name: Jaringan Keamanan Digital
     ref: "/categories/jaringan-keamanan-digital"
     pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
