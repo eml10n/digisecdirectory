@@ -6,8 +6,8 @@ tags:
   - Komunikasi & Pesan
 categories:
   - Alat Keamanan Digital
-  - OpenPGP Encryption
-  - Email Client
+  - Enkripsi OpenPGP
+  - Pembaca Surel
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:46:42.301Z
 ---
