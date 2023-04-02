@@ -8,7 +8,7 @@ tags:
   - Aplikasi Web
   - Hosting Mandiri
 categories:
-  - Peralatan Keamanan Digital
+  - Alat Keamanan Digital
   - Konferensi Video
 date: 2023-01-19T10:31:23.647Z
 ---
