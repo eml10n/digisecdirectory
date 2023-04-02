@@ -4,8 +4,8 @@ website: https://keeweb.info/
 cover: /files/keeweb.jpg
 tags:
   - Dokumentasi & Manajemen Data
-  - Web App
-  - Self-hosting
+  - Aplikasi Web
+  - Hosting Mandiri
 categories:
   - Alat Keamanan Digital
   - Password Manager
