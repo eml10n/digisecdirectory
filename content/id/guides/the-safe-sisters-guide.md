@@ -6,7 +6,7 @@ languages:
 website: https://protocol.openbriefing.org/
 credits: Text by Safe Sisters.
 flags:
-  - PDF Only
+  - Hanya PDF
 categories:
   - Panduan Keamanan Digital
 date: 2023-01-25T10:53:14.951Z
