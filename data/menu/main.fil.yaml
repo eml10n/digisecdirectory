@@ -1,46 +1,53 @@
 ### Localized menus have to be merged into a single yaml file
 main:
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'Mga Tool sa Digital na Seguridad'
+  ref: "/categories/digital-security-tools"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
   sub:
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'Pag-iwas at Walang Pagkakakilanlan'
+    ref: "/tags/circumvention-anonymity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-user-secret
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'Mga Komunikasyon at Pagmemensahe'
+    ref: "/tags/communications-messaging"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'Dokumentasyon at Pamamahala ng Data'
+    ref: "/tags/documentation-data-management"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'Pagba-browse at Pagiging Produktibo sa Internet'
+    ref: "/tags/internet-browsing-productivity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
+- identifier: ''
+  external: 'Totoo'
+- identifier: ''
+  external: ''
+- name:
+    en: 'Mga Gabay sa Digital na Seguridad'
+  ref: "/categories/digital-security-guides"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
 - identifier: ''
   external: ''
 - identifier: ''
   external: ''
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
-- identifier: ''
-  external: ''
-- identifier: ''
-  external: ''
-- name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'Network ng Digital na Seguridad'
+  ref: "/categories/digital-security-network"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
