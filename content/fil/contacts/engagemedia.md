@@ -1,8 +1,8 @@
 ---
-title: EngageMedia
-cover: /files/engagemedia.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+pamagat: EngageMedia
+pabalat: /files/engagemedia.jpg
+# I-verify na sinusuportahan ang wika bago idagdag ang ISO 639-1 code nito dito. walang country code, ibig sabihin, ms sa halip na ms_MY.
+mga wika:
   - en
   - ms
   - fil
@@ -10,11 +10,11 @@ languages:
   - my
   - th
 website: https://engagemedia.org
-credits: Text by EngageMedia
+mga kredito: Paksa ng EngageMedia
 categories:
-  - Digital Security Network
-  - Digital Security Crisis Responders
-  - Digital Security Trainers
-date: 2023-01-30T08:20:29.849Z
+  - Network ng Digital na Seguridad
+  - Mga Tumutugon sa Krisis ng Digital na Seguridad
+  - Mga Tagapagsanay sa Digital na Seguridad
+petsa: 2023-01-30T08:20:29.849Z
 ---
-EngageMedia is a nonprofit that promotes digital rights, open and secure technology, and social issue documentary. We equip civil society through training and other educational activities, producing guides, research, and other resources. We develop, localize, and engage with platforms, promoting open and secure software and supporting open culture and knowledge.
+Ang EngageMedia ay isang nonprofit na nagsusulong ng mga digital na karapatan, bukas at ligtas na teknolohiya, at dokumentaryo ng isyu sa lipunan. Nagbibigay kasangkapan kami sa lipunang sibil gamit ang pagsasanay at iba pang pang-edukasyong aktibidad, paggawa ng mga gabay, pananaliksik, at iba pang mapagkukunan. Bumubuo kami, naglolokalisa, at nakikipag-ugnayan sa mga platform, nagsusulong ng bukas at ligtas na software at pagsuporta sa bukas na kultura at kaalaman.
