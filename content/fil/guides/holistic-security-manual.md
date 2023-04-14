@@ -1,12 +1,12 @@
 ---
-title: Holistic Security Manual
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+pamagat: Holistic Security Manual
+# I-verify na sinusuportahan ang wika bago idagdag ang ISO 639-1 code nito dito. walang country code, ibig sabihin, ms sa halip na ms_MY.
+mga wika:
   - en
 website: https://holistic-security.tacticaltech.org/
-credits: Text by Tactical Tech
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:51:55.248Z
+mga kredito: Text ng Tactical Tech
+mga kategorya:
+  - Mga Gabay sa Digital na Seguridad
+petsa: 2023-01-25T10:51:55.248Z
 ---
-The Holistic Security Manual by Tactical Tech is designed to guide the process of establishing or improving security strategies for individuals, collectives or organisations. The content is divided into four Sections: Prepare, Explore, Strategise and Act, which are conceived as steps in an evolving, cyclical process and should be regularly revisited as part of our ongoing strategic planning. The chapters which appear on this website are summarised versions of those in the manual, which can be downloaded and read offline.
+Ang Holistic Security Manual ng Tactical Tech ay idinisenyo para magabayan ang proseso ng pagtatatag o pagpapabuti ng mga estratehiya sa seguridad para sa mga indibidwal, kolektibo o organisasyon. Ang nilalaman ay nahahati sa apat na Seksyon: Maghanda, Tumuklas, Gumawa ng Estratehiya at Kumilos, na itinuturing bilang mga hakbang sa isang umuusbong, umuunlad na proseso at dapat na regular na muling bisitahin bilang bahagi ng aming patuloy na estratehikong pagpaplano. Ang mga kabanata na lumalabas sa website na ito ay buod ng mga bersyon ng mga nasa manwal, na maaaring i-download at basahin nang offline.
