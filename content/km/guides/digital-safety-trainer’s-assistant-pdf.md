@@ -1,14 +1,14 @@
 ---
-title: Digital Safety Trainer’s Assistant
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://safesisters.org/wp-content/uploads/2019/09/Digital-Safety-Trainers-Assistant-smaller.pdf
-credits: Text by Safe Sisters.
-flags:
-  - PDF Only
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:49:17.797Z
+ចំណងជើង៖ ជំនួយការគ្រូបង្វឹកសុវត្ថិភាពឌីជីថល
+# ផ្ទៀងផ្ទាត់ភាសាដែលគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 របស់វានៅទីនេះ។ បើគ្មានលេខកូដប្រទេសទែ ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  -en
+គេហទំព័រ៖ https://safesisters.org/wp-content/uploads/2019/09/Digital-Safety-Trainers-Assistant-smaller.pdf
+ក្រេឌីត៖ អត្ថបទដោយ Safe Sisters ។
+ទង់ជាតិ៖
+  - មានតែPDFទេ
+ប្រភេទ៖
+  - មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T10:49:17.797Z
 ---
-The Digital Security Trainer’s Assistant, is a trainer’s guide for new and experienced digital security trainers, who want a friendly, easy-to-follow resource that they can keep with them as they learn and train. Written by digital security trainer and Safe Sisters trainer Natasha Msonza, the guide draws from her experiences learning and training others on digital security.
+ជំនួយការគ្រូបណ្តុះបណ្តាលសន្តិសុខឌីជីថល គឺជាមគ្គុទ្ទេសក៍ របស់គ្រូបណ្តុះបណ្តាលសម្រាប់គ្រូបណ្តុះបណ្តាលសន្តិសុខឌីជីថលថ្មី និងមានបទពិសោធន៍ ដែលចង់បានធនធានដែលមានលក្ខណៈរួសរាយរាក់ទាក់​និង ងាយស្រួលអនុវត្តតាម ដែលពួកគេអាចរក្សាទុកនៅពេលពួកគេរៀន និងបណ្តុះបណ្តាល។ សរសេរដោយគ្រូបណ្តុះបណ្តាលផ្នែកសុវត្ថិភាពឌីជីថល និងគ្រូបង្វឹក Safe Sisters Natasha Msonza, ការណែនាំនេះដកស្រង់ពីបទពិសោធន៍របស់នាងក្នុងការរៀន និងបណ្តុះបណ្តាលអ្នកផ្សេងទៀតអំពីសុវត្ថិភាពឌីជីថលនេះ។
