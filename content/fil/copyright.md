@@ -1,23 +1,23 @@
 ---
-type: page
-title: Copyright Notice
-date: 2023-01-30T21:42:36.544Z
+uri: pahina
+pamagat: Paunawa sa Copyright
+petsa: 2023-01-30T21:42:36.544Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
+Ang **digisec.directory** ay isang compilation ng mga mapagkukunan ng digital na seguridad at kaligtasan ng mga contributor ng [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
 
-All trademarks, logos and brand names are the property of their respective owners. The copyright of all cited materials remains with their respective authors. 
+Ang lahat ng mga trademark, logo at pangalan ng brand ay pagmamay-ari ng kani-kanilang mga may-ari. Ang copyright sa lahat ng binanggit na materyales ay nananatili sa kani-kanilang mga may-akda. 
 
-Unless otherwise specified, all other work on this website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Under this license, you are free to:
+Maliban kung tinukoy, lahat ng iba pang pagtatrabaho sa website na ito ay lisensyado sa ilalim ng a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Sa ilalim ng lisensyang ito, malaya kang:
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material
+* Magbahagi — kopyahin at muling ipamahagi ang materyal sa anumang ayos o format
+* Ibagay — i-remix, ibahin ang anyo, at bumuo sa materyal
 
-Such freedoms are subject to the following terms:
+Ang mga naturang kalayaan ay napapailalim sa mga sumusunod na tuntunin:
 
-* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* NonCommercial — You may not use the material for commercial purposes.
-* No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+* Pagpapatungkol — Dapat kang magbigay ng angkop na kapurihan, magbigay ng link sa lisensya, at isaad kung may mga pagbabagong ginawa. Maaari mong gawin ito sa anumang makatwirang paraan, ngunit hindi sa anumang paraan na nagmumungkahi na ang tagapaglisensya ay ini-endorso ka o ang iyong paggamit.
+* Hindi Komersyal — Hindi mo maaaring gamitin ang materyal para sa komersyal na layunin.
+* Walang mga dagdag na paghihigpit — Hindi ka maaaring maglapat ng mga legal na tuntunin o mga teknolohikal na hakbang na legal na naghihigpit sa iba pa sa paggawa ng anumang pinahihintulutan ng lisensya.
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+Hindi mo na kailangang sumunod sa lisensya para sa mga elemento ng materyal sa pampublikong domain o kung saan ang paggamit mo ay pinahihintulutan ng isang angkop na pagbubukod o limitasyon.
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+Walang ibinigay na warranty. Maaaring hindi ibigay sa iyo ng lisensya ang lahat ng mga pahintulot na kinakailangan para sa nilalayon na paggamit mo. Halimbawa, maaaring limitahan ng iba pang mga karapatan gaya ng publisidad, privacy, o mga karapatang moral kung paano mo ginagamit ang materyal.
