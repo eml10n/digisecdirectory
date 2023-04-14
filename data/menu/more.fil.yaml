@@ -1,13 +1,14 @@
 ### Localized menus have to be merged into a single yaml file
 more:
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'I-update ang Direktoryo'
+  ref: "/i-update"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-pen-to-square
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
 - name:
-    en: ''
-  ref: ""
+    en: 'Isalin ang Direktoryo'
+  ref: "/isalin"
   pre: ''
   post: ''
 - identifier: ''
@@ -17,17 +18,18 @@ more:
 - identifier: ''
   external: ''
 - name:
-    en: ''
-  ref: ""
+    en: 'Paunawa sa Copyright'
+  ref: "/copyright"
   pre: ''
   post: ''
 - name:
-    en: ''
-  ref: ""
+    en: 'Patakaran sa Privacy'
+  ref: "/privacy"
   pre: ''
   post: ''
 - name:
-    en: ''
+    en: 'Colophon'
   ref: ""
-  pre: ''
-  post: ''
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-circle-info fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
