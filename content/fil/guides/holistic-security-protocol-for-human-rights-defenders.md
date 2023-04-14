@@ -1,7 +1,7 @@
 ---
-title: Holistic Security Protocol for Human Rights Defenders
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+pamagat: Holistic Security Protocol for Human Rights Defenders
+# I-verify na sinusuportahan ang wika bago idagdag ang ISO 639-1 code nito dito. walang country code, ibig sabihin, ms sa halip na ms_MY.
+mga wika:
   - en
   - fil
   - lo
@@ -14,9 +14,9 @@ languages:
   - hi
   - ur
 website: https://protocol.openbriefing.org/
-credits: Text by Open Briefing,
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:53:14.951Z
+mga kredito: Paksa ng Open Briefing,
+mga kategorya:
+  - Mga Gabay sa Digital na Seguridad
+petsa: 2023-01-25T10:53:14.951Z
 ---
-The Holistic Security Protocol for Human Rights Defenders (the Defender’s Protocol) helps us advance our physical safety, digital security, and wellbeing and resilience. By following the Protocol, we enhance our individual and collective security, and can reduce the burden of attacks, harassment, and censorship on us and our communities.
+Ang Holistic Security Protocol para sa Human Rights Defenders (ang Defender's Protocol) ay tinutulungan tayong isulong ang ating pisikal na kaligtasan, digital na seguridad, at kagalingan at katatagan. Sa paraan ng pagsunod sa Protocol, pinapahusay natin ang ating indibidwal at kolektibong seguridad, at maaaring mabawasan ang pasanin ng mga pag-atake, panliligalig, at censorship sa atin at sa ating mga komunidad.
