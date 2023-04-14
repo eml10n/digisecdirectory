@@ -1,16 +1,16 @@
 ---
-type: page
-title: Privacy Policy
-date: 2023-01-30T21:30:57.375Z
+uri: pahina
+pamagat: Patakaran sa Privacy
+petsa: 2023-01-30T21:30:57.375Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
+Ang **digisec.directory** ay isang compilation ng mga mapagkukunan ng digital na seguridad at kaligtasan ng mga contributor ng [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
 
-We do not collect information regarding visits to this website. This website does not use any web analytics system. It does not collect information generated about your use of our website.
+Hindi kami nangongolekta ng impormasyon tungkol sa mga pagbisita sa website na ito. Ang website na ito ay hindi gumagamit ng anumang sistema ng web analytics. Hindi ito nangongolekta ng impormasyong nabuo tungkol sa paggamit mo sa aming website.
 
-We do not use cookies for any purpose other than user browsing preference for light or dark mode. A “cookie” is a tiny element of data that our site can send to your browser, which may then be stored on your hard drive. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies that our site attempts to send you. If you choose to remove or not accept our cookie, you can continue to use our website without any adverse effects, though some images, spacing, and forms may not load properly.
+Hindi kami gumagamit ng cookies para sa anumang layunin maliban sa kagustuhan sa pagba-browse ng user para sa light o dark mode. Ang "cookie" ay isang maliit na elemento ng data na maaaring ipadala ng aming site sa browser mo, na maaaring maipon sa iyong hard drive. Kung nag-aalala ka tungkol sa privacy mo at sa paggamit ng teknolohiya ng cookie, maaari mong i-set ang iyong web browser na abisuhan ka kapag nakatanggap ka ng cookie. Maaari mo ring i-set ang browser mo na tanggihan ang cookies na sinusubukan ng aming site na ipadala sa iyo. Kung pipiliin mong alisin o hindi tanggapin ang aming cookie, maaari mong patuloy na gamitin ang aming website nang walang anumang masamang epekto, kahit na ang ilang larawan, espasyo, at mga form ay maaaring hindi mag-load nang maayos.
 
-We occasionally update this policy and encourage you to periodically review this policy to stay informed about how we are protecting the personal information we collect.
+Paminsan-minsan ay ina-update namin ang patakaran na ito at hinihikayat ka na pana-panahong suriin ang patakaran na ito para manatiling may alam sa tungkol sa kung paano namin pinoprotektahan ang personal na impormasyong kinokolekta namin.
 
-You are entitled to view and request copies, deletion, and modification of the personal data we collect from you. Note that these rights do not apply if they conflict with other legal obligations.
+May karapatan kang tingnan at humiling ng mga kopya, pagbura, at pagbabago ng personal na data na kinokolekta namin mula sa iyo. Tandaan na ang mga karapatan na ito ay hindi nalalapat kung sumasalungat ang mga ito sa iba pang mga legal na obligasyon.
 
-For further information regarding your rights, this privacy policy, or the handling of your personal data, please reach out via EngageMedia [contact page](https://engagemedia.org/contact/).
+Para sa dagdag na impormasyon tungkol sa iyong mga karapatan, patakaran sa privacy na ito, o ang pangangasiwa ng iyong personal na data, mangyaring makipag-ugnayan sa pamamagitan ng EngageMedia [pahina ng contact](https://engagemedia.org/contact/).
