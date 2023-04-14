@@ -1,12 +1,12 @@
 ---
-title: Security in a Box
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+pamagat: Security in a Box
+# I-verify na sinusuportahan ang wika bago idagdag ang ISO 639-1 code nito dito. walang country code, ibig sabihin, ms sa halip na ms_MY.
+mga wika:
   - en
 website: https://securityinabox.org/
-credits: Text by Front Line Defenders
-categories:
-  - Digital Security Guides
-date: 2023-01-25T11:00:23.669Z
+mga kredito: Paksa ng Front Line Defenders
+mga kategorya:
+  - Mga Gabay sa Digital na Seguridad
+petsa: 2023-01-25T11:00:23.669Z
 ---
-Security in a Box by Front Line Defenders and Tactical Tech primarily aims to help a global community of human rights defenders whose work puts them at risk. It has been recognized worldwide as a foundational resource for helping people at risk protect their digital security and privacy.
+Ang Security in a Box ng Front Line Defenders at Tactical Tech ay pangunahing naglalayon na tulungan ang isang pandaigdigang komunidad ng mga tagapagtanggol ng karapatang pantao na ang trabaho ay inilalagay sila sa panganib. Kinilala ito sa buong mundo bilang pundasyong mapagkukunan para sa pagtulong sa mga taong nasa panganib na protektahan ang kanilang digital na seguridad at privacy.
