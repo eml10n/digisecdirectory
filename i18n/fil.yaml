@@ -1,51 +1,58 @@
 edit_page: ''
 
-nav_navigation: ''
-nav_tags: ''
-nav_more: ''
-nav_top: ''
+nav_navigation: 'Magsimula'
+nav_tags: 'Mga Tag'
+nav_more: 'Mag-ambag'
+nav_top: 'Bumalik sa itaas'
 
-form_placeholder_search: ''
+form_placeholder_search: 'Mag-search'
 
-error_page_title: ''
-error_message_title: ''
-error_message_code: ''
+error_page_title: 'Nawala? Huwag mag-alala'
+error_message_title: 'Nawala?'
+error_message_code: 'Error 404'
 error_message_text: >
+  Parang hindi mahanap ang hinahanap mo. Huwag mag-alala, maaari ka naming ibalik
+  sa <a class="gdoc-error__link" href="{{ . }}">homepage</a>.
 
-button_toggle_dark: ''
-button_nav_open: ''
-button_nav_close: ''
-button_menu_open: ''
-button_menu_close: ''
-button_homepage: ''
+button_toggle_dark: 'I-toggle ang Dark/Light/Auto mode'
+button_nav_open: 'Buksan ang Navigation'
+button_nav_close: 'Isara ang Navigation'
+button_menu_open: 'Buksan ang Menu Bar'
+button_menu_close: 'Isara ang Menu Bar'
+button_homepage: 'Bumalik sa homepage'
 
-title_anchor_prefix: ""
+title_anchor_prefix: "I-anchor sa:"
 
-posts_read_more: ''
+posts_read_more: 'Basahin ang buong post'
 posts_read_time:
-  one: ""
-  other: ""
-posts_update_prefix: ''
+  one: "Isang minuto para magbasa"
+  other: "{{ . }} minuto para magbasa"
+posts_update_prefix: 'Na-update noong'
 posts_count:
-  one: ""
-  other: ""
-posts_tagged_with: ''
+  one: "Isang post"
+  other: "{{ . }} (mga) post"
+posts_tagged_with: 'Lahat ng mga post na may tag na ''{{ . }}'''
 
 footer_build_with: >
-footer_legal_notice: ''
-footer_privacy_policy: ''
+  Isang inisyatiba ng grupo ng  <a href="https://engagemedia.org/">
+    <img src="/files/logo-on-dark-bg.svg" alt="EngageMedia" class="logo dark-logo">
+    <img src="/files/logo-on-light-bg.svg" alt="EngageMedia" class="logo light-logo">
+  </a>
+footer_legal_notice: 'Paunawa sa Copyright'
+footer_privacy_policy: 'Patakaran sa Privacy'
 footer_content_license_prefix: >
+  Lisensyado ang content sa ilalim ng
 
-language_switch_no_tranlation_prefix: ""
+language_switch_no_tranlation_prefix: "Hindi isinalin ang pahina:"
 
-propertylist_required: ''
-propertylist_optional: ''
-propertylist_default: ''
+propertylist_required: 'kinakailangan'
+propertylist_optional: 'opsyonal'
+propertylist_default: 'default'
 
-pagination_page_prev: ''
-pagination_page_next: ''
-pagination_page_state: ""
+pagination_page_prev: 'Nakaraan'
+pagination_page_next: 'Susunod'
+pagination_page_state: "Pahina {{ .PageNumber }} ng {{ .TotalPages }}"
 
 # This is to warn the user that the resource may not be available in their language
 ## Please replace "English" with the target language
-language_unavailable: ""
+language_unavailable: "Maaaring hindi available ang {{ .Title }} sa Filipino."
