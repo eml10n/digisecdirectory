@@ -1,8 +1,8 @@
 ---
-type: page
-title: Colophon
-date: 2023-01-31T00:30:17.649Z
+uri: pahina
+pamagat: Colophon
+petsa: 2023-01-31T00:30:17.649Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
+Ang **digisec.directory** ay isang compilation ng mga mapagkukunan ng digital na seguridad at kaligtasan ng mga contributor ng [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
 
-This Jamstack website is powered by [Hugo](https://gohugo.io/) static site generator with [Geekdocs](https://geekdocs.de/) theme. The source code of this website is available on [GitLab](https://gitlab.com/eml10n/digisecdirectory) and is deployed to [Netlify](https://www.netlify.com/).
+Ang website ng Jamstack na ito ay pinapagana ng static site generator na [Hugo](https://gohugo.io/) na may [Geekdocs](https://geekdocs.de/) na tema. Ang source code ng website na ito ay available sa [GitLab](https://gitlab.com/eml10n/digisecdirectory) at naka-deploy sa [Netlify](https://www.netlify.com/).
