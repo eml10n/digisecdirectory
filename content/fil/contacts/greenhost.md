@@ -1,15 +1,15 @@
 ---
-title: Greenhost
-cover: /files/greenhost.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+pamagat: Greenhost
+pabalat: /files/greenhost.jpg
+# I-verify na sinusuportahan ang wika bago idagdag ang ISO 639-1 code nito dito. walang country code, ibig sabihin, ms sa halip na ms_MY.
+mga wika:
   - en
 website: https://greenhost.net/internet-freedom/
-credits: Text by Khairil/EngageMedia.
-categories:
-  - Digital Security Network
-  - Digital Security Service Providers
-  - Digital Security Crisis Responders
-date: 2023-02-03T21:01:54.067Z
+mga kredito: Paksa ni Khairil/EngageMedia.
+mga kategorya:
+  - Network ng Digital na Seguridad
+  - Mga Tumutugon sa Krisis ng Digital na Seguridad
+  - Mga Tagapagsanay sa Digital na Seguridad
+petsa: 2023-02-03T21:01:54.067Z
 ---
-G﻿reenhost provides free virtual private server (VPS) hosting to groups advocating digital rights and developers of internet freedom tools. They also support organisations, activists, journalists and other human rights defenders facing digital security attacks through their rapid response programme.
+Nagbibigay ang Greenhost ng libreng pagho-host ng virtual private server (VPS) sa mga grupong nagsusulong ng mga digital na karapatan at mga developer ng mga tool sa kalayaan sa internet. Sinusuportahan din nila ang mga organisasyon, aktibista, mamamahayag at iba pang tagapagtanggol ng karapatang pantao na nahaharap sa mga pag-atake ng digital na seguridad gamit ang kanilang mabilis na programa sa pagtugon.
