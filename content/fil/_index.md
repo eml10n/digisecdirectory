@@ -1,45 +1,45 @@
 ---
-type: page
-title: Digital Security Community Directory
-date: 2023-01-27T17:18:43.828Z
+uri: pahina
+pamagat: Digital Security Community Directory
+petsa: 2023-01-27T17:18:43.828Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). This directory primarily lists digital security and safety tools and guides, and resource groups that are available in Burmese, Filipino, Indonesian, Khmer, Thai, and English.
+Ang **digisec.directory** ay isang compilation ng mga mapagkukunan ng digital na seguridad at kaligtasan ng mga contributor ng [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). Ang direktoryong ito ay pangunahing naglilista ng mga digital tool at gabay sa seguridad at kaligtasan, at mga pangkat ng mapagkukunan na available sa Burmese, Filipino, Indonesian, Khmer, Thai, at English.
 
-In this directory, we group the [digital security tools](/en/categories/digital-security-tools/) by their main utility or function, namely
+Sa direktoryong ito, pinapangkat namin ang [digital security tools](/fil/categories/digital-security-tools/) ayon sa kanilang pangunahing paggamit o ginagawa, ibig sabihin
 
-* [Circumvention & Anonymity](/en/tags/circumvention-anonymity/) tools for circumventing censorship and surveillance on the internet
-* [Communications & Messaging](/en/tags/communications-messaging/) services for secure online chats, calls, and meetings
-* [Documentation & Data Management](/en/tags/documentation-data-management/) software for encrypted storage and transfer of electronic files and digital records
-* [Internet Browsing & Productivity](/en/tags/productivity-internet-browsing/) applications for using the internet and working online safely
+* [Pag-iwas at Kawalan ng Pagkakakilanlan](/fil/tags/circumvention-anonymity/) mga tool para sa pag-iwas sa censorship at pagmamasid sa internet
+* [Mga Komunikasyon at Pagmemensahe](/fil/tags/communications-messaging/) mga serbisyo para sa mga ligtas na online na chat, tawag, at meeting
+* [Dokumentasyon at Pamamahala ng Data](/fil/tags/documentation-data-management/) software para sa naka-encrypt na storage at paglilipat ng mga elektronikong file at digital na tala
+* [Pagba-browse at Pagiging Produktibo sa Internet](/fil/tags/productivity-internet-browsing/) mga aplikasyon para sa paggamit ng internet at pagtatrabaho sa online nang ligtas
 
-As much as possible, we include free and open-source tools in this directory, ie you have the freedom to use, modify, and redistribute the source code of these tools without any restriction. 
+Hangga't maaari, nagsasama kami ng libre at open-source na mga tool sa direktoryong ito, ibig sabihin, malaya kang gamitin, baguhin, at muling ipamahagi ang source code ng mga tool na ito nang walang anumang paghihigpit. 
 
-Some tools in this directory are tagged as:
+Ang ilang mga tool sa direktoryong ito ay naka-tag bilang:
 
-* [Web app](/en/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
-* [Self-hosting](/en/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
-* [Cross-platform](/en/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
+* [Web app](/fil/tags/web-app/) – maaari mong gamitin ang tool na ito nang direkta sa internet browser nang hindi kinakailangang i-install ito sa iyong device;
+* [Self-hosting](/fil/tags/self-hosting/) – maaari kang magpatakbo at magpanatili ng isang halimbawa ng tool na ito sa isang server na iyong kinokontrol;
+* [Cross-platform](/fil/tags/cross-platform/) – maaari mong i-install ang tool na ito sa desktop at mga mobile device mo na nagpapatakbo ng mga sikat na operating system;
 
-We also flag certain tools as:
+Naghuhudyat din kami ng ilang partikular na tool bilang:
 
-* Closed Source – this tool does not have publicly available and verifiable source code;
-* Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade; and
-* Premium – this tool is only available with a paid subscription.
+* Closed Source – ang tool na ito ay walang available at nabe-verify na source code sa publiko;
+* Freemium – available ang tool na ito nang libre ngunit available ang dagdag na storage, bandwidth, o mga feature na may-bayad na upgrade; at
+* Premium – ang tool na ito ay available lamang sa isang may-bayad na subscription.
 
-Some tools are grouped into special categories:
+Ang ilang mga tool ay nakagrupo sa mga espesyal na kategorya:
 
-* [Collaborative chat](/en/categories/collaborative-chat) alternatives to Slack;
-* [Email](/en/categories/email) and [e﻿mail client](/en/categories/email-client/) alternatives to Google Gmail, Apple Mail, Microsoft Outlook, etc;
-* [E﻿mail forwarding](/en/categories/email-forwarding/) services for privacy protection;
-* [File sharing](/en/categories/file-sharing), [storage](/en/categories/file-storage), and [sync](/en/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
-* [Instant messaging](/en/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
-* [Onion routing](/en/categories/onion-routing)-configured tools; and
-* [OpenPGP encryption](/en/categories/openpgp-encryption) applications.
-* [Videoconferencing](/en/categories/videoconferencing) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
-* [Virtual private network (VPN)](/en/categories/virtual-private-network) services;
+* [Collaborative na chat](/fil/categories/collaborative-chat) mga alternatibo sa Slack;
+* [Email](/fil/categories/email) at [e﻿mail client](/fil/categories/email-client/) mga alternatibo sa Google Gmail, Apple Mail, Microsoft Outlook, atbp;
+* [Pagpasa ng email](/fil/categories/email-forwarding/) mga serbisyo para sa proteksyon sa privacy;
+* [Pagbabahagi ng file](/fil/categories/file-sharing), [storage](/fil/categories/file-storage), at [sync](/fil/categories/file-sync) mga alternatibo sa Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, atbp;
+* [Instant messaging](/fil/categories/instant-messaging) mga alternatibo sa WhatsApp, Messenger, WeChat, LINE, Viber, atbp;
+* [Pagruruta ng Onion](/fil/categories/onion-routing)-naka-configure na mga tool; at
+* [encryption ng OpenPGP](/fil/categories/openpgp-encryption) mga aplikasyon.
+* [Videoconferencing](/fil/categories/videoconferencing) mga alternatibo sa Zoom, Google Meet, Microsoft Teams, atbp;
+* [Virtual private network (VPN)](/fil/categories/virtual-private-network) mga serbisyo;
 
-Using the tools recommended in this directory can help you improve your digital security and safety. Having good understanding of how these tools work and knowing how to use them properly are equally important in limiting your digital security risks and mitigating your digital safety threats.
+Ang paggamit ng mga tool na inirerekomenda sa direktoryong ito ay makakatulong sa iyong mapahusay ang digital na seguridad at kaligtasan mo. Ang pagkakaroon ng mahusay na pag-unawa sa kung paano gumagana ang mga tool na ito at ang kaalaman kung paano gamitin ang mga ito nang maayos ay pantay na mahalaga sa paglilimita sa iyong mga panganib sa digital na seguridad at pagpapagaan ng mga banta sa iyong digital na kaligtasan.
 
-The [digital security guides](/en/categories/digital-security-guides/) section contains a list of resources including step-by-step instructions, user manuals, trainer's handbooks, support toolkits, and other similar materials. These guides cover a wide range of digital security and safety topics including privacy, surveillance, censorship, encryption, backup, and more.
+Ang seksyon ng [mga gabay sa digital na seguridad](/fil/categories/digital-security-guides/) ay naglalaman ng listahan ng mga mapagkukunan kabilang ang sunud-sunod na mga tagubilin, mga manwal ng user, mga handbook ng tagapagsanay, mga toolkit ng suporta, at iba pang katulad na materyales. Ang mga gabay na ito ay sumasaklaw sa malawak na hanay ng mga paksa ng digital na seguridad at kaligtasan kabilang ang privacy, pagmamasid, censorship, encryption, backup, at higit pa.
 
-In the [digital security network](/categen/categoriesories/digital-security-network/) section of this directory, we list organisations that support human rights defenders by providing digital security [training](/en/categories/digital-security-trainers/) and [crisis response](/en/categories/digital-security-crisis-responders/). We also include in this section cooperative groups and independent businesses that provide free or subsidised [hosting and other services](/en/categories/digital-security-service-providers/) to human rights defenders.
+Sa seksyon ng  [digital na network ng seguridad](/categen/categoriesories/digital-security-network/) ng direktoryong ito, naglilista kami ng mga organisasyong sumusuporta sa mga tagapagtanggol ng karapatang pantao sa pamamagitan ng pagbibigay ng [pagsasanay] sa digital na seguridad(/fil/categories/digital-security-trainers/) at [pagtugon sa krisis](/fil/categories/digital-security-crisis-responders/). Nagsama rin kami sa seksyong ito ng mga pangkat ng kooperatiba at mga independiyenteng negosyo na nagbibigay ng libre o may subsidiya [hosting at iba pang mga serbisyo](/fil/categories/digital-security-service-providers/) sa mga tagapagtanggol ng karapatang pantao.
