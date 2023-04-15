@@ -1,13 +1,13 @@
 ---
-title: Surveillance Self-Defense
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
+ចំណងជើង៖ ការឃ្លាំមើលការការពារខ្លួន
+# ផ្ទៀងផ្ទាត់ថាភាសាមានការគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 របស់វានៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - kh
   - th
-website: https://ssd.eff.org/
-credits: Text by Electronic Frontier Foundation
-categories:
-  - Digital Security Guides
-date: 2023-01-25T11:02:37.356Z
+គេហទំព័រ៖ https://ssd.eff.org/
+ក្រេឌីត៖ អត្ថបទដោយ Electronic Frontier Foundation
+ប្រភេទ៖
+  - មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T11:02:37.356Z
 ---
-Surveillance Self-Defense (SSD) by the Electronic Frontier Foundation (EFF) is a guide to protecting yourself from electronic surveillance for people all over the world. Some aspects of this guide will be useful to people with very little technical knowledge, while others are aimed at an audience with considerable technical expertise and privacy/security trainers.
+ការឃ្លាំមើលការការពារខ្លួន (SSD) ដោយ Electronic Frontier Foundation (EFF) គឺជាការណែនាំមួយដើម្បីការពារខ្លួនអ្នកពីការឃ្លាំមើលតាមអេឡិចត្រូនិកសម្រាប់មនុស្សទូទាំងពិភពលោក។ ទិដ្ឋភាពមួយចំនួននៃការណែនាំនេះនឹងមានប្រយោជន៍សម្រាប់អ្នកដែលមានចំណេះដឹងបច្ចេកទេសតិចតួចបំផុត ខណៈពេលដែលផ្នែកខ្លះទៀតគឺសំដៅទៅលើទស្សនិកជនដែលមានជំនាញបច្ចេកទេសដ៏ច្រើន និងជាអ្នកបណ្តុះបណ្តាលពីឯកជនភាព/សុវត្ថិភាព។
