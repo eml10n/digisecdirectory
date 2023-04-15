@@ -1,15 +1,15 @@
 ---
-title: SAFEnet
-cover: /files/safenet.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-  - id
-website: https://safenet.or.id/
-credits: Text by SAFEnet.
-categories:
-  - Digital Security Network
-  - Digital Security Trainers
-date: 2023-01-25T12:44:26.097Z
+ចំណងជើង៖ SAFEnet
+គម្រប៖ /files/safenet.jpg
+# ផ្ទៀងផ្ទាត់ថាភាសាត្រូវបានគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 របស់វានៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - KH
+  - លេខសម្គាល់
+គេហទំព័រ៖ https://safenet.or.id/
+ក្រេឌីត៖ អត្ថបទដោយ SAFEnet ។
+ប្រភេទ៖
+  - បណ្តាញសុវត្ថិភាពឌីជីថល
+  - គ្រូបណ្តុះបណ្តាលសន្តិសុខឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T12:44:26.097Z
 ---
-The Southeast Asia Freedom of Expression Network (SAFEnet) advocates for survivors of digital rights violations and champions Internet policies with human rights perspectives. SAFEnet also provides holistic security training (physical, psychosocial, and digital) for vulnerable groups in Indonesia and Southeast Asia to build their resilience towards increasingly common digital repression.
+បណ្តាញសេរីភាពនៃការបញ្ចេញមតិអាស៊ីអាគ្នេយ៍ (SAFEnet) ការតស៊ូមតិសម្រាប់អ្នករស់រានមានជីវិតពីការរំលោភសិទ្ធិឌីជីថល និងជាជើងឯកគោលនយោបាយអ៊ីនធឺណេតជាមួយនឹងទស្សនវិស័យសិទ្ធិមនុស្ស។ SAFEnet ក៏បានផ្តល់ការបណ្តុះបណ្តាលផ្នែកសន្តិសុខរួម (រូបវិទ្យា ចិត្តសង្គម និងឌីជីថល) សម្រាប់ក្រុមងាយរងគ្រោះក្នុងប្រទេសឥណ្ឌូនេស៊ី និងអាស៊ីអាគ្នេយ៍ ដើម្បីកសាងភាពធន់របស់ពួកគេឆ្ពោះទៅរកការគាបសង្កត់ផ្នែកឌីជីថលដែលកាន់តែខ្លាំងឡើង។
