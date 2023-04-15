@@ -1,17 +1,17 @@
 ---
-title: Access Now
-cover: /files/access-now.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-  - fil
+ចំណងជើង៖ ចូលប្រើឥឡូវនេះ
+គម្រប៖ /files/access-now.jpg
+# ផ្ទៀងផ្ទាត់ថាភាសាត្រូវបានគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 របស់វានៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - kh
+  - file។
   - id
-website: https://www.accessnow.org/help/
-credits: Text by Access Now.
-categories:
-  - Digital Security Network
-  - Digital Security Crisis Responders
-  - Digital Security Trainers
-date: 2023-01-19T07:27:56.488Z
+គេហទំព័រ៖ https://www.accessnow.org/help/
+ក្រេឌីត៖ អត្ថបទដោយ Access Now ។
+ប្រភេទ៖
+  - បណ្តាញសុវត្ថិភាពឌីជីថល
+  - ការឆ្លើយតបវិបត្តិសន្តិសុខឌីជីថល
+  - គ្រូបណ្តុះបណ្តាលសន្តិសុខឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-19T07:27:56.488Z
 ---
-Access Now’s Digital Security Helpline works with individuals and organizations around the world to keep them safe online. If you’re at risk, we can help you improve your digital security practices to keep you out of harm’s way. If you’re already under attack, we provide rapid-response emergency assistance.
+បណ្តាញជំនួយសុវត្ថិភាពឌីជីថលរបស់ Access Now ធ្វើការជាមួយបុគ្គល និងស្ថាប័នជុំវិញពិភពលោក ដើម្បីរក្សាសុវត្ថិភាពពួកគេតាមអ៊ីនធឺណិត។ ប្រសិនបើអ្នកមានហានិភ័យ យើងអាចជួយអ្នកឱ្យប្រសើរឡើងបាននូវការអនុវត្តសុវត្ថិភាពឌីជីថលរបស់អ្នក ដើម្បីកុំឱ្យមានគ្រោះថ្នាក់។ ប្រសិនបើអ្នករងការវាយប្រហាររួចហើយ យើងផ្តល់ជំនួយសង្គ្រោះបន្ទាន់ដែលមានការឆ្លើយតបរហ័សជូនអ្នក។
