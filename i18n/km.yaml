@@ -1,51 +1,58 @@
-edit_page: ''
+edit_page: 'ការសម្រួលទំព័រ'
 
-nav_navigation: ''
-nav_tags: ''
-nav_more: ''
-nav_top: ''
+nav_navigation: 'ចាប់ផ្តើម'
+nav_tags: 'ស្លាក'
+nav_more: 'ចូលរួមចំណែក'
+nav_top: 'ត្រឡប់ទៅខាងលើវិញ'
 
-form_placeholder_search: ''
+form_placeholder_search: 'ស្រាវជ្រាវ'
 
-error_page_title: ''
-error_message_title: ''
-error_message_code: ''
+error_page_title: 'វង្វេងមែនទេ?សូមកុំបារម្ភអី'
+error_message_title: 'វង្វែងមែនទេ?'
+error_message_code: 'គាំងលេខ 404'
 error_message_text: >
+  ហាក់ដូចជារកមិនឃើញអ្វីដែលអ្នកកំពុងស្វែងរកទេ។ កុំបារម្ភ យើងអាចនាំអ្នកត្រឡប់ទៅកាន់
+  <a class="gdoc-error__link" href="{{ . }}">ទំព័រដើម</a>វិញ។
 
-button_toggle_dark: ''
-button_nav_open: ''
-button_nav_close: ''
-button_menu_open: ''
-button_menu_close: ''
-button_homepage: ''
+button_toggle_dark: 'បិទ/បើកមុខងារ ងងឹត/ពន្លឺ/ស្វ័យប្រវត្តិ'
+button_nav_open: 'បើកការស្វែងរក'
+button_nav_close: 'បិទការស្វែងរក'
+button_menu_open: 'បើករបាមីនុយ'
+button_menu_close: 'បិទរបាមីនុយ'
+button_homepage: 'ត្រឡប់ទៅកាន់ទំព័រដើមវិញ'
 
-title_anchor_prefix: ""
+title_anchor_prefix: "បោះយុទ្ធការទៅកាន់:"
 
-posts_read_more: ''
+posts_read_more: 'អានសេចក្តីប្រកាសទាំងស្រុង'
 posts_read_time:
-  one: ""
-  other: ""
-posts_update_prefix: ''
+  one: "មួយនាទីសម្រាប់អំណាន"
+  other: "{{ . } } នាទីសម្រាប់អំណាន"
+posts_update_prefix: 'ធ្វើបច្ចុប្បន្នភាពទៅលើ'
 posts_count:
-  one: ""
-  other: ""
-posts_tagged_with: ''
+  one: "ការបង្ហោះមួយ"
+  other: "{{ . }}ការបង្ហោះ"
+posts_tagged_with: 'ការបង្ហោះអស់ដោយដាក់ស្លាកសញ្ញា ''{{ . }}'''
 
 footer_build_with: >
-footer_legal_notice: ''
-footer_privacy_policy: ''
+  គំនិតផ្តួចផ្តើមសហគមន៍ដោយ <a href="https://engagemedia.org/">
+    <img src="/files/logo-on-dark-bg.svg" alt="EngageMedia" class="logo dark-logo">
+    <img src="/files/logo-on-light-bg.svg" alt="EngageMedia" class="logo light-logo">
+  </a>
+footer_legal_notice: 'សេចក្តីជូនដំណឹងពីការរក្សាសិទ្ធិ'
+footer_privacy_policy: 'គោលការណ៍ឯកជនភាព'
 footer_content_license_prefix: >
+  ខ្លឹមសារដែលមានអាជ្ញាប័ណនៅក្រោម
 
-language_switch_no_tranlation_prefix: ""
+language_switch_no_tranlation_prefix: "ទំព័រដែលមិនទាន់បានបកប្រែ:"
 
-propertylist_required: ''
-propertylist_optional: ''
-propertylist_default: ''
+propertylist_required: 'តម្រូវអោយ'
+propertylist_optional: 'ជាជម្រើស'
+propertylist_default: 'លំនាំដើម'
 
-pagination_page_prev: ''
-pagination_page_next: ''
-pagination_page_state: ""
+pagination_page_prev: 'ពីមុន'
+pagination_page_next: 'បន្ទាប់'
+pagination_page_state: "ទំព័រ {{ .PageNumber }} នៃ {{ .TotalPages }}"
 
 # This is to warn the user that the resource may not be available in their language
 ## Please replace "English" with the target language
-language_unavailable: ""
+language_unavailable: "{{ .Title }} មិនមានជាភាសាអង់គ្លេសទេ។"
