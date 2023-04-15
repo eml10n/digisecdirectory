@@ -1,23 +1,23 @@
 ---
-type: page
-title: Copyright Notice
-date: 2023-01-30T21:42:36.544Z
+ប្រភេទ៖ ទំព័រ
+ចំណងជើង៖ សេចក្តីជូនដំណឹងអំពីការរក្សាសិទ្ធិ
+កាលបរិច្ឆេទ៖ 2023-01-30T21:42:36.544Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
+**digisec.directory** គឺជាការចងក្រងនៃធនធានសុវត្ថិភាព និងសុវត្ថិភាពឌីជីថលដោយអ្នករួមចំណែកនៃកម្មវិធី [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/)។ 
 
-All trademarks, logos and brand names are the property of their respective owners. The copyright of all cited materials remains with their respective authors. 
+ពាណិជ្ជសញ្ញា ស្លាកសញ្ញា និងម៉ាកយីហោទាំងអស់ គឺជាកម្មសិទ្ធិរបស់ម្ចាស់រៀងៗខ្លួន។ ការរក្សាសិទ្ធិនៃឯកសារដែលបានដកស្រង់ទាំងអស់នៅតែមានជាមួយអ្នកនិពន្ធម្នាក់ៗរៀងៗខ្លួន។ 
 
-Unless otherwise specified, all other work on this website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Under this license, you are free to:
+លើកលែងតែមានការបញ្ជាក់ផ្សេងក្រៅពីនេះ ការងារផ្សេងទៀតនៅលើគេហទំព័រនេះត្រូវបានផ្តល់អាជ្ញាប័ណ្ណក្រោម [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode)។ នៅក្រោមអាជ្ញាប័ណ្ណនេះ អ្នកមានសេរីភាពក្នុងការ៖
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material
+* ការចែករំលែក — ចម្លង និងចែកចាយឡើងវិញនូវសម្ភារៈនៅក្នុងមជ្ឈដ្ឋាន ឬក្នុងទម្រង់ណាមួយ។
+* សម្របខ្លួន— ការកែ ប្រែ និង​បង្កើត​ឡើង​លើ​សម្ភារៈ
 
-Such freedoms are subject to the following terms:
+សេរីភាព​បែប​នេះ​មាន​លក្ខខណ្ឌ​ដូច​ខាង​ក្រោម៖
 
-* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* NonCommercial — You may not use the material for commercial purposes.
-* No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+* គុណលក្ខណៈ — អ្នកត្រូវផ្តល់ឥណទានសមស្រប ផ្តល់តំណទៅកាន់អាជ្ញាប័ណ្ណ និង ចង្អុលបង្ហាញថាតើមានការផ្លាស់ប្តូរដែរឬទេ។ អ្នក​អាច​ធ្វើ​ដូច្នេះ​ក្នុង​លក្ខណៈ​សម​ហេតុ​ផលបាន ប៉ុន្តែ​មិន​មែន​តាម​វិធី​ណា​មួយ​ដែល​បង្ហាញ​ថា​អ្នក​ផ្តល់​អាជ្ញាប័ណ្ណ​យល់ព្រម​នឹង​អ្នក ឬ​ការ​ប្រើ​ប្រាស់​របស់​អ្នក​ទេ។
+* មិនមែនជាំពាណិជ្ជកម្ម — អ្នកមិនអាចប្រើសម្ភារៈសម្រាប់គោលបំណងពាណិជ្ជកម្មបានទេ។
+* គ្មានការរឹតបន្តឹងបន្ថែមទេ — អ្នកមិនអាចអនុវត្តលក្ខខណ្ឌផ្លូវច្បាប់ ឬវិធានការបច្ចេកវិទ្យាដែលដាក់កម្រិតផ្លូវច្បាប់ឱ្យអ្នកដទៃធ្វើអ្វីៗដែលអាជ្ញាប័ណ្ណអនុញ្ញាតនោះទេ។
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+អ្នកមិនចាំបាច់អនវត្តតាមអាជ្ញាប័ណ្ណសម្រាប់ធាតុនៃសម្ភារៈនៅក្នុងដែនសាធារណៈ ឬកន្លែងដែលការប្រើប្រាស់របស់អ្នកត្រូវបានអនុញ្ញាតដោយការលើកលែង ឬការកំណត់ដែលអាចអនុវត្តបានទេ។
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+គ្មានការធានាណាមួយត្រូវបានផ្តល់ឱ្យទេ។ អាជ្ញាប័ណ្ណប្រហែលជាមិនផ្តល់ឱ្យអ្នកនូវការអនុញ្ញាតទាំងអស់ដែលចាំបាច់សម្រាប់ការប្រើប្រាស់ដែលអ្នកចង់បាននោះទេ។ ឧទាហរណ៍ សិទ្ធិផ្សេងទៀតដូចជាការផ្សព្វផ្សាយជាសាធារណៈ ភាពឯកជន ឬសិទ្ធិខាងសីលធម៌អាចកំណត់ពីរបៀបដែលអ្នកប្រើសម្ភារៈ។
