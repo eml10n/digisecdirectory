@@ -1,16 +1,16 @@
 ---
-type: page
-title: Privacy Policy
-date: 2023-01-30T21:30:57.375Z
+ប្រភេទ៖ ទំព័រ
+ចំណងជើង៖ គោលការណ៍ឯកជនភាព
+កាលបរិច្ឆេទ៖ 2023-01-30T21:30:57.375Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
+**digisec.directory** គឺជាការចងក្រងនៃធនធានសុវត្ថិភាព និងសុវត្ថិភាពឌីជីថលដោយអ្នករួមចំណែកនៃកម្មវិធី [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/)។ 
 
-We do not collect information regarding visits to this website. This website does not use any web analytics system. It does not collect information generated about your use of our website.
+យើងមិនប្រមូលព័ត៌មានដែលទាក់ទងនឹងការចូលមើលគេហទំព័រទេ។ គេហទំព័រនេះមិនប្រើប្រព័ន្ធវិភាគគេហទំព័រណាមួយឡើយ។ គេហទំព័រមិនប្រមូលព័ត៌មានដែលបង្កើតឡើងពីការប្រើប្រាស់គេហទំព័ររបស់យើងទេ។
 
-We do not use cookies for any purpose other than user browsing preference for light or dark mode. A “cookie” is a tiny element of data that our site can send to your browser, which may then be stored on your hard drive. If you are concerned about your privacy and the use of cookie technology, you may set your web browser to notify you when you receive a cookie. You may also set your browser to refuse the cookies that our site attempts to send you. If you choose to remove or not accept our cookie, you can continue to use our website without any adverse effects, though some images, spacing, and forms may not load properly.
+យើងមិនប្រើខូគី (cookies) សម្រាប់គោលបំណងណាមួយក្រៅពីចំណូលចិត្តលើការរុករករបស់អ្នកប្រើសម្រាប់របៀបពន្លឺ ឬងងឹតទេ។ “ខូគី” គឺជាធាតុតូចមួយនៃទិន្នន័យដែលគេហទំព័ររបស់យើងអាចផ្ញើទៅកាន់កម្មវិធីរុករករបស់អ្នក ដែលបន្ទាប់មកអាចត្រូវបានរក្សាទុកនៅលើថាសរឹងរបស់អ្នក។ ប្រសិនបើអ្នកព្រួយបារម្ភពីឯកជនភាពរបស់អ្នក និងការប្រើប្រាស់បច្ចេកវិទ្យាខូគី អ្នកអាចកំណត់កម្មវិធីរុករកតាមអ៊ីនធឺណិតរបស់អ្នកឱ្យជូនដំណឹងដល់អ្នកនៅពេលអ្នកទទួលបានខូគី។ អ្នកក៏អាចកំណត់កម្មវិធីរុករករបស់អ្នកឱ្យបដិសេធខូគីដែលគេហទំព័ររបស់យើងព្យាយាមផ្ញើឱ្យអ្នក។ ប្រសិនបើអ្នកជ្រើសរើសលុប ឬមិនទទួលយកខូគីរបស់យើង អ្នកអាចបន្តការប្រើប្រាស់គេហទំព័ររបស់យើងដោយគ្មានផលប៉ះពាល់ណាមួយឡើយ ទោះបីជារូបភាព គម្លាត និងទម្រង់ខ្លះអាចផ្ទុកមិនត្រឹមត្រូវក៏ដោយ។
 
-We occasionally update this policy and encourage you to periodically review this policy to stay informed about how we are protecting the personal information we collect.
+យើងធ្វើបច្ចុប្បន្នភាពគោលការណ៍នេះម្តងម្កាល និងលើកទឹកចិត្តឱ្យអ្នកពិនិត្យមើលគោលការណ៍នេះជាប្រចាំ ដើម្បីទទួលព័ត៌មានពីរបៀបដែលយើងការពារព័ត៌មានផ្ទាល់ខ្លួនដែលយើងប្រមូលបាន។
 
-You are entitled to view and request copies, deletion, and modification of the personal data we collect from you. Note that these rights do not apply if they conflict with other legal obligations.
+អ្នកមានសិទ្ធិពិនិត្យមើល និងស្នើសុំច្បាប់ចម្លង ការលុប និងការកែប្រែទិន្នន័យផ្ទាល់ខ្លួនដែលយើងប្រមូលពីអ្នកបាន។ សូមចំណាំថា សិទ្ធិទាំងនេះមិនត្រូវបានអនុវត្តទេប្រសិនបើពួកគេមិនអវត្តតាមកាតព្វកិច្ចផ្លូវច្បាប់ផ្សេងទៀតទេ។
 
-For further information regarding your rights, this privacy policy, or the handling of your personal data, please reach out via EngageMedia [contact page](https://engagemedia.org/contact/).
+សម្រាប់ព័ត៌មានបន្ថែមទាក់ទងនឹងសិទ្ធិរបស់អ្នក គោលការណ៍ឯកជនភាព ឬការគ្រប់គ្រងទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នក សូមទាក់ទងតាមរយៈ EngageMedia [ទំព័រទំនាក់ទំនង](https://engagemedia.org/contact/).
