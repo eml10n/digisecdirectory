@@ -1,20 +1,20 @@
 ---
-title: EngageMedia
-cover: /files/engagemedia.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
+ចំណងជើង៖ EngageMedia
+គម្រប៖ /files/engagemedia.jpg
+# ផ្ទៀងផ្ទាត់ថាភាសាត្រូវបានគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 របស់វានៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - KH
   - ms
-  - fil
+  - File។
   - id
   - my
   - th
-website: https://engagemedia.org
-credits: Text by EngageMedia
-categories:
-  - Digital Security Network
-  - Digital Security Crisis Responders
-  - Digital Security Trainers
-date: 2023-01-30T08:20:29.849Z
+គេហទំព័រ៖ https://engagemedia.org
+ក្រេឌីត៖ អត្ថបទដោយ EngageMedia
+ប្រភេទ៖
+  - បណ្តាញសុវត្ថិភាពឌីជីថល
+  - ការឆ្លើយតបវិបត្តិសន្តិសុខឌីជីថល
+  - គ្រូបណ្តុះបណ្តាលសន្តិសុខឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-30T08:20:29.849Z
 ---
-EngageMedia is a nonprofit that promotes digital rights, open and secure technology, and social issue documentary. We equip civil society through training and other educational activities, producing guides, research, and other resources. We develop, localize, and engage with platforms, promoting open and secure software and supporting open culture and knowledge.
+EngageMedia គឺជាអង្គការមិនរកប្រាក់ចំណេញដែលលើកកម្ពស់សិទ្ធិឌីជីថល បច្ចេកវិទ្យាបើកចំហ និងសុវត្ថិភាព និងឯកសារបញ្ហាសង្គម។ យើងផ្គត់ផ្គង់សង្គមស៊ីវិលតាមរយៈការបណ្តុះបណ្តាល និងសកម្មភាពអប់រំផ្សេងៗ ការផលិតមគ្គុទ្ទេសក៍ ការស្រាវជ្រាវ និងធនធានផ្សេងៗទៀត។ យើងអភិវឌ្ឍ ធ្វើមូលដ្ឋានីយកម្ម និងចូលរួមជាមួយវេទិកា ផ្សព្វផ្សាយកម្មវិធីបើកចំហ និងសុវត្ថិភាព និងគាំទ្រវប្បធម៌ និងចំណេះដឹងបើកចំហ។
