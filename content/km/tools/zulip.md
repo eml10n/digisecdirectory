@@ -1,17 +1,17 @@
 ---
-title: Zulip
-cover: /files/zulip.jpg
-website: https://zulip.com/
-credits: Text by Khairil Zhafri/EngageMedia.
-flags:
+ចំណងជើង៖ Zulip
+គម្រប៖ /files/zulip.jpg
+គេហទំព័រ៖ https://zulip.com/
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+ទង់ជាតិ៖
   - Freemium
-tags:
-  - Self-hosting
-  - Cross-platform
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Collaborative Chat
-date: 2023-02-04T21:57:35.157Z
+ស្លាក:
+  - ធ្វើជាម្ចាស់ផ្ទះដោយខ្លួនឯង។
+  - ឆ្លងវេទិកា
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការជជែកបែបសហការ
+កាលបរិច្ឆេទ៖ 2023-02-04T21:57:35.157Z
 ---
-Zulip is an open-source collaborative chat for teams.
+Zulip គឺជាប្រភពនៃការជជែកបែបសហការបើកចំហសម្រាប់ក្រុម។
