@@ -1,17 +1,17 @@
 ---
-title: Security Matters
-cover: /files/security-matters.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
+ចំណងជើង៖ បញ្ហាសន្តិសុខ
+គម្រប៖ /files/security-matters.jpg
+# ផ្ទៀងផ្ទាត់ថាភាសាមានការគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 នៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - kh
   - th
   - ms
-website: https://www.securitymatters.asia/
-credits: Text by Khairil Zhafri/EngageMedia
-categories:
-  - Digital Security Network
-  - Digital Security Crisis Responders
-  - Digital Security Trainers
-date: 2023-01-25T12:20:38.276Z
+គេហទំព័រ៖ https://www.securitymatters.asia/
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia
+ប្រភេទ៖
+  - បណ្តាញសុវត្ថិភាពឌីជីថល
+  - ការឆ្លើយតបវិបត្តិសន្តិសុខឌីជីថល
+  - គ្រូបណ្តុះបណ្តាលសន្តិសុខឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T12:20:38.276Z
 ---
-Security Matters (SecM) is an initiative with the purpose of promoting digital security and protecting the community at risk in Southeast Asia. With its trainers' network and through its training of trainers SecM works towards building digital security capacity for civil society organizations and human rights defenders. It also provides digital security incident response and support in collaboration with the Center for Digital Resilience (CDR).
+Security Matters (SecM) គឺជាគំនិតផ្តួចផ្តើមមួយដែលមានគោលបំណងលើកកម្ពស់សន្តិសុខឌីជីថល និងការពារសហគមន៍ដែលមានហានិភ័យនៅអាស៊ីអាគ្នេយ៍។ ជាមួយនឹងបណ្តាញគ្រូបណ្តុះបណ្តាលរបស់ខ្លួន និងតាមរយៈការបណ្តុះបណ្តាលគ្រូបង្គោលរបស់ខ្លួន SecM ធ្វើការឆ្ពោះទៅរកការកសាងសមត្ថភាពសន្តិសុខឌីជីថលសម្រាប់អង្គការសង្គមស៊ីវិល និងអ្នកការពារសិទ្ធិមនុស្ស។ វាក៏បានផ្តល់នូវការឆ្លើយតប និងការគាំទ្រពីឧប្បត្តិហេតុសុវត្ថិភាពឌីជីថលដោយសហការជាមួយមជ្ឈមណ្ឌលសម្រាប់ភាពធន់នឹងឌីជីថល (CDR)។
