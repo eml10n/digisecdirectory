@@ -3,10 +3,10 @@ title: OpenOffice
 website: https://www.openoffice.org/
 cover: /files/openoffice.jpg
 tags:
-  - Internet Browsing & Productivity
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
 categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 date: 2023-01-19T21:21:47.538Z
 ---
-OpenOffice is a free and open-source office productivity suite.
+OpenOffice គឺជាឈុតផលិតកម្មកម្មវិធីកូដចំហ និងឥតគិតថ្លៃ។
