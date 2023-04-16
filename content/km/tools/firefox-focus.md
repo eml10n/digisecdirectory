@@ -3,10 +3,10 @@ title: Firefox Focus
 website: https://www.mozilla.org/firefox/browsers/mobile/focus/
 cover: /files/firefox-focus.jpg
 tags:
-  - Internet Browsing & Productivity
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
 categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:27:21.358Z
 ---
-Firefox Focus is privacy browser for Android and iOS that comes with automatic tracking protection.
+Firefox Focus គឺជាកម្មវិធីរុករកតាមអ៊ីនធឺណិតឯកជនសម្រាប់ប្រព័ន្ធ Android និង iOS ដែលភ្ជាប់មកជាមួយនឹងការការពារការលើការតាមដានដោយស្វ័យប្រវត្តិ។
