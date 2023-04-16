@@ -1,46 +1,53 @@
 ### Localized menus have to be merged into a single yaml file
 main:
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'เครื่องมือรักษาความปลอดภัยดิจิทัล'
+  ref: "/categories/digital-security-tools"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
   sub:
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'การหลีกเลี่ยงและการไม่เปิดเผยตัวตน'
+    ref: "/tags/circumvention-anonymity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-user-secret
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'การสื่อสารและการส่งข้อความ'
+    ref: "/tags/communications-messaging"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'การจัดทำเอกสารและการจัดการข้อมูล'
+    ref: "/tags/documentation-data-management"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'การท่องอินเทอร์เน็ตและประสิทธิภาพการทำงาน'
+    ref: "/tags/internet-browsing-productivity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
+- identifier: ''
+  external: 'True'
+- identifier: ''
+  external: ''
+- name:
+    en: 'คู่มือการรักษาความปลอดภัยดิจิทัล'
+  ref: "/categories/digital-security-guides"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
 - identifier: ''
   external: ''
 - identifier: ''
   external: ''
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
-- identifier: ''
-  external: ''
-- identifier: ''
-  external: ''
-- name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'เครื่องมือรักษาความปลอดภัยดิจิทัล'
+  ref: "/categories/digital-security-network"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
