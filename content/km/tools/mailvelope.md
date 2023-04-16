@@ -1,15 +1,15 @@
 ---
-title: Mailvelope
-website: https://mailvelope.com/
-cover: /files/mailvelope.jpg
-flags:
+ចំណងជើង៖ Mailvelope
+គេហទំព័រ៖ https://mailvelope.com/
+គម្រប៖ /files/mailvelope.jpg
+ទង់ជាតិ៖
   - Freemium
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - OpenPGP Encryption
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T10:38:37.852Z
+ស្លាក:
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការអ៊ិនគ្រីប OpenPGP
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+កាលបរិច្ឆេទ៖ 2023-01-19T10:38:37.852Z
 ---
-Mailvelope is an open-source extension for Chromium- and Firefox-based web browsers that provides an interface for Pretty Good Protection (PGP) email encryption on popular web-based email services.
+Mailvelope គឺជាផ្នែកបន្ថែមប្រភពបើកចំហសម្រាប់កម្មវិធីរុករកបណ្តាញដែលមានមូលដ្ឋានលើ Chromium- និង Firefox ដែលផ្តល់ចំណុចប្រទាក់ក្រឡាសម្រាប់ការអ៊ិនគ្រីបអ៊ីមែល Pretty Good Protection (PGP) លើសេវាកម្មអ៊ីមែលដែលមានមូលដ្ឋានលើបណ្តាញដែលពេញនិយម។
