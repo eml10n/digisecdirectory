@@ -1,12 +1,12 @@
 ---
-title: Totem
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://totem-project.org/
-credits: Text by the Totem team.
-categories:
-  - Digital Security Guides
-date: 2023-01-25T11:04:34.727Z
+ចំណងជើង៖ Totem
+# ផ្ទៀងផ្ទាត់ថាភាសាមានការគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 នៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - kh
+គេហទំព័រ៖ https://totem-project.org/
+ក្រេឌីត៖ អត្ថបទដោយក្រុម Totem ។
+ប្រភេទ៖
+  - មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T11:04:34.727Z
 ---
-Totem, developed by Greenhost and Free Press Unlimited, is an online learning platform that offers educational courses about digital security and privacy, and related tools and tactics for journalists, activists and human rights defenders in a safe, online classroom environment.
+Totem ដែលបង្កើតឡើងដោយ Greenhost និង Free Press Unlimited គឺជាវេទិកាសិក្សាតាមអ៊ីនធឺណិតដែលផ្តល់វគ្គសិក្សាអប់រំពីសុវត្ថិភាពឌីជីថល និងឯកជនភាព ព្រមទាំងឧបករណ៍ និងយុទ្ធសាស្ត្រពាក់ព័ន្ធសម្រាប់អ្នកសារព័ត៌មាន សកម្មជន និងអ្នកការពារសិទ្ធិមនុស្សនៅក្នុងបរិយាកាសថ្នាក់រៀនអនឡាញដែលមានសុវត្ថិភាព។
