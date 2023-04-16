@@ -2,11 +2,11 @@
 title: Syncthing
 cover: /files/syncthing.jpg
 website: https://syncthing.net/
-credits: Text by Syncthing.
+credits: អត្ថបទរៀចំដោយ Syncthing
 tags:
-  - Documentation & Data Management
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
 categories:
-  - File Sync
+  - សមកាលកម្មឯកសារ
 date: 2023-01-28T00:35:53.546Z
 ---
-Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real-time, safely protected from prying eyes.
+Syncthing គឺជាកម្មវិធីធ្វើសមកាលកម្មឯកសារបន្ត។ កម្មវិធីនេះ​ធ្វើ​សមកាលកម្ម​ឯកសារ​រវាង​កុំព្យូទ័រ​ពីរ ឬ​ច្រើន​ក្នុង​ពេល​ពិតប្រាកដដែលការពារ​ដោយ​សុវត្ថិភាព​ពី​ការលួចមើល។
