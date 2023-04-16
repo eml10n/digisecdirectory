@@ -1,23 +1,23 @@
 ---
-type: page
-title: Copyright Notice
-date: 2023-01-30T21:42:36.544Z
+ประเภท: หน้า
+หัวเรื่อง: ประกาศเกี่ยวกับลิขสิทธิ์
+วันที่: 2023-01-30T21:42:36.544Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
+**digisec.directory** คือการรวบรวมทรัพยากรด้านการรักษาความปลอดภัยและความปลอดภัยทางดิจิทัลโดยผู้ร่วมสนับสนุน [โครงการ EngageMedia Digital Security Localization](https://engagemedia.org/projects/localization/) 
 
-All trademarks, logos and brand names are the property of their respective owners. The copyright of all cited materials remains with their respective authors. 
+เครื่องหมายการค้า โลโก้ และชื่อแบรนด์ทั้งหมดเป็นทรัพย์สินของเจ้าของที่เกี่ยวข้อง ลิขสิทธิ์ของเนื้อหาที่อ้างถึงทั้งหมดยังคงเป็นของผู้แต่งที่เกี่ยวข้อง 
 
-Unless otherwise specified, all other work on this website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Under this license, you are free to:
+งานอื่น ๆ ทั้งหมดบนเว็บไซต์นี้ได้รับอนุญาตภายใต้ [ใบอนุญาตสากลของ Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode) เว้นแต่จะระบุไว้เป็นอย่างอื่นภายใต้ใบอนุญาตนี้ คุณมีอิสระที่จะ:
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material
+* แชร์ — คัดลอกและแจกจ่ายเนื้อหาในสื่อหรือรูปแบบใดก็ได้
+* ดัดแปลง — ปรับเปลี่ยน แปลง และสร้างจากสื่อเนื้อหา
 
-Such freedoms are subject to the following terms:
+อิสระดังกล่าวอยู่ภายใต้ข้อกำหนดต่อไปนี้:
 
-* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* NonCommercial — You may not use the material for commercial purposes.
-* No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+* การแสดงแหล่งที่มา — คุณต้องให้เครดิตที่เหมาะสม ระบุลิงก์ไปยังใบอนุญาต และระบุว่ามีการเปลี่ยนแปลงหรือไม่ คุณอาจทำในลักษณะที่สมเหตุสมผล แต่ไม่ใช่ในลักษณะที่แสดงว่าผู้ให้อนุญาตรับรองคุณหรือการใช้งานของคุณ
+* ไม่ใช่ในเชิงพาณิชย์ — ห้ามใช้เนื้อหาเพื่อจุดประสงค์ทางการค้า
+* ไม่มีข้อจำกัดเพิ่มเติม — คุณต้องไม่ใช้ข้อกำหนดทางกฎหมายหรือมาตรการทางเทคโนโลยีที่จำกัดไม่ให้ผู้อื่นทำสิ่งใดก็ตามตามที่ใบอนุญาตอนุญาต
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+คุณไม่จำเป็นต้องปฏิบัติตามใบอนุญาตสำหรับองค์ประกอบของเนื้อหาที่เป็นสาธารณสมบัติ หรือในกรณีที่การใช้งานของคุณได้รับอนุญาตตามข้อยกเว้นหรือข้อจำกัดที่เกี่ยวข้อง
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+ไม่มีการรับประกันใด ๆ ใบอนุญาตอาจไม่ให้สิทธิ์ทั้งหมดที่จำเป็นสำหรับการใช้งานตามวัตถุประสงค์ของคุณ ตัวอย่างเช่น สิทธิ์อื่น ๆ เช่น การเผยแพร่ ความเป็นส่วนตัว หรือสิทธิ์ทางศีลธรรมอาจจำกัดวิธีที่คุณใช้เนื้อหา
