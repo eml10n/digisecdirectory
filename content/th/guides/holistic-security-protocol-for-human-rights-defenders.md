@@ -1,8 +1,8 @@
 ---
-title: Holistic Security Protocol for Human Rights Defenders
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
+ชื่อเรื่อง: ระเบียบการรักษาความปลอดภัยแบบองค์รวมสำหรับผู้ปกป้องสิทธิมนุษยชน
+# ตรวจสอบว่ารองรับภาษาก่อนที่จะเพิ่มรหัส ISO 639-1 ที่นี่ โดยไม่มีรหัสประเทศ เช่น ms แทน ms_MY
+ภาษา:
+   - en
   - fil
   - lo
   - ms
@@ -13,10 +13,10 @@ languages:
   - bn
   - hi
   - ur
-website: https://protocol.openbriefing.org/
-credits: Text by Open Briefing,
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:53:14.951Z
+เว็บไซต์: https://protocol.openbriefing.org/
+เครดิต: ข้อความโดย Open Briefing,
+หมวดหมู่:
+   - คู่มือการรักษาความปลอดภัยดิจิทัล
+วันที่: 2023-01-25T10:53:14.951Z
 ---
-The Holistic Security Protocol for Human Rights Defenders (the Defender’s Protocol) helps us advance our physical safety, digital security, and wellbeing and resilience. By following the Protocol, we enhance our individual and collective security, and can reduce the burden of attacks, harassment, and censorship on us and our communities.
+ระเบียบการรักษาความปลอดภัยแบบองค์รวมสำหรับผู้ปกป้องสิทธิมนุษยชน (ระเบียบการของผู้ปกป้อง) ช่วยให้เราพัฒนาการรักษาความปลอดภัยทางกายภาพ การรักษาความปลอดภัยทางดิจิทัล ตลอดจนความเป็นอยู่ที่ดีและความยืดหยุ่น การปฏิบัติตามระเบียบการช่วยให้เราเพิ่มความปลอดภัยส่วนบุคคลและส่วนรวมของเรา และสามารถลดภาระของการโจมตี การคุกคาม และการเซนเซอร์ต่อเราและชุมชนของเรา
