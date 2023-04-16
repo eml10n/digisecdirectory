@@ -3,12 +3,12 @@ title: Thunderbird
 website: https://www.thunderbird.net/
 cover: /files/thunderbird.jpg
 tags:
-  - Communications & Messaging
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
 categories:
-  - Digital Security Tools
-  - OpenPGP Encryption
-  - Email Client
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការបំប្លែងកូដ OpenPGP
+  - ​អ៊ីមែល​​ម៉ាស៊ីន​ភ្ញៀវ
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia
 date: 2023-01-19T10:46:42.301Z
 ---
-Thunderbird is an open-source desktop email client that has built-in security and safety features including remote image linking protection, phishing protection, PGP encryption, and more.
+គឺជាអ៊ីមែលម៉ាស៊ីនភ្ញៀវសម្រាប់កុំព្យូទ័រដោយប្រើកម្មវិធីកូដចំហដែលមានមុខងារសុវត្ថិភាព និងការការពារដែលភ្ជាប់មកជាមួយស្រាប់ ដោយដាក់បញ្ចូលទាំងការការពារការភ្ជាប់រូបភាពពីចម្ងាយ ការការពារការបន្លំ ការបំប្លែងកូដ PGP និងមានច្រើនទៀត។
