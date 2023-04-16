@@ -1,15 +1,15 @@
 ---
-title: Greenhost
-cover: /files/greenhost.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+หัวเรื่อง: Greenhost
+หน้าปก: /files/greenhost.jpg
+# ตรวจสอบว่ารองรับภาษาก่อนที่จะเพิ่มรหัส ISO 639-1 ที่นี่ โดยไม่มีรหัสประเทศ เช่น ms แทน ms_MY
+ภาษา:
   - en
-website: https://greenhost.net/internet-freedom/
-credits: Text by Khairil/EngageMedia.
-categories:
-  - Digital Security Network
-  - Digital Security Service Providers
-  - Digital Security Crisis Responders
-date: 2023-02-03T21:01:54.067Z
+เว็บไซต์: https://greenhost.net/internet-freedom/
+เครดิต: ข้อความโดย Khairil/EngageMedia
+หมวดหมู่:
+   - เครือข่ายการรักษาความปลอดภัยดิจิทัล
+   - ผู้ให้บริการรักษาความปลอดภัยดิจิทัล
+   - การตอบสนองวิกฤตการรักษาความปลอดภัยดิจิทัล
+วันที่: 2023-02-03T21:01:54.067Z
 ---
-G﻿reenhost provides free virtual private server (VPS) hosting to groups advocating digital rights and developers of internet freedom tools. They also support organisations, activists, journalists and other human rights defenders facing digital security attacks through their rapid response programme.
+G﻿reenhost ให้บริการโฮสติ้งเซิร์ฟเวอร์ส่วนตัวเสมือน (VPS) ฟรีแก่กลุ่มที่สนับสนุนสิทธิดิจิทัลและผู้พัฒนาเครื่องมือเสรีภาพทางอินเทอร์เน็ต พวกเขายังสนับสนุนองค์กร นักเคลื่อนไหว นักข่าว และนักปกป้องสิทธิมนุษยชนอื่นๆ ที่เผชิญกับการโจมตีด้านความปลอดภัยทางดิจิทัลผ่านโครงการตอบสนองอย่างรวดเร็ว
