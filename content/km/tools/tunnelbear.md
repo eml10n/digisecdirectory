@@ -2,20 +2,20 @@
 title: TunnelBear
 cover: /files/tunnelbear.jpg
 website: https://www.tunnelbear.com/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia
 flags:
-  - Closed Source
-  - Freemium
+  - កម្មវិធីកូដបិទ
+  - គំរូនៃការជាវឥតគិតថ្លៃមុនត្រូវបង់ថ្លៃ
 tags:
-  - Circumvention & Anonymity
-  - Cross-platform
+  - ការគេចវេះ និងអនាមិក
+  - ប្រព័ន្ធចម្រុះ
 categories:
-  - Digital Security Tools
-  - Virtual Private Network
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  -  ប​ណ្តា​ញ​ឯកជន​និម្មិត
 date: 2023-01-19T09:54:16.180Z
 ---
-Tunnelbear is a secure VPN service. Available for iOS, Android, Mac, Windows, Firefox, and Chrome.
+Tunnelbear គឺជាសេវាកម្ម VPN ដ៏មានសុវត្ថិភាព។ អាចប្រើប្រាស់បានសម្រាប់ប្រព័ន្ធ iOS, Android, Mac, Windows, Firefox និង Chrome។
 
-> Email `vpn@engagemedia.org` to ask for your voucher code. In the email, please include a brief summary of what you do and how this VPN voucher can help you in your line of work. Once we receive your application, your unique codes will be sent within two working days.\
-> –﻿ [Free VPN for digital rights defenders: A partnership between TunnelBear and EngageMedia
+> អ៊ីមែល `vpn@engagemedia.org` ដើម្បីសួររកលេខកូដសក្ខីបត្ររបស់អ្នក។ នៅក្នុងអ៊ីមែល សូមដាក់បញ្ចូលសេចក្ដីសង្ខេបខ្លីៗអំពីអ្វីដែលអ្នកធ្វើ និងរបៀបដែលសក្ខីបត្រប័ណ្ណ VPN នេះអាចជួយដល់អ្នកក្នុងជួរការងាររបស់អ្នក។ នៅពេលដែលយើងទទួលបានពាក្យសុំរបស់អ្នក លេខកូដពិសេសតែមួយគត់របស់អ្នកនឹងផ្ញើទៅក្នុងរយៈពេលពីរថ្ងៃធ្វើការ។\
+> –​ [ VPN ដោយឥតគិតថ្លៃសម្រាប់អ្នកការពារសិទ្ធិឌីជីថល៖ ភាពជាដៃគូរវាង TunnelBear និង EngageMedia
 ](https://engagemedia.org/projects/tunnelbear/)
