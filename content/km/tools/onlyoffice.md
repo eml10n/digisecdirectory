@@ -2,16 +2,16 @@
 title: OnlyOffice
 cover: /files/onlyoffice.jpg
 website: https://www.onlyoffice.com/
-credits: Text by Khairil/EngageMedia.
+credits: អត្ថបទរៀបចំដោយ Khairil/EngageMedia.
 flags:
-  - Freemium
+  - គំរូនៃការជាវឥតគិតថ្លៃមុនត្រូវបង់ថ្លៃ
 tags:
-  - Self-hosting
-  - Web App
-  - Internet Browsing & Productivity
-  - Cross-platform
+  - ការបង្ហោះដោយខ្លួនឯង
+  - កម្មវិធីបណ្តាញ
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
+  - ​ប្រព័ន្ធ​ចម្រុះ
 categories:
-  - Digital Security Tools
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
 date: 2023-02-04T21:37:24.103Z
 ---
-O﻿nlyOffice is an office suite of online editors for text documents, spreadsheets, and presentations.
+OnlyOffice គឺជាឈុតកម្មវិធីកែសម្រួលតាមអ៊ីនធឺណិតសម្រាប់ការងារការិយាល័យសម្រាប់ធ្វើការទៅឯកសារជាអត្ថបទ សន្លឹកតារាង និងការធ្វើបទបង្ហាញ។
