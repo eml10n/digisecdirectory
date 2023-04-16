@@ -1,13 +1,14 @@
 ### Localized menus have to be merged into a single yaml file
 more:
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'อัปเดตไดเร็กทอรี'
+  ref: "/อัปเดต"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-pen-to-square
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
 - name:
-    en: ''
-  ref: ""
+    en: 'แปลไดเรกทอรี'
+  ref: "/แปล"
   pre: ''
   post: ''
 - identifier: ''
@@ -17,17 +18,18 @@ more:
 - identifier: ''
   external: ''
 - name:
-    en: ''
-  ref: ""
+    en: 'ประกาศเกี่ยวกับลิขสิทธิ์'
+  ref: "/ลิขสิทธิ์"
   pre: ''
   post: ''
 - name:
-    en: ''
-  ref: ""
+    en: 'นโยบายความเป็นส่วนตัว'
+  ref: "/ความเป็นส่วนตัว"
   pre: ''
   post: ''
 - name:
-    en: ''
+    en: 'Colophon'
   ref: ""
-  pre: ''
-  post: ''
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-circle-info fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
