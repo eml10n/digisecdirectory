@@ -2,13 +2,13 @@
 title: Searx
 cover: /files/searx.jpg
 website: https://searx.github.io/searx/
-credits: Text by Searx.
+credits: អត្ថបទរៀបចំដោយ Searx
 tags:
-  - Internet Browsing & Productivity
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
 categories:
-  - Digital Security Tools
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
 date: 2023-01-29T20:06:50.821Z
 ---
-Searx is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity.
+Searx គឺជាម៉ាស៊ីនស្វែងរកមេតាតាមអ៊ីនធឺណិតដោយឥតគិតថ្លៃដែលប្រមូលផ្តុំលទ្ធផលពីសេវាស្វែងរកដែលមានច្រើនជាង 70 ។ អ្នកប្រើនានាមិនត្រូវបានគេតាមដាន ឬរៀបចំជាទម្រង់ព័ត៌មាន។ បន្ថែមពីនេះទៀត searx អាចប្រើប្រាស់បាននៅលើកម្មវិធី Tor សម្រាប់ជាលក្ខណៈអនាមិកតាមអ៊ីនធឺណិត។
 
-To find a Searx instance, go to [searx.space](https://searx.space/).
+ដើម្បីស្វែងរកឧទាហរណ៍ Searx សូមចូលទៅកាន់ [searx.space](https://searx.space/)។
