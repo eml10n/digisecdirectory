@@ -1,15 +1,15 @@
 ---
-title: Greenhost
-cover: /files/greenhost.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://greenhost.net/internet-freedom/
-credits: Text by Khairil/EngageMedia.
-categories:
-  - Digital Security Network
-  - Digital Security Service Providers
-  - Digital Security Crisis Responders
-date: 2023-02-03T21:01:54.067Z
+ចំណងជើង៖ Greenhost
+គម្រប៖ /files/greenhost.jpg
+# ផ្ទៀងផ្ទាត់ថាភាសាត្រូវបានគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 របស់វានៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - ន
+គេហទំព័រ៖ https://greenhost.net/internet-freedom/
+ក្រេឌីត៖ អត្ថបទដោយ Khairil / EngageMedia ។
+ប្រភេទ៖
+  - បណ្តាញសុវត្ថិភាពឌីជីថល
+  - អ្នកផ្តល់សេវាសន្តិសុខឌីជីថល
+  - ការឆ្លើយតបវិបត្តិសន្តិសុខឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-02-03T21:01:54.067Z
 ---
-G﻿reenhost provides free virtual private server (VPS) hosting to groups advocating digital rights and developers of internet freedom tools. They also support organisations, activists, journalists and other human rights defenders facing digital security attacks through their rapid response programme.
+Greenhost ផ្តល់នូវម៉ាស៊ីនមេឯកជននិម្មិតឥតគិតថ្លៃ (VPS) បង្ហោះដល់ក្រុមដែលតស៊ូមតិអំពីសិទ្ធិឌីជីថល និងអ្នកបង្កើតឧបករណ៍សេរីភាពអ៊ីនធឺណិត។ ពួកគេក៏គាំទ្រដល់អង្គការ សកម្មជន អ្នកសារព័ត៌មាន និងអ្នកការពារសិទ្ធិមនុស្សផ្សេងទៀត ដែលប្រឈមនឹងការវាយប្រហារផ្នែកសន្តិសុខតាមប្រព័ន្ធឌីជីថល តាមរយៈកម្មវិធីឆ្លើយតបរហ័សរបស់ពួកគេ។
