@@ -1,17 +1,17 @@
 ---
-draft: false
-title: Nextcloud
-website: https://nextcloud.com/
-cover: /files/nextcloud.jpg
-tags:
-  - Self-hosting
-  - Documentation & Data Management
-  - Cross-platform
-categories: 
-  - Digital Security Tools
-  - File Storage
-  - File Sync
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-22T09:04:42.901Z
+แบบร่าง: false
+หัวเรื่อง: Nextcloud
+เว็บไซต์: https://nextcloud.com/
+หน้าปก: /files/nextcloud.jpg
+แท็ก:
+   - โฮสติ้งด้วยตนเอง
+   - เอกสารและการจัดการข้อมูล
+   - ข้ามแพลตฟอร์ม
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - ที่เก็บไฟล์
+   - การซิงค์ไฟล์
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+วันที่: 2023-01-22T09:04:42.901Z
 ---
-N﻿extcloud is an open-source collaboration suite with secure file storage, sync, and share.
+N﻿extcloud เป็นชุดโปรแกรมการทำงานร่วมกันแบบโอเพ่นซอร์สที่มีการจัดเก็บไฟล์ การซิงค์ และการแชร์ที่ปลอดภัย
