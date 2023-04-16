@@ -2,14 +2,14 @@
 title: Outline VPN
 cover: /files/outline.jpg
 website: https://getoutline.org/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 tags:
-  - Self-hosting
-  - Circumvention & Anonymity
-  - Cross-platform
+  - ការបង្ហោះដោយខ្លួនឯង
+  - ការគេចវេះ និងអនាមិក
+  - ប្រព័ន្ធចម្រុះ
 categories:
-  - Digital Security Tools
-  - Virtual Private Network
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ប​ណ្តា​ញ​ឯកជន​និម្មិត
 date: 2023-01-19T20:13:34.694Z
 ---
-O﻿utline makes it easy for users to access the internet using a virtual private network (VPN). The Outline Manager enables users to run their own VPN servers on cloud platforms and the Outline Client connects devices to existing servers.
+Otline ធ្វើឱ្យអ្នកប្រើមានភាពងាយស្រួលក្នុងការចូលប្រើប្រាស់អ៊ីនធឺណិតដោយប្រើបណ្តាញឯកជននិម្មិត (VPN)។ កម្មវិធីគ្រប់គ្រងគ្រោងអាចឱ្យអ្នកប្រើដំណើរការម៉ាស៊ីនមេ VPN ផ្ទាល់ខ្លួនរបស់ពួកគេនៅលើប្រព័ន្ធបណ្តាញសមូហកម្ម និងម៉ាស៊ីនគ្រោងដោយភ្ជាប់ជាមួយនឹងម៉ាស៊ីនមេដែលមានស្រាប់។
