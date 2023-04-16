@@ -1,16 +1,16 @@
 ---
-draft: false
-title: Send
-website: https://gitlab.com/timvisee/send
-cover: /files/send.jpg
-tags:
-  - Self-hosting
-  - Web App
-  - Documentation & Data Management
-categories: 
-  - Digital Security Tools
-  - File Sharing
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-22T15:50:08.622Z
+សេចក្តីព្រាង៖ មិនពិត
+ចំណងជើង៖ ផ្ញើ
+គេហទំព័រ៖ https://gitlab.com/timvisee/send
+cover៖ /files/send.jpg
+ស្លាក:
+  - ធ្វើជាម្ចាស់កម្មវិធីដោយខ្លួនឯង។
+  - កម្មវិធីបណ្តាញ
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការចែករំលែកឯកសារ
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+កាលបរិច្ឆេទ៖ 2023-01-22T15:50:08.622Z
 ---
-Send is a simple, private file-sharing tool with end-to-end encryption.
+Send គឺ​ជា​ឧបករណ៍​ចែករំលែក​ឯកសារ​ឯកជន​សាមញ្ញ​មួយ​ជាមួយ​នឹង​ការ​អ៊ិនគ្រីប​ពី​ចុង​ដល់​ចុង។
