@@ -1,13 +1,13 @@
 ---
-title: Bitmask VPN
-website: https://bitmask.net/
-cover: /files/bitmask.jpg
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-  - Virtual Private Network
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T07:27:56.488Z
+ชื่อเรื่อง: Bitmask VPN
+เว็บไซต์: https://bitmask.net/
+หน้าปก: /files/bitmask.jpg
+แท็ก:
+   - การหลีกเลี่ยงและการไม่เปิดเผยตัวตน
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - เครือข่ายส่วนตัวเสมือน
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+วันที่: 2023-01-19T07:27:56.488Z
 ---
-Bitmask VPN (Android, Desktop) is an open-source virtual private network (VPN).
+Bitmask VPN (Android, Desktop) เป็นเครือข่ายส่วนตัวเสมือนแบบโอเพ่นซอร์ส (VPN)
