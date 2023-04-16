@@ -1,12 +1,12 @@
 ---
-title: Safe + Secure
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
+title: សុវត្ថិភាព + ការការពារ
+# ត្រូវផ្ទៀងផ្ទាត់ដើម្បីឲ្យដឹងថា ភាសាអាចប្រើប្រាស់បាន មុនពេលបន្ថែមកូដ ISO 639-1 របស់វានៅទីនេះ។ បើគ្មានកូដប្រទេសឧទាហរណ៍ដូចជា ms ជំនួសឱ្យ ms_MY។
 languages:
   - en
 website: https://safeandsecure.film/
-credits: Text by Erin McConnell.
+credits: អត្ថបទរៀបចំដោយ Erin McConnell.
 categories:
-  - Digital Security Guides
+  - មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល
 date: 2023-01-25T11:09:02.882Z
 ---
-Safe + Secure by Doc Society is a handbook containing information and resources about digital security, journalistic accountability, legal security, and more for documentary filmmakers.
+សុវត្ថិភាព + ការការពារដោយសហគមន៍ឯកសារ (Doc Society) គឺជាសៀវភៅណែនាំដែលមានព័ត៌មាន និងធនធានអំពីសុវត្ថិភាពឌីជីថល គណនេយ្យភាពសារព័ត៌មាន សុវត្ថិភាពផ្លូវច្បាប់ និងមានច្រើនទៀតសម្រាប់អ្នកផលិតភាពយន្តឯកសារ។
