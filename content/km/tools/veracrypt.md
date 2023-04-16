@@ -1,12 +1,12 @@
 ---
-title: VeraCrypt
-website: https://www.veracrypt.fr/
-cover: /files/veracrypt.jpg
-tags:
-  - Documentation & Data Management
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T18:09:13.542Z
+ចំណងជើង៖ VeraCrypt
+គេហទំព័រ៖ https://www.veracrypt.fr/
+Cover៖ /files/veracrypt.jpg
+ស្លាក:
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+កាលបរិច្ឆេទ៖ 2023-01-19T18:09:13.542Z
 ---
-VeraCrypt is an open-source disk encryption tool for Windows, macOS, and Linux.
+VeraCrypt គឺជាឧបករណ៍អ៊ិនគ្រីបឌីសប្រភពបើកចំហសម្រាប់ប្រព័ន្ធប្រតិបត្តិការ Windows, macOS និង Linux ។
