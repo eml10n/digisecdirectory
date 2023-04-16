@@ -1,13 +1,13 @@
 ---
-title: Tails
-cover: /files/tails.jpg
-website: https://tails.boum.org/
-credits: Text by Khairil Zhafri/EngageMedia.
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-  - Onion Routing
-date: 2023-01-19T10:02:41.640Z
+หัวเรื่อง : Tails
+หน้าปก: /files/tails.jpg
+เว็บไซต์: https://tails.boum.org/
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+แท็ก:
+   - การหลีกเลี่ยงและการไม่เปิดเผยตัวตน
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - การจัดเส้นทางแบบหัวหอม
+วันที่: 2023-01-19T10:02:41.640Z
 ---
-Tails is an open-source portable computer operating system that protects users from surveillance and helps them circumvent censorship.
+Tails เป็นระบบปฏิบัติการคอมพิวเตอร์พกพาแบบโอเพ่นซอร์สที่ปกป้องผู้ใช้จากการสอดแนมและช่วยหลีกเลี่ยงการเซนเซอร์
