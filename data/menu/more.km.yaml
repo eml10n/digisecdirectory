@@ -1,13 +1,14 @@
 ### Localized menus have to be merged into a single yaml file
 more:
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'ធ្វើបច្ចុប្បន្នភាពបញ្ជីឈ្មោះ'
+  ref: "/update"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-pen-to-square
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
 - name:
-    en: ''
-  ref: ""
+    en: 'បកប្រែបញ្ជីឈ្មោះ'
+  ref: "/translate"
   pre: ''
   post: ''
 - identifier: ''
@@ -17,17 +18,18 @@ more:
 - identifier: ''
   external: ''
 - name:
-    en: ''
-  ref: ""
+    en: 'សេចក្តីជូនដំណឹងពីការរក្សាសិទ្ធិ'
+  ref: "/copyright"
   pre: ''
   post: ''
 - name:
-    en: ''
-  ref: ""
+    en: 'គោលការណ៍ឯកជនភាព'
+  ref: "/privacy"
   pre: ''
   post: ''
 - name:
-    en: ''
+    en: 'កូឡូហ្វន'
   ref: ""
-  pre: ''
-  post: ''
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-circle-info fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
