@@ -1,14 +1,14 @@
 ---
-title: Thunderbird
-website: https://www.thunderbird.net/
-cover: /files/thunderbird.jpg
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - OpenPGP Encryption
-  - Email Client
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T10:46:42.301Z
+หัวเรื่อง : Thunderbird
+เว็บไซต์: https://www.thunderbird.net/
+หน้าปก: /files/thunderbird.jpg
+แท็ก:
+   - การสื่อสารและการส่งข้อความ
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - การเข้ารหัส OpenPGP
+   - ไคลเอนต์อีเมล
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+วันที่: 2023-01-19T10:46:42.301Z
 ---
-Thunderbird is an open-source desktop email client that has built-in security and safety features including remote image linking protection, phishing protection, PGP encryption, and more.
+Thunderbird เป็นไคลเอนต์อีเมลบนเดสก์ท็อปแบบโอเพ่นซอร์สที่มีคุณลักษณะด้านความปลอดภัยในตัว ได้แก่ การป้องกันการเชื่อมโยงรูปภาพระยะไกล การป้องกันฟิชชิง การเข้ารหัส PGP และอื่น ๆ
