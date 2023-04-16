@@ -1,51 +1,58 @@
-edit_page: ''
+edit_page: 'แก้ไขหน้า'
 
-nav_navigation: ''
-nav_tags: ''
-nav_more: ''
-nav_top: ''
+nav_navigation: 'เริ่มต้น'
+nav_tags: 'แท็ก'
+nav_more: 'มีส่วนร่วม'
+nav_top: 'กลับสู่ด้านบน'
 
-form_placeholder_search: ''
+form_placeholder_search: 'ค้นหา'
 
-error_page_title: ''
-error_message_title: ''
-error_message_code: ''
+error_page_title: 'หลงทาง? ไม่ต้องกังวล'
+error_message_title: 'หลงทาง?'
+error_message_code: 'ข้อผิดพลาด 404'
 error_message_text: >
+  ดูเหมือนว่าไม่พบสิ่งที่คุณกำลังมองหา ไม่ต้องกังวล เราสามารถนำคุณกลับไปที่หน้าแรกของ
+  <a class="gdoc-error__link" href="{{ . }}"> </a>
 
-button_toggle_dark: ''
-button_nav_open: ''
-button_nav_close: ''
-button_menu_open: ''
-button_menu_close: ''
-button_homepage: ''
+button_toggle_dark: 'สลับโหมดมืด/สว่าง/อัตโนมัติ'
+button_nav_open: 'เปิดการนําทาง'
+button_nav_close: 'ปิดการนําทาง'
+button_menu_open: 'เปิดแถบเมนู'
+button_menu_close: 'ปิดแถบเมนู'
+button_homepage: 'กลับไปที่หน้าแรก'
 
-title_anchor_prefix: ""
+title_anchor_prefix: "ยึดกับ:"
 
-posts_read_more: ''
+posts_read_more: 'อ่านโพสต์ฉบับเต็ม'
 posts_read_time:
-  one: ""
-  other: ""
-posts_update_prefix: ''
+  one: "ใช้เวลาอ่านหนึ่งนาที"
+  other: "ใช้เวลาอ่าน {{ . }} นาที"
+posts_update_prefix: 'อัปเดตเมื่อ'
 posts_count:
-  one: ""
-  other: ""
-posts_tagged_with: ''
+  one: "หนึ่งโพสต์"
+  other: "{{ . }} โพสต์"
+posts_tagged_with: 'โพสต์ทั้งหมดที่แท็กด้วย ''{{.}}'''
 
 footer_build_with: >
-footer_legal_notice: ''
-footer_privacy_policy: ''
+  โครงการริเริ่มของชุมชนโดย <a href="https://engagemedia.org/">
+     <img src="/files/logo-on-dark-bg.svg" alt="EngageMedia" class="logo dark-logo">
+     <img src="/files/logo-on-light-bg.svg" alt="EngageMedia" class="logo light-logo">
+  </a>
+footer_legal_notice: 'ประกาศเกี่ยวกับลิขสิทธิ์'
+footer_privacy_policy: 'นโยบายความเป็นส่วนตัว'
 footer_content_license_prefix: >
+  เนื้อหาที่ได้รับอนุญาตภายใต้
 
-language_switch_no_tranlation_prefix: ""
+language_switch_no_tranlation_prefix: "หน้าที่ไม่ได้แปล:"
 
-propertylist_required: ''
-propertylist_optional: ''
-propertylist_default: ''
+propertylist_required: 'จำเป็น'
+propertylist_optional: 'ไม่บังคับ'
+propertylist_default: 'ค่าเริ่มต้น'
 
-pagination_page_prev: ''
-pagination_page_next: ''
-pagination_page_state: ""
+pagination_page_prev: 'ก่อนหน้า'
+pagination_page_next: 'ถัดไป'
+pagination_page_state: "{{ .PageNumber }} หน้าจาก {{ .TotalPages }}"
 
 # This is to warn the user that the resource may not be available in their language
 ## Please replace "English" with the target language
-language_unavailable: ""
+language_unavailable: "{{ .Title }} อาจไม่พร้อมใช้งานในภาษาอังกฤษ"
