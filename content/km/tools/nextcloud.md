@@ -1,17 +1,17 @@
 ---
-draft: false
+draft: មិនពិត
 title: Nextcloud
 website: https://nextcloud.com/
 cover: /files/nextcloud.jpg
 tags:
-  - Self-hosting
-  - Documentation & Data Management
-  - Cross-platform
+  - ការបង្ហោះដោយខ្លួនឯង
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
+  -​ប្រព័ន្ធ​ចម្រុះ
 categories: 
-  - Digital Security Tools
-  - File Storage
-  - File Sync
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ទំហំ​ផ្ទុកឯកសារ
+  - សមកាលកម្មឯកសារ
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 date: 2023-01-22T09:04:42.901Z
 ---
-N﻿extcloud is an open-source collaboration suite with secure file storage, sync, and share.
+Nextcloud គឺជាឈុតដែលធ្វើការរួមគ្នាដោយប្រើកម្មវិធីកូដចំហជាមួយនឹងទំហំផ្ទុកឯកសារ ធ្វើសមកាលកម្ម និងចែករំលែកដែលមានសុវត្ថិភាព។
