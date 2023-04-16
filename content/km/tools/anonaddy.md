@@ -2,16 +2,16 @@
 title: AnonAddy
 cover: /files/anonaddy.jpg
 website: https://anonaddy.com/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 flags:
-  - Freemium
+  - គំរូនៃការជាវឥតគិតថ្លៃមុនត្រូវបង់ថ្លៃ
 tags:
-  - Communications & Messaging
-  - Self-hosting
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
+  - ការបង្ហោះដោយខ្លួនឯង
 categories:
   - OpenPGP Encryption
-  - Digital Security Tools
-  - Email Forwarding
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការបញ្ជូនបន្តតាមអ៊ីមែល
 date: 2023-01-25T08:17:33.984Z
 ---
-AnonAddy provides an email forwarding service that keeps personal email addresses private.
+AnonAddy ផ្តល់សេវាបញ្ជូនបន្តតាមអ៊ីមែលដែលរក្សាទុកអាសយដ្ឋានអ៊ីមែលផ្ទាល់ខ្លួន។
