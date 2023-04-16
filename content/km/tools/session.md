@@ -1,14 +1,14 @@
 ---
-draft: false
-title: Session
-website: https://www.getsession.org/
-cover: /files/session.jpg
-tags:
-  - Communications & Messaging
-categories: 
-  - Digital Security Tools
-  - Instant Messaging
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T23:08:17.311Z
+សេចក្តីព្រាង៖ រឿងមិនពិត
+ចំណងជើង៖ វគ្គ
+គេហទំព័រ៖ https://www.getsession.org/
+cover៖ /files/session.jpg
+ស្លាក:
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការផ្ញើសារបន្ទាន់
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+កាលបរិច្ឆេទ៖ 2023-01-19T23:08:17.311Z
 ---
-Session is a decentralised instant messaging app that does not require phone numbers, email addresses, or other personally identifiable information.
+Session គឺជាកម្មវិធីផ្ញើសារបន្ទាន់បែបវិមជ្ឈការ ដែលមិនត្រូវការលេខទូរស័ព្ទ អាសយដ្ឋានអ៊ីមែល ឬព័ត៌មានដែលអាចកំណត់អត្តសញ្ញាណផ្ទាល់ខ្លួនផ្សេងទៀត។
