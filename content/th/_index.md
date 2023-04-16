@@ -1,45 +1,45 @@
 ---
-type: page
-title: Digital Security Community Directory
-date: 2023-01-27T17:18:43.828Z
+ประเภท: หน้า
+ชื่อเรื่อง: ไดเรกทอรีชุมชนการรักษาความปลอดภัยดิจิทัล
+วันที่: 2023-01-27T17:18:43.828Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). This directory primarily lists digital security and safety tools and guides, and resource groups that are available in Burmese, Filipino, Indonesian, Khmer, Thai, and English.
+**digisec.directory** คือการรวบรวมทรัพยากรด้านการรักษาความปลอดภัยและความปลอดภัยทางดิจิทัลโดยผู้ร่วมสนับสนุน [โครงการ EngageMedia Digital Security Localization](https://engagemedia.org/projects/localization/) ไดเรกทอรีนี้แสดงรายการเครื่องมือและคู่มือด้านความปลอดภัยและความปลอดภัยแบบดิจิทัลเป็นหลัก และกลุ่มแหล่งข้อมูลที่มีให้บริการในภาษาพม่า ฟิลิปปินส์ อินโดนีเซีย เขมร ไทย และอังกฤษ
 
-In this directory, we group the [digital security tools](/en/categories/digital-security-tools/) by their main utility or function, namely
+ในไดเรกทอรีนี้ เราจัดกลุ่ม [เครื่องมือรักษาความปลอดภัยดิจิทัล](/en/categories/digital-security-tools/) ตามยูทิลิตี้หรือฟังก์ชันหลัก ได้แก่
 
-* [Circumvention & Anonymity](/en/tags/circumvention-anonymity/) tools for circumventing censorship and surveillance on the internet
-* [Communications & Messaging](/en/tags/communications-messaging/) services for secure online chats, calls, and meetings
-* [Documentation & Data Management](/en/tags/documentation-data-management/) software for encrypted storage and transfer of electronic files and digital records
-* [Internet Browsing & Productivity](/en/tags/productivity-internet-browsing/) applications for using the internet and working online safely
+* [การหลีกเลี่ยงและการไม่เปิดเผยตัวตน](/en/tags/circumvention-anonymity/) เครื่องมือสำหรับการหลบเลี่ยงการเซนเซอร์และการเฝ้าระวังบนอินเทอร์เน็ต
+* [การสื่อสารและการส่งข้อความ](/en/tags/communications-messaging/) บริการสำหรับการแชท การโทร และการประชุมออนไลน์ที่ปลอดภัย
+* [เอกสารและการจัดการข้อมูล](/en/tags/documentation-data-management/) ซอฟต์แวร์สำหรับการจัดเก็บแบบเข้ารหัสและการถ่ายโอนไฟล์อิเล็กทรอนิกส์และบันทึกดิจิทัล
+* [การท่องอินเทอร์เน็ตและประสิทธิภาพการทำงาน](/en/tags/productivity-internet-browsing/) แอปพลิเคชันสำหรับใช้อินเทอร์เน็ตและทำงานออนไลน์อย่างปลอดภัย
 
-As much as possible, we include free and open-source tools in this directory, ie you have the freedom to use, modify, and redistribute the source code of these tools without any restriction. 
+เรารวมเครื่องมือแบบฟรีและโอเพ่นซอร์สไว้ในไดเรกทอรีนี้มากที่สุดเท่าที่จะเป็นไปได้ กล่าวคือ คุณมีอิสระในการใช้ แก้ไข และแจกจ่ายซอร์สโค้ดของเครื่องมือเหล่านี้ซ้ำโดยไม่มีข้อจำกัดใด ๆ 
 
-Some tools in this directory are tagged as:
+เครื่องมือบางอย่างในไดเร็กทอรีนี้ถูกแท็กเป็น:
 
-* [Web app](/en/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
-* [Self-hosting](/en/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
-* [Cross-platform](/en/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
+* [เว็บแอป](/en/tags/web-app/) – คุณสามารถใช้เครื่องมือนี้ได้โดยตรงบนอินเทอร์เน็ตเบราว์เซอร์โดยไม่ต้องติดตั้งบนอุปกรณ์ของคุณ
+* [การโฮสต์ด้วยตนเอง](/en/tags/self-hosting/) – คุณสามารถเรียกใช้และบำรุงรักษาอินสแตนซ์ของเครื่องมือนี้บนเซิร์ฟเวอร์ที่คุณควบคุม
+* [ข้ามแพลตฟอร์ม](/en/tags/cross-platform/) – คุณสามารถติดตั้งเครื่องมือนี้บนเดสก์ท็อปและอุปกรณ์เคลื่อนที่ที่ใช้ระบบปฏิบัติการยอดนิยม
 
-We also flag certain tools as:
+เรายังตั้งค่าสถานะเครื่องมือบางอย่างเป็น:
 
-* Closed Source – this tool does not have publicly available and verifiable source code;
-* Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade; and
-* Premium – this tool is only available with a paid subscription.
+* โคลสซอร์ส – เครื่องมือนี้ไม่มีซอร์สโค้ดที่เปิดเผยต่อสาธารณะและตรวจสอบได้
+* ฟรีเมียม – เครื่องมือนี้มีให้ใช้งานฟรี แต่มีพื้นที่เก็บข้อมูลเพิ่มเติม แบนด์วิธ หรือคุณสมบัติต่าง ๆ พร้อมการอัปเกรดแบบชำระเงิน และ
+* พรีเมียม – เครื่องมือนี้ใช้ได้เฉพาะกับการสมัครรับข้อมูลแบบชำระเงินเท่านั้น
 
-Some tools are grouped into special categories:
+เครื่องมือบางอย่างจะถูกจัดกลุ่มเป็นหมวดหมู่พิเศษ:
 
-* [Collaborative chat](/en/categories/collaborative-chat) alternatives to Slack;
-* [Email](/en/categories/email) and [e﻿mail client](/en/categories/email-client/) alternatives to Google Gmail, Apple Mail, Microsoft Outlook, etc;
-* [E﻿mail forwarding](/en/categories/email-forwarding/) services for privacy protection;
-* [File sharing](/en/categories/file-sharing), [storage](/en/categories/file-storage), and [sync](/en/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
-* [Instant messaging](/en/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
-* [Onion routing](/en/categories/onion-routing)-configured tools; and
-* [OpenPGP encryption](/en/categories/openpgp-encryption) applications.
-* [Videoconferencing](/en/categories/videoconferencing) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
-* [Virtual private network (VPN)](/en/categories/virtual-private-network) services;
+* [การแชทร่วมกัน](/en/categories/collaborative-chat) ทางเลือกแทน Slack;
+* [อีเมล](/th/categories/email) และ [อีเมลไคลเอ็นต์](/en/categories/email-client/) ทางเลือกแทน Google Gmail, Apple Mail, Microsoft Outlook และอื่น ๆ
+* [การส่งต่ออีเมล](/en/categories/email-forwarding/) บริการเพื่อการคุ้มครองความเป็นส่วนตัว
+* [การแชร์ไฟล์](/en/categories/file-sharing), [ที่เก็บข้อมูล](/en/categories/file-storage) และ [sync](/en/categories/file-sync) ทางเลือกแทน Dropbox, WeTransfer, Google Drive, Microsoft OneDrive ฯลฯ
+* [การส่งข้อความโต้ตอบแบบทันที](/en/categories/instant-messaging)ทางเลือกแทน WhatsApp, Messenger, WeChat, LINE, Viber ฯลฯ
+* [การจัดเส้นทางแบบหัวหอม](/en/categories/onion-routing)-เครื่องมือที่กำหนดค่า; และ
+* [การเข้ารหัส OpenPGP](/en/categories/openpgp-encryption)
+* [Videoconferencing] แอปพลิเคชัน (/en/categories/videoconferencing) ทางเลือกแทน Zoom, Google Meet, Microsoft Teams ฯลฯ 
+* [เครือข่ายส่วนตัวเสมือน (VPN)](/th/categories/virtual-private-network) บริการ
 
-Using the tools recommended in this directory can help you improve your digital security and safety. Having good understanding of how these tools work and knowing how to use them properly are equally important in limiting your digital security risks and mitigating your digital safety threats.
+การใช้เครื่องมือที่แนะนำในไดเรกทอรีนี้สามารถช่วยคุณปรับปรุงการรักษาความปลอดภัยและความปลอดภัยทางดิจิทัลได้ การมีความเข้าใจที่ดีเกี่ยวกับวิธีการทำงานของเครื่องมือเหล่านี้และการรู้วิธีการใช้อย่างเหมาะสมมีความสำคัญเท่าเทียมกันในการจำกัดความเสี่ยงด้านการรักษาความปลอดภัยทางดิจิทัลและการลดภัยคุกคามด้านความปลอดภัยทางดิจิทัลของคุณ
 
-The [digital security guides](/en/categories/digital-security-guides/) section contains a list of resources including step-by-step instructions, user manuals, trainer's handbooks, support toolkits, and other similar materials. These guides cover a wide range of digital security and safety topics including privacy, surveillance, censorship, encryption, backup, and more.
+ส่วน [คู่มือรักษาความปลอดภัยทางดิจิทัล](/en/categories/digital-security-guides/) มีรายการทรัพยากรรวมถึงคำแนะนำทีละขั้นตอน คู่มือผู้ใช้ คู่มือผู้ฝึกอบรม ชุดเครื่องมือสนับสนุน และเอกสารอื่น ๆ ที่คล้ายคลึงกัน คู่มือเหล่านี้ครอบคลุมหัวข้อการรักษาความปลอดภัยและความปลอดภัยดิจิทัลที่หลากหลาย รวมถึงความเป็นส่วนตัว การเฝ้าระวัง การเซนเซอร์ การเข้ารหัส การสำรองข้อมูล และอื่น ๆ
 
-In the [digital security network](/categen/categoriesories/digital-security-network/) section of this directory, we list organisations that support human rights defenders by providing digital security [training](/en/categories/digital-security-trainers/) and [crisis response](/en/categories/digital-security-crisis-responders/). We also include in this section cooperative groups and independent businesses that provide free or subsidised [hosting and other services](/en/categories/digital-security-service-providers/) to human rights defenders.
+ในส่วน [เครือข่ายรักษาความปลอดภัยดิจิทัล](/categen/categories/digital-security-network/) ของไดเรกทอรีนี้ เราแสดงรายชื่อองค์กรที่สนับสนุนนักปกป้องสิทธิมนุษยชนโดยจัดให้มี[การฝึกอบรม]ความปลอดภัยดิจิทัล(/en/categories/digital-security-trainers/) และ [การรับมือภาวะวิกฤต](/en/categories/digital-security-crisis-responders/) นอกจากนี้ เรายังรวมกลุ่มความร่วมมือและธุรกิจอิสระในส่วนนี้ซึ่งให้บริการ [โฮสติ้งและบริการอื่น ๆ](/en/categories/digital-security-service-providers/) ฟรีหรือได้รับการอุดหนุนแก่นักปกป้องสิทธิมนุษยชน
