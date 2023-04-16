@@ -3,12 +3,12 @@ title: OnionShare
 website: https://onionshare.org/
 cover: /files/onionshare.jpg
 tags:
-  - Documentation & Data Management
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
 categories:
-  - Digital Security Tools
-  - File Sharing
-  - Onion Routing
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការចែករំលែកឯកសារ
+  - ផ្លូវ Onion
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:57:06.460Z
 ---
-OnionShare is an open-source secure file-sharing tool that uses the Tor network to protect the users’ data and privacy.
+OnionShare គឺជាឧបករណ៍ចែករំលែកឯកសារដែលមានសុវត្ថិភាពដោយប្រើកម្មវិធីកូដចំហដែលប្រើប្រាស់បណ្តាញកម្មវិធី Tor ដើម្បីការពារទិន្នន័យ និងឯកជនភាពរបស់អ្នកប្រើ។
