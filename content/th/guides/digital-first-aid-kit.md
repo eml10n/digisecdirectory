@@ -1,14 +1,14 @@
 ---
-title: Digital First Aid Kit
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+หัวเรื่อง: ชุดปฐมพยาบาลดิจิทัล
+# ตรวจสอบว่ารองรับภาษาก่อนที่จะเพิ่มรหัส ISO 639-1 ที่นี่ โดยไม่มีรหัสประเทศ เช่น ms แทน ms_MY
+ภาษา:
   - en
   - th
   - id
-website: https://digitalfirstaid.org/
-credits: Text by CiviCERT
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:42:12.841Z
+เว็บไซต์: https://digitalfirstaid.org/
+เครดิต: ข้อความโดย CiviCERT
+หมวดหมู่:
+   - คู่มือการรักษาความปลอดภัยดิจิทัล
+วันที่: 2023-01-25T10:42:12.841Z
 ---
-The Digital First Aid Kit is a free resource to help rapid responders, digital security trainers, and tech-savvy activists to better protect themselves and the communities they support against the most common types of digital emergencies. It can also be used by activists, human rights defenders, bloggers, journalists or media activists who want to learn more about how they can protect themselves and support others. If you or someone you are assisting is experiencing a digital emergency, the Digital First Aid Kit will guide you in diagnosing the issues you are facing and refer you to support providers for further help if needed.
+Digital First Aid Kit เป็นแหล่งข้อมูลฟรีที่จะช่วยให้หน่วยกู้ภัยฉุกเฉิน ผู้ฝึกอบรมการรักษาความปลอดภัยทางดิจิทัล และนักกิจกรรมที่เชี่ยวชาญด้านเทคโนโลยีสามารถปกป้องตนเองและชุมชนที่พวกเขาสนับสนุนได้ดียิ่งขึ้นจากเหตุฉุกเฉินทางดิจิทัลประเภทที่พบบ่อยที่สุด นอกจากนี้ยังสามารถใช้โดยนักเคลื่อนไหว นักปกป้องสิทธิมนุษยชน บล็อกเกอร์ นักข่าว หรือนักเคลื่อนไหวด้านสื่อที่ต้องการเรียนรู้เพิ่มเติมเกี่ยวกับวิธีที่พวกเขาสามารถปกป้องตนเองและสนับสนุนผู้อื่น หากคุณหรือคนที่คุณให้ความช่วยเหลือกำลังประสบกับเหตุฉุกเฉินทางดิจิทัล ชุดปฐมพยาบาลดิจิทัลจะแนะนำคุณในการวินิจฉัยปัญหาที่คุณกำลังเผชิญ และส่งคุณไปยังผู้ให้บริการสนับสนุนเพื่อขอความช่วยเหลือเพิ่มเติมหากจำเป็น
