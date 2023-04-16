@@ -1,15 +1,15 @@
 ---
-title: Tutanota
-cover: /files/tutanota.jpg
-website: https://tutanota.com/
-credits: Text by Khairil/EngageMedia.
-flags:
+ចំណងជើង៖ Tutanota
+Cover៖ /files/tutanota.jpg
+គេហទំព័រ៖ https://tutanota.com/
+ក្រេឌីត៖ អត្ថបទដោយ Khairil / EngageMedia ។
+ទង់ជាតិ៖
   - Freemium
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Email
-date: 2023-01-25T07:33:11.715Z
+ស្លាក:
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - អ៊ីមែល
+កាលបរិច្ឆេទ៖ 2023-01-25T07:33:11.715Z
 ---
-Tutanota provides secure, green, and ad-free email service that incorporates privacy by design.
+Tutanota ផ្តល់សេវាកម្មអ៊ីមែលសុវត្ថិភាព ពណ៌បៃតង និងគ្មានការផ្សាយពាណិជ្ជកម្ម ដែលរួមបញ្ចូលឯកជនភាពតាមការរចនា។
