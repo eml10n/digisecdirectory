@@ -1,13 +1,13 @@
 ---
-title: KeePassXC
-website: https://keepassxc.org/
-cover: /files/keepassxc.jpg
-tags:
-  - Documentation & Data Management
-categories:
-  - Digital Security Tools
-  - Password Manager
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T17:55:27.353Z
+ចំណងជើង៖ KeePassXC
+គេហទំព័រ៖ https://keepassxc.org/
+គម្រប៖ /files/keepassxc.jpg
+ស្លាក:
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - កម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+កាលបរិច្ឆេទ៖ 2023-01-19T17:55:27.353Z
 ---
-KeePassXC is an open-source secure password manager for Linux, macOS, and Windows.
+KeePassXC គឺជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់ដែលមានសុវត្ថិភាពប្រភពបើកចំហសម្រាប់ប្រព័ន្ធប្រតិបត្តិការ Linux, macOS និង Windows ។
