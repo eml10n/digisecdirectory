@@ -1,12 +1,12 @@
 ---
-title: Umbrella
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://secfirst.org/umbrella/
-credits: Text by Security First
-categories:
-  - Digital Security Guides
-date: 2023-01-25T11:05:38.151Z
+ចំណងជើង៖ ឆ័ត្រ
+# ផ្ទៀងផ្ទាត់ថាភាសមានការគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 នៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - kh
+គេហទំព័រ៖ https://secfirst.org/umbrella/
+ក្រេឌីត៖ អត្ថបទដោយ Security First
+ប្រភេទ៖
+  - មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T11:05:38.151Z
 ---
-Umbrella by Security First is an all-in-one app developed for digital and physical security. It provides information on what to do in any given security situation and the tools to do it. Umbrella is designed for and used by journalists, aid workers, human rights activists, and people travelling in high-risk areas.
+Umbrella by Security First គឺ​ជា​កម្មវិធី​ទាំងអស់ស្ថិត​ក្នុងកម្មវិធីតែ​មួយ​ដែល​​បាន​បង្កើត​ឡើង​សម្រាប់​សុវត្ថិភាព​ឌីជីថល​និង​រូបវន្ត។ វាផ្តល់ព័ត៌មានពីអ្វីដែលត្រូវធ្វើក្នុងស្ថានភាពសុវត្ថិភាពដែលបានផ្តល់ឱ្យ និងឧបករណ៍ដើម្បីធ្វើវា។ ឆ័ត្រត្រូវបានរចនាឡើងសម្រាប់ ប្រើប្រាស់ដោយអ្នកសារព័ត៌មាន បុគ្គលិកជំនួយ សកម្មជនសិទ្ធិមនុស្ស និងមនុស្សដែលធ្វើដំណើរក្នុងតំបន់ដែលមានហានិភ័យខ្ពស់។
