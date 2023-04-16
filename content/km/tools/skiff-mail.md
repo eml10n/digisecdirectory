@@ -3,14 +3,14 @@ title: Skiff Mail
 website: https://skiff.com/mail
 cover: /files/skiff-mail.jpg
 flags:
-  - Freemium
+  - គំរូនៃការជាវឥតគិតថ្លៃមុនត្រូវបង់ថ្លៃ
 tags:
-  - Communications & Messaging
-  - Web App
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
+  - កម្មវិធីវិប
 categories:
-  - Digital Security Tools
-  - Email
-credits: Text by Skiff.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - អ៊ីមែល
+credits: អត្ថបទរៀបចំដោយ Skiff.
 date: 2023-01-19T10:40:05.818Z
 ---
-Skiff Mail is end-to-end encrypted email that protects your inbox and gives you the power to communicate freely.
+Skiff Mail គឺជាអ៊ីមែលដែលបានបំប្លែង​កូដ​ទាំង​ស្រុង ដែលការពារប្រអប់សំបុត្ររបស់អ្នក និងផ្តល់អំណាចក្នុងការទំនាក់ទំនងដោយសេរីទៅដល់លោកអ្នក។
