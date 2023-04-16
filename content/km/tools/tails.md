@@ -2,12 +2,12 @@
 title: Tails
 cover: /files/tails.jpg
 website: https://tails.boum.org/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 tags:
-  - Circumvention & Anonymity
+  - ការគេចវេះ និងអនាមិក
 categories:
-  - Digital Security Tools
-  - Onion Routing
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ផ្លូវ Onion
 date: 2023-01-19T10:02:41.640Z
 ---
-Tails is an open-source portable computer operating system that protects users from surveillance and helps them circumvent censorship.
+Tails គឺជាប្រព័ន្ធប្រតិបត្តិការកុំព្យូទ័រចល័តដោយប្រើកម្មវិធីកូដចំហដែលការពារអ្នកប្រើពីការឃ្លាំមើល និងជួយដល់ពួកគេឱ្យគេចវេះរួចផុតពីការចាប់ពិរុទ្ធ។
