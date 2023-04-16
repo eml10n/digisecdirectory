@@ -3,11 +3,11 @@ title: Tor Browser
 website: https://www.torproject.org/
 cover: /files/torbrowser.jpg
 tags:
-  - Circumvention & Anonymity
+  - ការគេចវេស និងអនាមិក
 categories:
-  - Digital Security Tools
-  - Onion Routing
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ផ្លូវ Onion
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia
 date: 2023-01-19T09:57:54.810Z
 ---
-Tor Browser is an open-source private internet browser for Windows, macOS, Linux, and Android that protects users from tracking, surveillance, and censorship.
+Tor Browser គឺជាកម្មវិធីរុករកតាមអ៊ីនធឺណិតឯកជនដោយប្រើប្រាស់កម្មវិធីកូដចំហសម្រាប់ Windows, macOS, Linux និង Android ដែលការពារដល់អ្នកប្រើពីការតាមដាន ការឃ្លាំមើល និងការចាប់ពិរុទ្ធ។
