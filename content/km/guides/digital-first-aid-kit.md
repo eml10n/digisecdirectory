@@ -1,14 +1,14 @@
 ---
-title: Digital First Aid Kit
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
+ចំណងជើង៖ ឧបករណ៍សង្គ្រោះបឋមឌីជីថល
+#ផ្ទៀងផ្ទាត់ថាភាសាមានការគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 នៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - kh
   - th
   - id
-website: https://digitalfirstaid.org/
-credits: Text by CiviCERT
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:42:12.841Z
+គេហទំព័រ៖ https://digitalfirstaid.org/
+ក្រេឌីត៖ អត្ថបទដោយ CiviCERT
+ប្រភេទ៖
+  - មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T10:42:12.841Z
 ---
-The Digital First Aid Kit is a free resource to help rapid responders, digital security trainers, and tech-savvy activists to better protect themselves and the communities they support against the most common types of digital emergencies. It can also be used by activists, human rights defenders, bloggers, journalists or media activists who want to learn more about how they can protect themselves and support others. If you or someone you are assisting is experiencing a digital emergency, the Digital First Aid Kit will guide you in diagnosing the issues you are facing and refer you to support providers for further help if needed.
+កញ្ចប់ជំនួយឌីជីថលដំបូងគឺជាធនធានឥតគិតថ្លៃដើម្បីជួយអ្នកឲ្យឆ្លើយតបបានរហ័ស គ្រូបណ្តុះបណ្តាលសន្តិសុខឌីជីថល និងសកម្មជនដែលយល់អំពីបច្ចេកវិទ្យា ដើម្បីការពារខ្លួន និងសហគមន៍ដែលពួកគេគាំទ្របានប្រសើរជាងមុនប្រឆាំងនឹងប្រភេទទូទៅនៃគ្រោះអាសន្នឌីជីថល។ វាក៏ត្រូវបានប្រើដោយសកម្មជន អ្នកការពារសិទ្ធិមនុស្ស អ្នកសរសេរប្លុក អ្នកកាសែត ឬសកម្មជនប្រព័ន្ធផ្សព្វផ្សាយ ដែលចង់ស្វែងយល់បន្ថែមអំពីរបៀបដែលពួកគេអាចការពារខ្លួន និងគាំទ្រអ្នកដទៃ។ ប្រសិនបើអ្នក ឬនរណាម្នាក់ដែលអ្នកកំពុងជួយកំពុងជួបប្រទះគ្រោះអាសន្នឌីជីថល កញ្ចប់ជំនួយឌីជីថលដំបូងនឹងណែនាំអ្នកក្នុងការធ្វើរោគវិនិច្ឆ័យបញ្ហាដែលអ្នកកំពុងប្រឈមមុខ ហើយបញ្ជូនអ្នកទៅកាន់អ្នកផ្តល់សេវាជំនួយសម្រាប់ជំនួយបន្ថែមប្រសិនបើចាំបាច់។
