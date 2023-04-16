@@ -1,18 +1,18 @@
 ---
-title: Riseup Email
-cover: /files/riseup.jpg
-website: https://riseup.net/email
-credits: Text by Khairil Zhafri/EngageMedia.
-flags:
+ចំណងជើង៖ Riseup Email
+Cover៖ /files/riseup.jpg
+គេហទំព័រ៖ https://riseup.net/email
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+ទង់ជាតិ៖
   - Freemium
-  - Invite Only
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - OpenPGP Encryption
+  - សម្រាប់តែការអញ្ជើញ​តែ​ប៉ុណ្ណោះ
+ស្លាក:
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការអ៊ិនគ្រីប OpenPGP
   - Onion Routing
-  - Email
-date: 2023-01-19T10:38:37.852Z
+  - អ៊ីមែល
+កាលបរិច្ឆេទ៖ 2023-01-19T10:38:37.852Z
 ---
-Riseup Email is a secure email service by activists for activists. Its security features include full-disk encryption, encrypted email storage, Onion routing, and more.
+Riseup Email គឺជាសេវាកម្មអ៊ីមែលដែលមានសុវត្ថិភាពដោយសកម្មជនសម្រាប់សកម្មជន។ លក្ខណៈពិសេសសុវត្ថិភាពរបស់វារួមមានការអ៊ិនគ្រីបថាសពេញ ការផ្ទុកអ៊ីមែលដែលបានអ៊ិនគ្រីប ការកំណត់ផ្លូវគំនិត និងច្រើនទៀត។
