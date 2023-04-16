@@ -1,16 +1,16 @@
 ---
-title: Wire
-cover: /files/wire.jpg
-website: https://wire.com/
-credits: Text by Khairil Zhafri/EngageMedia.
-flags:
-  - Freemium
-tags:
-  - Communications & Messaging
-  - Cross-platform
-categories:
-  - Digital Security Tools
-  - Collaborative Chat
-date: 2023-01-19T10:45:12.357Z
+หัวเรื่อง : Wire
+หน้าปก: /files/wire.jpg
+เว็บไซต์: https://wire.com/
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+ธง:
+   - ฟรีเมียม
+แท็ก:
+   - การสื่อสารและการส่งข้อความ
+   - ข้ามแพลตฟอร์ม
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - การสนทนาร่วมกัน
+วันที่: 2023-01-19T10:45:12.357Z
 ---
-Wire is a secure group communication suite that offers secure messaging, video conferencing, and file sharing.
+Wire เป็นชุดการสื่อสารแบบกลุ่มที่ปลอดภัยที่นำเสนอการส่งข้อความที่ปลอดภัย การประชุมทางวิดีโอ และการแชร์ไฟล์
