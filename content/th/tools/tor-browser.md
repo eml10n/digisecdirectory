@@ -1,13 +1,13 @@
 ---
-title: Tor Browser
-website: https://www.torproject.org/
-cover: /files/torbrowser.jpg
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-  - Onion Routing
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T09:57:54.810Z
+หัวเรื่อง: Tor Browser
+เว็บไซต์: https://www.torproject.org/
+หน้าปก: /files/torbrowser.jpg
+แท็ก:
+   - การหลีกเลี่ยงและการไม่เปิดเผยตัวตน
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - การจัดเส้นทางแบบหัวหอม
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+วันที่: 2023-01-19T09:57:54.810Z
 ---
-Tor Browser is an open-source private internet browser for Windows, macOS, Linux, and Android that protects users from tracking, surveillance, and censorship.
+Tor Browser เป็นอินเทอร์เน็ตเบราว์เซอร์ส่วนตัวแบบโอเพ่นซอร์สสำหรับ Windows, macOS, Linux และ Android ที่ปกป้องผู้ใช้จากการติดตาม การเฝ้าระวัง และการเซนเซอร์
