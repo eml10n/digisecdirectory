@@ -1,46 +1,53 @@
 ### Localized menus have to be merged into a single yaml file
 main:
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'ឧបករណ៍សុវត្ថិភាពឌីជីថល'
+  ref: "/categories/digital-security-tools"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
   sub:
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'ការគេចវេះ និងអនាមិក'
+    ref: "/tags/circumvention-anonymity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-user-secret
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'ការទំនាក់ទំនង និងការផ្ញើសារ'
+    ref: "/tags/communications-messaging"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-comments fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ'
+    ref: "/tags/documentation-data-management"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-briefcase fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព'
+    ref: "/tags/internet-browsing-productivity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-computer fa-fw"></i></span><span
+      class="label">'
+    post: '</span></span>'
+- identifier: ''
+  external: 'ពិត'
+- identifier: ''
+  external: ''
+- name:
+    en: 'មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល'
+  ref: "/categories/digital-security-guides"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-book fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
 - identifier: ''
   external: ''
 - identifier: ''
   external: ''
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
-- identifier: ''
-  external: ''
-- identifier: ''
-  external: ''
-- name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'បណ្តាញសុវត្ថិភាពឌីជីថល'
+  ref: "/categories/digital-security-network"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-heart-pulse fa-fw"></i></span><span
+    class="label">'
+  post: '</span></span>'
