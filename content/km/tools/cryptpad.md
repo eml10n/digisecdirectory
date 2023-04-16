@@ -2,15 +2,15 @@
 title: CryptPad
 cover: /files/cryptpad.jpg
 website: https://cryptpad.fr/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia
 tags:
-  - Web App
-  - Self-hosting
-  - Internet Browsing & Productivity
+  - កម្មវិធីវិប
+  - ការបង្ហោះខ្លួនឯង
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
 categories:
-  - Digital Security Tools
-  - File Storage
-  - File Sharing
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ទំហំ​ផ្ទុកឯកសារ
+  - ការចែករំលែកឯកសារ
 date: 2023-01-19T21:28:00.311Z
 ---
-CryptPad is an open-source encrypted collaboration suite for securely storing, editing, and sharing spreadsheets, documents, presentations, forms, and other types of files.
+Nextcloud គឺជាឈុតដែលធ្វើការរួមគ្នាដែលបានបំប្លែងកូដដោយប្រើកម្មវិធីកូដចំហជាមួយនឹងការរក្សាទុក ការកែ និងការចែករំលែកស្លឹកតារាង ឯកសារ ការធ្វើបទបង្ហាញ ទម្រង់បែបបទ និងប្រភេទឯកសារផ្សេងៗទៀត។
