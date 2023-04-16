@@ -1,19 +1,19 @@
 ---
-title: Data Detox x Youth
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://datadetoxkit.org/en/families/datadetox-x-youth/
-credits: Text by Tactical Tech.
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:16:30.255Z
+ចំណងជើង៖ Data Detox x Youth
+# ផ្ទៀងផ្ទាត់ថាភាសាមានការគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 នៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - kh
+គេហទំព័រ៖ https://datadetoxkit.org/en/families/datadetox-x-youth/
+ក្រេឌីត៖ អត្ថបទដោយ Tactical Tech ។
+ប្រភេទ៖
+  - មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T10:16:30.255Z
 ---
-Data Detox x Youth is an activity book to help young people take control of their tech. This interactive toolkit encourages young people to think about different aspects of their digital lives, from their social media profiles to their passwords, with simple activities for reflection and play.
+Data Detox x Youth គឺជាសៀវភៅសកម្មភាពដើម្បីជួយមនុស្សវ័យក្មេងគ្រប់គ្រងបច្ចេកវិទ្យារបស់ពួកគេ។ កញ្ចប់ឧបករណ៍អន្តរកម្មនេះលើកទឹកចិត្តយុវជនឱ្យគិតពីទិដ្ឋភាពផ្សេងៗនៃជីវិតឌីជីថលរបស់ពួកគេ ពីទម្រង់ប្រព័ន្ធផ្សព្វផ្សាយសង្គមរហូតដល់ពាក្យសម្ងាត់របស់ពួកគេ ជាមួយនឹងសកម្មភាពសាមញ្ញសម្រាប់ការឆ្លុះបញ្ចាំង និងការលេងកំសាន្ត។
 
-The activity book contains four sections:
+សៀវភៅសកម្មភាព មាន០៤ផ្នែក៖
 
-* Digital Privacy, which focuses on reducing data traces and understanding online profiling;
-* Digital Security, with tips on creating strong and secure passwords;
-* Digital Wellbeing, which deals with the addictive nature of smartphones;
-* and finally Misinformation, a guide for consuming and sharing information online.
+* ឯកជនភាពឌីជីថល ដែលផ្តោតលើការកាត់បន្ថយដានទិន្នន័យ និងការយល់ដឹងពីទម្រង់អនឡាញ។
+* សុវត្ថិភាពឌីជីថល ជាមួយនឹងការណែនាំពីការបង្កើតពាក្យសម្ងាត់រឹងមាំ និងសុវត្ថិភាព។
+* សុខុមាលភាពឌីជីថល ដែលទាក់ទងនឹងលក្ខណៈញៀននៃការប្រើប្រាស់ស្មាតហ្វូន។
+* និងចុងក្រោយ ពត៌មានមិនពិត ដែលជាមគ្គុទេសក៍សម្រាប់ការប្រើប្រាស់ និងចែករំលែកព័ត៌មានតាមអ៊ីនធឺណិត។
