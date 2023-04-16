@@ -1,18 +1,18 @@
 ---
 title: Jitsi Meet
-cover: /files/jitsimeet.jpg
-website: https://jitsi.org/jitsi-meet/
-credits: Text by Khairil Zhafri/EngageMedia.
+cover: /ឯកសារ/jitsimeet.jpg
+គេហទំព័រ: https://jitsi.org/jitsi-meet/
+credits: អត្ថបទដោយ Khairil Zhafri/EngageMedia។
 tags:
-  - Communications & Messaging
+  - ទំនាក់ទំនង & ការផ្ញើសារ
   - Web App
-  - Self-hosting
+  - ការ ធ្វើ ជា ម្ចាស់ផ្ទះ ខ្លួនឯង
 categories:
-  - Digital Security Tools
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
   - Videoconferencing
 date: 2023-01-19T10:31:23.647Z
 ---
-Jitsi Meet is an open-source private video conferencing software that limits the user’s digital footprint when meeting virtually. It works on most modern internet browsers and is also available as a mobile app for Android and iOS.
+Jitsi Meet គឺ ជា កម្ម វិធី សន្និសីទ វីដេអូ ឯក ជន ប្រភព បើក ចំហ ដែល កំណត់ ស្នាម ជើង ឌីជីថល របស់ អ្នក ប្រើប្រាស់ នៅ ពេល ជួប គ្នា ស្ទើរ តែ ។ វា ដំណើរ ការ លើ កម្មវិធី រុករក អ៊ីនធឺណិត ទំនើប បំផុត ហើយ ក៏ មាន ជា កម្មវិធី ទូរស័ព្ទ ចល័ត សម្រាប់ Android និង iOS ផង ដែរ ។
 
-> You can use [meet.jit.si](https://meet.jit.si/) to host your online meetings for free \[…] Other trusted free Jitsi Meet deployments include [Greenhost](https://meet.greenhost.net/), [Framatalk](https://framatalk.org/), and [Distroot](https://calls.disroot.org/). \
-> – [Digital Hygiene 101: How to practise digital safety and security](https://engagemedia.org/2022/digital-hygiene-safety-security/)
+> អ្នកអាចប្រើ [meet.jit.si](https://meet.jit.si/) ដើម្បីរៀបចំការប្រជុំតាមអ៊ីនធឺណិតរបស់អ្នកដោយឥតគិតថ្លៃ \[…] ការដាក់ពង្រាយ Jitsi Meet ឥតគិតថ្លៃផ្សេងទៀតដែលគួរឱ្យទុកចិត្តរួមមាន [Greenhost](https://meet .greenhost.net/), [Framatalk](https://framatalk.org/) និង [Distroot](https://calls.disroot.org/)។ \
+> – [អនាម័យឌីជីថល 101៖ របៀបអនុវត្តសុវត្ថិភាព និងសុវត្ថិភាពឌីជីថល](https://engagemedia.org/2022/digital-hygiene-safety-security/)
