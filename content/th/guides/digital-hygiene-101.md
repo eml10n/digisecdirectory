@@ -1,15 +1,15 @@
 ---
-title: Digital Hygiene 101
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+หัวเรื่อง: Digital Hygiene 101
+# ตรวจสอบว่ารองรับภาษาก่อนที่จะเพิ่มรหัส ISO 639-1 ที่นี่ โดยไม่มีรหัสประเทศ เช่น ms แทน ms_MY
+ภาษา:
   - en
   - th
   - id
   - fil
-website: https://engagemedia.org/2022/digital-hygiene-safety-security/
-credits: Text by EngageMedia.
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:45:45.597Z
+เว็บไซต์: https://engagemedia.org/2022/digital-hygiene-safety-security/
+เครดิต: ข้อความโดย EngageMedia
+หมวดหมู่:
+   - คู่มือการรักษาความปลอดภัยดิจิทัล
+วันที่: 2023-01-25T10:45:45.597Z
 ---
-Digital Hygiene 101 by EngageMedia provides a number of tips to stay safe and healthy against digital viruses, along with a list of safer alternatives to the usual tools we use for online work.
+Digital Hygiene 101 โดย EngageMedia นำเสนอเคล็ดลับมากมายเพื่อให้ปลอดภัยและดีต่อสุขภาพจากไวรัสดิจิทัล พร้อมด้วยรายการทางเลือกที่ปลอดภัยกว่าเครื่องมือทั่วไปที่เราใช้สำหรับงานออนไลน์
