@@ -1,17 +1,17 @@
 ---
-title: OnlyOffice
-cover: /files/onlyoffice.jpg
-website: https://www.onlyoffice.com/
-credits: Text by Khairil/EngageMedia.
-flags:
-  - Freemium
-tags:
-  - Self-hosting
-  - Web App
-  - Internet Browsing & Productivity
-  - Cross-platform
-categories:
-  - Digital Security Tools
-date: 2023-02-04T21:37:24.103Z
+หัวเรื่อง: OnlyOffice
+หน้าปก: /files/onlyoffice.jpg
+เว็บไซต์: https://www.onlyoffice.com/
+เครดิต: ข้อความโดย Khairil/EngageMedia
+ธง:
+   - ฟรีเมียม
+แท็ก:
+   - โฮสติ้งด้วยตนเอง
+   - เว็บแอป
+   - การท่องอินเทอร์เน็ตและประสิทธิภาพการทำงาน
+   - ข้ามแพลตฟอร์ม
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+วันที่: 2023-02-04T21:37:24.103Z
 ---
-O﻿nlyOffice is an office suite of online editors for text documents, spreadsheets, and presentations.
+O﻿nlyOffice เป็นชุดเครื่องมือแก้ไขออนไลน์สำหรับเอกสารข้อความ สเปรดชีต และงานนำเสนอ
