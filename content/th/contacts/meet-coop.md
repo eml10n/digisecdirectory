@@ -1,13 +1,13 @@
 ---
-title: meet.coop
-cover: /files/meetcoop.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://www.meet.coop/
-credits: Text by meet.coop.
-categories:
-  - Digital Security Network
-date: 2023-02-04T22:21:53.580Z
+หัวเรื่อง: meet.coop
+หน้าปก: /files/meetcoop.jpg
+# ตรวจสอบว่ารองรับภาษาก่อนที่จะเพิ่มรหัส ISO 639-1 ที่นี่ โดยไม่มีรหัสประเทศ เช่น ms แทน ms_MY
+ภาษา:
+   - th
+เว็บไซต์: https://www.meet.coop/
+เครดิต: ข้อความโดย meet.coop
+หมวดหมู่:
+   - เครือข่ายการรักษาความปลอดภัยดิจิทัล
+วันที่: 2023-02-04T22:21:53.580Z
 ---
-meet.coop is a meeting and conferencing platform powered by BigBlueButton, stewarded by a global coalition of co-operatives.
+meet.coop เป็นแพลตฟอร์มการประชุมและการประชุมที่ขับเคลื่อนโดย BigBlueButton ซึ่งดูแลโดยกลุ่มความร่วมมือระดับโลก
