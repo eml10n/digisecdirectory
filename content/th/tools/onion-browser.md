@@ -1,13 +1,13 @@
 ---
-title: Onion Browser
-website: https://onionbrowser.com/
-cover: /files/onionbrowser.jpg
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-  - Onion Routing
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T07:35:04.460Z
+หัวเรื่อง: Onion Browser
+เว็บไซต์: https://onionbrowser.com/
+หน้าปก: /files/onionbrowser.jpg
+แท็ก:
+   - การหลีกเลี่ยงและการไม่เปิดเผยตัวตน
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - การจัดเส้นทางแบบหัวหอม
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+วันที่: 2023-01-19T07:35:04.460Z
 ---
-Onion Browser is a web browser that reroutes all traffic through the Tor network to protect privacy, circumvent surveillance, and evade censorship on the internet.
+Onion Browser เป็นเว็บเบราว์เซอร์ที่เปลี่ยนเส้นทางการรับส่งข้อมูลทั้งหมดผ่านเครือข่าย Tor เพื่อปกป้องความเป็นส่วนตัว หลบเลี่ยงการเฝ้าระวัง และหลบเลี่ยงการเซนเซอร์บนอินเทอร์เน็ต
