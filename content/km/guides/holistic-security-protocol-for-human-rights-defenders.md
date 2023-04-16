@@ -19,4 +19,4 @@ categories:
   - Digital Security Guides
 date: 2023-01-25T10:53:14.951Z
 ---
-The Holistic Security Protocol for Human Rights Defenders (the Defender’s Protocol) helps us advance our physical safety, digital security, and wellbeing and resilience. By following the Protocol, we enhance our individual and collective security, and can reduce the burden of attacks, harassment, and censorship on us and our communities.
+ពិធីសារសន្តិសុខរួមសម្រាប់អ្នកការពារសិទ្ធិមនុស្ស (ពិធីសារអ្នកការពារ) ជួយយើងជំរុញសុវត្ថិភាពរាងកាយ សន្តិសុខឌីជីថល និងសុខុមាលភាព និងភាពធន់របស់យើង។ តាមរយៈការអនុវត្តតាមពិធីសារ យើងពង្រឹងសន្តិសុខបុគ្គល និងសមូហភាពរបស់យើង ហើយអាចកាត់បន្ថយបន្ទុកនៃការវាយប្រហារ ការយាយី និងការចាប់ពិរុទ្ធមកលើយើង និងសហគមន៍របស់យើង។
