@@ -1,14 +1,14 @@
 ---
-title: The Safe Sisters Guide
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://protocol.openbriefing.org/
-credits: Text by Safe Sisters.
-flags:
-  - PDF Only
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:53:14.951Z
+ចំណងជើង៖ មគ្គុទ្ទេសក៍បងប្អូនស្រីដែលមានសុវត្ថិភាព
+# ផ្ទៀងផ្ទាត់ថាភាសាមានការគាំទ្រ មុនពេលបន្ថែមកូដ ISO 639-1 នៅទីនេះ។ ដោយគ្មានលេខកូដប្រទេស ពោលគឺ ms ជំនួសឱ្យ ms_MY ។
+ភាសា៖
+  - kh
+គេហទំព័រ៖ https://protocol.openbriefing.org/
+ក្រេឌីត៖ អត្ថបទដោយ Safe Sisters ។
+ទង់ជាតិ៖
+  - មានតែឯកសារ PDF ប៉ុណ្ណោះ
+ប្រភេទ៖
+  - មគ្គុទ្ទេសក៍សុវត្ថិភាពឌីជីថល
+កាលបរិច្ឆេទ៖ 2023-01-25T10:53:14.951Z
 ---
-The Safe Sisters Guide is meant to help our sisters learn about problems that we might run into on the internet (like leaked or stolen photos, viruses, and scams), how we can make informed decisions every day to protect ourselves, and to make the internet a safe space for ourselves, our families, and all women!
+មគ្គុទ្ទេសក៍ Safe Sisters មានគោលបំណងជួយបងប្អូនស្រីរបស់យើង ពីបញ្ហាដែលយើងអាចជួបប្រទះនៅលើអ៊ីនធឺណិត (ដូចជារូបថតដែលលេចធ្លាយ ឬត្រូវបានគេលួច មេរោគ និងការបោកប្រាស់) ពីរបៀបដែលយើងធ្វើការសម្រេចចិត្តដែលមានព័ត៌មានជារៀងរាល់ថ្ងៃដើម្បីការពារខ្លួនយើង និងដើម្បីធ្វើការសម្រេចចិត្ត។ អ៊ីនធឺណែត ជាកន្លែងសុវត្ថិភាពសម្រាប់ខ្លួនយើង គ្រួសារយើង និងស្ត្រីគ្រប់រូប!
