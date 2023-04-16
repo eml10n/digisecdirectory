@@ -1,12 +1,12 @@
 ---
-title: DigitalHub101
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+หัวเรื่อง: DigitalHub101
+# ตรวจสอบว่ารองรับภาษาก่อนที่จะเพิ่มรหัส ISO 639-1 ที่นี่ โดยไม่มีรหัสประเทศ เช่น ms แทน ms_MY
+ภาษา:
   - km
-website: https://digitalhub101.com/
-credits: Text by Khairil Zhafri/EngageMedia
-categories:
-  - Digital Security Guides
-date: 2023-02-10T01:49:52.202Z
+เว็บไซต์: https://digitalhub101.com/
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+หมวดหมู่:
+   - คู่มือการรักษาความปลอดภัยดิจิทัล
+วันที่: 2023-02-10T01:49:52.202Z
 ---
-D﻿igitalHub101 is a collection of digital security and safety guides written in Khmer. It offers simple, useful tips to help users secure their digital devices, protect their online accounts, and safeguard their personal data. Users can also find step-by-step instructions and infographics on how to use common digital security tools as well as relevant digital safety resources.
+D﻿igitalHub101 คือชุดคู่มือการรักษาความปลอดภัยและความปลอดภัยดิจิทัลที่เขียนเป็นภาษาเขมร นำเสนอเคล็ดลับง่าย ๆ ที่มีประโยชน์เพื่อช่วยให้ผู้ใช้รักษาความปลอดภัยอุปกรณ์ดิจิทัล ปกป้องบัญชีออนไลน์ และปกป้องข้อมูลส่วนตัว ผู้ใช้ยังสามารถค้นหาคำแนะนำทีละขั้นตอนและอินโฟกราฟิกเกี่ยวกับวิธีใช้เครื่องมือรักษาความปลอดภัยดิจิทัลทั่วไป ตลอดจนทรัพยากรด้านการรักษาความปลอดภัยดิจิทัลที่เกี่ยวข้อง
