@@ -1,17 +1,17 @@
 ---
-title: Standard Notes
+title: កម្មវិធី S﻿tandard Notes
 cover: /files/standard-notes.jpg
 website: https://standardnotes.com/
-credits: Text by Khairil/EngageMedia.
+credits: អត្ថបទរៀបចំដោយ Khairil/EngageMedia.
 flags:
-  - Freemium
+  - គំរូនៃការជាវឥតគិតថ្លៃមុនត្រូវបង់ថ្លៃ
 tags:
-  - Self-hosting
-  - Web App
-  - Cross-platform
-  - Documentation & Data Management
+  - ការបង្ហោះដោយខ្លួនឯង
+  - កម្មវិធីវិប
+  - ប្រព័ន្ធចម្រុះ
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
 categories:
-  - Digital Security Tools
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
 date: 2023-01-27T23:27:21.695Z
 ---
-S﻿tandard Notes is a note-taking app with end-to-end encryption, advanced security, and privacy controls.
+Standard Notes គឺជាកម្មវិធីកត់ត្រាជាមួយនឹងការបំប្លែង​កូដ​ទាំង​ស្រុង សន្តិសុខកម្រិតខ្ពស់ និងការគ្រប់គ្រងឯកជនភាព។
