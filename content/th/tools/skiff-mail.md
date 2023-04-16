@@ -1,16 +1,16 @@
 ---
-title: Skiff Mail
-website: https://skiff.com/mail
-cover: /files/skiff-mail.jpg
-flags:
-  - Freemium
-tags:
-  - Communications & Messaging
-  - Web App
-categories:
-  - Digital Security Tools
-  - Email
-credits: Text by Skiff.
-date: 2023-01-19T10:40:05.818Z
+หัวเรื่อง: Skiff Mail
+เว็บไซต์: https://skiff.com/mail
+หน้าปก: /files/skiff-mail.jpg
+ธง:
+   - ฟรีเมียม
+แท็ก:
+   - การสื่อสารและการส่งข้อความ
+   - เว็บแอป
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - อีเมล
+เครดิต: ข้อความโดย Skiff
+วันที่: 2023-01-19T10:40:05.818Z
 ---
-Skiff Mail is end-to-end encrypted email that protects your inbox and gives you the power to communicate freely.
+Skiff Mail เป็นอีเมลเข้ารหัสตั้งแต่ต้นทางถึงปลายทางที่ปกป้องกล่องจดหมายของคุณและให้พลังในการสื่อสารได้อย่างอิสระ
