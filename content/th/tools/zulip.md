@@ -1,17 +1,17 @@
 ---
-title: Zulip
-cover: /files/zulip.jpg
-website: https://zulip.com/
-credits: Text by Khairil Zhafri/EngageMedia.
-flags:
-  - Freemium
-tags:
-  - Self-hosting
-  - Cross-platform
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Collaborative Chat
-date: 2023-02-04T21:57:35.157Z
+หัวเรื่อง : Zulip
+หน้าปก: /files/zulip.jpg
+เว็บไซต์: https://zulip.com/
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+ธง:
+   - ฟรีเมียม
+แท็ก:
+   - โฮสติ้งด้วยตนเอง
+   - ข้ามแพลตฟอร์ม
+   - การสื่อสารและการส่งข้อความ
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+   - การสนทนาร่วมกัน
+วันที่: 2023-02-04T21:57:35.157Z
 ---
-Zulip is an open-source collaborative chat for teams.
+Zulip คือการแชทร่วมกันแบบโอเพ่นซอร์สสำหรับทีม
