@@ -1,12 +1,12 @@
 ---
-title: OpenOffice
-website: https://www.openoffice.org/
-cover: /files/openoffice.jpg
-tags:
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T21:21:47.538Z
+หัวเรื่อง: OpenOffice
+เว็บไซต์: https://www.openoffice.org/
+หน้าปก: /files/openoffice.jpg
+แท็ก:
+   - การท่องอินเทอร์เน็ตและประสิทธิภาพการทำงาน
+หมวดหมู่:
+   - เครื่องมือรักษาความปลอดภัยดิจิทัล
+เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
+วันที่: 2023-01-19T21:21:47.538Z
 ---
-OpenOffice is a free and open-source office productivity suite.
+OpenOffice เป็นชุดเพิ่มประสิทธิภาพการทำงานในสำนักงานแบบโอเพ่นซอร์สและฟรี
