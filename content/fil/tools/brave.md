@@ -10,4 +10,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:27:21.358Z
 ---
-Brave is a privacy-focused internet browser built off the open-source Chromium codebase. The Brave browser blocks invasive ads and cross-site trackers by default. Users also benefit from built-in functionalities for added security with automatic secure HTTP connections and Tor-based anonymous network routing. Brave is available in desktop, Android, and iOS versions.
+Ang Brave ay isang internet browser na nakatuon sa privacy na binuo mula sa open-source na Chromium codebase. Hinaharangan ng Brave browser ang mga invasive na ad at cross-site tracker bilang default. Nakikinabang din ang mga user mula sa mga built-in na functionality para sa karagdagang seguridad na may mga awtomatikong secure na HTTP na koneksyon at Tor-based na anonymous network routing. Available ang Brave sa mga bersyon ng desktop, Android, at iOS.
