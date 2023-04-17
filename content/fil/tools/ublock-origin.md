@@ -9,4 +9,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-29T20:25:44.572Z
 ---
-uBlock Origin is a free and open-source browser extension for content filtering—primarily aimed at neutralizing privacy invasion in an efficient, user-friendly method.
+Ang uBlock Origin ay isang libre at open-source na extension ng browser para sa pag-filter ng nilalaman—pangunahing naglalayong neutralisahin ang pagsalakay sa privacy sa isang mahusay, madaling gamitin na paraan.
