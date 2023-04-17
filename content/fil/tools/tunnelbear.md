@@ -14,8 +14,8 @@ categories:
   - Virtual Private Network
 date: 2023-01-19T09:54:16.180Z
 ---
-Tunnelbear is a secure VPN service. Available for iOS, Android, Mac, Windows, Firefox, and Chrome.
+Ang Tunnelbear ay isang ligtas na serbisyo ng VPN. Available para sa iOS, Android, Mac, Windows, Firefox, at Chrome.
 
-> Email `vpn@engagemedia.org` to ask for your voucher code. In the email, please include a brief summary of what you do and how this VPN voucher can help you in your line of work. Once we receive your application, your unique codes will be sent within two working days.\
-> –﻿ [Free VPN for digital rights defenders: A partnership between TunnelBear and EngageMedia
+> Email `vpn@engagemedia.org` para hingin ang iyong voucher code. Sa email, mangyaring magsama ng buod ng iyong ginagawa at kung paano makakatulong sa iyo ang voucher ng VPN na ito sa iyong trabaho. Sa sandaling matanggap namin ang iyong aplikasyon, ang iyong mga natatanging code ay ipapadala sa loob ng dalawang araw ng trabaho.\
+> –﻿ [Libreng VPN para sa mga digital rights defenders: Isang partnership sa pagitan ng TunnelBear at EngageMedia
 ](https://engagemedia.org/projects/tunnelbear/)
