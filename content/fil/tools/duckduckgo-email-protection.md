@@ -10,4 +10,4 @@ categories:
   - Email Forwarding
 date: 2023-01-25T08:17:33.984Z
 ---
-DuckDuckGo Email Protection is a service within DuckDuckGo browser extension that allows you to generate @duck.com forwarding email addresses to mask your personal email address. It automatically removes trackers in the forwarded emails to protect your privacy online.
+Ang DuckDuckGo Email Protection ay isang serbisyo sa loob ng DuckDuckGo browser extension na nagbibigay-daan sa iyong bumuo ng @duck.com na nagpapasahang mga email address upang i-mask ang iyong personal na email address. Awtomatiko nitong inaalis ang mga tracker sa mga ipinasa na email para protektahan ang iyong privacy online.
