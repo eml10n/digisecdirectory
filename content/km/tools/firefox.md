@@ -3,11 +3,11 @@ title: Firefox
 website: https://www.mozilla.org/firefox
 cover: /files/firefox.jpg
 tags:
-  - Internet Browsing & Productivity
-  - Cross-platform
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
+  - វេទិការឆ្លង
 categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+credits: អត្ថបទដោយ Khairil Zhafri/EngageMedia ។
 date: 2023-01-19T18:34:10.090Z
 ---
-Firefox is an open-source web browser that protects the user’s privacy on the internet.
+Firefox គឺជាកម្មវិធីរុករកតាមវិបប្រភពបើកចំហ ដែលការពារភាពឯកជនរបស់អ្នកប្រើនៅលើអ៊ីនធឺណិត។
