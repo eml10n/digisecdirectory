@@ -14,4 +14,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-27T23:27:21.695Z
 ---
-S﻿tandard Notes is a note-taking app with end-to-end encryption, advanced security, and privacy controls.
+Ang Standard Notes ay isang note-taking app na may end-to-end na pag-encrypt, advanced na seguridad, at mga kontrol sa privacy.
