@@ -1,12 +1,12 @@
 ---
-title: Save
-website: https://open-archive.org/save
-cover: /files/save.jpg
-tags:
-  - Documentation & Data Management
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T18:00:50.203Z
+ចំណងជើង៖ រក្សាទុក
+គេហទំព័រ៖ https://open-archive.org/save
+cover៖ /files/save.jpg
+ស្លាក:
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+កាលបរិច្ឆេទ៖ 2023-01-19T18:00:50.203Z
 ---
-Save by OpenArchive is an open-source secure documentation app for Android and iOS that helps users preserve, protect, authenticate, and amplify their work.
+ការរក្សាទុកដោយ OpenArchive គឺជាកម្មវិធីឯកសារសុវត្ថិភាពប្រភពបើកចំហសម្រាប់ប្រព័ន្ធប្រតិបត្តិការ Android និង iOS ដែលជួយអ្នកប្រើប្រាស់រក្សា ការពារ ផ្ទៀងផ្ទាត់ និងពង្រីកការងាររបស់ពួកគេបាន។
