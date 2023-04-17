@@ -2,11 +2,11 @@
 title: Raivo OTP
 cover: /files/raivo-otp.jpg
 website: https://raivo-otp.com/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 tags:
-  - Internet Browsing & Productivity
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
 categories:
-  - Digital Security Tools
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
 date: 2023-01-25T08:37:08.507Z
 ---
-Raivo OTP is an open source software-based authenticator for two-step verification services that syncs your tokens across your iOS and macOS devices.
+Raivo OTP គឺជាកម្មវិធីផ្ទៀងផ្ទាត់ដោយផ្អែកលើកម្មវិធីកកូដចំហសម្រាប់សេវាផ្ទៀងផ្ទាត់ពីរជំហាន ដែលធ្វើសមកាលកម្មថូខឹនរបស់អ្នកនៅលើឧបករណ៍ iOS និង macOS របស់អ្នក។
