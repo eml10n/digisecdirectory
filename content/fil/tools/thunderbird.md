@@ -11,4 +11,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:46:42.301Z
 ---
-Thunderbird is an open-source desktop email client that has built-in security and safety features including remote image linking protection, phishing protection, PGP encryption, and more.
+Ang Thunderbird ay isang open-source na desktop email client na may built-in na mga feature sa seguridad at kaligtasan kabilang ang malayuang proteksyon sa pag-link ng larawan, proteksyon sa phishing, PGP encryption, at higit pa.
