@@ -10,4 +10,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T07:27:56.488Z
 ---
-Bitmask VPN (Android, Desktop) is an open-source virtual private network (VPN).
+Ang Bitmask VPN (Android, Desktop) ay isang open-source virtual private network (VPN).
