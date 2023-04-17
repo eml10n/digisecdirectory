@@ -14,4 +14,4 @@ categories:
   - Digital Security Tools
 date: 2023-02-04T21:37:24.103Z
 ---
-O﻿nlyOffice is an office suite of online editors for text documents, spreadsheets, and presentations.
+Ang OnlyOffice ay isang office suite ng mga online na editor para sa mga text na dokumento, spreadsheet, at mga presentasyon.
