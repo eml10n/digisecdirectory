@@ -11,4 +11,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T17:57:06.460Z
 ---
-OnionShare is an open-source secure file-sharing tool that uses the Tor network to protect the users’ data and privacy.
+Ang OnionShare ay isang open-source na secure na tool sa pagbabahagi ng file na gumagamit ng Tor network upang protektahan ang data at privacy ng mga user.
