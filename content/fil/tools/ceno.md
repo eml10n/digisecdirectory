@@ -9,4 +9,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T07:32:57.800Z
 ---
-CENO – Censorship.no! – is a mobile web browser for Android OS that creates peerto-peer networks for storing and sharing web content so that users can bypass internet surveillance and censorship without needing proxies, VPN servers, or relays.
+CENO – Censorship.no! – ay isang mobile web browser para sa Android OS na lumilikha ng mga peer-to-peer na network para sa pag-iimbak at pagbabahagi ng nilalaman ng web upang ma-bypass ng mga user ang internet surveillance at censorship nang hindi nangangailangan ng mga proxy, VPN server, o relay.
