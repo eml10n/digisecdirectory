@@ -12,7 +12,7 @@ categories:
   - Videoconferencing
 date: 2023-01-19T10:31:23.647Z
 ---
-Jitsi Meet is an open-source private video conferencing software that limits the user’s digital footprint when meeting virtually. It works on most modern internet browsers and is also available as a mobile app for Android and iOS.
+Ang Jitsi Meet ay isang open-source na private video conferencing software na naglilimita sa digital footprint ng user kapag halos nakikipagpulong. Gumagana ito sa karamihan ng mga modernong internet browser at available din bilang isang mobile app para sa Android at iOS.
 
-> You can use [meet.jit.si](https://meet.jit.si/) to host your online meetings for free \[…] Other trusted free Jitsi Meet deployments include [Greenhost](https://meet.greenhost.net/), [Framatalk](https://framatalk.org/), and [Distroot](https://calls.disroot.org/). \
-> – [Digital Hygiene 101: How to practise digital safety and security](https://engagemedia.org/2022/digital-hygiene-safety-security/)
+> Maaari kang gumamit ng [meet.jit.si](https://meet.jit.si/) para mag-host ng iyong meeting ng libre \[…] Kasama sa iba pang pinagkakatiwalaang libreng Jitsi Meet deployment [Greenhost](https://meet.greenhost.net/), [Framatalk](https://framatalk.org/), at [Distroot](https://calls.disroot.org/). \
+> – [Digital Hygiene 101: Paano magsagawa ng digital safety at security](https://engagemedia.org/2022/digital-hygiene-safety-security/)
