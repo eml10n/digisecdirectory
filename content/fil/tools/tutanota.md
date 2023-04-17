@@ -12,4 +12,4 @@ categories:
   - Email
 date: 2023-01-25T07:33:11.715Z
 ---
-Tutanota provides secure, green, and ad-free email service that incorporates privacy by design.
+Nagbibigay ang Tutanota ng ligtas, green, at walang ad na serbisyo sa email na nagsasama ng privacy ayon sa disenyo.
