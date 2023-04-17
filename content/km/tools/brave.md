@@ -1,13 +1,13 @@
 ---
-title: Brave
+title: Brave 
 website: https://brave.com/
 cover: /files/brave.jpg
 tags:
-  - Internet Browsing & Productivity
-  - Cross-platform
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
+  - វេទិកាឆ្លង
 categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+credits: អត្ថបទដោយ Khairil Zhafri/EngageMedia ។
 date: 2023-01-19T18:27:21.358Z
 ---
-Brave is a privacy-focused internet browser built off the open-source Chromium codebase. The Brave browser blocks invasive ads and cross-site trackers by default. Users also benefit from built-in functionalities for added security with automatic secure HTTP connections and Tor-based anonymous network routing. Brave is available in desktop, Android, and iOS versions.
+Brave គឺជាកម្មវិធីរុករកតាមអ៊ីនធឺណិតដែលផ្តោតលើឯកជនភាព ដែលបង្កើតឡើងពីមូលដ្ឋានកូដបើកចំហ Chromium។ កម្មវិធីរុករកតាមអ៊ីនធឺណិត Brave ប្លុកការផ្សាយពាណិជ្ជកម្មដែលមានលក្ខណៈឈ្លានពាន និងកម្មវិធីតាមដានឆ្លងគេហទំព័រតាមលំនាំដើម។ អ្នកប្រើក៏ទទួលបានអត្ថប្រយោជន៍ផងដែរពីមុខងារដែលភ្ជាប់មកជាមួយសម្រាប់សុវត្ថិភាពបន្ថែមជាមួយនឹងការភ្ជាប់ HTTP សុវត្ថិភាពដោយស្វ័យប្រវត្តិ និងការបញ្ជូនបណ្តាញអនាមិកផ្អែកលើ Tor ។ Brave មាននៅក្នុងកុំព្យូទ័រដែសថប ប្រព័ន្ធប្រតិបត្តិការ Android និងកំណែ iOS ។
