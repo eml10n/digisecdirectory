@@ -2,16 +2,16 @@
 title: Mattermost
 cover: /files/mattermost.jpg
 website: https://mattermost.com/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: អត្ថបទដោយ Khairil Zhafri/EngageMedia ។
 flags:
-  - Freemium
+  - គំរូនៃការជាវឥតគិតថ្លៃមុនត្រូវបង់ថ្លៃ
 tags:
-  - Self-hosting
-  - Cross-platform
-  - Communications & Messaging
+  - ការរៀបចំដោយខ្លួនឯង
+  - វេទិកាឆ្លង
+  - ទំនាក់ទំនង និងការផ្ញើសារ
 categories:
-  - Digital Security Tools
-  - Collaborative Chat
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការជជែកសហការ
 date: 2023-02-04T21:57:35.157Z
 ---
-Mattermost is an open-source collaborative chat for teams.
+Mattermost គឺការជជែកសហការប្រភពបើកចំហសម្រាប់ក្រុម។
