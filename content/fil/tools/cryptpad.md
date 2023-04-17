@@ -13,4 +13,4 @@ categories:
   - File Sharing
 date: 2023-01-19T21:28:00.311Z
 ---
-CryptPad is an open-source encrypted collaboration suite for securely storing, editing, and sharing spreadsheets, documents, presentations, forms, and other types of files.
+Ang CryptPad ay isang open-source na naka-encrypt na collaboration suite para sa ligtas na pag-iimbak, pag-edit, at pagbabahagi ng mga spreadsheet, dokumento, presentasyon, form, at iba pang uri ng mga file.
