@@ -9,4 +9,4 @@ categories:
   - File Sync
 date: 2023-01-28T00:35:53.546Z
 ---
-Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real-time, safely protected from prying eyes.
+Ang syncthing ay isang tuluy-tuloy na programa sa pag-synchronize ng file. Sini-synchronize nito ang mga file sa pagitan ng dalawa o higit pang mga computer sa real-time, ligtas na protektado mula sa mga mapanlinlang na mata.
