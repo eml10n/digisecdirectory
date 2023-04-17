@@ -13,4 +13,4 @@ categories:
 credits: Text by Skiff.
 date: 2023-01-19T10:40:05.818Z
 ---
-Skiff Mail is end-to-end encrypted email that protects your inbox and gives you the power to communicate freely.
+Ang Skiff Mail ay end-to-end na naka-encrypt na email na nagpoprotekta sa iyong inbox at nagbibigay sa iyo ng kapangyarihang makipag-usap nang malaya.
