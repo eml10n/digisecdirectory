@@ -2,12 +2,12 @@
 title: SimpleLogin
 cover: /files/simplelogin.jpg
 website: https://simplelogin.io/
-credits: Text by Khairil Zhafri/EngageMedia.
+credits: អត្ថបទដោយ Khairil Zhafri/EngageMedia ។
 flags:
-  - Freemium
+  - គំរូនៃការជាវឥតគិតថ្លៃមុនត្រូវបង់ថ្លៃ
 categories:
-  - Digital Security Tools
-  - Email Forwarding
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការបញ្ជូនអ៊ីមែលបន្ត
 date: 2023-01-25T08:12:29.951Z
 ---
-S﻿impleLogin is an email forwarding service that keeps your personal email address private.
+SimpleLogin គឺជាសេវាកម្មបញ្ជូនអ៊ីមែលបន្តដែលរក្សាអាសយដ្ឋានអ៊ីមែលផ្ទាល់ខ្លួនរបស់អ្នកជាលក្ខណៈឯកជន។
