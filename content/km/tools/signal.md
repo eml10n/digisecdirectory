@@ -1,13 +1,13 @@
 ---
-title: Signal
-cover: /files/signal.jpg
-website: https://signal.org/
-credits: Text by Khairil Zhafri/EngageMedia.
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Instant Messaging
-date: 2023-01-19T10:42:10.334Z
+ចំណងជើង៖ សញ្ញា
+cover៖ /files/signal.jpg
+គេហទំព័រ៖ https://signal.org/
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+ស្លាក:
+  - ការទំនាក់ទំនង និងការផ្ញើសារ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - ការផ្ញើសារបន្ទាន់
+កាលបរិច្ឆេទ៖ 2023-01-19T10:42:10.334Z
 ---
-Signal (Desktop, Android, iOS) is an open-source secure messaging and calling app that uses end-to-end encryption to protect the user’s privacy.
+Signal (Desktop, Android, iOS) គឺជាកម្មវិធីផ្ញើសារ និងហៅទូរសព្ទដែលមានសុវត្ថិភាពប្រភពបើកចំហ ដែលប្រើការអ៊ិនគ្រីបពីចុងដល់ចប់ ដើម្បីការពារភាពឯកជនរបស់អ្នកប្រើប្រាស់។
