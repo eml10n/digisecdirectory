@@ -10,4 +10,16 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T09:57:54.810Z
 ---
-Tor Browser is an open-source private internet browser for Windows, macOS, Linux, and Android that protects users from tracking, surveillance, and censorship.
+Ang Tor Browser ay isang open-source na privatge internet browser para sa Windows, macOS, Linux, at Android na nagpoprotekta sa mga user mula sa pagsubaybay, pagsubaybay, at censorship.
+title: Tor Browser
+website: https://www.torproject.org/
+cover: /files/torbrowser.jpg
+tags:
+  - Circumvention & Anonymity
+categories:
+  - Digital Security Tools
+  - Onion Routing
+credits: Text by Khairil Zhafri/EngageMedia.
+date: 2023-01-19T09:57:54.810Z
+---
+Ang Tor Browser ay isang open-source na private internet browser para sa Windows, macOS, Linux, at Android na nagpoprotekta sa mga user mula sa pagsubaybay, pagsubaybay, at censorship.
