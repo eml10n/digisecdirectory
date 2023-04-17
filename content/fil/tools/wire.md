@@ -13,4 +13,4 @@ categories:
   - Collaborative Chat
 date: 2023-01-19T10:45:12.357Z
 ---
-Wire is a secure group communication suite that offers secure messaging, video conferencing, and file sharing.
+Wire ay isang secure na antas ng communication suite na nag-aalok ng secure na pagmemensahe, video conferencing, at pagbabahagi ng file.
