@@ -1,14 +1,14 @@
 ---
-title: GlobaLeaks
-website: https://www.globaleaks.org/
-cover: /files/globaleaks.jpg
-tags:
-  - Web App
-  - Self-hosting
-  - Documentation & Data Management
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T17:36:32.118Z
+ចំណងជើង៖ GlobaLeaks
+គេហទំព័រ៖ https://www.globaleaks.org/
+cover៖ /files/globaleaks.jpg
+ស្លាក:
+  - កម្មវិធីបណ្តាញ
+  - ធ្វើជាម្ចាស់កម្វវិធីដោយខ្លួនឯង។
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យ
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+កាលបរិច្ឆេទ៖ 2023-01-19T17:36:32.118Z
 ---
-GlobaLeaks is a free and open-source secure reporting and documentation system that protects the whistleblower’s identity.
+GlobaLeaks គឺជាប្រព័ន្ធរាយការណ៍ និងឯកសារសុវត្ថិភាពឥតគិតថ្លៃ និងប្រភពបើកចំហ ដែលអាចការពារអត្តសញ្ញាណរបស់អ្នកផ្តល់ព័ត៌មាន។
