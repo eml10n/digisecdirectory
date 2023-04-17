@@ -14,4 +14,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-22T09:04:42.901Z
 ---
-N﻿extcloud is an open-source collaboration suite with secure file storage, sync, and share.
+Ang Nextcloud ay isang open-source na collaboration suite na may secure na imbakan ng file, pag-sync, at pagbabahagi.
