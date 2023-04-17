@@ -9,4 +9,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-29T20:30:48.920Z
 ---
-Aegis Authenticator is a free, secure and open-source app for Android to manage your two-step verification tokens for your online services.
+Ang Aegis Authenticator ay isang libre, secure, at open-source na app para sa Android upang pamahalaan ang iyong mga two-step na token sa pag-verify para sa iyong mga online na serbisyo.
