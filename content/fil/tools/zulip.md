@@ -14,4 +14,4 @@ categories:
   - Collaborative Chat
 date: 2023-02-04T21:57:35.157Z
 ---
-Zulip is an open-source collaborative chat for teams.
+Zulip ay isang open-source collaborative chat para sa mga team.
