@@ -12,8 +12,8 @@ categories:
   - Videoconferencing
 date: 2023-01-19T21:52:14.370Z
 ---
-BigBlueButton is an open-source video communication tool with all the required features for online training and learning including breakout rooms, whiteboards, closed captioning, polls, shared notes, and more.
+Ang BigBlueButton ay isang open-source na tool sa komunikasyon ng video na may lahat ng kinakailangang feature para sa online na pagsasanay at pag-aaral kabilang ang mga breakout room, whiteboard, closed captioning, poll, shared note, at higit pa.
 
-> \[S]ign up for BigBlueButton managed by [NoLog.cz](https://call.nolog.cz/), [CommunityBridge](https://communitybridge.com/), [meet.coop](https://www.meet.coop/), and other providers.\
+> \[S]ign up para sa BigBlueButton na pinamamahalaan ng [NoLog.cz](https://call.nolog.cz/), [CommunityBridge](https://communitybridge.com/), [meet.coop](https://www.meet.coop/), and other providers.\
 > – [Digital Hygiene 101: How to practise digital safety and security
 ](https://engagemedia.org/2022/digital-hygiene-safety-security/)
