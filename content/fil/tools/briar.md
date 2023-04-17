@@ -10,4 +10,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T10:29:01.038Z
 ---
-Briar is an open-source secure message app for Android. With Briar, users can send and receive messages through encrypted Bluetooth, WiFi, or Tor connections to avoid surveillance and censorship.
+Ang Briar ay isang open-source na secure na message app para sa Android. Sa Briar, ang mga user ay maaaring magpadala at tumanggap ng mga mensahe sa pamamagitan ng naka-encrypt na Bluetooth, WiFi, o mga koneksyon sa Tor upang maiwasan ang pagsubaybay at censorship.
