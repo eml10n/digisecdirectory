@@ -9,4 +9,4 @@ categories:
   - Digital Security Tools
 date: 2023-01-29T19:51:42.320Z
 ---
-D﻿uckDuckGo is a privacy-focused internet search engine.
+Ang DuckDuckGo ay isang search engine sa internet na nakatuon sa privacy.
