@@ -3,16 +3,16 @@ title: Bitwarden
 website: https://bitwarden.com/
 cover: /files/bitwarden.jpg
 flags:
-  - Freemium
+  - គំរូនៃការជាវឥតគិតថ្លៃមុនត្រូវបង់ថ្លៃ
 tags:
-  - Web App
-  - Self-hosting
-  - Documentation & Data Management
-  - Cross-platform
+  - កម្មវិធីវិប
+  - ការបង្ហោះដោយខ្លួនឯង
+  - ការគ្រប់គ្រងឯកសារ និងទិន្នន័យt
+  - ប្រព័ន្ធចម្រុះ
 categories:
-  - Digital Security Tools
-  - Password Manager
-credits: Text by Khairil Zhafri/EngageMedia.
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+  - កម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់
+credits: អត្ថបទរៀបចំដោយ Khairil Zhafri/EngageMedia.
 date: 2023-01-19T18:14:01.740Z
 ---
-Bitwarden is a cross-platform open-source password manager.
+Bitwarden គឺជាកម្មវិធីគ្រប់គ្រងពាក្យសម្ងាត់ដោយប្រើប្រាស់កម្មវិធីកូដចំហប្រព័ន្ធចម្រុះ។
