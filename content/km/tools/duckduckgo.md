@@ -2,11 +2,11 @@
 title: DuckDuckGo
 cover: /files/duckduckgo.jpg
 website: https://duckduckgo.com/
-credits: Text by Khairil/EngageMedia.
+credits: អត្ថបទដោយ Khairil/EngageMedia ។
 tags:
-  - Internet Browsing & Productivity
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
 categories:
-  - Digital Security Tools
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
 date: 2023-01-29T19:51:42.320Z
 ---
-D﻿uckDuckGo is a privacy-focused internet search engine.
+DuckDuckGo គឺជាកម្មវិធីស្វែងរកតាមអ៊ីនធឺណិតដែលផ្តោតលើឯកជនភាព។
