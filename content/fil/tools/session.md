@@ -11,4 +11,4 @@ categories:
 credits: Text by Khairil Zhafri/EngageMedia.
 date: 2023-01-19T23:08:17.311Z
 ---
-Session is a decentralised instant messaging app that does not require phone numbers, email addresses, or other personally identifiable information.
+Ang session ay isang desentralisadong instant messaging app na hindi nangangailangan ng mga numero ng telepono, email address, o iba pang impormasyong nagbibigay ng personal na pagkakakilanlan.
