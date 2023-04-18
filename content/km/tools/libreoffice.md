@@ -1,12 +1,12 @@
 ---
-title: LibreOffice
-website: https://www.libreoffice.org/
-cover: /files/libreoffice.jpg
-tags:
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T21:18:42.158Z
+ចំណងជើង៖ LibreOffice
+គេហទំព័រ៖ https://www.libreoffice.org/
+Cover៖ /files/libreoffice.jpg
+ស្លាក:
+  - ការរុករកតាមអ៊ីនធឺណិត និងផលិតភាព
+ប្រភេទ៖
+  - ឧបករណ៍សុវត្ថិភាពឌីជីថល
+ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
+កាលបរិច្ឆេទ៖ 2023-01-19T21:18:42.158Z
 ---
-LibreOffice is a free and open-source office productivity suite that contains a word processor, a spreadsheet program, a presentation application, and more.
+LibreOffice គឺជាឈុតផលិតភាពការិយាល័យឥតគិតថ្លៃ និងជាប្រភពបើកចំហដែលមានកម្មវិធីវាយអត្ថបទ កម្មវិធីសៀវភៅបញ្ជី កម្មវិធីបទបង្ហាញ និងកម្មវិធីជាច្រើនទៀត។
