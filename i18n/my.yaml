@@ -1,30 +1,32 @@
-edit_page: ''
+edit_page: 'စာမျက်နှာကို တည်းဖြတ်ပါ'
 
-nav_navigation: ''
-nav_tags: ''
-nav_more: ''
-nav_top: ''
+nav_navigation: 'စတင်ပါ'
+nav_tags: 'ပူးတွဲမှုများ'
+nav_more: 'ပါဝင် ကူညီပါ'
+nav_top: 'အပေါ်သို့ ပြန်သွားရန်'
 
-form_placeholder_search: ''
+form_placeholder_search: 'ရှာဖွေရန်'
 
-error_page_title: ''
-error_message_title: ''
-error_message_code: ''
+error_page_title: 'ပျောက်ဆုံးသွားသလား ။စိတ်မပူပါနဲ့'
+error_message_title: 'ပျောက်ဆုံးနေသည်'
+error_message_code: 'အမှား ၄၀၄'
 error_message_text: >
+  သင်ရှာနေသည့်အရာကို မတွေ့နိုင်ပုံရသည်။ စိတ်မပူပါနှင့်၊ သင့်အား <a class="gdoc-error__link"
+  href="{{ . }}">ပင်မစာမျက်နှာ</a> သို့ ပြန်လည် ပို့နိုင်ပါသည်။
 
-button_toggle_dark: ''
-button_nav_open: ''
-button_nav_close: ''
-button_menu_open: ''
-button_menu_close: ''
-button_homepage: ''
+button_toggle_dark: 'အမှောင်/အလင်း/အလိုအလျောက် မုဒ်ပြောင်းပါ'
+button_nav_open: 'Navigation ကိုဖွင့်ပါ'
+button_nav_close: 'Navigation ကိုပိတ်ပါ'
+button_menu_open: 'Menu Bar ကိုဖွင့်ပါ'
+button_menu_close: 'Menu Bar ကိုပိတ်ပါ'
+button_homepage: 'မူလ စာမျက်နှာသို့ ပြန်သွားရန်'
 
-title_anchor_prefix: ""
+title_anchor_prefix: "ပင်မစာမျက်နှာ"
 
-posts_read_more: ''
+posts_read_more: 'ပို့စ် အပြည့်အစုံ ဖတ်ပါ'
 posts_read_time:
-  one: ""
-  other: ""
+  one: "တစ်မိနစ်စာ ဖတ်ပါ"
+  other: "ဖတ်ရန် {{.}} မိနစ်"
 posts_update_prefix: ''
 posts_count:
   one: ""
