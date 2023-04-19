@@ -1,7 +1,7 @@
 ### Localized menus have to be merged into a single yaml file
 main:
 - name:
-    en: ''
+    en: 'ဒစ်ဂျစ်တယ် လုံခြုံရေး ကိရိယာများ'
   ref: ""
   pre: ''
   post: ''
