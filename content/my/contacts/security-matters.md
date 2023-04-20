@@ -1,17 +1,17 @@
 ---
-title: Security Matters
+ခေါင်းစဉ်- လုံခြုံရေးကိစ္စများ
 cover: /files/security-matters.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+# ဤနေရာတွင် ၎င်း၏ ISO 639-1 ကုဒ်ကို မထည့်မီ ဘာသာစကားကို ပံ့ပိုးထားကြောင်း စစ်ဆေးပါ။ နိုင်ငံကုဒ်မပါဘဲ၊ ဆိုလိုသည်မှာ ms_MY အစား ms ဖြစ်သည်။
+ဘာသာစကားများ
   - en
   - th
   - ms
-website: https://www.securitymatters.asia/
-credits: Text by Khairil Zhafri/EngageMedia
-categories:
-  - Digital Security Network
-  - Digital Security Crisis Responders
-  - Digital Security Trainers
-date: 2023-01-25T12:20:38.276Z
+ဝဘ်ဆိုဒ်- https://www.securitymatters.asia/
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ရက်
+  - ဒစ်ဂျစ်တယ် လုံခြုံရေး အကျပ်အတည်း တုံ့ပြန်သူများ
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးသင်တန်းဆရာ
+ရက်စွဲ- 2023-01-25T12:20:38.276Z
 ---
-Security Matters (SecM) is an initiative with the purpose of promoting digital security and protecting the community at risk in Southeast Asia. With its trainers' network and through its training of trainers SecM works towards building digital security capacity for civil society organizations and human rights defenders. It also provides digital security incident response and support in collaboration with the Center for Digital Resilience (CDR).
+Security Matters (SecM) သည် ဒစ်ဂျစ်တယ်လုံခြုံရေးကို မြှင့်တင်ရန်နှင့် အရှေ့တောင်အာရှရှိ အန္တရာယ်ရှိသော အသိုက်အဝန်းကို ကာကွယ်ရန် ရည်ရွယ်ချက်ဖြင့် အစပျိုးမှုတစ်ခုဖြစ်သည်။ ၎င်း၏ သင်တန်းဆရာများ၏ ကွန်ရက်ဖြင့်၊ သင်တန်းဆရာများ၏ လေ့ကျင့်ပေးမှုမှတဆင့် SecM သည် အရပ်ဘက်အဖွဲ့အစည်းများနှင့် လူ့အခွင့်အရေး ကာကွယ်သူများအတွက် ဒစ်ဂျစ်တယ် လုံခြုံရေးစွမ်းရည်ကို တည်ဆောက်ရန် လုပ်ဆောင်သည်။ ၎င်းသည် ဒစ်ဂျစ်တယ်လုံခြုံရေးဆိုင်ရာ တုံ့ပြန်မှုစင်တာ (CDR) နှင့် ပူးပေါင်း၍ ဒစ်ဂျစ်တယ်လုံခြုံရေးဆိုင်ရာ အဖြစ်အပျက်တုံ့ပြန်မှုနှင့် ပံ့ပိုးမှုများကိုလည်း ပံ့ပိုးပေးပါသည်။
