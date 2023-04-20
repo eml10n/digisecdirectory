@@ -1,12 +1,12 @@
 ---
-title: Holistic Security Manual
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+ခေါင်းစဉ်- Holistic Security Manual
+# ဤနေရာတွင် ၎င်း၏ ISO 639-1 ကုဒ်ကို မထည့်မီ ဘာသာစကားကို ပံ့ပိုးထားကြောင်း စစ်ဆေးပါ။ နိုင်ငံကုဒ်မပါဘဲ၊ ဆိုလိုသည်မှာ ms_MY အစား ms။
+ဘာသာစကားများ
   - en
-website: https://holistic-security.tacticaltech.org/
-credits: Text by Tactical Tech
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:51:55.248Z
+ဝဘ်ဆိုဒ်- https://holistic-security.tacticaltech.org/
+ခရက်ဒစ်- Tactical Tech မှ စာသား
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးလမ်းညွှန်များ
+ရက်စွဲ- 2023-01-25T10:51:55.248Z
 ---
-The Holistic Security Manual by Tactical Tech is designed to guide the process of establishing or improving security strategies for individuals, collectives or organisations. The content is divided into four Sections: Prepare, Explore, Strategise and Act, which are conceived as steps in an evolving, cyclical process and should be regularly revisited as part of our ongoing strategic planning. The chapters which appear on this website are summarised versions of those in the manual, which can be downloaded and read offline.
+Tactical Tech မှ Holistic Security Manual ကို တစ်ဦးချင်း၊ အစုအဖွဲ့ သို့မဟုတ် အဖွဲ့အစည်းများအတွက် လုံခြုံရေးဗျူဟာများ ချမှတ်ခြင်း သို့မဟုတ် မြှင့်တင်ခြင်း လုပ်ငန်းစဉ်ကို လမ်းညွှန်ရန် ဒီဇိုင်းရေးဆွဲထားသည်။ အကြောင်းအရာကို အပိုင်းလေးပိုင်းအဖြစ် ပိုင်းခြားထားသည်- ပြင်ဆင်ခြင်း၊ စူးစမ်းလေ့လာခြင်း၊ မဟာဗျူဟာနှင့် အက်ဥပဒေ များသည် ဖွံ့ဖြိုးဆဲ စက်မှု လုပ်ငန်းစဉ်များတွင် ခြေလှမ်းများအဖြစ် ခံယူထားပြီး ကျွန်ုပ်တို့၏ လက်ရှိလုပ်ဆောင်နေသော မဟာဗျူဟာစီမံကိန်း၏ တစ်စိတ်တစ်ပိုင်းအဖြစ် ပုံမှန်ပြန်လည်ကြည့်ရှုသင့်ပါသည်။ ဤ website တွင် ပေါ်လာသည့် အခန်းများသည် ဒေါင်းလုဒ်လုပ်ပြီး offline ဖတ်နိုင်သည့် လက်စွဲစာအုပ်ပါ အကျဉ်းချုပ် ဗားရှင်းများဖြစ်သည်။
