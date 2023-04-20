@@ -1,45 +1,45 @@
 ---
-type: page
-title: Digital Security Community Directory
-date: 2023-01-27T17:18:43.828Z
----
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). This directory primarily lists digital security and safety tools and guides, and resource groups that are available in Burmese, Filipino, Indonesian, Khmer, Thai, and English.
+type:
+စာမျက်နှာခေါင်းစဉ်: ဒစ်ဂျစ်တယ်လုံခြုံရေးအသိုင်းအဝိုင်း directory ကို
+ရက်စွဲ: 2023 -01 -27T17:18:43.828Z ကို
 
-In this directory, we group the [digital security tools](/en/categories/digital-security-tools/) by their main utility or function, namely
+---*digisec.directory ** သည် [EngageMedia Digital Security Localization Project](https://engagemedia.org/projects/localization/) ၏ ပံ့ပိုးပေးသူများမှ ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ဘေးကင်းလုံခြုံရေး အရင်းအမြစ်များကို စုဆောင်းခြင်းဖြစ်သည် ။ ဒီ directory ကို အဓိကအားဖြင့်ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ဘေးကင်းလုံခြုံရေး tools များနှင့် လမ်းညွှန်များစာရင်း, နှင့်မြန်မာ, ဖိလစ်ပိုင်, အင်ဒိုနီးရှား, Khmer, ထိုင်းနှင့်အင်္ဂလိပ် အတွက်ရရှိနိုင်ကြောင်း အရင်းအမြစ်အုပ်စုများ ကိုဖော်ပြပါသည်။
 
-* [Circumvention & Anonymity](/en/tags/circumvention-anonymity/) tools for circumventing censorship and surveillance on the internet
-* [Communications & Messaging](/en/tags/communications-messaging/) services for secure online chats, calls, and meetings
-* [Documentation & Data Management](/en/tags/documentation-data-management/) software for encrypted storage and transfer of electronic files and digital records
-* [Internet Browsing & Productivity](/en/tags/productivity-internet-browsing/) applications for using the internet and working online safely
+ဒီ directory မှာတော့ [ဒစ်ဂျစ်တယ် လုံခြုံရေး ကိရိယာတွေ](sategital/digital-လုံခြုံရေး-လုံခြုံရေး ကိရိယာတွေ/) ကို သူတို့ရဲ့ အဓိက အသုံးစရိတ် ဒါမှမဟုတ် လုပ်ဆောင်မှုအားဖြင့် စုစည်းထားပါတယ်။
 
-As much as possible, we include free and open-source tools in this directory, ie you have the freedom to use, modify, and redistribute the source code of these tools without any restriction. 
+* [ကူးစက်ရောဂါ & အမည်မသိ] (/ en/tags များ/ဝန်းကျင် - အမည်မသိ /) အင်တာနက်ပေါ်တွင် အာရုံစူးစိုက်မှုနှင့် စောင့်ကြည့်ခြင်းကြောင့် tools များ
+* [ဆက်သွယ်ရေး & မက်ဆေ့ချ်ပေးပို့ခြင်း] (/ en/tags/ဆက်သွယ်ရေး - မက်ဆေ့ချ်ပေးပို့ခြင်း /) လုံခြုံအွန်လိုင်းစကားပြောဆိုမှုများ, ခေါ်ဆိုမှုများနှင့်အစည်းအဝေးများအတွက် ဝန်ဆောင်မှုများ
+* [စာရွက်စာတမ်းများ & ဒေတာစီမံခန့်ခွဲမှု] (/ en/tags များ/စာရွက်စာတမ်းများ - ဒေတာ - စီမံခန့်ခွဲမှု /) အီလက်ထရောနစ် ဖိုင်များနှင့်ဒစ်ဂျစ်တယ်မှတ်တမ်းများ ၏ encrypted သိုလှောင်ခြင်းနှင့် လွှဲပြောင်း ရန် ဆော့ဖ်ဝဲ
+* [အင်တာနက် Browsing & Productivity] (/ en/tags/productivity - အင်တာနက် - browsering /) အင်တာနက်ကို အသုံးပြုခြင်းနှင့် အွန်လိုင်းလုံခြုံစွာ အလုပ်လုပ်ရန် applications များ
 
-Some tools in this directory are tagged as:
+ဖြစ်နိုင်သမျှ၊ ကျွန်ုပ်တို့သည် ဤ directory တွင် အခမဲ့နှင့် open-source ကိရိယာများ ပါ၀င်သည်၊ ဆိုလိုသည်မှာ သင်သည် လွတ်လပ်စွာ အသုံးပြုခွင့်၊ ပြင်ဆင်ရန်နှင့် ဤကိရိယာများ၏ အရင်းအမြစ်ကုဒ်ကို ကန့်သတ်ချက်မရှိဘဲ ပြန်လည်ဖြန့်ဝေခွင့်ရှိသည်။ 
 
-* [Web app](/en/tags/web-app/) – you can use this tool directly on an internet browser without having to install it on your device;
-* [Self-hosting](/en/tags/self-hosting/) – you can run and maintain an instance of this tool on a server that you control;
-* [Cross-platform](/en/tags/cross-platform/) – you can install this tool on your desktop and mobile devices running popular operating systems;
+ဒီ directory ထဲမှာရှိတဲ့ tools တွေကို အောက်ပါအတိုင်း tag လုပ်ထားပါသည်။
 
-We also flag certain tools as:
+* [Web app ကို] (/ en/tags များ/web – app ကို /) - သင်သည်သင် ၏ device ပေါ်တွင် install လုပ်ရန်မလိုဘဲအင်တာနက် browser ပေါ်တွင်တိုက်ရိုက်ဤ tool ကိုအသုံးပြုနိုင်သည်;
+* [Self – hosting] (/ en/tags များ/self - hosting /) - သင်ထိန်းချုပ်သော ဆာဗာပေါ်တွင် ဤ tool တစ်ခု၏ ဥပမာကို ပြေးပြီးထိန်းသိမ်းနိုင်သည် ။
+* [Cross - platform] (/ en/tags/Cross - platform /) – သင်သည် လူကြိုက်များသော operating system ကို အသုံးပြုသည့် သင် ၏ desktop နှင့်မိုဘိုင်း devices များပေါ်တွင်ဤ tool ကို install လုပ်နိုင်ပါတယ်;
 
-* Closed Source – this tool does not have publicly available and verifiable source code;
-* Freemium – this tool is available for free but additional storage, bandwidth, or features are available with a paid upgrade; and
-* Premium – this tool is only available with a paid subscription.
+ကျွန်ုပ်တို့သည်လည်း အချို့သော tool များကို အလံပြထားသည်-
 
-Some tools are grouped into special categories:
+* ပိတ်ထားသောအရင်းအမြစ် - ဤကိရိယာတွင် အများပြည်သူရရှိနိုင်ပြီး အတည်ပြုနိုင်သော အရင်းအမြစ်ကုဒ်မရှိပါ ။
+* Freemium – ဒီ tool ကိုအခမဲ့ ရနိုင်သော်လည်း အပိုဆောင်းသိုလှောင်မှု,လှိုင်းနှုန်း, သို့မဟုတ် features တွေကို အခပေး အဆင့်မြှင့်နှင့်အတူရရှိနိုင်ပါသည်; နှင့်
+* ပရီမီယံ – ဤ tool သည် paid subscription နှင့်သာ ရရှိနိုင်သည်။
 
-* [Collaborative chat](/en/categories/collaborative-chat) alternatives to Slack;
-* [Email](/en/categories/email) and [e﻿mail client](/en/categories/email-client/) alternatives to Google Gmail, Apple Mail, Microsoft Outlook, etc;
-* [E﻿mail forwarding](/en/categories/email-forwarding/) services for privacy protection;
-* [File sharing](/en/categories/file-sharing), [storage](/en/categories/file-storage), and [sync](/en/categories/file-sync) alternatives to Dropbox, WeTransfer, Google Drive, Microsoft OneDrive, etc;
-* [Instant messaging](/en/categories/instant-messaging) alternatives to WhatsApp, Messenger, WeChat, LINE, Viber, etc;
-* [Onion routing](/en/categories/onion-routing)-configured tools; and
-* [OpenPGP encryption](/en/categories/openpgp-encryption) applications.
-* [Videoconferencing](/en/categories/videoconferencing) alternatives to Zoom, Google Meet, Microsoft Teams, etc;
-* [Virtual private network (VPN)](/en/categories/virtual-private-network) services;
+အချို့သော tool များကို အထူး အမျိုးအစားများအဖြစ် စုစည်းထားသည်-
 
-Using the tools recommended in this directory can help you improve your digital security and safety. Having good understanding of how these tools work and knowing how to use them properly are equally important in limiting your digital security risks and mitigating your digital safety threats.
+* Slack ၏ အခြားရွေးချယ်စရာများ (/en/categories/collaborative-chat)
+* [Email](/en/categories/email) နှင့် [email client](/en/categories/email-client/) Google Gmail၊ Apple Mail၊ Microsoft Outlook စသည်ဖြင့် အခြားရွေးချယ်စရာများ
+* [အီးမေးလ် ထပ်ဆင့်ပို့ခြင်း](/en/categories/email-forwarding/) ကိုယ်ရေးကိုယ်တာ အကာအကွယ်အတွက် ဝန်ဆောင်မှုများ၊
+* [ဖိုင်မျှဝေခြင်း](/en/categories/file-sharing), [storage](/en/categories/file-storage) နှင့် [sync](/en/categories/file-sync) အခြားရွေးချယ်စရာ Dropbox၊ WeTransfer၊ Google Drive၊ Microsoft OneDrive စသဖြင့်၊
+* [ချက်ချင်းစာတိုပေးပို့ခြင်း](/en/categories/instant-messaging) WhatsApp၊ Messenger၊ WeChat၊ LINE၊ Viber စသည်ဖြင့် အခြားရွေးချယ်စရာများ
+* [ကြက်သွန်လမ်းကြောင်းလမ်းကြောင်း](/en/categories/onion-routing)-configured tools; နှင့်
+* [OpenPGP ကုဒ်ဝှက်ခြင်း](/en/categories/openpgp-encryption) အပလီကေးရှင်းများ။
+* [Videoconferencing](/en/categories/videoconferencing) Zoom၊ Google Meet၊ Microsoft Teams စသည်ဖြင့်၊
+* [virtual private network (VPN)](/en/categories/virtual-private-network) ဝန်ဆောင်မှုများ၊
 
-The [digital security guides](/en/categories/digital-security-guides/) section contains a list of resources including step-by-step instructions, user manuals, trainer's handbooks, support toolkits, and other similar materials. These guides cover a wide range of digital security and safety topics including privacy, surveillance, censorship, encryption, backup, and more.
+ဤ directory တွင် အကြံပြုထားသော tools များကို အသုံးပြုခြင်းဖြင့် သင်၏ ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ဘေးကင်းမှုကို မြှင့်တင်ပေးနိုင်သည် ။ ဤ tools များ မည်သို့အလုပ်လုပ်ပုံနှင့် ၎င်းတို့ကို မှန်ကန်စွာအသုံးပြုရမည်ကို သိရှိနားလည်မှုရှိခြင်းသည် သင်၏ဒစ်ဂျစ်တယ်လုံခြုံရေးအန္တရာယ်များကို ကန့်သတ်ရန်နှင့် သင်၏ ဒစ်ဂျစ်တယ် ဘေးကင်းရေး ခြိမ်းခြောက်မှုများကို လျော့ပါးစေရန်အတွက် ထပ်တူထပ်မျှအရေးကြီးပါသည်။
 
-In the [digital security network](/categen/categoriesories/digital-security-network/) section of this directory, we list organisations that support human rights defenders by providing digital security [training](/en/categories/digital-security-trainers/) and [crisis response](/en/categories/digital-security-crisis-responders/). We also include in this section cooperative groups and independent businesses that provide free or subsidised [hosting and other services](/en/categories/digital-security-service-providers/) to human rights defenders.
+[ဒစ်ဂျစ်တယ်လုံခြုံရေးလမ်းညွှန်များ](/en/categories/digital-security-guides/) ကဏ္ဍတွင် အဆင့်ဆင့်လမ်းညွှန်ချက်များ၊ အသုံးပြုသူလက်စွဲများ၊ သင်တန်းဆရာ၏လက်စွဲစာအုပ်များ၊ အထောက်အကူကိရိယာအစုံအလင်နှင့် အခြားအလားတူပစ္စည်းများအပါအဝင် အရင်းအမြစ်များစာရင်းပါရှိသည်။ ဤလမ်းညွှန်ချက်များသည် ကိုယ်ရေးကိုယ်တာ၊ စောင့်ကြည့်ခြင်း၊ ဆင်ဆာဖြတ်ခြင်း၊ ကုဒ်ဝှက်ခြင်း၊ မိတ္တူကူးခြင်းနှင့် အခြားအရာများအပါအဝင် ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ဘေးကင်းရေးဆိုင်ရာ အကြောင်းအရာများစွာကို အကျုံးဝင်ပါသည်။
+
+ဤလမ်းညွှန်၏ [ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ရက်](/categen/categoriesories/digital-security-network/) တွင်၊ ကျွန်ုပ်တို့သည် ဒစ်ဂျစ်တယ်လုံခြုံရေးဆိုင်ရာ [လေ့ကျင့်ရေး](/th/categories/digital-security-) ပံ့ပိုးပေးသည့် အဖွဲ့အစည်းများကို စာရင်းပြုစုထားပါသည်။ သင်တန်းဆရာ/) နှင့် [အကျပ်အတည်းတုံ့ပြန်မှု](/en/categories/digital-security-crisis-responders/)။ လူ့အခွင့်အရေးကာကွယ်သူများကို အခမဲ့ သို့မဟုတ် ထောက်ပံ့မှုပေးသည့် [hosting and other services](/en/categories/digital-security-service-providers/) ကဏ္ဍတွင် သမဝါယမအဖွဲ့များနှင့် အမှီအခိုကင်းသော စီးပွားရေးလုပ်ငန်းများလည်း ပါဝင်ပါသည်။
