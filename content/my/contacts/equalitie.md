@@ -1,15 +1,15 @@
 ---
-title: eQualitie
-cover: /files/equalite.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://deflect.ca/non-profits/
-credits: Text by Khairil/EngageMedia.
-categories:
-  - Digital Security Network
-  - Digital Security Service Providers
-  - Digital Security Trainers
-date: 2023-02-03T16:22:52.208Z
+ခေါင်းစဥ်: eQualitie
+စာမျက်နှာအဖုံး: /files/equalite.jpg
+#၄င်း၏ ISO 639-1 ကုဒ်အားမထည့်မီ အကူအညီပေးမည့်ဘာသာစကားအား သတ်မှတ်ပါ။ နိုင်ငံကုဒ်မပါဘဲထည့်သွင်းပါ ဥပမာ ms_MY အစား ms သာထည့်သွင်းပါ။
+ဘာသာစကား:
+  - မြန်မာ
+ဝက်ဘ်ဆိုက်: https://deflect.ca/non-profits/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကွန်ယက်
+  - ဒီဂျစ်တယ်လုံခြုံရေးဝန်ဆောင်မှုထောက်ပံ့ပေးသူများ
+  - ဒီဂျစ်တယ်လုံခြုံရေးလေ့ကျင့်ပေးသူများ
+ရက်စွဲ: 2023-02-03T16:22:52.208Z
 ---
-eQualitie develops open and reusable systems with a focus on privacy, online security and freedom of association. It offers free distributed denial of service (DDoS) protection and managed WordPress hosting to civil society groups and individuals.
+eQualitie သည် ကိုယ်ရေးကိုယ်တာလုံခြုံရေး၊ အွန်လိုင်းလုံခြုံရေးနှင့် လွတ်လပ်စွာပူးပေါင်းပါဝင်ခြင်းတို့အားအလေးပေး၍ ပွင့်လင်းပြီး ပြန်လည်အသုံးပြုနိုင်သောစနစ်များကို တီထွင်လျှက်ရှိသည်။ ၄င်းသည် လူမှုအဖွဲ့အစည်းအုပ်စုများနှင့် တစ်ဦးတစ်ယောက်ခြင်းစီတိုင်းအတွက် DDoS ခေါ် ဝန်ဆောင်မှုကိုငြင်းပယ်သည့်အွန်လိုင်းတိုက်ခိုက်မှုအားကာကွယ်ခြင်းကို ဖြန့်ဝေခြင်းနှင့် WordPress လက်ခံအသုံးပြုမှုအား စီမံပေးခြင်းတို့ကို အခမဲ့ပေးကမ်းလျှက်ရှိသည်။
