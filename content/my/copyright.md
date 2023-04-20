@@ -1,23 +1,23 @@
 ---
-type: page
-title: Copyright Notice
-date: 2023-01-30T21:42:36.544Z
+အမျိုးအစား- စာမျက်နှာ
+ခေါင်းစဉ်- ကိုယ်ရေးကိုယ်တာ မူဝါဒ
+ရက်စွဲ- 2023-01-30T21:30:57.375Z
 ---
-**digisec.directory** is a compilation of digital security and safety resources by the contributors of [EngageMedia Digital Security Localization project](https://engagemedia.org/projects/localization/). 
+**digisec.directory** သည် [EngageMedia Digital Security Localization ပရောဂျက်](https://engagemedia.org/projects/localization/) ၏ ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် လုံခြုံရေးအရင်းအမြစ်များကို စုစည်းထားခြင်းဖြစ်ပါသည်။ 
 
-All trademarks, logos and brand names are the property of their respective owners. The copyright of all cited materials remains with their respective authors. 
+ကုန်အမှတ်တံဆိပ်များ ၊ အမှတ်အသားများနှင့် အမှတ်တံဆိပ် အမည်များအားလုံးသည် ၎ င်းတို့ ၏ သက်ဆိုင်ရာပိုင်ရှင်များ ၏ ပိုင်ဆိုင်မှုဖြစ်သည် ။ ဖော်ပြထားသော စာရွက်စာတမ်းများ အားလုံး ၏ မူပိုင်ခွင့်သည် ၎ င်းတို့ ၏ သက်ဆိုင်ရာ စာရေးဆရာများထံတွင် ရှိနေဆဲဖြစ်သည်။ 
 
-Unless otherwise specified, all other work on this website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode). Under this license, you are free to:
+အခြားတစ်နည်းဖြင့် သတ်မှတ်ထားခြင်းမရှိပါက ဤဝက်ဘ်ဆိုက်ရှိ အခြားအလုပ်အားလုံးကို [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode) အောက်တွင် ခွင့်ပြုထားသည် ။ ဤလိုင်စင်အောက်တွင်သင်သည်အခမဲ့ဖြစ်သည်:
 
-* Share — copy and redistribute the material in any medium or format
-* Adapt — remix, transform, and build upon the material
+* မျှဝေပါ— အကြောင်းအရာကို မည်သည့် ကြားခံ သို့မဟုတ် format ဖြင့်မဆို ကူးယူပြီး ပြန်လည်ဖြန့်ဝေပါ။
+* လိုက်လျောညီထွေ — remix၊ အသွင်ပြောင်းပြီး ပစ္စည်းအပေါ်တွင် တည်ဆောက်ပါ။
 
-Such freedoms are subject to the following terms:
+ထိုကဲ့သို့သော လွတ်လပ်ခွင့်များသည် အောက်ဖော်ပြပါ စည်းကမ်းချက်များတွင် အကျုံးဝင်သည်
 
-* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* NonCommercial — You may not use the material for commercial purposes.
-* No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+* ရည်ညွှန်းချက် — သင့်လျော်သော ခရက်ဒစ်ကို ပေးရမည်၊ လိုင်စင်သို့ လင့်ခ်တစ်ခု ပေးကာ အပြောင်းအလဲများ ပြုလုပ်ခဲ့လျှင် ညွှန်ပြရပါမည်။ ကျိုးကြောင်း ဆီလျော်သော နည်းလမ်းဖြင့် သင်ပြုလုပ်နိုင်သော်လည်း လိုင်စင်ရှိသူက သင့်အား ထောက်ခံကြောင်း သို့မဟုတ် သင့်အသုံးပြုမှုကို ညွှန်ပြသည့် မည်သည့်နည်းဖြင့်မဆို ပြုလုပ်နိုင်ပါသည်။
+* စီးပွားဖြစ်မဟုတ်သော — ကူးသန်းရောင်းဝယ်ရေးဆိုင်ရာရည်ရွယ်ချက်များအတွက် အဆိုပါပစ္စည်းကို သင်အသုံးမပြုရပါ။
+* ထပ်လောင်းကန့်သတ်ချက်များမရှိပါ - လိုင်စင်ပါမစ်ကို အခြားသူများလုပ်ဆောင်ခြင်းမှ တရားဝင်တားမြစ်ထားသည့် ဥပဒေစည်းမျဥ်းများ သို့မဟုတ် နည်းပညာဆိုင်ရာ အစီအမံများကို သင်ကျင့်သုံးမည်မဟုတ်ပါ။
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+အများသူငှာ domainရှိ ပစ္စည်းအစိတ်အပိုင်းများ သို့မဟုတ် သက်ဆိုင်ရာ ခြွင်းချက် သို့မဟုတ် ကန့်သတ်ချက်ဖြင့် သင့်အသုံးပြုမှုကို ခွင့်ပြုသည့်နေရာတွင် သင်သည် လိုင်စင်ကို လိုက်နာရန် မလိုအပ်ပါ။
 
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+အာမခံ ပေးမထားဘူး။ လိုင်စင်သည် သင့်ရည်ရွယ်အသုံးပြုမှုအတွက် လိုအပ်သော ခွင့်ပြုချက်အားလုံးကို သင့်အား ပေးမည်မဟုတ်ပါ။ ဥပမာအားဖြင့်၊ လူသိရှင်ကြား၊ ကိုယ်ရေးကိုယ်တာ သို့မဟုတ် ကိုယ်ကျင့်တရားဆိုင်ရာအခွင့်အရေးများကဲ့သို့သော အခြားအခွင့်အရေးများသည် သင်ပစ္စည်းကိုအသုံးပြုပုံကို ကန့်သတ်နိုင်သည်။
