@@ -1,20 +1,20 @@
 ---
-title: EngageMedia
-cover: /files/engagemedia.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+ခေါင်းစဉ်- EngageMedia
+ကာဗာ: /files/engagemedia.jpg
+# ဤနေရာတွင် ၎င်း၏ ISO 639-1 ကုဒ်ကို မထည့်မီ ဘာသာစကားကို ပံ့ပိုးထားကြောင်း စစ်ဆေးပါ။ နိုင်ငံကုဒ်မပါဘဲ၊ ဆိုလိုသည်မှာ ms_MY အစား ms။
+ဘာသာစကားများ
   - en
   - ms
   - fil
   - id
   - my
   - th
-website: https://engagemedia.org
-credits: Text by EngageMedia
-categories:
-  - Digital Security Network
-  - Digital Security Crisis Responders
-  - Digital Security Trainers
-date: 2023-01-30T08:20:29.849Z
+ဝဘ်ဆိုဒ်- https://engagemedia.org
+ခရက်ဒစ်- EngageMedia မှ စာသား
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ရက်
+  - ဒစ်ဂျစ်တယ် လုံခြုံရေး အကျပ်အတည်း တုံ့ပြန်သူများ
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးသင်တန်းဆရာ
+ရက်စွဲ- 2023-01-30T08:20:29.849Z
 ---
-EngageMedia is a nonprofit that promotes digital rights, open and secure technology, and social issue documentary. We equip civil society through training and other educational activities, producing guides, research, and other resources. We develop, localize, and engage with platforms, promoting open and secure software and supporting open culture and knowledge.
+EngageMedia သည် ဒစ်ဂျစ်တယ်အခွင့်အရေးများ၊ ပွင့်လင်းပြီး လုံခြုံသောနည်းပညာနှင့် လူမှုရေးဆိုင်ရာ ပြဿနာမှတ်တမ်းရုပ်ရှင်ကို မြှင့်တင်ပေးသည့် အကျိုးအမြတ်မယူသော အဖွဲ့အစည်းတစ်ခုဖြစ်သည်။ ကျွန်ုပ်တို့သည် အရပ်ဘက်လူ့အဖွဲ့အစည်းအား လေ့ကျင့်ရေးနှင့် အခြားသော ပညာရေးဆိုင်ရာ လှုပ်ရှားမှုများ၊ လမ်းညွှန်များထုတ်လုပ်ခြင်း၊ သုတေသနနှင့် အခြားအရင်းအမြစ်များမှတဆင့် ပံ့ပိုးပေးပါသည်။ ကျွန်ုပ်တို့သည် ပွင့်လင်းမြင်သာမှုနှင့် လုံခြုံသောဆော့ဖ်ဝဲလ်ကို မြှင့်တင်ကာ ပွင့်လင်းယဉ်ကျေးမှုနှင့် အသိပညာများကို ပံ့ပိုးပေးသည့် ပလပ်ဖောင်းများကို တီထွင်၊ ဒေသအလိုက်ပြုလုပ်ကာ ချိတ်ဆက်ပါသည်။
