@@ -1,13 +1,13 @@
 ---
-title: meet.coop
-cover: /files/meetcoop.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+ခေါင်းစဉ်- meet.coop
+ကာဗာ: /files/meetcoop.jpg
+# ဤနေရာတွင် ၎င်း၏ ISO 639-1 ကုဒ်ကို မထည့်မီ ဘာသာစကားကို ပံ့ပိုးထားကြောင်း စစ်ဆေးပါ။ နိုင်ငံကုဒ်မပါဘဲ၊ ဆိုလိုသည်မှာ ms_MY အစား ms။
+ဘာသာစကားများ
   - en
-website: https://www.meet.coop/
-credits: Text by meet.coop.
-categories:
-  - Digital Security Network
-date: 2023-02-04T22:21:53.580Z
+ဝဘ်ဆိုဒ်- https://www.meet.coop/
+ခရက်ဒစ်- meet.coop မှ စာသား။
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ရက်
+ရက်စွဲ- 2023-02-04T22:21:53.580Z
 ---
-meet.coop is a meeting and conferencing platform powered by BigBlueButton, stewarded by a global coalition of co-operatives.
+meet.coop သည် ကမ္ဘာလုံးဆိုင်ရာ သမဝါယမများ၏ ညွန့်ပေါင်းအဖွဲ့မှ ထိန်းကျောင်းသော BigBlueButton မှ ပံ့ပိုးပေးသော မီတင် နှင့် မီတင် ပလပ်ဖောင်းတစ်ခု ဖြစ်သည်။
