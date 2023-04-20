@@ -1,12 +1,12 @@
 ---
-title: Umbrella
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+title: ထီး
+# ဤနေရာတွင် ၎င်း၏ ISO 639-1 ကုဒ်ကို မထည့်မီ ဘာသာစကားကို ပံ့ပိုးထားကြောင်း စစ်ဆေးပါ။ နိုင်ငံကုဒ်မပါဘဲ၊ ဆိုလိုသည်မှာ ms_MY အစား ms ဖြစ်သည်။
+ဘာသာစကားများ
   - en
-website: https://secfirst.org/umbrella/
-credits: Text by Security First
-categories:
-  - Digital Security Guides
-date: 2023-01-25T11:05:38.151Z
+ဝဘ်ဆိုဒ်- https://secfirst.org/umbrella/
+ခရက်ဒစ်များ- Security First မှ စာပို့ပါ။
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးလမ်းညွှန်များ
+ရက်စွဲ- 2023-01-25T11:05:38.151Z
 ---
-Umbrella by Security First is an all-in-one app developed for digital and physical security. It provides information on what to do in any given security situation and the tools to do it. Umbrella is designed for and used by journalists, aid workers, human rights activists, and people travelling in high-risk areas.
+Umbrella by Security First သည် ဒစ်ဂျစ်တယ်နှင့် ရုပ်ပိုင်းဆိုင်ရာ လုံခြုံရေးအတွက် တီထွင်ဖန်တီးထားသည့် all-in-one app တစ်ခုဖြစ်သည်။ ၎င်းသည် သတ်မှတ်ထားသော လုံခြုံရေး အခြေအနေတွင် ဘာလုပ်ရမည်နှင့် ၎င်းကိုလုပ်ဆောင်ရန် ကိရိယာများအကြောင်း အချက်အလက်များကို ပေးပါသည်။ ထီးကို သတင်းသမားများ၊ အကူအညီပေးရေးသမားများ၊ လူ့အခွင့်အရေး လှုပ်ရှားသူများနှင့် အန္တရာယ်များသောနေရာများတွင် ခရီးသွားနေသူများ အသုံးပြုရန်အတွက် ဒီဇိုင်းထုတ်ထားပါသည်။
