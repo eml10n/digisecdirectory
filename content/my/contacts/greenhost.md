@@ -1,15 +1,15 @@
 ---
-title: Greenhost
-cover: /files/greenhost.jpg
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
-  - en
-website: https://greenhost.net/internet-freedom/
-credits: Text by Khairil/EngageMedia.
-categories:
-  - Digital Security Network
-  - Digital Security Service Providers
-  - Digital Security Crisis Responders
-date: 2023-02-03T21:01:54.067Z
+ခေါင်းစဥ်: Greenhost
+စာမျက်နှာအဖုံ: /files/greenhost.jpg
+# ၄င်း၏ ISO 639-1 ကုဒ်အားမထည့်မီ အကူအညီပေးမည့်ဘာသာစကားအား သတ်မှတ်ပါ။ နိုင်ငံကုဒ်မပါဘဲထည့်သွင်းပါ - ဥပမာ ms_MY အစား ms သာထည့်သွင်းပါ။
+ဘာသာစကားများ:
+  - မြန်မာ
+ဝက်ဘ်ဆိုက်:https://greenhost.net/internet-freedom/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကွန်ယက်
+  - ဒီဂျစ်တယ်လုံခြုံရေးဝန်ဆောင်မှုထောက်ပံ့ပေးသူများ
+  - ဒီဂျစ်တယ်လုံခြုံရေးအခက်အခဲဖြေရှင်းပေးသူများ
+ရက်စွဲ: 2023-02-03T21:01:54.067Z
 ---
-G﻿reenhost provides free virtual private server (VPS) hosting to groups advocating digital rights and developers of internet freedom tools. They also support organisations, activists, journalists and other human rights defenders facing digital security attacks through their rapid response programme.
+G﻿reenhost သည် ဒီဂျစ်တယ်အခွင့်ရေးအတွက်ထောက်ခံဆောင်ရွက်ပေးသောအဖွဲ့များနှင့် အင်တာနက်လွတ်လပ်ခွင့်ကိရိယာများအားတီထွင်သူများအတွက် လွတ်လပ်သော ကိုယ်ပိုင်ဆာဗာအတု (VPS) အား အခမဲ့ထောက်ပံ့ပေးလျှက်ရှိသည်။ ထို့အပြင် ဒီဂျစ်တယ်လုံခြုံရေးတိုက်ခိုက်မှုများအားရင်ဆိုင်နေရသည့် အဖွဲ့အစည်းများ၊ တက်ကြွလှုပ်ရှားသူများ၊ ဂျာနယ်လစ်များနှင့် လူ့အခွင့်အရေးကာကွယ်လှုပ်ရှားသူများအား ၄င်းတို့၏လုပ်ဆောင်ချက်များတွင် လျှင်မြန်စွာတန်ပြန်နိုင်ရန်အတွက်လည်း အကူအညီပေးလျှက်ရှိသည်။
