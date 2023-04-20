@@ -1,21 +1,21 @@
 ---
-title: TunnelBear
-cover: /files/tunnelbear.jpg
-website: https://www.tunnelbear.com/
-credits: Text by Khairil Zhafri/EngageMedia.
-flags:
-  - Closed Source
-  - Freemium
-tags:
-  - Circumvention & Anonymity
-  - Cross-platform
-categories:
-  - Digital Security Tools
-  - Virtual Private Network
-date: 2023-01-19T09:54:16.180Z
+ခေါင်းစဥ်: TunnelBear
+စာမျက်နှာအဖုံ: /files/tunnelbear.jpg
+ဝက်ဘ်ဆိုက်:https://www.tunnelbear.com/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+စာတွဲများ:
+  - ကာကွယ်တားဆီးထားသောအရင်းမြစ်
+  - အခမဲ့နှင့်အခပေးပေါင်းစပ်စနစ်
+အမည်များ:
+  - ရှောင်တိမ်းခြင်နှင့် အမည်ဝှက်ခြင်း
+  - ကြားခံဖြတ်သန်းခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကွန်ကိရိယာများ
+  - ကိုယ်ပိုင်ဆာဗာအတုအယောင်
+ရက်စွဲ: 2023-01-19T09:54:16.180Z
 ---
-Tunnelbear is a secure VPN service. Available for iOS, Android, Mac, Windows, Firefox, and Chrome.
+Tunnelbear သည် လုံခြုံသော VPN ဝန်ဆောင်မှုတစ်ခုဖြစ်သည်။ ၄င်းကို iOS, Android, Mac, Windows, Firefox နှင့် Chrome တို့အတွက် ရယူနိုင်သည်။
 
-> Email `vpn@engagemedia.org` to ask for your voucher code. In the email, please include a brief summary of what you do and how this VPN voucher can help you in your line of work. Once we receive your application, your unique codes will be sent within two working days.\
-> –﻿ [Free VPN for digital rights defenders: A partnership between TunnelBear and EngageMedia
+> သင်၏ပြေစာကုဒ်ကို တောင်းခံရန် `vpn@engagemedia.org` သို့ အီးမေးလ်ပေးပို့ပါ။ အဆိုပါအီးမေးလ်တွင် ကျေးဇူးပြု၍ သင်လုပ်သည့်အကြောင်းအရာအကျဥ်းချုပ်နှင့် သင်၏ပုံမှန်လုပ်ဆောင်နေကြအလုပ်တွင် အဆိုပါ VPNပြေစာက မည်သို့မည်ပုံကူညီနိုင်သည့်အကြောင်းကို ထည့်သွင်းဖော်ပြပါ။ ကျွန်ုပ်တို့ သင်၏လျှောက်ထားချက်ရရှိသည်နှင့် သင့်အတွက် အတုမရှိနိုင်သောကုဒ်များကို ရုံးဖွင့်ရက်နှစ်ရက်အတွင်း ပေးပို့ပါလိမ်မည်။\
+> –﻿ [ဒီဂျစ်တယ်အခွင့်အရေးကာကွယ်လှုပ်ရှားသူများအတွက် အခမဲ့ VPN: TunnelBear နှင့် EngageMedia ကြား မိတ်ဖက်တစ်ခု
 ](https://engagemedia.org/projects/tunnelbear/)
