@@ -1,14 +1,14 @@
 ---
-title: Digital First Aid Kit
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+ခေါင်းစဉ်: ဒစ်ဂျစ်တယ်‌ရှေးဦးသူနာပြု ကိရိယာ
+# ဤနေရာတွင် ၎ င်း ၏ ISO 639 -1 ကုဒ်မထည့်မီဘာသာစကားကိုထောက်ပံ့ထားကြောင်းအတည်ပြုပါ ။ နိုင်ငံကုဒ်မရှိဘဲ MS_MY အစား MS ။
+ဘာသာစကားများ:
   - en
   - th
   - id
-website: https://digitalfirstaid.org/
-credits: Text by CiviCERT
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:42:12.841Z
----
-The Digital First Aid Kit is a free resource to help rapid responders, digital security trainers, and tech-savvy activists to better protect themselves and the communities they support against the most common types of digital emergencies. It can also be used by activists, human rights defenders, bloggers, journalists or media activists who want to learn more about how they can protect themselves and support others. If you or someone you are assisting is experiencing a digital emergency, the Digital First Aid Kit will guide you in diagnosing the issues you are facing and refer you to support providers for further help if needed.
+ဝက်ဘ်ဆိုက်: https://digitalfirstaid.org/
+ခရက်ဒစ်:CiviCERT မှစာသား
+အမျိုးအစားများ -
+  ဒစ်ဂျစ်တယ်လုံခြုံရေးလမ်းညွှန်များ
+ရက်စွဲ: 2023 -01 -25T10:42:12.841Z ကို
+--- 
+ဒစ်ဂျစ်တယ် ရှေးဦးသူနာပြု ကိရိယာသည် အမြန်တုံ့ပြန်သူများ ၊ ဒစ်ဂျစ်တယ်လုံခြုံရေးသင်တန်းဆရာများနှင့် နည်းပညာ - နားလည်သော တက်ကြွလှုပ်ရှားသူများအား ၎ င်းတို့နှင့် ၎ င်းတို့ထောက်ပံ့သော လူမှုအသိုင်းအဝိုင်းများအား ဒစ်ဂျစ်တယ် အရေးပေါ်အခြေအနေများ ၏ အများဆုံးပုံစံများကို ပိုမိုကောင်းမွန်စွာ ကာကွယ်ရန် ကူညီရန် အခမဲ့အရင်းအမြစ်တစ်ခုဖြစ်သည် ။ ၎ င်းကို တက်ကြွလှုပ်ရှားသူများ ၊ လူ့အခွင့်အရေးကာကွယ်သူများ ၊ ဘလော့ဂါများ ၊ သတင်းသမားများ သို့မဟုတ် မီဒီယာ တက်ကြွလှုပ်ရှားသူများက ၎ င်းတို့ကိုယ်ကို မည်သို့ကာကွယ်နိုင်သည်နှင့် အခြားသူများကိုထောက်ပံ့နိုင်သည် ကိုပိုမိုလေ့လာလိုသည် ။ အကယ် ၍ သင် သို့မဟုတ် သင်ကူညီနေသူတစ်ဦးဦးသည် ဒစ်ဂျစ်တယ် အရေးပေါ်အခြေအနေကို ကြုံတွေ့နေရပါက ၊ သင်ကြုံတွေ့နေရသော ပြဿနာများကို စစ်ဆေးရာတွင် ဒစ်ဂျစ်တယ်ရှေးဦးသူနာပြု ကိရိယာ လိုအပ်ပါက ထပ်မံအကူအညီပေးရန် ပံ့ပိုးပေးသူများထံ ရည်ညွှန်းပါမည် ။
