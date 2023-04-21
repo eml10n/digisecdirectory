@@ -1,13 +1,13 @@
 ---
-title: Tor Browser
-website: https://www.torproject.org/
-cover: /files/torbrowser.jpg
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-  - Onion Routing
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T09:57:54.810Z
+ခေါင်းစဥ်: Tor ဘရောင်ဇာ
+ဝက်ဘ်ဆိုက်:https://www.torproject.org/
+စာမျက်နှာအဖုံ: /files/torbrowser.jpg
+အမည်များ:
+  - ရှောင်တိမ်းခြင်နှင့် အမည်ဝှက်ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကွန်ကိရိယာများ
+  - Onion အင်တာနက်ပတ်လမ်းကြောင်း
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+ရက်စွဲ: 2023-01-19T09:57:54.810Z
 ---
-Tor Browser is an open-source private internet browser for Windows, macOS, Linux, and Android that protects users from tracking, surveillance, and censorship.
+Tor ဘရောင်ဇာသည် Windows, macOS, Linux နှင့် Android တို့အတွက် ကိုယ်ရေးကိုယ်တာလုံခြုံ၍ ပွင့်လင်းမြင်သာသော အင်တာနက်ဘရောင်ဇာတစ်ခုဖြစ်ပြီး ၄င်းသည် အသုံးပြုသူများကို နောက်ယောင်ခံခြင်း၊ စောင့်ကြည့်ခြင်းနှင့် ဆင်ဆာဖြတ်ခြင်းတို့မှ တားဆီးကာကွယ်ပေးသည်။
