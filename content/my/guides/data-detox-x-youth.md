@@ -1,19 +1,19 @@
 ---
-title: Data Detox x Youth
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+ခေါင်းစဉ်: ဒေတာ Detox x လူငယ်
+# ဤနေရာတွင် ၎ င်း ၏ ISO 639 -1 ကုဒ်မထည့်မီဘာသာစကားကိုထောက်ပံ့ထားကြောင်းအတည်ပြုပါ ။ နိုင်ငံကုဒ်မရှိဘဲ MS_MY အစား MS ။
+ဘာသာစကားများ:
   - en
-website: https://datadetoxkit.org/en/families/datadetox-x-youth/
-credits: Text by Tactical Tech.
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:16:30.255Z
----
-Data Detox x Youth is an activity book to help young people take control of their tech. This interactive toolkit encourages young people to think about different aspects of their digital lives, from their social media profiles to their passwords, with simple activities for reflection and play.
+ဝက်ဘ်ဆိုက်: https://datadetoxkit.org/en/families/datadetox-x-youth/
+credit: ကွန်ပျူတာပညာရှင်များ
+အမျိုးအစားများ -
+  ဒစ်ဂျစ်တယ်လုံခြုံရေးလမ်းညွှန်များ
+ရက်စွဲ: 2023 -01 -25T10:16:30.255Z ကို
+--
+Data Detox x Youth သည် လူငယ်များအား ၎ င်းတို့ ၏ နည်းပညာကို ထိန်းချုပ်ရန် ကူညီရန် လှုပ်ရှားမှုစာအုပ်ဖြစ်သည် ။ ဤအပြန်အလှန် toolkit သည် လူငယ်များအား သူတို့ ၏ ဒစ်ဂျစ်တယ်ဘဝ ၏ ကွဲပြားခြားနားသောရှုထောင့်များ ၊ ၎ င်းတို့ ၏ လူမှုမီဒီယာပရိုဖိုင်များမှ ၎ င်းတို့ ၏ စကားဝှက်များအထိ ၊ ရိုးရှင်းသော လှုပ်ရှားမှုများ နှင့်အတူ စဉ်းစားရန် အားပေးသည် ။
 
-The activity book contains four sections:
+စာအုပ်တွင် အပိုင်းလေးပိုင်း ပါဝင်သည်။
 
-* Digital Privacy, which focuses on reducing data traces and understanding online profiling;
-* Digital Security, with tips on creating strong and secure passwords;
-* Digital Wellbeing, which deals with the addictive nature of smartphones;
-* and finally Misinformation, a guide for consuming and sharing information online.
+* ဒေတာခြေရာခံများကို လျှော့ချရန်နှင့် အွန်လိုင်း ပရိုဖိုင်ကို နားလည်ရန် အလေးပေးသည့် ဒစ်ဂျစ်တယ် လျှို့ဝှက်ရေး။
+* ခိုင်မာပြီး လုံခြုံသော စကားဝှက်များ ဖန်တီးခြင်းဆိုင်ရာ အကြံပြုချက်များနှင့်အတူ ဒစ်ဂျစ်တယ် လုံခြုံရေး၊
+* စမတ်ဖုန်းများ၏ စွဲလမ်းမှုသဘောသဘာဝနှင့် ပတ်သက်သည့် ဒစ်ဂျစ်တယ် ကောင်းမွန်မှု၊
+* နောက်ဆုံးတွင် Misinformation သည် အွန်လိုင်းတွင် သတင်းအချက်အလက်များ စားသုံးခြင်းနှင့် မျှဝေခြင်းအတွက် လမ်းညွှန်တစ်ခုဖြစ်သည်။
