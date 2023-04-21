@@ -1,12 +1,12 @@
 ---
-title: Aegis Authenticator
+ခေါင်းစဉ်- Aegis Authenticator
 cover: /files/aegis-authenticator.jpg
-website: https://getaegis.app/
-credits: Text by Aegis Authenticator.
+ဝဘ်ဆိုဒ်- https://getaegis.app/
+ခရက်ဒစ်- Aegis Authenticator မှ စာသား။
 tags:
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-date: 2023-01-29T20:30:48.920Z
+  - အင်တာနက်ရှာဖွေခြင်းနှင့်ကုန်ထုတ်စွမ်းအား
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရက်စွဲ- 2023-01-29T20:30:48.920Z
 ---
-Aegis Authenticator is a free, secure and open-source app for Android to manage your two-step verification tokens for your online services.
+Aegis Authenticator သည် သင့် အွန်လိုင်းဝန်ဆောင်မှုများ အတွက် သင့် အွန်လိုင်းဝန်ဆောင်မှုများအတွက် သင်၏နှစ်ဆင့်အတည်ပြုခြင်း တိုကင်များကို စီမံခန့်ခွဲရန် Android အတွက် အခမဲ့၊ လုံခြုံပြီး ပွင့်လင်းသောအရင်းအမြစ် app တစ်ခုဖြစ်သည်။
