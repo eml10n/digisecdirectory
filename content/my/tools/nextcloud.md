@@ -1,17 +1,17 @@
 ---
-draft: false
-title: Nextcloud
-website: https://nextcloud.com/
-cover: /files/nextcloud.jpg
+မူကြမ်း- မှားယွင်းသော
+ခေါင်းစဉ်- Nextcloud
+ဝဘ်ဆိုဒ်- https://nextcloud.com/
+ကာဗာ: /files/nextcloud.jpg
 tags:
-  - Self-hosting
-  - Documentation & Data Management
+  - ကိုယ်ပိုင် hosting
+  - စာရွက်စာတမ်းနှင့်ဒေတာစီမံခန့်ခွဲမှု
   - Cross-platform
-categories: 
-  - Digital Security Tools
-  - File Storage
-  - File Sync
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-22T09:04:42.901Z
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး toolsများ
+  - ဖိုင်သိုလှောင်မှု
+  - ဖိုင် sync လုပ်ခြင်း။
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
+ရက်စွဲ- 2023-01-22T09:04:42.901Z
 ---
-N﻿extcloud is an open-source collaboration suite with secure file storage, sync, and share.
+Nextcloud သည် လုံခြုံသော ဖိုင်သိုလှောင်မှု၊ ထပ်တူပြုမှုနှင့် မျှဝေမှုတို့ပါရှိသော open-source ပူးပေါင်းမှုအစုအဝေးတစ်ခုဖြစ်သည်။
