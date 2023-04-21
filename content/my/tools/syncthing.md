@@ -1,12 +1,12 @@
 ---
-title: Syncthing
+ခေါင်းစဉ်- ထပ်တူပြုခြင်း။
 cover: /files/syncthing.jpg
-website: https://syncthing.net/
-credits: Text by Syncthing.
+ဝဘ်ဆိုဒ်- https://syncthing.net/
+ခရက်ဒစ်- Syncthing ဖြင့် စာသား။
 tags:
-  - Documentation & Data Management
-categories:
-  - File Sync
-date: 2023-01-28T00:35:53.546Z
+  - စာရွက်စာတမ်းနှင့်ဒေတာစီမံခန့်ခွဲမှု
+အမျိုးအစားများ-
+  - ဖိုင်စင့်ခ်လုပ်ခြင်း။
+ရက်စွဲ- 2023-01-28T00:35:53.546Z
 ---
-Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real-time, safely protected from prying eyes.
+Syncthing သည် အဆက်မပြတ် ဖိုင်ထပ်တူပြုခြင်း ပရိုဂရမ်တစ်ခုဖြစ်သည်။ ၎င်းသည် ကွန်ပျူတာနှစ်လုံး သို့မဟုတ် ထို့ထက်ပိုသော ဖိုင်များကို အချိန်နှင့်တပြေးညီ တစ်ပြိုင်တည်း ချိန်ကိုက်ကာ မျက်စိမှိတ် လုံခြုံစွာ ကာကွယ်ပေးသည်။
