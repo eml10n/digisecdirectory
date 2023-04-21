@@ -14,6 +14,6 @@
 ---
 BigBlueButton သည် အွန်လိုင်းပေါ်တွင် သင်တန်းပေးခြင်းနှင့် သင်ယူလေ့လာခြင်းအတွက် အစည်းအဝေးခန်းငယ်များ၊ သင်ပုန်းများ၊ ဘာသာပြန်ထိုးပေးခြင်း၊ မဲပေးခြင်း၊ မှတ်စုများမျှဝေခြင်းနှင့် တခြားသောအရာများစွာပါဝင်ပြီး ၄င်းတို့အတွက်လိုအပ်သောအင်္ဂါရပ်များအစုံပါရှိကာ ပွင့်လင်းမြင်သာသောရင်းမြစ်ရှိသည့် ဗီဒီယိုဖြင့်ဆက်သွယ်နိုင်သောကိရိယာတစ်ခုဖြစ်သည်။
 
-> \[S]ign up for BigBlueButton managed by [NoLog.cz](https://call.nolog.cz/), [CommunityBridge](https://communitybridge.com/), [meet.coop](https://www.meet.coop/), and other providers.\
-> – [Digital Hygiene 101: How to practise digital safety and security
+> \[S][NoLog.cz](https://call.nolog.cz/), [CommunityBridge](https://communitybridge.com/), [meet.coop](https://communitybridge.com/), [meet.coop](https http://www.meet.coop/) နှင့် အခြားဝန်ဆောင်မှုပေးသူများ။\
+> – [Digital Hygiene 101- ဒစ်ဂျစ်တယ်ဘေးကင်းရေးနှင့် လုံခြုံရေးကို လေ့ကျင့်နည်း
 ](https://engagemedia.org/2022/digital-hygiene-safety-security/)
