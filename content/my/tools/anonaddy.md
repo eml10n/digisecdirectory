@@ -1,17 +1,17 @@
 ---
-title: AnonAddy
+ခေါင်းစဉ်- AnonAddy
 cover: /files/anonaddy.jpg
-website: https://anonaddy.com/
-credits: Text by Khairil Zhafri/EngageMedia.
-flags:
+ဝဘ်ဆိုဒ်- https://anonaddy.com/
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
+အလံများ
   - Freemium
 tags:
-  - Communications & Messaging
-  - Self-hosting
-categories:
-  - OpenPGP Encryption
-  - Digital Security Tools
-  - Email Forwarding
-date: 2023-01-25T08:17:33.984Z
+  - ဆက်သွယ်ရေးနှင့်စာတိုပေးပို့ခြင်း။
+  - ကိုယ်ပိုင် hosting
+အမျိုးအစားများ-
+  - OpenPGP စာဝှက်စနစ်
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+  - အီးမေးလ်ပို့ခြင်း။
+ရက်စွဲ- 2023-01-25T08:17:33.984Z
 ---
-AnonAddy provides an email forwarding service that keeps personal email addresses private.
+AnonAddy သည် ကိုယ်ရေးကိုယ်တာ အီးမေးလ်လိပ်စာများကို သီးသန့်ထားရှိပေးသည့် အီးမေးလ် ထပ်ဆင့်ပို့ခြင်း ဝန်ဆောင်မှုကို ပေးပါသည်။
