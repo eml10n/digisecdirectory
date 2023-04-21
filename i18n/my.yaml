@@ -21,33 +21,39 @@ button_menu_open: 'Menu Bar ကိုဖွင့်ပါ'
 button_menu_close: 'Menu Bar ကိုပိတ်ပါ'
 button_homepage: 'မူလ စာမျက်နှာသို့ ပြန်သွားရန်'
 
-title_anchor_prefix: "ပင်မစာမျက်နှာ"
+title_anchor_prefix: "ပင်မစာမျက်နှာ:"
 
 posts_read_more: 'ပို့စ် အပြည့်အစုံ ဖတ်ပါ'
 posts_read_time:
   one: "တစ်မိနစ်စာ ဖတ်ပါ"
   other: "ဖတ်ရန် {{.}} မိနစ်"
-posts_update_prefix: ''
+posts_update_prefix: 'နောက်ဆုံးရေးသားချိန်'
 posts_count:
-  one: ""
-  other: ""
-posts_tagged_with: ''
+  one: "ပို့စ်တစ်ခု"
+  other: "{{ . }} ပို့စ်များ"
+posts_tagged_with: '''{{.}}'' နှင့် tagged စာမျက်နှာအားလုံး'
 
 footer_build_with: >
-footer_legal_notice: ''
-footer_privacy_policy: ''
+  လူမှုအသိုင်းအဝိုင်းမှ စတင်ဆောင်ရွက်ခြင်း  
+    <a href="https://engagemedia.org/">  <img src="/files/logo-on-dark-bg.svg" alt="EngageMedia"
+  class="logo dark-logo">
+    <img src="/files/logo-on-light-bg.svg" alt="EngageMedia" class="logo light-logo">
+  </a>
+footer_legal_notice: 'မူပိုင်ခွင့် အသိပေးချက်'
+footer_privacy_policy: 'ကိုယ်ရေးလုံခြုံမှု မူဝါဒ'
 footer_content_license_prefix: >
+  အောက်တွင် လိုင်စင်ရထားသော အကြောင်းအရာ
 
-language_switch_no_tranlation_prefix: ""
+language_switch_no_tranlation_prefix: "စာမျက်နှာ ဘာသာပြန်မထားပါ :"
 
-propertylist_required: ''
-propertylist_optional: ''
-propertylist_default: ''
+propertylist_required: 'လိုအပ်သည်'
+propertylist_optional: 'ရွေးချယ်နိုင်သည်'
+propertylist_default: 'ပုံသေမူလ'
 
-pagination_page_prev: ''
-pagination_page_next: ''
-pagination_page_state: ""
+pagination_page_prev: 'ယခင်'
+pagination_page_next: 'ရှေ့သို့'
+pagination_page_state: "စာမျက်နှာ {{.PageNumber}} ၏ {{.TotalPages}}"
 
 # This is to warn the user that the resource may not be available in their language
 ## Please replace "English" with the target language
-language_unavailable: ""
+language_unavailable: "{{.Title }} ကို အင်္ဂလိပ်ဘာသာဖြင့် မရရှိနိုင်ပါ ။"
