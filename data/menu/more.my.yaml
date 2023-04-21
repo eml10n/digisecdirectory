@@ -2,12 +2,13 @@
 more:
 - name:
     en: 'လမ်းညွှန်ကို အပ်ဒိတ်လုပ်ပါ'
-  ref: ""
-  pre: ''
-  post: ''
+  ref: "/အပ်ဒိတ်လုပ်ရန်"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
 - name:
-    en: ''
-  ref: ""
+    en: 'အဘိဓာန်ကို ဘာသာပြန်ပါ'
+  ref: "/ဘာသာပြန်ပါ"
   pre: ''
   post: ''
 - identifier: ''
@@ -17,17 +18,18 @@ more:
 - identifier: ''
   external: ''
 - name:
-    en: ''
-  ref: ""
+    en: 'မူပိုင်ခွင့် အသိပေးချက်'
+  ref: "/မူပိုင်ခွင့်"
   pre: ''
   post: ''
 - name:
-    en: ''
-  ref: ""
+    en: 'ကိုယ်ရေးလုံခြုံမှု မူဝါဒ'
+  ref: "ကိုယ်ရေးလုံခြုံမှု"
   pre: ''
   post: ''
 - name:
-    en: ''
+    en: 'ကိုလိုဖုန်း'
   ref: ""
-  pre: ''
-  post: ''
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
