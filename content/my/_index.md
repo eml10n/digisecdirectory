@@ -1,11 +1,6 @@
----
-type:
-စာမျက်နှာခေါင်းစဉ်: ဒစ်ဂျစ်တယ်လုံခြုံရေးအသိုင်းအဝိုင်း directory ကို
-ရက်စွဲ: 2023 -01 -27T17:18:43.828Z ကို
-
 ---*digisec.directory ** သည် [EngageMedia Digital Security Localization Project](https://engagemedia.org/projects/localization/) ၏ ပံ့ပိုးပေးသူများမှ ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ဘေးကင်းလုံခြုံရေး အရင်းအမြစ်များကို စုဆောင်းခြင်းဖြစ်သည် ။ ဒီ directory ကို အဓိကအားဖြင့်ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ဘေးကင်းလုံခြုံရေး tools များနှင့် လမ်းညွှန်များစာရင်း, နှင့်မြန်မာ, ဖိလစ်ပိုင်, အင်ဒိုနီးရှား, Khmer, ထိုင်းနှင့်အင်္ဂလိပ် အတွက်ရရှိနိုင်ကြောင်း အရင်းအမြစ်အုပ်စုများ ကိုဖော်ပြပါသည်။
 
-ဒီ directory မှာတော့ [ဒစ်ဂျစ်တယ် လုံခြုံရေး ကိရိယာတွေ](sategital/digital-လုံခြုံရေး-လုံခြုံရေး ကိရိယာတွေ/) ကို သူတို့ရဲ့ အဓိက အသုံးစရိတ် ဒါမှမဟုတ် လုပ်ဆောင်မှုအားဖြင့် စုစည်းထားပါတယ်။
+ဒီ directory မှာတော့ [ဒစ်ဂျစ်တယ် လုံခြုံရေး ကိရိယာတွေ](sategital/digital-လုံခြုံရေး-လုံခြုံရေး ကိရိယာတွေ/) ကို သူတို့ရဲ့ အဓိက အသုံးစရိတ် ဒါမှမဟုတ် လုပ်ဆောင်မှုအားဖြင့် စုစည်းထားပါတယ်
 
 * [ကူးစက်ရောဂါ & အမည်မသိ] (/ en/tags များ/ဝန်းကျင် - အမည်မသိ /) အင်တာနက်ပေါ်တွင် အာရုံစူးစိုက်မှုနှင့် စောင့်ကြည့်ခြင်းကြောင့် tools များ
 * [ဆက်သွယ်ရေး & မက်ဆေ့ချ်ပေးပို့ခြင်း] (/ en/tags/ဆက်သွယ်ရေး - မက်ဆေ့ချ်ပေးပို့ခြင်း /) လုံခြုံအွန်လိုင်းစကားပြောဆိုမှုများ, ခေါ်ဆိုမှုများနှင့်အစည်းအဝေးများအတွက် ဝန်ဆောင်မှုများ
@@ -14,29 +9,29 @@ type:
 
 ဖြစ်နိုင်သမျှ၊ ကျွန်ုပ်တို့သည် ဤ directory တွင် အခမဲ့နှင့် open-source ကိရိယာများ ပါ၀င်သည်၊ ဆိုလိုသည်မှာ သင်သည် လွတ်လပ်စွာ အသုံးပြုခွင့်၊ ပြင်ဆင်ရန်နှင့် ဤကိရိယာများ၏ အရင်းအမြစ်ကုဒ်ကို ကန့်သတ်ချက်မရှိဘဲ ပြန်လည်ဖြန့်ဝေခွင့်ရှိသည်။ 
 
-ဒီ directory ထဲမှာရှိတဲ့ tools တွေကို အောက်ပါအတိုင်း tag လုပ်ထားပါသည်။
+ဒီ directory ထဲမှာရှိတဲ့ tools တွေကို အောက်ပါအတိုင်း tag လုပ်ထားပါသည်:
 
 * [Web app ကို] (/ en/tags များ/web – app ကို /) - သင်သည်သင် ၏ device ပေါ်တွင် install လုပ်ရန်မလိုဘဲအင်တာနက် browser ပေါ်တွင်တိုက်ရိုက်ဤ tool ကိုအသုံးပြုနိုင်သည်;
 * [Self – hosting] (/ en/tags များ/self - hosting /) - သင်ထိန်းချုပ်သော ဆာဗာပေါ်တွင် ဤ tool တစ်ခု၏ ဥပမာကို ပြေးပြီးထိန်းသိမ်းနိုင်သည် ။
 * [Cross - platform] (/ en/tags/Cross - platform /) – သင်သည် လူကြိုက်များသော operating system ကို အသုံးပြုသည့် သင် ၏ desktop နှင့်မိုဘိုင်း devices များပေါ်တွင်ဤ tool ကို install လုပ်နိုင်ပါတယ်;
 
-ကျွန်ုပ်တို့သည်လည်း အချို့သော tool များကို အလံပြထားသည်-
+ကျွန်ုပ်တို့သည်လည်း အချို့သော tool များကို အလံပြထားသည်:
 
 * ပိတ်ထားသောအရင်းအမြစ် - ဤကိရိယာတွင် အများပြည်သူရရှိနိုင်ပြီး အတည်ပြုနိုင်သော အရင်းအမြစ်ကုဒ်မရှိပါ ။
 * Freemium – ဒီ tool ကိုအခမဲ့ ရနိုင်သော်လည်း အပိုဆောင်းသိုလှောင်မှု,လှိုင်းနှုန်း, သို့မဟုတ် features တွေကို အခပေး အဆင့်မြှင့်နှင့်အတူရရှိနိုင်ပါသည်; နှင့်
 * ပရီမီယံ – ဤ tool သည် paid subscription နှင့်သာ ရရှိနိုင်သည်။
 
-အချို့သော tool များကို အထူး အမျိုးအစားများအဖြစ် စုစည်းထားသည်-
+အချို့သော tool များကို အထူး အမျိုးအစားများအဖြစ် စုစည်းထားသည်:
 
-* Slack ၏ အခြားရွေးချယ်စရာများ (/en/categories/collaborative-chat)
-* [Email](/en/categories/email) နှင့် [email client](/en/categories/email-client/) Google Gmail၊ Apple Mail၊ Microsoft Outlook စသည်ဖြင့် အခြားရွေးချယ်စရာများ
-* [အီးမေးလ် ထပ်ဆင့်ပို့ခြင်း](/en/categories/email-forwarding/) ကိုယ်ရေးကိုယ်တာ အကာအကွယ်အတွက် ဝန်ဆောင်မှုများ၊
-* [ဖိုင်မျှဝေခြင်း](/en/categories/file-sharing), [storage](/en/categories/file-storage) နှင့် [sync](/en/categories/file-sync) အခြားရွေးချယ်စရာ Dropbox၊ WeTransfer၊ Google Drive၊ Microsoft OneDrive စသဖြင့်၊
-* [ချက်ချင်းစာတိုပေးပို့ခြင်း](/en/categories/instant-messaging) WhatsApp၊ Messenger၊ WeChat၊ LINE၊ Viber စသည်ဖြင့် အခြားရွေးချယ်စရာများ
+* Slack ၏ အခြားရွေးချယ်စရာများ (/en/categories/collaborative-chat);
+* [Email](/en/categories/email) နှင့် [email client](/en/categories/email-client/) Google Gmail၊ Apple Mail၊ Microsoft Outlook စသည်ဖြင့် အခြားရွေးချယ်စရာများ;
+* [အီးမေးလ် ထပ်ဆင့်ပို့ခြင်း](/en/categories/email-forwarding/) ကိုယ်ရေးကိုယ်တာ အကာအကွယ်အတွက် ဝန်ဆောင်မှုများ
+* [ဖိုင်မျှဝေခြင်း](/en/categories/file-sharing), [storage](/en/categories/file-storage) နှင့် [sync](/en/categories/file-sync) အခြားရွေးချယ်စရာ Dropbox၊ WeTransfer၊ Google Drive၊ Microsoft OneDrive စသဖြင့်;
+* [ချက်ချင်းစာတိုပေးပို့ခြင်း](/en/categories/instant-messaging) WhatsApp၊ Messenger၊ WeChat၊ LINE၊ Viber စသည်ဖြင့် အခြားရွေးချယ်စရာများ;
 * [ကြက်သွန်လမ်းကြောင်းလမ်းကြောင်း](/en/categories/onion-routing)-configured tools; နှင့်
-* [OpenPGP ကုဒ်ဝှက်ခြင်း](/en/categories/openpgp-encryption) အပလီကေးရှင်းများ။
-* [Videoconferencing](/en/categories/videoconferencing) Zoom၊ Google Meet၊ Microsoft Teams စသည်ဖြင့်၊
-* [virtual private network (VPN)](/en/categories/virtual-private-network) ဝန်ဆောင်မှုများ၊
+* [OpenPGP ကုဒ်ဝှက်ခြင်း](/en/categories/openpgp-encryption) အပလီကေးရှင်းများ
+* [Videoconferencing](/en/categories/videoconferencing) Zoom၊ Google Meet၊ Microsoft Teams စသည်ဖြင့်;
+* [virtual private network (VPN)](/en/categories/virtual-private-network) ဝန်ဆောင်မှုများ;
 
 ဤ directory တွင် အကြံပြုထားသော tools များကို အသုံးပြုခြင်းဖြင့် သင်၏ ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ဘေးကင်းမှုကို မြှင့်တင်ပေးနိုင်သည် ။ ဤ tools များ မည်သို့အလုပ်လုပ်ပုံနှင့် ၎င်းတို့ကို မှန်ကန်စွာအသုံးပြုရမည်ကို သိရှိနားလည်မှုရှိခြင်းသည် သင်၏ဒစ်ဂျစ်တယ်လုံခြုံရေးအန္တရာယ်များကို ကန့်သတ်ရန်နှင့် သင်၏ ဒစ်ဂျစ်တယ် ဘေးကင်းရေး ခြိမ်းခြောက်မှုများကို လျော့ပါးစေရန်အတွက် ထပ်တူထပ်မျှအရေးကြီးပါသည်။
 
