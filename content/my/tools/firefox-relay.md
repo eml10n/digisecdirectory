@@ -1,17 +1,17 @@
 ---
-draft: false
-title: Firefox Relay
-website: https://relay.firefox.com/
-cover: /files/firefoxrelay.jpg
-flags:
+မူကြမ်း- မှားယွင်းသော
+ခေါင်းစဉ်- Firefox Relay
+ဝဘ်ဆိုဒ်- https://relay.firefox.com/
+ကာဗာ: /files/firefoxrelay.jpg
+အလံများ
   - Freemium
 tags:
-  - Self-hosting
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-  - Email Forwarding
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T22:30:27.850Z
+  - ကိုယ်ပိုင် hosting
+  - အင်တာနက်ရှာဖွေခြင်းနှင့်ကုန်ထုတ်စွမ်းအား
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး tools များ
+  - အီးမေးလ်ပို့ခြင်း။
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
+ရက်စွဲ- 2023-01-19T22:30:27.850Z
 ---
-Firefox Relay provides disposable unique forwarding email addresses to help users mask their personal email addresses on e-commerce sites, social networking platforms, sign-up forms, and more.
+Firefox Relay သည် အသုံးပြုသူများအား e-commerce ဆိုက်များ၊ လူမှုကွန်ရက် platforms များ၊ အကောင့်ဖွင့်မှုပုံစံများနှင့် အခြားအရာများပေါ်တွင် ၎င်းတို့၏ ကိုယ်ရေးကိုယ်တာ အီးမေးလ်လိပ်စာများကို ဖုံးကွယ်ရန် ကူညီပေးရန်အတွက် တစ်ဦးတည်းသော ထူးခြားသော forwarding အီးမေးလ်လိပ်စာများကို ပံ့ပိုးပေးပါသည်။
