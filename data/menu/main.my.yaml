@@ -2,45 +2,52 @@
 main:
 - name:
     en: 'ဒစ်ဂျစ်တယ် လုံခြုံရေး ကိရိယာများ'
-  ref: ""
-  pre: ''
-  post: ''
+  ref: "/categories/ဒစ်ဂျစ်တယ်လုံခြုံရေး - tools များ"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
   sub:
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'အခြေအနေနှင့် အမည်မဖော်လိုမှု'
+    ref: "/tags များ/လွှမ်းမိုးမှု - အမည်မဖော်လိုမှု"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'ဆက်သွယ်ရေးနှင့် မက်ဆေ့ချ်'
+    ref: "/tags များ/ဆက်သွယ်ရေး - မက်ဆေ့ချ်ပို့ခြင်း"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'စာရွက်စာတမ်းများ & ဒေတာစီမံခန့်ခွဲမှု'
+    ref: "/tags များ/စာရွက်စာတမ်း - ဒေတာ - စီမံခန့်ခွဲမှု"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
   - name:
-      en: ''
-    ref: ""
-    pre: ''
-    post: ''
+      en: 'အင်တာနက် Browsing & ထုတ်ကုန်ထုတ်လုပ်မှု'
+    ref: "/tags များ/အင်တာနက် - browsing - productivity"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+      fa-fw"></i></span><span class="label">'
+    post: '</span></span>'
+- identifier: ''
+  external: 'မှန်ပါတယ်။'
+- identifier: ''
+  external: ''
+- name:
+    en: 'ဒစ်ဂျစ်တယ် လုံခြုံရေး လမ်းညွှန်များ'
+  ref: "/categories/ဒစ်ဂျစ်တယ်လုံခြုံရေး - လမ်းညွှန်များ"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
 - identifier: ''
   external: ''
 - identifier: ''
   external: ''
 - name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
-- identifier: ''
-  external: ''
-- identifier: ''
-  external: ''
-- name:
-    en: ''
-  ref: ""
-  pre: ''
-  post: ''
+    en: 'ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ယက်'
+  ref: "/အမျိုးအစားများ/ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ယက်"
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
+    fa-fw"></i></span><span class="label">'
+  post: '</span></span>'
