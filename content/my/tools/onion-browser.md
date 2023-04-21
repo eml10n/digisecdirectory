@@ -1,13 +1,12 @@
 ---
-title: Onion Browser
-website: https://onionbrowser.com/
-cover: /files/onionbrowser.jpg
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-  - Onion Routing
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T07:35:04.460Z
----
-Onion Browser is a web browser that reroutes all traffic through the Tor network to protect privacy, circumvent surveillance, and evade censorship on the internet.
+ခေါင်းစဉ်: ကြက်သွန်ဖြူ browser
+ကိုဝက်ဘ်ဆိုက်: https://onionbrowser.com/
+အဖုံး: /files/onionbrowser.jpg
+tags များ:
+  - အခြေအနေ &အမည်မသိအမျိုးအစားများ:
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး Tools များ
+  - ကြက်သွန်ဖြူလမ်းကြောင်း
+ခရက်ဒစ်: Khairil Zhafri/EngageMedia မှစာသား ။
+ရက်စွဲ: 2023 -01 -19T07:35:04.460Z ကို
+--- 
+ကြက်သွန်ဖြူ Browser ကိုသီးသန့်လုံခြုံရေးကိုကာကွယ်ရန် Tor ကွန်ယက်မှတဆင့်သယ်ယူပို့ဆောင်ရေးအားလုံး reroutes, စောင့်ကြည့်လေ့လာခြင်း, နှင့်အင်တာနက်ပေါ်တွင်အာရုံစူးစိုက်မှုရှောင်ရှားသော web browser ဖြစ်ပါတယ် ။
