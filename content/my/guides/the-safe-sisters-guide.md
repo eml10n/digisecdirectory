@@ -1,14 +1,14 @@
 ---
-title: The Safe Sisters Guide
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+ခေါင်းစဉ်: ဘေးကင်းလုံခြုံ ညီအစ်မများ လမ်းညွှန်
+# ဤနေရာတွင် ၎ င်း ၏ ISO 639 -1 ကုဒ်မထည့်မီ ဘာသာစကားကို ထောက်ပံ့ထားကြောင်း အတည်ပြုပါ ။ နိုင်ငံကုဒ်မရှိဘဲ MS_MY အစား MS ။
+ဘာသာစကားများ:
   - en
-website: https://protocol.openbriefing.org/
-credits: Text by Safe Sisters.
-flags:
-  - PDF Only
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:53:14.951Z
----
-The Safe Sisters Guide is meant to help our sisters learn about problems that we might run into on the internet (like leaked or stolen photos, viruses, and scams), how we can make informed decisions every day to protect ourselves, and to make the internet a safe space for ourselves, our families, and all women!
+ဝက်ဘ်ဆိုက်: https://protocol.openbriefing.org/
+credit: ညီအစ်မများ
+အလံ:
+  - PDF only
+ကိုသာအမျိုးအစားများ:
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးလမ်းညွှန်ရက်စွဲ: 2023
+-01 -25T10:53:14.951Z
+--- 
+ဘေးကင်းလုံခြုံ ညီအစ်မများ လမ်းညွှန်သည် ကျွန်ုပ်တို့ အင်တာနက်ပေါ်တွင် ပြေးနိုင်သောပြဿနာများ (လိမ်လည်ခြင်းသို့မဟုတ်ခိုးယူထားသောဓာတ်ပုံများ ၊ ဗိုင်းရပ်စ်များနှင့်အမှားများကဲ့သို့) ကိုလေ့လာရန် ကျွန်ုပ်တို့ ၏ ညီအစ်မများအား ကူညီရန် ရည်ရွယ်သည် ။ မိမိကိုယ်ကို ကာကွယ်ရန် နေ့စဉ်အသိပေး ဆုံးဖြတ်ချက်များနှင့် အင်တာနက်ကို ကျွန်ုပ်တို့ ၊ ကျွန်ုပ်တို့ ၏ မိသားစုများနှင့် အမျိုးသမီးများ အားလုံးအတွက် ဘေးကင်းလုံခြုံသော နေရာတစ်ခုဖြစ်စေရန် ကူညီပေးရန် ရည်ရွယ်ထားသည်။
