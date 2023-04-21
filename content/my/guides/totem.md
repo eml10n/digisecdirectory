@@ -1,12 +1,12 @@
 ---
-title: Totem
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+ခေါင်းစဉ်- Totem
+# ဤနေရာတွင် ၎င်း၏ ISO 639-1 ကုဒ်ကို မထည့်မီ ဘာသာစကားကို ပံ့ပိုးထားကြောင်း စစ်ဆေးပါ။ နိုင်ငံကုဒ်မပါဘဲ၊ ဆိုလိုသည်မှာ ms_MY အစား ms။
+ဘာသာစကားများ
   - en
-website: https://totem-project.org/
-credits: Text by the Totem team.
-categories:
-  - Digital Security Guides
-date: 2023-01-25T11:04:34.727Z
+ဝဘ်ဆိုဒ်- https://totem-project.org/
+ခရက်ဒစ်- Totem အဖွဲ့မှ စာသား။
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးလမ်းညွှန်များ
+ရက်စွဲ- 2023-01-25T11:04:34.727Z
 ---
-Totem, developed by Greenhost and Free Press Unlimited, is an online learning platform that offers educational courses about digital security and privacy, and related tools and tactics for journalists, activists and human rights defenders in a safe, online classroom environment.
+Greenhost နှင့် Free Press Unlimited မှ ဖန်တီးထားသော Totem သည် ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ကိုယ်ရေးကိုယ်တာဆိုင်ရာ အသိပညာပေးသင်တန်းများနှင့် စာနယ်ဇင်းသမားများ၊ တက်ကြွလှုပ်ရှားသူများနှင့် လူ့အခွင့်အရေး ကာကွယ်သူများအတွက် ဘေးကင်းလုံခြုံသော အွန်လိုင်းစာသင်ခန်းပတ်ဝန်းကျင်တွင် သက်ဆိုင်သည့် ကိရိယာများနှင့် နည်းဗျူဟာများကို ပံ့ပိုးပေးသည့် အွန်လိုင်းသင်ယူမှု ပလက်ဖောင်းတစ်ခု ဖြစ်သည်။
