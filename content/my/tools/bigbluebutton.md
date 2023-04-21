@@ -1,18 +1,18 @@
 ---
-title: BigBlueButton
-cover: /files/bigbluebutton.jpg
-website: https://bigbluebutton.org/
-credits: Text by Khairil Zhafri/EngageMedia.
-tags:
-  - Self-hosting
-  - Web App
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Videoconferencing
-date: 2023-01-19T21:52:14.370Z
+ခေါင်းစဥ်: BigBlueButton
+စာမျက်နှာအဖုံ: /files/bigbluebutton.jpg
+ဝက်ဘ်ဆိုက်: https://bigbluebutton.org/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+အမည်များ:
+  - မိမိဘာသာလက်ခံဆောင်ရွက်ခြင်း
+  - ဝက်ဘ်ဆိုက်အက်ပလီကေးရှင်း
+  - ဆက်သွယ်ခြင်းနှင့်မက်ဆေ့ပို့ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကွန်ကိရိယာများ
+  - ဗီဒီယိုဖြင့်ဆွေးနွေးတိုင်ပင်ခြင်း
+ရက်စွဲ: 2023-01-19T21:52:14.370Z
 ---
-BigBlueButton is an open-source video communication tool with all the required features for online training and learning including breakout rooms, whiteboards, closed captioning, polls, shared notes, and more.
+BigBlueButton သည် အွန်လိုင်းပေါ်တွင် သင်တန်းပေးခြင်းနှင့် သင်ယူလေ့လာခြင်းအတွက် အစည်းအဝေးခန်းငယ်များ၊ သင်ပုန်းများ၊ ဘာသာပြန်ထိုးပေးခြင်း၊ မဲပေးခြင်း၊ မှတ်စုများမျှဝေခြင်းနှင့် တခြားသောအရာများစွာပါဝင်ပြီး ၄င်းတို့အတွက်လိုအပ်သောအင်္ဂါရပ်များအစုံပါရှိကာ ပွင့်လင်းမြင်သာသောရင်းမြစ်ရှိသည့် ဗီဒီယိုဖြင့်ဆက်သွယ်နိုင်သောကိရိယာတစ်ခုဖြစ်သည်။
 
 > \[S]ign up for BigBlueButton managed by [NoLog.cz](https://call.nolog.cz/), [CommunityBridge](https://communitybridge.com/), [meet.coop](https://www.meet.coop/), and other providers.\
 > – [Digital Hygiene 101: How to practise digital safety and security
