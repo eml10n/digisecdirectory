@@ -9,8 +9,8 @@
 
 ကျွန်ုပ်တို့သည် အလင်း သို့မဟုတ် အမှောင် mode ကိုများအတွက် အသုံးပြုသူ browsing preference ကိုမှလွဲ ၍ အခြား မည်သည့် ရည်ရွယ်ချက်အတွက် cookies များကိုမသုံးပါ ။ တစ်ဦးက "cookie ကို" ကျွန်ုပ်တို့၏ site ကိုသင့်ရဲ့ browser ကိုမှ ပေးပို့နိုင်ကြောင်းဒေတာ ၏ အသေးစားအစိတ်အပိုင်းတစ်ခုဖြစ်ပါသည်။ ထို့နောက်သင့်ရဲ့ hard drive ပေါ်တွင်သိမ်းဆည်းထားနိုင်ပါသည် ။ သင်သည် သင် ၏ ကိုယ်ရေးလုံခြုံမှုနှင့် cookie နည်းပညာအသုံးပြုမှုနှင့် ပတ်သက် ၍ စိုးရိမ်ပူပန်နေပါကသင်သည် cookie ကို လက်ခံ ရရှိသည့်အခါ သင့်အား အကြောင်းကြားရန် သင့် web browser ကိုသတ်မှတ်နိုင်သည် ။ ကျွန်ုပ်တို့ ၏ ဝက်ဘ်ဆိုက်က သင့်ကို ပေးပို့ရန် ကြိုးပမ်းသည့် cookies များကို ငြင်းပယ်ရန် သင် ၏ browser ကိုလည်း သတ်မှတ်နိုင်သည် ။ သင်သည်ကျွန်ုပ်တို့ ၏ cookie ကိုဖယ်ရှားရန်သို့မဟုတ်မလက်ခံရန်ရွေးချယ်ပါက ၊ သင်သည်ကျွန်ုပ်တို့ ၏ ဝက်ဘ်ဆိုက်ကိုမသက်ရောက်မှုမရှိဘဲဆက်လက်အသုံးပြုနိုင်သည် ။
 
-We occasionally update this policy and encourage you to periodically review this policy to stay informed about how we are protecting the personal information we collect.
+ကျွန်ုပ်တို့သည် ဤမူဝါဒကို ရံဖန်ရံခါ အပ်ဒိတ်လုပ်ပြီး ကျွန်ုပ်တို့စုဆောင်းထားသော ကိုယ်ရေးကိုယ်တာ အချက်အလက်များကို မည်သို့ ကာကွယ်ထားကြောင်း အသိပေးရန် သင့်အား အချိန်အခါအလိုက် ဤမူဝါဒကို ပြန်လည်သုံးသပ်ရန် တိုက်တွန်းပါသည်။
 
-You are entitled to view and request copies, deletion, and modification of the personal data we collect from you. Note that these rights do not apply if they conflict with other legal obligations.
+ကျွန်ုပ်တို့က သင့်ထံမှ စုဆောင်းထားသော ကိုယ်ရေးအချက်အလက်များ ၏ မိတ္တူများ ၊ ဖျက်သိမ်းခြင်းနှင့် ပြုပြင်ပြောင်းလဲခြင်းတို့ကို ကြည့်ရှုရန်နှင့် တောင်းဆိုရန် သင့်တွင် အခွင့်အရေးရှိသည် ။ ဤအခွင့်အရေးများသည် အခြားဥပဒေရေးရာတာဝန်များနှင့် ပဋိပက္ခဖြစ်ပါက မသက်ဆိုင်ကြောင်း သတိပြုပါ ။
 
-For further information regarding your rights, this privacy policy, or the handling of your personal data, please reach out via EngageMedia [contact page](https://engagemedia.org/contact/).
+သင် ၏ အခွင့်အရေးများ ၊ ဤ privacy မူဝါဒ သို့မဟုတ် သင် ၏ ကိုယ်ရေးကိုယ်တာအချက်အလက်များကို ကိုင်တွယ်ဆောင်ရွက်ခြင်းနှင့် ပတ်သက် ၍ နောက်ထပ်အချက်အလက်များအတွက် EngageMedia [ဆက်သွယ်ရန်စာမျက်နှာ](https://engagemedia.org/contact/) မှတဆင့် ဆက်သွယ်ပါ ။
