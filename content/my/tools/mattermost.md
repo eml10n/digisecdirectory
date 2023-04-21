@@ -1,17 +1,17 @@
 ---
-title: Mattermost
+ခေါင်းစဉ်- အရေးကြီးဆုံး
 cover: /files/mattermost.jpg
-website: https://mattermost.com/
-credits: Text by Khairil Zhafri/EngageMedia.
-flags:
+ဝဘ်ဆိုဒ်- https://mtermost.com/
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
+အလံများ
   - Freemium
 tags:
-  - Self-hosting
+  - ကိုယ်ပိုင် hosting
   - Cross-platform
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Collaborative Chat
-date: 2023-02-04T21:57:35.157Z
+  - ဆက်သွယ်ရေးနှင့် စာတိုပေးပို့ခြင်း။
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး tools များ
+  - ပူးပေါင်းစကားပြောခြင်း။
+ရက်စွဲ- 2023-02-04T21:57:35.157Z
 ---
-Mattermost is an open-source collaborative chat for teams.
+အရေးကြီးဆုံးမှာ အဖွဲ့များအတွက် open-source ပူးပေါင်းဆောင်ရွက်မှု chat ဖြစ်သည်။
