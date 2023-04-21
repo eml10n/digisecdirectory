@@ -1,14 +1,14 @@
 ---
-title: Digital Safety Trainer’s Assistant
-# Verify that the language is supported before adding its ISO 639-1 code here. without the country code, i.e. ms instead of ms_MY.
-languages:
+ခေါင်းစဉ်: ဒစ်ဂျစ်တယ်ဘေးကင်းလုံခြုံရေးသင်တန်းဆရာရဲ့လက်ထောက်
+# ဤနေရာတွင် ၎ င်း ၏ ISO 639 -1 ကုဒ်မထည့်မီဘာသာစကားကိုထောက်ပံ့ထားကြောင်းအတည်ပြုပါ ။ နိုင်ငံကုဒ်မရှိဘဲ MS_MY အစား MS ။
+ဘာသာစကားများ:
   - en
-website: https://safesisters.org/wp-content/uploads/2019/09/Digital-Safety-Trainers-Assistant-smaller.pdf
-credits: Text by Safe Sisters.
-flags:
-  - PDF Only
-categories:
-  - Digital Security Guides
-date: 2023-01-25T10:49:17.797Z
----
-The Digital Security Trainer’s Assistant, is a trainer’s guide for new and experienced digital security trainers, who want a friendly, easy-to-follow resource that they can keep with them as they learn and train. Written by digital security trainer and Safe Sisters trainer Natasha Msonza, the guide draws from her experiences learning and training others on digital security.
+ဝက်ဘ်ဆိုက်: https://safesisters.org/wp-content/uploads/2019/09/Digital-Sa safety-Trainers-Assistant-smaller.pdf
+credit: ညီအစ်မများ
+အလံ:
+  - PDF only
+အမျိုးအစားများ:
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးလမ်းညွှန်ရက်စွဲ: 2023
+-01 -25T10:49:17.797Z
+--- 
+ဒစ်ဂျစ်တယ် လုံခြုံရေးသင်တန်းဆရာ ၏ လက်ထောက်သည် အသစ်များနှင့် အတွေ့အကြုံရှိသောဒစ်ဂျစ်တယ်လုံခြုံရေး သင်တန်းဆရာများအတွက် သင်တန်းဆရာတစ် ဦး ၏ လမ်းညွှန်ဖြစ်ပြီးသူတို့သင်ယူပြီး သင်တန်းပေးသည့်အခါ သူတို့နှင့်အတူ ထားနိုင်သော ဖော်ရွေပြီး လွယ်ကူသောအရင်းအမြစ်ကို လိုလားသည် ။ ဒစ်ဂျစ်တယ် လုံခြုံရေးသင်တန်းပေးသူနှင့် ဘေးကင်းလုံခြုံရေးညီအစ်မများသင်တန်းပေးသူ Natasha Msonza မှရေးသားထားသော လမ်းညွှန်သည် ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ပတ်သက် ၍ သူမ ၏ အတွေ့အကြုံများမှ သင်ယူခြင်းနှင့် အခြားသူများအား လေ့ကျင့်ပေးခြင်းကို ဆွဲဆောင်ထားသည် ။
