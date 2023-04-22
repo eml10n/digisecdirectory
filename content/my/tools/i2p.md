@@ -1,12 +1,12 @@
 ---
-title: I2P
-cover: /files/i2p.jpg
-website: https://geti2p.net/
-credits: Text by Khairil Zhafri/EngageMedia
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-date: 2023-01-27T23:54:45.993Z
+ခေါင်းစဉ်: I2P
+မျက်နှာဖုံး: /ဖိုင်များ/i2p.jpg
+ဝက်ဘ်ဆိုက်: https://geti2p.net/
+ခရက်ဒစ်: Khairil Zhafri/EngageMedia အားဖြင့်စာသား
+tags များ:
+  - အခြေအနေ & အမည်မသိ
+အမျိုးအစားများ:
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး Tools များနေ့စွဲ:
+2023 -01 -27T 23:54:45.993Zကို
 ---
-I2P – Invisible Internet Project – is a fully-encrypted peer-to-peer network layer f﻿or enhanced online privacy and security.
+I2P – မမြင်ရတဲ့အင်တာနက်စီမံကိန်း - အပြည့်အဝ – encrypted peer - to - peerကွန်ယက်ကိုအလွှာ f﻿ သို့မဟုတ် တိုးမြှင့်အွန်လိုင်း privacy နဲ့လုံခြုံရေးဖြစ်ပါတယ် ။
