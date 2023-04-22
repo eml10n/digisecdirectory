@@ -1,13 +1,13 @@
 ---
-title: Briar
-website: https://briarproject.org/
-cover: /files/briar.jpg
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Onion Routing
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T10:29:01.038Z
+ခေါင်းစဥ်: Briar
+ဝက်ဘ်ဆိုက်: https://briarproject.org/
+စာမျက်နှာအဖုံး: /files/briar.jpg
+အမည်တွဲများ:
+  - ဆက်သွယ်ခြင်းများနှင့် မက်ဆေ့ပေးပို့ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+  - Onion အင်တာနက်ပတ်လမ်းကြောင်း
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+ရက်စွဲ: 2023-01-19T10:29:01.038Z
 ---
-Briar is an open-source secure message app for Android. With Briar, users can send and receive messages through encrypted Bluetooth, WiFi, or Tor connections to avoid surveillance and censorship.
+Briar သည် ပွင့်လင်းမြင်သာသောရင်းမြစ်ရှိ၍ လုံခြုံစိတ်ချရသောမက်ဆေ့ပေးပို့သည့် အန်းဒရိုက်(Android)အက်ပလီကေးရှင်းတစ်ခုဖြစ်သည်။ အင်တာနက်သုံးစွဲသူများသည် စောင့်ကြည့်ခြင်းနှင့် ဆင်ဆာဖြတ်ခြင်းကိုရှောင်တိမ်းရန် Briar ကိုအသုံးပြု၍ စာဝှက်ထားသော ဘလူးတု၊ ဝိုင်ဖိုင် သို့မဟုတ် Tor စသောဆက်သွယ်ခြင်းများမှ မက်ဆေ့များကို ပေးပို့၊ လက်ခံနိုင်သည်။
