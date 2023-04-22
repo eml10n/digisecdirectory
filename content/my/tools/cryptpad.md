@@ -1,16 +1,16 @@
 ---
-title: CryptPad
-cover: /files/cryptpad.jpg
-website: https://cryptpad.fr/
-credits: Text by Khairil Zhafri/EngageMedia.
-tags:
-  - Web App
-  - Self-hosting
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-  - File Storage
-  - File Sharing
-date: 2023-01-19T21:28:00.311Z
+ခေါင်းစဥ်: CryptPad
+စာမျက်နှာအဖုံး: /files/cryptpad.jpg
+ဝက်ဘ်ဆိုက်:https://cryptpad.fr/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+အမည်တွဲများ:
+  - ဝက်ဘ်ဆိုက်အက်ပလီကေးရှင်း
+  - ကိုယ်တိုင်လက်ခံဆောင်ရွက်ခြင်း
+  - အင်တာနက်ဘရောင်ဇာဖွင့်ခြင်းနှင့် ထုတ်လုပ်ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+  - ဖိုင်သိမ်းဆည်းခြင်း
+  -  ဖိုင်မျှဝေခြင်း
+ရက်စွဲ: 2023-01-19T21:28:00.311Z
 ---
-CryptPad is an open-source encrypted collaboration suite for securely storing, editing, and sharing spreadsheets, documents, presentations, forms, and other types of files.
+CryptPad သည် စာရင်းဇယားများ၊ စာရွက်စာတမ်းများ၊ တင်ပြခြင်းများ၊ ပုံစံများနှင့် အခြားဖိုင်အမျိုးအစားများစွာတို့အား လုံခြုံစွာ သိမ်းဆည်းခြင်း၊ တည်းဖြတ်ခြင်းနှင့် မျှဝေခြင်းတို့အတွက် ပွင့်လင်းမြင်သာသောရင်းမြစ်ရှိသည့် စာဝှက်ခြင်းဖြင့် ပူးပေါင်းလုပ်ဆောင်ထားသောနေရာတစ်ခုဖြစ်သည်။
