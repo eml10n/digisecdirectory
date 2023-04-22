@@ -1,14 +1,14 @@
 ---
-title: Thunderbird
-website: https://www.thunderbird.net/
-cover: /files/thunderbird.jpg
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - OpenPGP Encryption
-  - Email Client
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T10:46:42.301Z
+ခေါင်းစဥ်: Thunderbird
+ဝက်ဘ်ဆိုက်: https://www.thunderbird.net/
+စာမျက်နှာအဖုံး: /files/thunderbird.jpg
+အမည်တွဲများ:
+  - ဆက်သွယ်ခြင်းများနှင့်မက်ဆေ့ပို့ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+  - OpenPGP ကုဒ်ဝှက်ခြင်း
+  - အီးမေးလ်အသုံးပြုခြင်း
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+ရက်စွဲ: 2023-01-19T10:46:42.301Z
 ---
-Thunderbird is an open-source desktop email client that has built-in security and safety features including remote image linking protection, phishing protection, PGP encryption, and more.
+Thunderbird သည် ပွင့်လင်းမြင်သာ၍အလွယ်တကူရယူနိုင်သောရင်းမြစ်ရှိသည့် desktop အီးမေးလ်အသုံးပြုခြင်းတစ်ခုဖြစ်ကာ ၄င်းတွင် အဝေးမှပုံရိပ်ချိတ်ဆက်ခြင်းအား ကာကွယ်ခြင်း၊ ဖစ်ရှင်းတိုက်ခိုက်မှုအားကာကွယ်ခြင်း၊ PGP ကုဒ်ဝှက်ခြင်းနှင့် တခြားသောလုံခြုံရေးနှင့်ဘေးကင်းရေးအတွက်အင်္ဂါရပ်များစွာတို့ အသင့်ပါရှိသည်။
