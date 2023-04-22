@@ -1,13 +1,13 @@
 ---
-title: DuckDuckGo Email Protection
-cover: /files/duckduckgo.jpg
-website: https://duckduckgo.com/email/
-credits: Text by Khairil Zhafri/EngageMedia.
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Email Forwarding
-date: 2023-01-25T08:17:33.984Z
+ခေါင်းစဥ်: DuckDuckGoဖြင့် အီးမေးလ်အားကာကွယ်ခြင်း
+စာမျက်နှာအဖုံး: /files/duckduckgo.jpg
+ဝက်ဘ်ဆိုက်:https://duckduckgo.com/email/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+အမည်တွဲများ:
+  - ဆက်သွယ်ခြင်းများနှင့် မက်ဆေ့ပေးပို့ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+  - အီးမေးလ်ပြန်လည်မျှဝေပေးပို့ခြင်း
+ရက်စွဲ: 2023-01-25T08:17:33.984Z
 ---
-DuckDuckGo Email Protection is a service within DuckDuckGo browser extension that allows you to generate @duck.com forwarding email addresses to mask your personal email address. It automatically removes trackers in the forwarded emails to protect your privacy online.
+DuckDuckGo အီးမေးလ်အားကာကွယ်ခြင်းစနစ်သည် DuckDuckGo ဘရောင်ဇာ၏ထပ်တိုးထည့်ထားသောဝန်ဆောင်မှုတစ်ခုဖြစ်ပြီး ၄င်းမှ သင်၏ကိုယ်ပိုင်အီးမေးလ်လိပ်စာအား ဖုံးကွယ်ရန်အတွက် @duck.com ဖြင့် ရှေ့ဆက်၍ပို့မည့်အီးမေးလ်လိပ်စာများစွာကို ထုတ်ပေးသည်။ ၄င်းသည် သင်၏အွန်လိုင်းပေါ်မှကိုယ်ရေးကိုယ်တာလုံခြုံရေးကိုကာကွယ်ရန် ရှေ့ဆက်၍ပို့မည့်အီးမေးလ်များထဲမှ ခြေရာခံသူများကို အလိုအလျောက်ဖယ်ရှားပေးသည်။
