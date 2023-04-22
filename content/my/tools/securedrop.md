@@ -1,14 +1,14 @@
 ---
-title: SecureDrop
-website: https://securedrop.org/
-cover: /files/securedrop.jpg
-tags:
-  - Self-hosting
-  - Web App
-  - Documentation & Data Management
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T18:04:00.106Z
+ခေါင်းစဉ်: SecureDrop
+ဝက်ဘ်ဆိုက်: https://securedrop.org/
+ဖုံးလွှမ်း: /ဖိုင်များ/securerop.jpg
+tags များ:
+  - Self -Hosting 
+- Web App
+  - စာရွက်စာတမ်းများ &ဒေတာ စီမံခန့်ခွဲမှု
+ အမျိုးအစားများ:
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး Toolsများ
+ခရက်ဒစ်: Khairil Zhafri/EngageMedia အားဖြင့်စာသား ။
+ရက်စွဲ: 2023 -01 -19T18:04:00.106Z 
 ---
-SecureDrop is an open-source whistleblowing system designed for media practitioners to receive information from sources securely and anonymously on the web.
+SecureDrop သည် မီဒီယာအလေ့အကျင့်သမားများအတွက် အင်တာနက်ပေါ်တွင် လုံခြုံစွာနှင့် အမည်မဖော်လိုသော အရင်းအမြစ်များထံမှ အချက်အလက်များကို လက်ခံရရှိရန် ဖန်တီးထားသော ပွင့်လင်းအရင်းအမြစ် အသံဖမ်းစနစ်တစ်ခုဖြစ်သည် ။
