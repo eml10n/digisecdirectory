@@ -1,14 +1,14 @@
 ---
-draft: false
-title: Session
-website: https://www.getsession.org/
+မူကြမ်း- မှားသည်။
+ခေါင်းစဉ်- အပိုင်း
+ဝဘ်ဆိုဒ်- https://www.getsession.org/
 cover: /files/session.jpg
 tags:
-  - Communications & Messaging
-categories: 
-  - Digital Security Tools
-  - Instant Messaging
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T23:08:17.311Z
+  - ဆက်သွယ်ရေးနှင့်စာတိုပေးပို့ခြင်း။
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+  - လက်ငင်းစာတိုပေးပို့
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
+ရက်စွဲ- 2023-01-19T23:08:17.311Z
 ---
-Session is a decentralised instant messaging app that does not require phone numbers, email addresses, or other personally identifiable information.
+Session သည် ဖုန်းနံပါတ်များ၊ အီးမေးလ်လိပ်စာများ သို့မဟုတ် အခြားကိုယ်ရေးကိုယ်တာအချက်အလက်များကို မလိုအပ်ဘဲ ဗဟိုချုပ်ကိုင်မှု လျှော့ချထားသော ချက်ချင်း စာတို ပေးပို့ခြင်း app တစ်ခုဖြစ်သည်။
