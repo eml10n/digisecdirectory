@@ -1,12 +1,12 @@
 ---
-title: CENO
-website: https://censorship.no/
-cover: /files/ceno.jpg
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T07:32:57.800Z
+ခေါင်းစဥ်: CENO
+ဝက်ဘ်ဆိုက်: https://censorship.no/
+စာမျက်နှာအဖုံး: /files/ceno.jpg
+အမည်တွဲများ:
+  - ရှောင်တိမ်းခြင်းနှင့် အမည်ဝှက်ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+ရက်စွဲ: 2023-01-19T07:32:57.800Z
 ---
-CENO – Censorship.no! – is a mobile web browser for Android OS that creates peerto-peer networks for storing and sharing web content so that users can bypass internet surveillance and censorship without needing proxies, VPN servers, or relays.
+CENO ခေါ် Censorship.no! သည် အန်းဒရိုက်(Android) OS အတွက် မိုဘိုင်းဝက်ဘ်ဆိုက်ဘရောင်ဇာတစ်ခုဖြစ်ကာ ၄င်းသည် ဝက်ဘ်ဆိုက်အကြောင်းအရာများအား သိမ်းဆည်းခြင်းနှင့် မျှဝေခြင်းတို့အတွက် peer-to-peer အင်တာနက်ကွန်ယက်ကိုဖန်တီးပေးခြင်းကြောင့် အသုံးပြုသူများသည် ပရောက်စီများ၊ VPN ဆာဗာများ သို့မဟုတ် ရီလေးများမလိုဘဲ အင်တာနက်စောင့်ကြည့်ခြင်းနှင့် ဆင်ဆာဖြတ်ခြင်းကို ရှောင်တိမ်းနိုင်သည်။
