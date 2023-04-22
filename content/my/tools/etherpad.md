@@ -1,18 +1,18 @@
 ---
-title: Etherpad
-cover: /files/etherpad.jpg
-website: https://etherpad.org/
-credits: Text by Khairil Zhafri/EngageMedia.
-tags:
-  - Web App
-  - Self-hosting
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-date: 2023-01-19T21:34:39.091Z
+ခေါင်းစဥ်: Etherpad
+စာမျက်နှာအဖုံး:  /files/etherpad.jpg
+ဝက်ဘ်ဆိုက်:https://etherpad.org/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+အမည်တွဲများ:
+  - ဝက်ဘ်ဆိုက်အက်ပလီကေးရှင်း
+  - ကိုယ်တိုင်လက်ခံဆောင်ရွက်ခြင်း
+  - အင်တာနက်ဘရောင်ဇာဖွင့်ခြင်းနှင့် ထုတ်လုပ်ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရက်စွဲ: 2023-01-19T21:34:39.091Z
 ---
-Etherpad is an open-source collaborative notetaking tool.
+Etherpad သည် ပွင့်လင်းမြင်သာသောရင်းမြစ်ရှိသည့် မှတ်စုထုတ်ခြင်းအတွက် ပူးပေါင်းလုပ်ဆောင်ထားသော ကိရိယာတစ်ခုဖြစ်သည်။
 
-> [Riseup Pad](https://pad.riseup.net/) allow for collaborative editing online by using an Etherpad service. Riseup does not store IP addresses. Pads are automatically destroyed after 60 days of inactivity.\
-> – [Digital Hygiene 101: How to practise digital safety and security
+> [Riseup Pad](https://pad.riseup.net/) သည် Etherpad လုပ်ဆောင်ချက်အားအသုံးပြု၍ အွန်လိုင်းပေါ်တွင်တည်းဖြတ်ခြင်းအား ပူးပေါင်းလုပ်ကိုင်နိုင်ရန် ခွင့်ပြုထားသည်။ Riseup သည် IP လိပ်စာအား သိမ်းဆည်းထားမည်မဟုတ်ပါ။ စာမျက်နှာများသည် အသုံးမပြုသည့်ရက်ပေါင်း ၆၀ကျော်သွားသည်နှင့် အလိုအလျောက် ပျက်ဆီးသွားမည်ဖြစ်သည်။
+> – [Digital Hygiene 101:ဒီဂျစ်တယ်ဘေးကင်းရေးနှင့်လုံခြုံရေးအတွက် မည်သို့လေ့ကျင့်မည်နည်းလမ်းညွှန်
 ](https://engagemedia.org/2022/digital-hygiene-safety-security/)
