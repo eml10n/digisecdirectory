@@ -1,14 +1,14 @@
 ---
-title: Searx
-cover: /files/searx.jpg
-website: https://searx.github.io/searx/
-credits: Text by Searx.
+ခေါင်းစဉ်- Searx
+ကာဗာ: /files/searx.jpg
+ဝဘ်ဆိုဒ်- https://searx.github.io/searx/
+ခရက်ဒစ်- Searx မှ စာသား။
 tags:
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-date: 2023-01-29T20:06:50.821Z
+  - အင်တာနက်ရှာဖွေခြင်းနှင့်ကုန်ထုတ်စွမ်းအား
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရက်စွဲ- 2023-01-29T20:06:50.821Z
 ---
-Searx is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity.
+Searx သည် ရှာဖွေရေးဝန်ဆောင်မှု 70 ကျော်မှ ရလဒ်များကို စုစည်းပေးသည့် အခမဲ့အင်တာနက် metasearch engine တစ်ခုဖြစ်သည်။ အသုံးပြုသူများကို ခြေရာခံခြင်း၊ ပရိုဖိုင်းပြုလုပ်ခြင်း မရှိပါ။ ထို့အပြင်၊ searx ကို အွန်လိုင်းအမည်ဝှက်ရန်အတွက် Tor ကို အသုံးပြုနိုင်သည်။
 
-To find a Searx instance, go to [searx.space](https://searx.space/).
+Searx ဥပမာတစ်ခုရှာရန် [searchx.space](https://searx.space/) သို့သွားပါ ။
