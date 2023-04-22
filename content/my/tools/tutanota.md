@@ -1,15 +1,15 @@
 ---
-title: Tutanota
-cover: /files/tutanota.jpg
-website: https://tutanota.com/
-credits: Text by Khairil/EngageMedia.
-flags:
-  - Freemium
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - Email
-date: 2023-01-25T07:33:11.715Z
+ခေါင်းစဥ်: Tutanota
+စာမျက်နှာအဖုံး: /files/tutanota.jpg
+ဝက်ဘ်ဆိုက်: https://tutanota.com/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+အမည်များ:
+    - အခမဲ့နှင့်အခပေးရောထားသောစနစ်
+အမည်တွဲများ:
+  - ဆက်သွယ်ခြင်းများနှင့်မက်ဆေ့ပို့ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+  - အီးမေးလ်
+ရက်စွဲ: 2023-01-25T07:33:11.715Z
 ---
-Tutanota provides secure, green, and ad-free email service that incorporates privacy by design.
+Tutanota သည် လုံခြုံ၍ စိတ်ချရကာ ကြော်ငြာကင်းသည့် အီးမေးလ်ဝန်ဆောင်မှုကို ထောက်ပံ့ပေးပြီး ဒီဇိုင်းအားဖြင့်လည်း ကိုယ်ရေးကိုယ်တာလုံခြုံအောင် ပေါင်းစပ်ဖွဲ့စည်းထားသည်။
