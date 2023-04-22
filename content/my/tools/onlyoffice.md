@@ -1,17 +1,17 @@
 ---
-title: OnlyOffice
+ခေါင်းစဉ်- OnlyOffice
 cover: /files/onlyoffice.jpg
-website: https://www.onlyoffice.com/
-credits: Text by Khairil/EngageMedia.
-flags:
+ဝဘ်ဆိုဒ်- https://www.onlyoffice.com/
+ခရက်ဒစ်- Khairil/EngageMedia မှ စာသား။
+အလံများ
   - Freemium
 tags:
-  - Self-hosting
+  - ကိုယ်ပိုင် hosting
   - Web App
-  - Internet Browsing & Productivity
+  - အင်တာနက်ရှာဖွေခြင်း နှင့် ကုန်ထုတ်စွမ်းအား
   - Cross-platform
-categories:
-  - Digital Security Tools
-date: 2023-02-04T21:37:24.103Z
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး tools များ
+ရက်စွဲ- 2023-02-04T21:37:24.103Z
 ---
-O﻿nlyOffice is an office suite of online editors for text documents, spreadsheets, and presentations.
+OnlyOffice သည် စာသားစာရွက်စာတမ်းများ၊ စာရင်းဇယားများနှင့် တင်ပြမှုများအတွက် အွန်လိုင်းတည်းဖြတ်သူများ၏ ရုံးအစုံဖြစ်သည်။
