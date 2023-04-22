@@ -1,12 +1,12 @@
 ---
-title: Psiphon
-website: https://psiphon.ca/
-cover: /files/psiphon.png
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T07:24:24.913Z
+ခေါင်းစဥ်: Psiphon
+ဝက်ဘ်ဆိုက်: https://psiphon.ca/
+စာမျက်နှာအဖုံး: /files/psiphon.png
+အမည်များ:
+  - ရှောင်တိမ်းခြင်းနှင့် အမည်ဝှက်ခြင်း
+အမျိုးအမည်များ:
+  -  ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+ရက်စွဲ: 2023-01-19T07:24:24.913Z
 ---
-Psiphon (Android, iOS, Windows, Mac) is an open-source internet censorship circumvention tool that uses a combination of secure communication and obfuscation technologies to allow users to access blocked or censored content.
+Psiphon (Android, iOS, Windows, Mac) သည် ပွင့်လင်းမြင်သာသောရင်းမြစ်ရှိသည့် အင်တာနက်ဆင်ဆာဖြတ်တောက်ခြင်းအား ရှောင်တိမ်းနိုင်သောကိရိယာတစ်ခုဖြစ်ကာ အသုံးပြုခွင့်ပိတ်ထား၍ ဆင်ဆာဖြတ်ထားသောအရာကို အင်တာနက်အသုံးပြုသူများ ရယူအသုံးပြုနိုင်ရန်အတွက် လုံခြုံသောဆက်သွယ်ခြင်းနှင့် တမင်ရှုပ်ထွေးအောင်ပြုလုပ်ထားသောနည်းပညာများအား ပေါင်းစပ်ကာအသုံးပြုထားသည်။
