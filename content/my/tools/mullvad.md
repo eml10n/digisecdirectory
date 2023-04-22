@@ -1,15 +1,15 @@
 ---
-title: Mullvad VPN
-cover: /files/mullvad.jpg
-website: https://mullvad.net
-credits: Text by Khairil Zhafri/EngageMedia
-flags:
-  - Premium
+ခေါင်းစဉ်- Mullvad VPN
+ကာဗာ: /files/mullvad.jpg
+ဝဘ်ဆိုဒ်- https://mullvad.net
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား
+အလံများ
+  - ပရီမီယံ
 tags:
   - Cross-platform
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-date: 2023-01-27T20:39:54.245Z
+  - ရှောင်တိမ်းခြင်းနှင့် အမည်ဝှက်ခြင်း
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရက်စွဲ- 2023-01-27T20:39:54.245Z
 ---
-Mullvad is a premium privacy-respecting virtual private network (VPN) service.
+Mullvad သည် ပရီမီယံ ကိုယ်ရေးကိုယ်တာ-လေးစားမှုရှိသော virtual private network (VPN) ဝန်ဆောင်မှုတစ်ခုဖြစ်သည်။
