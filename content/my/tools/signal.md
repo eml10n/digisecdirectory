@@ -1,13 +1,13 @@
 ---
-title: Signal
+ခေါင်းစဉ်- Signal
 cover: /files/signal.jpg
-website: https://signal.org/
-credits: Text by Khairil Zhafri/EngageMedia.
+website:https://signal.org/
+credits:Khairil Zhafri/EngageMedia မှ စာသား။
 tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
+  - ဆက်သွယ်ရေးနှင့်စာတိုပေးပို့ခြင်း။
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ် လုံခြုံရေး tools များ
   - Instant Messaging
-date: 2023-01-19T10:42:10.334Z
+ရက်စွဲ- 2023-01-19T10:42:10.334Z
 ---
-Signal (Desktop, Android, iOS) is an open-source secure messaging and calling app that uses end-to-end encryption to protect the user’s privacy.
+Signal (Desktop၊ Android၊ iOS) သည် သုံးစွဲသူ၏ကိုယ်ရေးကိုယ်တာ လုံခြုံမှုကို ကာကွယ်ရန် end-to-end encryption ကိုအသုံးပြုသည့် open-source secure messaging and calling app တစ်ခုဖြစ်သည်။
