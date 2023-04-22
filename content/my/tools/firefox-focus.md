@@ -1,12 +1,12 @@
 ---
-title: Firefox Focus
-website: https://www.mozilla.org/firefox/browsers/mobile/focus/
-cover: /files/firefox-focus.jpg
-tags:
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T18:27:21.358Z
+ခေါင်းစဥ်: Firefox Focus
+ဝက်ဘ်ဆိုက်:https://www.mozilla.org/firefox/browsers/mobile/focus/
+စာမျက်နှာအဖုံး: /files/firefox-focus.jpg
+အမည်တွဲများ:
+  - အင်တာနက်ဘရောင်ဇာဖွင့်ခြင်းနှင့် ထုတ်လုပ်ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+ရက်စွဲ: 2023-01-19T18:27:21.358Z
 ---
-Firefox Focus is privacy browser for Android and iOS that comes with automatic tracking protection.
+Firefox Focus သည် အန်းဒရိုက်(Android)နှင့် iOS တို့အတွက် ကိုယ်ရေးကိုယ်တာလုံခြုံ၍ အလိုအလျောက်ခြေရာခံခြင်းကို တားဆီးကာကွယ်ပေးသည့်ဘရောင်ဇာတစ်ခုဖြစ်သည်။
