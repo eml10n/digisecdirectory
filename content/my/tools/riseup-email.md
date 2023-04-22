@@ -1,18 +1,18 @@
 ---
-title: Riseup Email
-cover: /files/riseup.jpg
-website: https://riseup.net/email
-credits: Text by Khairil Zhafri/EngageMedia.
-flags:
+ခေါင်းစဉ်: Riseup အီးမေးလ်ဖုံး:
+/ဖိုင်များ/riseup.jpg
+ဝက်ဘ်ဆိုက်: https://riseup.net/email
+ခရက်ဒစ်: Khairil Zhafri/EngageMedia မှစာသား ။
+အလံ:
   - Freemium
-  - Invite Only
-tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - OpenPGP Encryption
-  - Onion Routing
-  - Email
-date: 2023-01-19T10:38:37.852Z
----
-Riseup Email is a secure email service by activists for activists. Its security features include full-disk encryption, encrypted email storage, Onion routing, and more.
+  - ဖိတ်ခေါ်ရန်သာ
+tags များ:
+  - ဆက်သွယ်ရေး &
+မက်ဆေ့ခ်ျအမျိုးအစားများ:
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး Tools များ
+  - OpenPGP လျှို့ဝှက်ချက်
+  - ကြက်သွန်ဖြူလမ်းကြောင်း -
+  အီးမေးလ်
+နေ့စွဲ: 2023 -01 -19T 10:38:37.852 Z ကို
+--- 
+Riseup အီးမေးလ်သည် တက်ကြွလှုပ်ရှားသူများအတွက် တက်ကြွလှုပ်ရှားသူများက လုံခြုံသော အီးမေးလ်ဝန်ဆောင်မှုတစ်ခုဖြစ်သည် ။ ၎ င်း ၏ လုံခြုံရေးအင်္ဂါရပ်များတွင် Full - Disk Encryption ၊ Encrypt လုပ်ထားသောအီးမေးလ်သိုလှောင်မှု ၊ ကြက်သွန်ဖြူလမ်းကြောင်းနှင့်အခြားအရာများပါ ၀ င်သည် ။
