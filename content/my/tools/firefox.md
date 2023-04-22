@@ -1,13 +1,13 @@
 ---
-title: Firefox
-website: https://www.mozilla.org/firefox
-cover: /files/firefox.jpg
+ခေါင်းစဉ်- Firefox
+ဝဘ်ဆိုဒ်- https://www.mozilla.org/firefox
+ကာဗာ: /files/firefox.jpg
 tags:
-  - Internet Browsing & Productivity
+  - အင်တာနက်ရှာဖွေခြင်းနှင့်ကုန်ထုတ်စွမ်းအား
   - Cross-platform
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T18:34:10.090Z
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
+ရက်စွဲ- 2023-01-19T18:34:10.090Z
 ---
-Firefox is an open-source web browser that protects the user’s privacy on the internet.
+Firefox သည် အင်တာနက်ပေါ်ရှိ သုံးစွဲသူ၏ ကိုယ်ရေးကိုယ်တာလုံခြုံမှုကို ကာကွယ်ပေးသည့် open-source web browser တစ်ခုဖြစ်သည်။
