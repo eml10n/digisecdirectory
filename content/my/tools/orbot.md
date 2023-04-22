@@ -1,13 +1,13 @@
 ---
-title: Orbot
-website: https://guardianproject.info/apps/org.torproject.android/
-cover: /files/orbot.jpg
-tags:
-  - Circumvention & Anonymity
-categories:
-  - Digital Security Tools
-  - Onion Routing
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T09:51:12.326Z
+ခေါင်းစဉ်: Orbot
+ဝက်ဘ်ဆိုက်: https://guardianproject.info/apps/org.torproject.android/
+အဖုံး: /files/orbot.jpg
+tags များ:
+  - အခြေအနေ &
+အမည်မသိအမျိုးအစားများ:
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး Tools များ
+  - ကြက်သွန်ဖြူလမ်းကြောင်း
+ခရက်ဒစ်: Khairil Zhafri/EngageMedia မှစာသား ။
+ရက်စွဲ: 2023 -01 -19T09:51:12.326Z ကို
 ---
-Orbot is a proxy app for Android devices that reroutes internet traffic through the Tor network to protect the user’s privacy and identity online.
+Orbot သည်အွန်လိုင်းအသုံးပြုသူ ၏ ကိုယ်ရေးလုံခြုံမှုကို ကာကွယ်ရန် Tor ကွန်ယက်မှ တဆင့် အင်တာနက်အသွားအလာကိုပြန်လည်လမ်းကြောင်းပေးသော Android ထုတ်ကုန်များအတွက် proxy app တစ်ခုဖြစ်သည် ။
