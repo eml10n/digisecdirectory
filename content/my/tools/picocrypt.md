@@ -1,12 +1,12 @@
 ---
-title: Picocrypt
+ခေါင်းစဉ်- Picocrypt
 cover: /files/picocrypt.jpg
-website: https://github.com/HACKERALERT/Picocrypt
-credits: Text by Picocrypt.
+ဝဘ်ဆိုဒ်- https://github.com/HACKERALERT/Picocrypt
+ခရက်ဒစ်များ- Picocrypt မှ စာသား။
 tags:
-  - Documentation & Data Management
-categories:
-  - Digital Security Tools
-date: 2023-01-29T21:01:18.081Z
+  - စာရွက်စာတမ်းနှင့်ဒေတာစီမံခန့်ခွဲမှု
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရက်စွဲ- 2023-01-29T21:01:18.081Z
 ---
-Picocrypt is a very small (hence *Pico*), very simple, yet very secure encryption tool that you can use to protect your files.Picocrypt is a very small (hence *Pico*), very simple, yet very secure encryption tool that you can use to protect your files.
+Picocrypt သည် အလွန်သေးငယ်သည် (ထို့ကြောင့် *Pico*) သည် သင့်ဖိုင်များကို ကာကွယ်ရန်အတွက် အလွန်ရိုးရှင်းပြီး အလွန်လုံခြုံသော ကုဒ်ဝှက်ရေးကိရိယာတစ်ခုဖြစ်သည်။ Picocrypt သည် အလွန်သေးငယ်သည် (ထို့ကြောင့် *Pico*) သည် အလွန်ရိုးရှင်းသော်လည်း အလွန်လုံခြုံသော ကုဒ်ဝှက်ရေးကိရိယာတစ်ခု ဖြစ်သည်။ သင်၏ ဖိုင်များကို ကာကွယ်ရန် သင်သုံးနိုင်သည်။
