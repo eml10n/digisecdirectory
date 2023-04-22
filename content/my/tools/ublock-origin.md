@@ -1,12 +1,12 @@
 ---
-title: uBlock Origin
-cover: /files/ublock-origin.jpg
-website: https://ublockorigin.com/
-credits: Text by uBlock Origin
-tags:
-  - Internet Browsing & Productivity
-categories:
-  - Digital Security Tools
-date: 2023-01-29T20:25:44.572Z
+ခေါင်းစဥ်: uBlock Origin
+စာမျက်နှာအဖုံး: /files/ublock-origin.jpg
+ဝက်ဘ်ဆိုက်: https://ublockorigin.com/
+ရည်ညွှန်းများ: uBlock Originမှ စာအားဖြင့်။
+အမည်တွဲများ:
+  - အင်တာနက်ဘရောင်ဇာဖွင့်ခြင်းနှင့် ထုတ်လုပ်ခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရက်စွဲ: 2023-01-29T20:25:44.572Z
 ---
-uBlock Origin is a free and open-source browser extension for content filtering—primarily aimed at neutralizing privacy invasion in an efficient, user-friendly method.
+uBlock Origin သည် အကြောင်းအရာများကို စစ်ထုတ်ခြင်းအတွက် လွတ်လပ်ပြီး ပွင့်လင်းမြင်သာ၍အလွယ်တကူရယူနိုင်သောရင်းမြစ်ရှိသည့် ဘရောင်ဇာထပ်တိုးတစ်ခုဖြစ်သည်- အဓိကအားဖြင့် ကိုယ်ရေးကိုယ်တာချိုးဖောက်ကျူးကျော်ခံရခြင်းကို ထိရောက်၍ အသုံးပြုသူရင်းနီးသောနည်းစနစ်ဖြင့် အားပျော့ပျက်ပြယ်သွားရန်ရည်ရွယ်သည်။
