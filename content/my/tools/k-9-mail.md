@@ -1,14 +1,14 @@
 ---
-title: K-9 Mail
-website: https://k9mail.app/
+ခေါင်းစဉ်- K-9 မေးလ်
+ဝဘ်ဆိုဒ်- https://k9mail.app/
 cover: /files/k-9-mail.jpg
 tags:
-  - Communications & Messaging
-categories:
-  - Digital Security Tools
-  - OpenPGP Encryption
-  - Email Client
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T10:46:42.301Z
+  - ဆက်သွယ်ရေးနှင့်စာတိုပေးပို့ခြင်း။
+အမျိုးအစားများ-
+  - ဒစ်ဂျစ်တယ်လုံခြုံရေး tools များ
+  - OpenPGP စာဝှက်စနစ်
+  - အီးမေးလ် ဖောက်သည်
+ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
+ရက်စွဲ- 2023-01-19T10:46:42.301Z
 ---
-K-9 Mail is an open source email client for Android with OpenPGP encryption support.
+K-9 Mail သည် OpenPGP စာဝှက်စနစ် ပံ့ပိုးမှုဖြင့် Android အတွက် ပွင့်လင်းသော အရင်းအမြစ် အီးမေးလ် client ဖြစ်သည်။
