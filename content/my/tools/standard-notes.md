@@ -1,17 +1,17 @@
 ---
-title: Standard Notes
-cover: /files/standard-notes.jpg
-website: https://standardnotes.com/
-credits: Text by Khairil/EngageMedia.
-flags:
-  - Freemium
-tags:
-  - Self-hosting
-  - Web App
-  - Cross-platform
-  - Documentation & Data Management
-categories:
-  - Digital Security Tools
-date: 2023-01-27T23:27:21.695Z
+ခေါင်းစဥ်: Standard Notes
+စာမျက်နှာအဖုံး: /files/standard-notes.jpg
+ဝက်ဘ်ဆိုက်: https://standardnotes.com/
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+အမည်များ:
+  - အခမဲ့နှင့်အခပေးပေါင်းစည်းထားသောစနစ်
+အမည်တွဲများ:
+  - ကိုယ်တိုင်လက်ခံဆောင်ရွက်ခြင်း
+  - ဝက်ဘ်ဆိုက်အက်ပလီကေးရှင်း
+  -ကြားခံအသုံးပြုခြင်း
+  -စာရွက်စာတမ်းနှင့် သတင်းအချက်အလက်စီမံခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရက်စွဲ: 2023-01-27T23:27:21.695Z
 ---
-S﻿tandard Notes is a note-taking app with end-to-end encryption, advanced security, and privacy controls.
+S﻿tandard Notes သည် ပေးပို့သူတစ်ဦးမှ လက်ခံသူအထိ ကုဒ်ဝှက်ခြင်း၊ အဆင့်မြင့်လုံခြုံရေးနှင့် ကိုယ်ရေးကိုယ်တာကာကွယ်ထိန်းချုပ်မှုစသည်တို့ပါရှိသော မှတ်စုရေးမှတ်သည့်အက်ပလီကေးရှင်းတစ်ခုဖြစ်သည်။
