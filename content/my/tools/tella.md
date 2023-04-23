@@ -1,12 +1,12 @@
 ---
-title: Tella
-website: https://tella-app.org/
-cover: /files/tella.jpg
-tags:
-  - Documentation & Data Management
-categories:
-  - Digital Security Tools
-credits: Text by Khairil Zhafri/EngageMedia.
-date: 2023-01-19T18:07:09.169Z
+ခေါင်းစဥ်: Tella
+ဝက်ဘ်ဆိုက်:  https://tella-app.org/
+စာမျက်နှာအဖုံး:  /files/tella.jpg
+အမည်တွဲများ:
+  - စာရွက်စာတမ်းနှင့် သတင်းအချက်အလက်စီမံခြင်း
+အမျိုးအမည်များ:
+  - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
+ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
+ရက်စွဲ: 2023-01-19T18:07:09.169Z
 ---
-Tella is an open-source secure reporting and documentation mobile app available for Android and iOS devices that encrypts and hides saved data on the device.
+Tella သည် Android နှင့် iOS စက်ကိရိယာများအတွက် လုံခြုံစွာသတင်းပို့ခြင်းနှင့်မှတ်တမ်းတင်ထားခြင်းတို့ကိုပြုလုပ်ပေးသည့် ပွင့်လင်းမြင်သာ၍အလွယ်တကူရယူနိုင်သောရင်းမြစ်ရှိသော မိုဘိုင်းအက်ပလီကေးရှင်းတစ်ခုဖြစ်ပြီး ၄င်းသည် စက်ကိရိယာအတွင်းသိမ်းဆည်းထားသောဒေတာများအား ကုဒ်ဖြင့်ဝှက်ခြင်းနှင့် မြင်ကွင်းမှဖြောက်ထားခြင်းအား ပြုလုပ်ပေးသည်။
