@@ -9,6 +9,6 @@ categories:
   - Digital Security Tools
 date: 2023-01-29T20:06:50.821Z
 ---
-Searx is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity.
+Ang Searx ay isang libreng internet metasearch engine na pinagsasama-sama ang mga resulta mula sa higit sa 70 mga serbisyo sa paghahanap. Ang mga gumagamit ay hindi sinusubaybayan o na-profile. Bukod pa rito, maaaring gamitin ang searx sa Tor para sa online na anonymity.
 
-To find a Searx instance, go to [searx.space](https://searx.space/).
+Para makahanap ng instance ng Searx, pumunta sa [searx.space](https://searx.space/).
