@@ -15,4 +15,4 @@ categories:
   - Email
 date: 2023-01-19T10:38:37.852Z
 ---
-Riseup Email is a secure email service by activists for activists. Its security features include full-disk encryption, encrypted email storage, Onion routing, and more.
+Ang Riseup Email ay isang secure na serbisyo sa email ng mga aktibista para sa mga aktibista. Kasama sa mga feature ng seguridad nito ang full-disk encryption, naka-encrypt na storage ng email, Onion routing, at higit pa.
