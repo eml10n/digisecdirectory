@@ -1,18 +1,18 @@
 ---
-หัวเรื่อง : TunnelBear
-หน้าปก: /files/tunnelbear.jpg
-เว็บไซต์: https://www.tunnelbear.com/
-เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
-ธง:
+title: TunnelBear
+cover: /files/tunnelbear.jpg
+website: https://www.tunnelbear.com/
+credits: Text by Khairil Zhafri/EngageMedia.
+flags:
    - แหล่งที่มาแบบปิด
    - ฟรีเมียม
-แท็ก:
+tags:
    - การหลีกเลี่ยงและการไม่เปิดเผยตัวตน
    - ข้ามแพลตฟอร์ม
-หมวดหมู่:
+categories:
    - เครื่องมือรักษาความปลอดภัยดิจิทัล
    - เครือข่ายส่วนตัวเสมือน
-วันที่: 2023-01-19T09:54:16.180Z
+date: 2023-01-19T09:54:16.180Z
 ---
 Tunnelbear เป็นบริการ VPN ที่ปลอดภัย พร้อมใช้งานสำหรับ iOS, Android, Mac, Windows, Firefox และ Chrome
 
