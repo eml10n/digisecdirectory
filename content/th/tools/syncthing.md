@@ -1,12 +1,12 @@
 ---
-หัวเรื่อง: Syncthing
-หน้าปก: /files/syncthing.jpg
-เว็บไซต์: https://syncthing.net/
-เครดิต: ข้อความโดย Syncthing
-แท็ก:
+title: Syncthing
+cover: /files/syncthing.jpg
+website: https://syncthing.net/
+credits: Text by Syncthing.
+tags:
    - เอกสารและการจัดการข้อมูล
-หมวดหมู่:
+categories:
    - การซิงค์ไฟล์
-วันที่: 2023-01-28T00:35:53.546Z
+date: 2023-01-28T00:35:53.546Z
 ---
 Syncthing เป็นโปรแกรมซิงโครไนซ์ไฟล์แบบต่อเนื่อง โดยจะซิงโครไนซ์ไฟล์ระหว่างคอมพิวเตอร์สองเครื่องขึ้นไปตามเวลาจริง โดยมีการป้องกันอย่างปลอดภัยจากการสอดแนม
