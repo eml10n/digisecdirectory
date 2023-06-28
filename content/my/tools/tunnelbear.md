@@ -1,18 +1,18 @@
 ---
-ခေါင်းစဥ်: TunnelBear
-စာမျက်နှာအဖုံး: /files/tunnelbear.jpg
-ဝက်ဘ်ဆိုက်:https://www.tunnelbear.com/
-ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
-စာတွဲများ:
+title: TunnelBear
+cover: /files/tunnelbear.jpg
+website: https://www.tunnelbear.com/
+credits: Text by Khairil Zhafri/EngageMedia.
+flags:
   - ကာကွယ်တားဆီးထားသောအရင်းမြစ်
   - အခမဲ့နှင့်အခပေးပေါင်းစပ်စနစ်
-အမည်များ:
+tags:
   - ရှောင်တိမ်းခြင်းနှင့် အမည်ဝှက်ခြင်း
   - ကြားခံဖြတ်သန်းခြင်း
-အမျိုးအမည်များ:
+categories:
   - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
   - ကိုယ်ပိုင်ဆာဗာအတုအယောင်
-ရက်စွဲ: 2023-01-19T09:54:16.180Z
+date: 2023-01-19T09:54:16.180Z
 ---
 Tunnelbear သည် လုံခြုံသော VPN ဝန်ဆောင်မှုတစ်ခုဖြစ်သည်။ ၄င်းကို iOS, Android, Mac, Windows, Firefox နှင့် Chrome တို့အတွက် ရယူနိုင်သည်။
 
