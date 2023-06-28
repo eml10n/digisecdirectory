@@ -1,15 +1,15 @@
 ---
-หัวเรื่อง : Tutanota
-หน้าปก: /files/tutanota.jpg
-เว็บไซต์: https://tutanota.com/
-เครดิต: ข้อความโดย Khairil/EngageMedia
-ธง:
+title: Tutanota
+cover: /files/tutanota.jpg
+website: https://tutanota.com/
+credits: Text by Khairil/EngageMedia.
+flags:
    - ฟรีเมียม
-แท็ก:
+tags:
    - การสื่อสารและการส่งข้อความ
-หมวดหมู่:
+categories:
    - เครื่องมือรักษาความปลอดภัยดิจิทัล
    - อีเมล
-วันที่: 2023-01-25T07:33:11.715Z
+date: 2023-01-25T07:33:11.715Z
 ---
 Tutanota ให้บริการอีเมลที่ปลอดภัย เป็นมิตรต่อสิ่งแวดล้อม และไม่มีโฆษณา ซึ่งรวมความเป็นส่วนตัวด้วยการออกแบบ
