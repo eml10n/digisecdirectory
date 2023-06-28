@@ -1,15 +1,15 @@
 ---
-ចំណងជើង៖ Mullvad VPN
-cover៖ /files/mullvad.jpg
-គេហទំព័រ៖ https://mullvad.net
-ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia
-ទង់ជាតិ៖
+title: Mullvad VPN
+cover: /files/mullvad.jpg
+website: https://mullvad.net
+credits: Text by Khairil Zhafri/EngageMedia
+flags:
   - បុព្វលាភ
-ស្លាក:
+tags:
   - ឆ្លងវេទិកា
   - ការគេចវេះ និងអនាមិក
-ប្រភេទ៖
+categories:
   - ឧបករណ៍សុវត្ថិភាពឌីជីថល
-កាលបរិច្ឆេទ៖ 2023-01-27T20:39:54.245Z
+date: 2023-01-27T20:39:54.245Z
 ---
 Mullvad គឺជាសេវាកម្មបណ្តាញឯកជននិម្មិត (VPN) ដែលគោរពតាមគោលការណ៍ឯកជនភាព។
