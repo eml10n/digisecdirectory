@@ -1,15 +1,15 @@
 ---
-ចំណងជើង៖ Tutanota
-Cover៖ /files/tutanota.jpg
-គេហទំព័រ៖ https://tutanota.com/
-ក្រេឌីត៖ អត្ថបទដោយ Khairil / EngageMedia ។
-ទង់ជាតិ៖
+title: Tutanota
+cover: /files/tutanota.jpg
+website: https://tutanota.com/
+credits: Text by Khairil/EngageMedia.
+flags:
   - Freemium
-ស្លាក:
+tags:
   - ការទំនាក់ទំនង និងការផ្ញើសារ
-ប្រភេទ៖
+categories:
   - ឧបករណ៍សុវត្ថិភាពឌីជីថល
   - អ៊ីមែល
-កាលបរិច្ឆេទ៖ 2023-01-25T07:33:11.715Z
+date: 2023-01-25T07:33:11.715Z
 ---
 Tutanota ផ្តល់សេវាកម្មអ៊ីមែលសុវត្ថិភាព ពណ៌បៃតង និងគ្មានការផ្សាយពាណិជ្ជកម្ម ដែលរួមបញ្ចូលឯកជនភាពតាមការរចនា។
