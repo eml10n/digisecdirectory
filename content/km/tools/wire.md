@@ -1,16 +1,16 @@
 ---
-ចំណងជើង៖ Wire
-គម្រប៖ /files/wire.jpg
-គេហទំព័រ៖ https://wire.com/
-ក្រេឌីត៖ អត្ថបទដោយ Khairil Zhafri / EngageMedia ។
-ទង់ជាតិ៖
+title: Wire
+cover: /files/wire.jpg
+website: https://wire.com/
+credits: Text by Khairil Zhafri/EngageMedia.
+flags:
   - Freemium
-ស្លាក:
+tags:
   - ការទំនាក់ទំនង និងការផ្ញើសារ
   - ការឆ្លងវេទិកា
-ប្រភេទ៖
+categories:
   - ឧបករណ៍សុវត្ថិភាពឌីជីថល
   - ការជជែកបែបសហការ
-កាលបរិច្ឆេទ៖ 2023-01-19T10:45:12.357Z
+date: 2023-01-19T10:45:12.357Z
 ---
 Wire គឺជាឈុតទំនាក់ទំនងជាក្រុមដែលមានសុវត្ថិភាព ដែលផ្តល់នូវការផ្ញើសារប្រកបដោយសុវត្ថិភាព ការប្រជុំវីដេអូ និងការចែករំលែកឯកសារ។
