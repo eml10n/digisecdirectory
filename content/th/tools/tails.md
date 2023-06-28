@@ -1,13 +1,13 @@
 ---
-หัวเรื่อง : Tails
-หน้าปก: /files/tails.jpg
-เว็บไซต์: https://tails.boum.org/
-เครดิต: ข้อความโดย Khairil Zhafri/EngageMedia
-แท็ก:
+title: Tails
+cover: /files/tails.jpg
+website: https://tails.boum.org/
+credits: Text by Khairil Zhafri/EngageMedia.
+tags:
    - การหลีกเลี่ยงและการไม่เปิดเผยตัวตน
-หมวดหมู่:
+categories:
    - เครื่องมือรักษาความปลอดภัยดิจิทัล
    - การจัดเส้นทางแบบหัวหอม
-วันที่: 2023-01-19T10:02:41.640Z
+date: 2023-01-19T10:02:41.640Z
 ---
 Tails เป็นระบบปฏิบัติการคอมพิวเตอร์พกพาแบบโอเพ่นซอร์สที่ปกป้องผู้ใช้จากการสอดแนมและช่วยหลีกเลี่ยงการเซนเซอร์
