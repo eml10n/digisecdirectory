@@ -1,17 +1,17 @@
 ---
-ခေါင်းစဉ်: Proton Mail
-ကိုဝက်ဘ်ဆိုက်: https://proton.me/mail
-အဖုံး: /ဖိုင်များ/proton-mail.jpg
-အလံ:
+title: Proton Mail
+website: https://proton.me/mail
+cover: /files/proton-mail.jpg
+flags:
   - Freemium
-tags များ:
+tags:
   - ဆက်သွယ်ရေး & မက်ဆေ့ခ်ျ
   - Web App
-အမျိုးအစားများ:
+categories:
   - ဒစ်ဂျစ်တယ်လုံခြုံရေး Tools များ
   - OpenPGP encryption ကို
-  - အီးမေးလ် ခရက်ဒစ်:
-Khairil Zhafri/EngageMedia အားဖြင့်စာသား ။
-နေ့စွဲ: 2023 -01 -19T10:40:05.818Z ကို
+  - အီးမေးလ် 
+credits: Khairil Zhafri/EngageMedia အားဖြင့်စာသား ။
+date: 2023-01-19T10:40:05.818Z
 ---
 Proton Mail (Web, Android, iOS) သည်အသုံးပြုသူ ၏ ဒေတာနှင့် privacy ကိုကာကွယ်ရန် end - to - end encryption နှင့် zero - access encryption ကိုအသုံးပြုသော open - source အီးမေးလ် ဝန်ဆောင်မှုဖြစ်သည် ။

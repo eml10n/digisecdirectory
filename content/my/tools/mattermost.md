@@ -1,17 +1,17 @@
 ---
-ခေါင်းစဉ်- အရေးကြီးဆုံး
+title: အရေးကြီးဆုံး
 cover: /files/mattermost.jpg
-ဝဘ်ဆိုဒ်- https://mtermost.com/
-ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
-အလံများ
+website: https://mtermost.com/
+credits: Khairil Zhafri/EngageMedia မှ စာသား။
+flags:
   - Freemium
 tags:
   - ကိုယ်ပိုင် hosting
   - Cross-platform
   - ဆက်သွယ်ရေးနှင့် စာတိုပေးပို့ခြင်း။
-အမျိုးအစားများ-
+categories:
   - ဒစ်ဂျစ်တယ်လုံခြုံရေး tools များ
   - ပူးပေါင်းစကားပြောခြင်း။
-ရက်စွဲ- 2023-02-04T21:57:35.157Z
+date: 2023-02-04T21:57:35.157Z
 ---
 အရေးကြီးဆုံးမှာ အဖွဲ့များအတွက် open-source ပူးပေါင်းဆောင်ရွက်မှု chat ဖြစ်သည်။

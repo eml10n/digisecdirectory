@@ -1,12 +1,12 @@
 ---
-ခေါင်းစဉ်:
-ဝက်ဘ်ဆိုက်ကိုသိမ်းဆည်းပါ: https://open-archive.org/save
-ဖုံးလွှမ်း: /ဖိုင်များ/save.jpg
-tags များ:
+title: Save
+website: https://open-archive.org/save
+cover: /files/save.jpg
+tags:
   - စာရွက်စာတမ်း & ဒေတာစီမံခန့်ခွဲမှု
-အမျိုးအစားများ:
+categories:
   - ဒစ်ဂျစ်တယ်လုံခြုံရေး Tools များ
-ခရက်ဒစ်: Khairil Zhafri/EngageMedia မှစာသား ။
-ရက်စွဲ: 2023 -01 -19T18:00:50.203Z ကို
+credits: Khairil Zhafri/EngageMedia မှစာသား ။
+date: 2023-01-19T18:00:50.203Z
 --
 Save by OpenArchive သည် Android နှင့် iOS အတွက် open - source secure documentation app ဖြစ်ပြီး အသုံးပြုသူများအား ၎ င်းတို့ ၏ အလုပ်ကိုထိန်းသိမ်းရန် ၊ အကာအကွယ်ပေးရန် ၊ အတည်ပြုရန်နှင့်တိုးချဲ့ရန်ကူညီပေးသည် ။

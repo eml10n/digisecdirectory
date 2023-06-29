@@ -1,7 +1,7 @@
 ---
-ပုံစံ: စာမျက်နှာ
-စာမျက်နှာခေါင်းစဉ်: Colophon
-ရက်စွဲ: 2023 -01 -31T00:30:17.649Z
+type: page
+title: Colophon
+date: 2023-01-31T00:30:17.649Z
 ---
 **digisec.directory ** သည် [EngageMedia Digital Security Localization Project](https://engagemedia.org/projects/localization/) ၏ ပံ့ပိုးပေးသူများမှ ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် ဘေးကင်းလုံခြုံရေးအရင်းအမြစ်များကို စုဆောင်းထားခြင်းဖြစ်သည်။ 
 

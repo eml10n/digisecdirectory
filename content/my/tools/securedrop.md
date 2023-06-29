@@ -1,14 +1,14 @@
 ---
-ခေါင်းစဉ်: SecureDrop
-ဝက်ဘ်ဆိုက်: https://securedrop.org/
-ဖုံးလွှမ်း: /ဖိုင်များ/securerop.jpg
-tags များ:
+title: SecureDrop
+website: https://securedrop.org/
+cover: /files/securerop.jpg
+tags:
   - Self -Hosting 
 - Web App
   - စာရွက်စာတမ်းများ &ဒေတာ စီမံခန့်ခွဲမှု
- အမျိုးအစားများ:
+ categories:
   - ဒစ်ဂျစ်တယ်လုံခြုံရေး Toolsများ
-ခရက်ဒစ်: Khairil Zhafri/EngageMedia အားဖြင့်စာသား ။
-ရက်စွဲ: 2023 -01 -19T18:04:00.106Z 
+credits: Khairil Zhafri/EngageMedia အားဖြင့်စာသား ။
+date: 2023-01-19T18:04:00.106Z 
 ---
 SecureDrop သည် မီဒီယာအလေ့အကျင့်သမားများအတွက် အင်တာနက်ပေါ်တွင် လုံခြုံစွာနှင့် အမည်မဖော်လိုသော အရင်းအမြစ်များထံမှ အချက်အလက်များကို လက်ခံရရှိရန် ဖန်တီးထားသော ပွင့်လင်းအရင်းအမြစ် အသံဖမ်းစနစ်တစ်ခုဖြစ်သည် ။

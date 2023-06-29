@@ -1,7 +1,7 @@
 ---
-အမျိုးအစား- စာမျက်နှာ
-ခေါင်းစဉ်- ကိုယ်ရေးကိုယ်တာ မူဝါဒ
-ရက်စွဲ- 2023-01-30T21:30:57.375Z
+type: page
+title: ကိုယ်ရေးကိုယ်တာ မူဝါဒ
+date: 2023-01-30T21:42:36.544Z
 ---
 **digisec.directory** သည် [EngageMedia Digital Security Localization ပရောဂျက်](https://engagemedia.org/projects/localization/) ၏ ဒစ်ဂျစ်တယ်လုံခြုံရေးနှင့် လုံခြုံရေးအရင်းအမြစ်များကို စုစည်းထားခြင်းဖြစ်ပါသည်။ 
 

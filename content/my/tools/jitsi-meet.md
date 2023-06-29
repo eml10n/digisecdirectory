@@ -1,16 +1,16 @@
 ---
-ခေါင်းစဉ်- Jitsi တွေ့ဆုံ
-ကာဗာ: /files/jitsimeet.jpg
-ဝဘ်ဆိုဒ်- https://jitsi.org/jitsi-meet/
-ခရက်ဒစ်- Khairil Zhafri/EngageMedia မှ စာသား။
+title: Jitsi တွေ့ဆုံ
+cover: /files/jitsimeet.jpg
+website: https://jitsi.org/jitsi-meet/
+credits: Khairil Zhafri/EngageMedia မှ စာသား။
 tags:
   - ဆက်သွယ်ရေးနှင့်စာတိုပေးပို့ခြင်း။
   - ဝဘ်အက်ပ်
   - ကိုယ်ပိုင် hosting
-အမျိုးအစားများ-
+categories:
   - ဒစ်ဂျစ်တယ်လုံခြုံရေး tool များ
   - ဗီဒီယိုကွန်ဖရန့်
-ရက်စွဲ- 2023-01-19T10:31:23.647Z
+date: 2023-01-19T10:31:23.647Z
 ---
 Jitsi Meet သည် အနီးအနားတွင် တွေ့ဆုံသည့်အခါ အသုံးပြုသူ၏ ဒစ်ဂျစ်တယ်ခြေရာကို ကန့်သတ်ပေးသည့် အလွတ်ရင်းမြစ်သီးသန့် ဗီဒီယိုအစည်းအဝေးဆော့ဖ်ဝဲတစ်ခုဖြစ်သည်။ ၎င်းသည် ခေတ်မီအင်တာနက် browser အများစုတွင် အလုပ်လုပ်ပြီး Android နှင့် iOS အတွက် မိုဘိုင်း app အဖြစ်လည်း ရရှိနိုင်သည်။
 
