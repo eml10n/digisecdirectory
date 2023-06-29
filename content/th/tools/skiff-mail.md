@@ -1,16 +1,16 @@
 ---
-หัวเรื่อง: Skiff Mail
-เว็บไซต์: https://skiff.com/mail
-หน้าปก: /files/skiff-mail.jpg
-ธง:
+title: Skiff Mail
+website: https://skiff.com/mail
+cover: /files/skiff-mail.jpg
+flags:
    - ฟรีเมียม
-แท็ก:
+tags:
    - การสื่อสารและการส่งข้อความ
    - เว็บแอป
-หมวดหมู่:
+categories:
    - เครื่องมือรักษาความปลอดภัยดิจิทัล
    - อีเมล
-เครดิต: ข้อความโดย Skiff
-วันที่: 2023-01-19T10:40:05.818Z
+credits: Text by Skiff.
+date: 2023-01-19T10:40:05.818Z
 ---
 Skiff Mail เป็นอีเมลเข้ารหัสตั้งแต่ต้นทางถึงปลายทางที่ปกป้องกล่องจดหมายของคุณและให้พลังในการสื่อสารได้อย่างอิสระ
