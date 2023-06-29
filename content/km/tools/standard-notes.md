@@ -1,5 +1,5 @@
 ---
-title: កម្មវិធី S﻿tandard Notes
+title: S﻿tandard Notes
 cover: /files/standard-notes.jpg
 website: https://standardnotes.com/
 credits: អត្ថបទរៀបចំដោយ Khairil/EngageMedia.
