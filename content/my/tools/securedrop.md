@@ -3,7 +3,7 @@ title: SecureDrop
 website: https://securedrop.org/
 cover: /files/securerop.jpg
 tags:
-  - Self-Hosting 
+  - Self-Hosting
   - Web App
   - စာရွက်စာတမ်းများ &ဒေတာ စီမံခန့်ခွဲမှု
  categories:
