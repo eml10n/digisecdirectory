@@ -4,6 +4,7 @@ more:
   - name: 
       en: Update the Directory
       id: 'Perbarui Direktori'
+      my: 'လမ်းညွှန်ကို အပ်ဒိတ်လုပ်ပါ'
     ref: "/en/update/"
     external: true
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-pen-to-square fa-fw"></i></span><span class="label">
@@ -11,6 +12,7 @@ more:
   - name: 
       en: Translate the Directory
       id: 'Terjemahkan Direktori'
+      my: 'အဘိဓာန်ကို ဘာသာပြန်ပါ'
     ref: "/en/translate/" 
     external: true
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-language fa-fw"></i></span><span class="label">
@@ -24,18 +26,21 @@ more:
   - name: 
       en: Copyright Notice
       id: 'Pemberitahuan Hak Cipta'
+      my: 'မူပိုင်ခွင့် အသိပေးချက်'
     ref: "/copyright"
     pre: <span class="flex"><span class="icon"><i class="fa-brands fa-creative-commons fa-fw"></i></span><span class="label">
     post: </span></span>
   - name: 
       en: Privacy Policy
       id: 'Kebijakan Privasi'
+      my: 'ကိုယ်ရေးလုံခြုံမှု မူဝါဒ'
     ref: "/privacy"
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-eye fa-fw"></i></span><span class="label">
     post: </span></span>
   - name: 
       en: Colophon
       id: 'Kolofon'
+      my: 'ကိုလိုဖုန်း' 
     ref: "/colophon"
     pre: <span class="flex"><span class="icon"><i class="fa-solid fa-circle-info fa-fw"></i></span><span class="label">
     post: </span></span>

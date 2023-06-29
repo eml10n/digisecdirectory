@@ -1,13 +1,12 @@
 ### Localized menus have to be merged into a single yaml file
 more:
 - name:
-    en: 'လမ်းညွှန်ကို အပ်ဒိတ်လုပ်ပါ'
+    my: 'လမ်းညွှန်ကို အပ်ဒိတ်လုပ်ပါ'
   ref: "/အပ်ဒိတ်လုပ်ရန်"
-  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-    fa-fw"></i></span><span class="label">'
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
   post: '</span></span>'
 - name:
-    en: 'အဘိဓာန်ကို ဘာသာပြန်ပါ'
+    my: 'အဘိဓာန်ကို ဘာသာပြန်ပါ'
   ref: "/ဘာသာပြန်ပါ"
   pre: ''
   post: ''
@@ -18,18 +17,17 @@ more:
 - identifier: ''
   external: ''
 - name:
-    en: 'မူပိုင်ခွင့် အသိပေးချက်'
+    my: 'မူပိုင်ခွင့် အသိပေးချက်'
   ref: "/မူပိုင်ခွင့်"
   pre: ''
   post: ''
 - name:
-    en: 'ကိုယ်ရေးလုံခြုံမှု မူဝါဒ'
+    my: 'ကိုယ်ရေးလုံခြုံမှု မူဝါဒ'
   ref: "ကိုယ်ရေးလုံခြုံမှု"
   pre: ''
   post: ''
 - name:
-    en: 'ကိုလိုဖုန်း'
+    my: 'ကိုလိုဖုန်း'
   ref: ""
-  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-    fa-fw"></i></span><span class="label">'
+  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
   post: '</span></span>'
