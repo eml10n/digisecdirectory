@@ -4,7 +4,7 @@ website: https://securedrop.org/
 cover: /files/securerop.jpg
 tags:
   - Self -Hosting 
-- Web App
+  - Web App
   - စာရွက်စာတမ်းများ &ဒေတာ စီမံခန့်ခွဲမှု
  categories:
   - ဒစ်ဂျစ်တယ်လုံခြုံရေး Toolsများ
