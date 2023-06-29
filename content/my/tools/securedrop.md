@@ -6,7 +6,7 @@ tags:
   - Self-hosting
   - Web App
   - စာရွက်စာတမ်းများ &ဒေတာ စီမံခန့်ခွဲမှု
- categories:
+categories:
   - ဒစ်ဂျစ်တယ်လုံခြုံရေး Toolsများ
 credits: Khairil Zhafri/EngageMedia အားဖြင့်စာသား ။
 date: 2023-01-19T18:04:00.106Z 
