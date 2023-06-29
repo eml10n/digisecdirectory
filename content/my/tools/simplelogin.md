@@ -1,13 +1,13 @@
 ---
-ခေါင်းစဥ်: SimpleLogin
-စာမျက်နှာအဖုံး: /files/simplelogin.jpg
-ဝက်ဘ်ဆိုက်: https://simplelogin.io/
-ရည်ညွှန်းများ:  Khairil/EngageMedia မှ စာအားဖြင့်။
-အမည်များ:
-  - အခမဲ့နှင့်အခပေးပေါင်းစည်းထားသောစနစ်
-အမျိုးအမည်များ:
+title: SimpleLogin
+cover: /files/simplelogin.jpg
+website: https://simplelogin.io/
+credits: Text by Khairil Zhafri/EngageMedia.
+flags:
+  - အခမဲ့နှင့်အခပေးပေါင်းစည်းထားသောစနစ် 
+categories:
   - ဒီဂျစ်တယ်လုံခြုံရေးကိရိယာများ
   - အီးမေးလ်ပြန်လည်မျှဝေပေးပို့ခြင်း
-ရက်စွဲ: 2023-01-25T08:12:29.951Z
+date: 2023-01-25T08:12:29.951Z
 ---
 S﻿impleLogin သည် အီးမေးလ်ပြန်လည်မျှဝေပေးသောလုပ်ဆောင်ချက်တစ်မျိုးဖြစ်ပြီး ၄င်းသည် သင်၏ကိုယ်ပိုင်အီးမေးလ်လိပ်စာအား လုံခြုံအောင်ထိန်းသိမ်းပေးသည်။
