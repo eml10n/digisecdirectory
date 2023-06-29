@@ -2,7 +2,7 @@
 title: Signal
 cover: /files/signal.jpg
 website: https://signal.org/
-credits:Khairil Zhafri/EngageMedia မှ စာသား။
+credits: Khairil Zhafri/EngageMedia မှ စာသား။
 tags:
   - ဆက်သွယ်ရေးနှင့်စာတိုပေးပို့ခြင်း။
 categories:
