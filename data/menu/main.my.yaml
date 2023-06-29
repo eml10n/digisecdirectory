@@ -1,53 +1,47 @@
+---
 ### Localized menus have to be merged into a single yaml file
 main:
-- name:
-    en: 'ဒစ်ဂျစ်တယ် လုံခြုံရေး ကိရိယာများ'
-  ref: "/categories/ဒစ်ဂျစ်တယ်လုံခြုံရေး - tools များ"
-  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-    fa-fw"></i></span><span class="label">'
-  post: '</span></span>'
-  sub:
   - name:
-      en: 'အခြေအနေနှင့် အမည်မဖော်လိုမှု'
-    ref: "/tags များ/လွှမ်းမိုးမှု - အမည်မဖော်လိုမှု"
-    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-      fa-fw"></i></span><span class="label">'
+      my: 'ဒစ်ဂျစ်တယ် လုံခြုံရေး ကိရိယာများ'
+    ref: "/categories/ဒစ်ဂျစ်တယ်-လုံခြုံရေး-ကိရိယာများ"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
     post: '</span></span>'
+    sub:
+      - name:
+          my: 'အခြေအနေနှင့် အမည်မဖော်လိုမှု'
+        ref: "/tags/အခြေအနေနှင့်-အမည်မဖော်လိုမှု"
+        pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
+        post: '</span></span>'
+      - name:
+          my: 'ဆက်သွယ်ရေးနှင့် မက်ဆေ့ချ်'
+        ref: "/tags/ဆက်သွယ်ရေးနှင့်-မက်ဆေ့ချ်"
+        pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
+        post: '</span></span>'
+      - name:
+          my: 'စာရွက်စာတမ်းများ & ဒေတာစီမံခန့်ခွဲမှု'
+        ref: "/tags/စာရွက်စာတမ်းများ-&-ဒေတာစီမံခန့်ခွဲမှု"
+        pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
+        post: '</span></span>'
+      - name:
+          my: 'အင်တာနက် Browsing & ထုတ်ကုန်ထုတ်လုပ်မှု'
+        ref: "/tags/အင်တာနက်-Browsing-&-ထုတ်ကုန်ထုတ်လုပ်မှု"
+        pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
+        post: '</span></span>'
+  - identifier: spacer1
+    external: true
+  - identifier: spacer2
+    external: true
   - name:
-      en: 'ဆက်သွယ်ရေးနှင့် မက်ဆေ့ချ်'
-    ref: "/tags များ/ဆက်သွယ်ရေး - မက်ဆေ့ချ်ပို့ခြင်း"
-    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-      fa-fw"></i></span><span class="label">'
+      my: 'ဒစ်ဂျစ်တယ် လုံခြုံရေး လမ်းညွှန်များ'
+    ref: "/categories/ဒစ်ဂျစ်တယ်-လုံခြုံရေး-လမ်းညွှန်များ"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
     post: '</span></span>'
+  - identifier: spacer1
+    external: true
+  - identifier: spacer2
+    external: true
   - name:
-      en: 'စာရွက်စာတမ်းများ & ဒေတာစီမံခန့်ခွဲမှု'
-    ref: "/tags များ/စာရွက်စာတမ်း - ဒေတာ - စီမံခန့်ခွဲမှု"
-    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-      fa-fw"></i></span><span class="label">'
+      my: 'ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ယက်'
+    ref: "/categories/ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ယက်"
+    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench fa-fw"></i></span><span class="label">'
     post: '</span></span>'
-  - name:
-      en: 'အင်တာနက် Browsing & ထုတ်ကုန်ထုတ်လုပ်မှု'
-    ref: "/tags များ/အင်တာနက် - browsing - productivity"
-    pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-      fa-fw"></i></span><span class="label">'
-    post: '</span></span>'
-- identifier: ''
-  external: 'မှန်ပါတယ်။'
-- identifier: ''
-  external: ''
-- name:
-    en: 'ဒစ်ဂျစ်တယ် လုံခြုံရေး လမ်းညွှန်များ'
-  ref: "/categories/ဒစ်ဂျစ်တယ်လုံခြုံရေး - လမ်းညွှန်များ"
-  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-    fa-fw"></i></span><span class="label">'
-  post: '</span></span>'
-- identifier: ''
-  external: ''
-- identifier: ''
-  external: ''
-- name:
-    en: 'ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ယက်'
-  ref: "/အမျိုးအစားများ/ဒစ်ဂျစ်တယ်လုံခြုံရေးကွန်ယက်"
-  pre: '<span class="flex"><span class="icon"><i class="fa-solid fa-screwdriver-wrench
-    fa-fw"></i></span><span class="label">'
-  post: '</span></span>'
