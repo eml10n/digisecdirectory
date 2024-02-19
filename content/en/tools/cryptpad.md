@@ -6,6 +6,7 @@ credits: Text by Khairil Zhafri/EngageMedia.
 tags:
   - Web App
   - Self-hosting
+  - Documentation & Data Management
   - Internet Browsing & Productivity
 categories:
   - Digital Security Tools
