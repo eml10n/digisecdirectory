@@ -8,6 +8,7 @@ flags:
 tags:
   - Self-hosting
   - Internet Browsing & Productivity
+  - Communications & Messaging
 categories:
   - Digital Security Tools
   - Email Forwarding
